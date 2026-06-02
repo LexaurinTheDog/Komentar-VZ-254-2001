@@ -994,6 +994,11 @@ Správcem je **Ministerstvo životního prostředí**. Identifikaci výpustí b)
 
 Ochranná pásma se vyznačují jako **způsob ochrany nemovitosti** (§ 13 katastrálního zákona). Vodoprávní úřad je povinen zaslat údaje katastrálnímu úřadu **do 30 dnů** od právní moci rozhodnutí.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3107/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D130A322C725AAFC1257EA40030B04F?openDocument) — 17. 6. 2015, kat. A
+  > „Nemovitost, která se podle zákona nezapisuje do katastru nemovitostí, není zapotřebí v převodní smlouvě označovat údaji podle stavu nesprávně provedeného zápisu v katastru nemovitostí"
+
 ---
 
 ## Hlava III — Stav povrchových a podzemních vod (§§ 21–22)
@@ -1592,6 +1597,11 @@ MZe ve spolupráci s MŽP a kraji předkládá vládě **každé 3 roky souhrnno
 3. **Zlepšování retenční schopnosti krajiny** — aktivní povinnost (zachování vlhkostních prvků, mokřadů, retenčních prvků).
 
 Povinnost je **horizontálně směřována** k veřejnoprávní ochraně vodního prostředí; vlastník odpovídá za stav svého pozemku z hlediska vodního hospodářství. Vztah k zákonu č. 334/1992 Sb., o ochraně ZPF, je doplňující (oba zákony se uplatní současně).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3811/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11231DFBA16D0C1AC12582F600267C2A?openDocument) — 29. 5. 2018, kat. A
+  > „Za škodu způsobenou před 1. 1. 2014 v důsledku porušení prevenční povinnosti k ochraně zemědělského půdního fondu (§ 3 odst. 1 zákona č. 334/1992 Sb.) odpovídá zemědělský podnikatel podle § 420 odst. 1 obč. zák"
 
 ---
 
