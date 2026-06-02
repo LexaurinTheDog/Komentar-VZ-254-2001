@@ -78,9 +78,9 @@ VZ upravuje tři okruhy právních vztahů:
 >
 > *(14) Ostatní vodní linií je tekoucí povrchová nebo podzemní voda neodpovídající definici vodního toku podle § 43.*
 >
-> *(15) Pověřenou osobou je odborně způsobilá právnická osoba pověřená rozhodnutím Ministerstva zemědělství k provádění technickobezpečnostního dohledu nad vodními díly (...)*
+> *(15) Pověřenou osobou je odborně způsobilá právnická osoba pověřená rozhodnutím Ministerstva zemědělství k provádění technickobezpečnostního dohledu nad vodními díly, včetně zpracování programu technickobezpečnostního dohledu a zpracování rozsahu měření technickobezpečnostního dohledu, v rozsahu svého pověření, a ke zpracování posudků pro zařazení vodních děl do kategorií z hlediska technickobezpečnostního dohledu.*
 >
-> *(16) Pověřením je rozhodnutí Ministerstva zemědělství udělující pověření k provádění technickobezpečnostního dohledu nad vodními díly (...)*
+> *(16) Pověřením je rozhodnutí Ministerstva zemědělství udělující pověření k provádění technickobezpečnostního dohledu nad vodními díly, včetně zpracování programu technickobezpečnostního dohledu a zpracování rozsahu měření technickobezpečnostního dohledu, a ke zpracování posudků pro zařazení vodních děl do kategorií z hlediska technickobezpečnostního dohledu.*
 
 **Výklad:**
 
@@ -279,11 +279,11 @@ V praxi to znamená, že:
 
 > **§ 5**
 >
-> *(1) Každý, kdo nakládá s povrchovými nebo podzemními vodami, je povinen dbát o jejich ochranu a zabezpečovat jejich hospodárné a účelné užívání podle podmínek tohoto zákona a dále dbát o to, aby nedocházelo k znehodnocování jejich energetického potenciálu a k porušování jiných veřejných zájmů chráněných zvláštními právními předpisy.*
+> *(1) Každý, kdo nakládá s povrchovými nebo podzemními vodami, je povinen dbát o jejich ochranu a zabezpečovat jejich hospodárné a účelné užívání podle podmínek tohoto zákona a dále dbát o to, aby nedocházelo k znehodnocování jejich energetického potenciálu a k porušování jiných veřejných zájmů chráněných zvláštními právními předpisy.3)*
 >
 > *(2) Každý, kdo nakládá s povrchovými nebo podzemními vodami k výrobním účelům, je povinen za účelem splnění povinností podle odstavce 1 provádět ve výrobě účinné úpravy vedoucí k hospodárnému využívání vodních zdrojů a zohledňující nejlepší dostupné technologie.*
 >
-> *(3) Při provádění staveb nebo jejich změn nebo změn jejich užívání je stavebník povinen podle charakteru a účelu užívání těchto staveb je zabezpečit zásobováním vodou a odváděním odpadních vod kanalizací k tomu určenou. Není-li kanalizace v místě k dispozici, odpadní vody se zneškodňují přímým čištěním s následným vypouštěním do vod povrchových nebo podzemních. V případě technické neproveditelnosti způsobů podle vět první a druhé lze odpadní vody akumulovat v nepropustné jímce (žumpě) s následným vyvážením akumulovaných vod na zařízení schválené pro jejich zneškodnění. Dále je stavebník povinen zabezpečit omezení odtoku povrchových vod vzniklých dopadem atmosférických srážek na tyto stavby (dále jen „srážková voda"). (...) Bez splnění těchto podmínek nesmí být povolena stavba, změna stavby před jejím dokončením, užívání stavby ani vydáno rozhodnutí o dodatečném povolení stavby nebo rozhodnutí o změně v užívání stavby.*
+> *(3) Při provádění staveb nebo jejich změn nebo změn jejich užívání je stavebník povinen podle charakteru a účelu užívání těchto staveb je zabezpečit zásobováním vodou a odváděním odpadních vod kanalizací k tomu určenou. Není-li kanalizace v místě k dispozici, odpadní vody se zneškodňují přímým čištěním s následným vypouštěním do vod povrchových nebo podzemních. V případě technické neproveditelnosti způsobů podle vět první a druhé lze odpadní vody akumulovat v nepropustné jímce (žumpě) s následným vyvážením akumulovaných vod na zařízení schválené pro jejich zneškodnění. Dále je stavebník povinen zabezpečit omezení odtoku povrchových vod vzniklých dopadem atmosférických srážek na tyto stavby (dále jen „srážková voda“) akumulací a následným využitím, popřípadě vsakováním na pozemku, výparem, anebo, není-li žádný z těchto způsobů omezení odtoku srážkových vod možný nebo dostatečný, jejich zadržováním a řízeným odváděním nebo kombinací těchto způsobů. Bez splnění těchto podmínek nesmí být povolena stavba, změna stavby před jejím dokončením, užívání stavby ani vydáno rozhodnutí o dodatečném povolení stavby nebo rozhodnutí o změně v užívání stavby.*
 
 **Výklad:**
 
@@ -400,9 +400,19 @@ Typickým případem je opatření obecné povahy zakazující koupání v obdob
 >
 > *(1) K užívání povrchových vod k plavbě a k odběru vody potřebné k provozu plavidel není třeba povolení vodoprávního úřadu.*
 >
-> *(2) Provozovatelé plavidel jsou povinni vybavit je potřebným zařízením k akumulaci odpadních vod a řádně je provozovat (...)*
+> *(2) Provozovatelé plavidel jsou povinni vybavit je potřebným zařízením k akumulaci odpadních vod a řádně je provozovat, pokud při jejich užívání nebo provozu mohou odpadní vody vznikat, a jsou povinni zabránit únikům odpadních vod a závadných látek z plavidel do vod povrchových.*
 >
-> *(5) Na povrchových vodách v ochranných pásmech vodních zdrojů I. stupně a na nádržích určených povolením nebo rozhodnutím vodoprávního úřadu podle § 8 odst. 1 písm. a) bodu 4 nebo podle předchozích předpisů pro chov ryb je plavba plavidel se spalovacími motory zakázána. (...)*
+> *(3) Provozovatelé přístavů, speciálních servisních zařízení56) a speciálních lodí6) určených k dopravě pohonných hmot a odpadů z plavidel (dále jen „obslužní loď“) jsou povinni zabezpečovat zásobování plavidel pohonnými a provozními hmotami a odstraňování odpadních vod nebo závadných látek z plavidel v přístavech nebo pomocí speciálních servisních zařízení nebo obslužních lodí tak, aby při tom nedocházelo ke znečišťování povrchových nebo podzemních vod.*
+>
+> *(4) Přečerpávání odpadních vod nebo závadných látek z plavidel a zásobování plavidel pohonnými nebo provozními hmotami mimo přístavy je zakázáno, pokud jejich objem je v jednotlivých případech větší než 50 litrů nebo pokud tyto činnosti nezabezpečuje speciální servisní zařízení nebo obslužní loď.*
+>
+> *(5) Na povrchových vodách v ochranných pásmech vodních zdrojů I. stupně a na nádržích určených povolením nebo rozhodnutím vodoprávního úřadu podle § 8 odst. 1 písm. a) bodu 4 nebo podle předchozích předpisů pro chov ryb je plavba plavidel se spalovacími motory zakázána. Nejde-li o dopravně významné vodní cesty,7) je tato plavba zakázána na vodních nádržích a vodních tocích, které stanoví Ministerstvo dopravy v dohodě s Ministerstvem životního prostředí ve spolupráci s Ministerstvem zemědělství vyhláškou. Povrchové vody lze užívat k plavbě jen tak, aby při tom nedošlo k ohrožení zájmů rekreace, jakosti vod a vodních ekosystémů, bezpečnosti osob a vodních děl; rozsah a podmínky užívání povrchových vod k plavbě stanoví Ministerstvo dopravy v dohodě s Ministerstvem životního prostředí ve spolupráci s Ministerstvem zemědělství vyhláškou.*
+>
+> *(6) Zákaz plavby podle odstavce 5 se nevztahuje na plavidla Státní plavební správy, Hasičského záchranného sboru České republiky, ozbrojených sil České republiky, Policie České republiky, obecní policie, celní správy České republiky a správců vodních toků, pokud jsou použita ke služebním účelům, dále na plavidla použitá v souvislosti s výstavbou, údržbou nebo provozem vodních děl nebo jiných staveb na vodních tocích nebo na pozemcích při nich, plavidla osob vykonávajících povinnosti podle tohoto zákona nebo plavidla použitá k nutnému zajištění zdravotní služby nebo při ochraně před povodněmi. Zákaz plavby podle odstavce 5 se, s výjimkou ochranných pásem vodních zdrojů I. stupně, nevztahuje na plavidla osob, které mají platné povolení k nakládání s vodami podle § 8 odst. 1 písm. a) bodu 4 nebo podle předchozích předpisů, a to při obhospodařování nádrží určených takovým rozhodnutím pro chov ryb.*
+>
+> *(7) O výjimkách ze zákazu a omezení podle odstavce 5 rozhoduje v jednotlivých případech vodoprávní úřad po projednání se Státní plavební správou.*
+>
+> *(8) Kontrolu dodržování zákazu plavby plavidel se spalovacími motory na povrchových vodách podle odstavce 5, jakož i kontrolu užívání povrchových vod k plavbě s ohledem na stanovený rozsah a podmínky jejich užívání vykonává Policie České republiky a Státní plavební správa.*
 
 **Výklad:**
 
@@ -441,33 +451,65 @@ O individuálních výjimkách rozhoduje vodoprávní úřad po projednání se 
 
 > **§ 8**
 >
-> *(1) Povolení k nakládání s povrchovými nebo podzemními vodami (dále jen „povolení k nakládání s vodami") je třeba*
+> *(1) Povolení k nakládání s povrchovými nebo podzemními vodami (dále jen „povolení k nakládání s vodami“) je třeba*
 >
-> *- a) jde-li o povrchové vody a nejde-li při tom o obecné nakládání s nimi:*
->   *1. k jejich odběru,*
->   *2. k jejich vzdouvání, popřípadě akumulaci,*
->   *3. k využívání jejich energetického potenciálu,*
->   *4. k užívání těchto vod pro chov ryb nebo vodní drůbeže (...) za účelem podnikání,*
->   *5. k jinému nakládání s nimi,*
+> *  - a) jde-li o povrchové vody a nejde-li při tom o obecné nakládání s nimi*
 >
-> *- b) jde-li o podzemní vody:*
->   *1. k jejich odběru,*
->   *2. k jejich akumulaci,*
->   *3. k jejich čerpání za účelem snižování jejich hladiny,*
->   *4. k umělému obohacování podzemních zdrojů vod povrchovou vodou,*
->   *5. k jinému nakládání s nimi,*
+> *    - 1. k jejich odběru,*
 >
-> *- c) k vypouštění odpadních vod do vod povrchových nebo podzemních,*
+> *    - 2. k jejich vzdouvání, popřípadě akumulaci,*
 >
-> *- d) k čerpání povrchových nebo podzemních vod a jejich následnému vypouštění do těchto vod za účelem získání tepelné energie,*
+> *    - 3. k využívání jejich energetického potenciálu,*
 >
-> *- e) k čerpání znečištěných podzemních vod za účelem snížení jejich znečištění (...),*
+> *    - 4. k užívání těchto vod pro chov ryb nebo vodní drůbeže, popřípadě jiných vodních živočichů, za účelem podnikání,*
 >
-> *- f) k užívání důlní vody jako náhradního zdroje (...).*
+> *    - 5. k jinému nakládání s nimi,*
 >
-> *(2) Povolení k nakládání s vodami se vydává fyzickým nebo právnickým osobám k jejich žádosti. (...)*
+> *  - b) jde-li o podzemní vody*
 >
-> *(3) Povolení k nakládání s vodami není třeba [vyjmenované případy: čerpací pokusy, monitorovací odběry, jednorázové odběry při mimořádných událostech, hašení požárů, energetický potenciál bez odběru, hornická činnost, odlehčovací komory, dětské tábory ve stanech].*
+> *    - 1. k jejich odběru,*
+>
+> *    - 2. k jejich akumulaci,*
+>
+> *    - 3. k jejich čerpání za účelem snižování jejich hladiny,*
+>
+> *    - 4. k umělému obohacování podzemních zdrojů vod povrchovou vodou,*
+>
+> *    - 5. k jinému nakládání s nimi,*
+>
+> *  - c) k vypouštění odpadních vod do vod povrchových nebo podzemních,*
+>
+> *  - d) k čerpání povrchových nebo podzemních vod a jejich následnému vypouštění do těchto vod za účelem získání tepelné energie,*
+>
+> *  - e) k čerpání znečištěných podzemních vod za účelem snížení jejich znečištění a k jejich následnému vypouštění, pokud nejde o činnost prováděnou na základě povolení podle zákona o hornické činnosti, výbušninách a o státní báňské správě7b),*
+>
+> *  - f) k užívání důlní vody jako náhradního zdroje podle zvláštního zákona1a).*
+>
+> *(2) Povolení k nakládání s vodami se vydává fyzickým nebo právnickým osobám k jejich žádosti. Fyzická nebo právnická osoba, která má platné povolení k nakládání s vodami podle odstavce 1 nebo podle předchozích předpisů (dále jen „oprávněný“) je oprávněna nakládat s vodami v rozsahu a k účelu po dobu uvedenou v platném povolení.*
+>
+> *(3) Povolení k nakládání s vodami není třeba*
+>
+> *  - a) k čerpacím pokusům při provádění hydrogeologického průzkumu nebo při průzkumu vydatnosti zdrojů podzemních vod, pokud mají trvat méně než 14 dnů a odběr vody v této době nepřekročí 1 l/s,*
+>
+> *  - b) k odběrům povrchových a podzemních vod pro zjišťování a hodnocení stavu těchto vod (§ 21),*
+>
+> *  - c) k jednorázovému odběru povrchových nebo podzemních vod v případech záchranných prací při mimořádných událostech, požárech a jiných živelních pohromách,*
+>
+> *  - d) k nakládání s povrchovými vodami při cvičení a zásahu Hasičského záchranného sboru České republiky a jednotek požární ochrany, Policie České republiky, obecní policie nebo ozbrojených sil České republiky; toto nakládání musí být při cvičení předem projednáno s vodoprávním úřadem,*
+>
+> *  - e) k využívání energetického potenciálu podzemních vod v případě, že nedochází k odběru nebo čerpání podzemní vody,*
+>
+> *  - f) k užívání důlních vod organizací při hornické činnosti pro její vlastní potřebu nebo k vypouštění důlních vod organizací1a),*
+>
+> *  - g) k vypuštění odpadních vod z odlehčovacích komor do vod povrchových,*
+>
+> *  - h) k vypouštění odpadních vod neobsahujících nebezpečné závadné látky, zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky vznikajících při přípravě jídel, osobní hygieně nebo jako produkt lidského metabolismu při provozu tábora, který je zotavovací akcí nebo jinou podobnou akcí pro děti podle jiného právního předpisu66), pokud*
+>
+> *    - 1. počet účastníků ve věku do 15 let nepřesahuje 60,*
+>
+> *    - 2. ubytování účastníků je zajištěno výhradně ve stanech a*
+>
+> *    - 3. jsou provedena opatření k zamezení ohrožení jakosti povrchových a podzemních vod.*
 >
 > *(4) V pochybnostech o tom, zda se jedná o nakládání s povrchovými nebo podzemními vodami a o jaký druh nakládání s povrchovými nebo podzemními vodami se jedná, rozhoduje vodoprávní úřad.*
 
@@ -511,25 +553,25 @@ Odst. 3 obsahuje **taxativní výčet** případů, kdy povolení není třeba:
 
 > **§ 9**
 >
-> *(1) Povolení k nakládání s vodami se vydává na časově omezenou dobu. (...)*
+> *(1) Povolení k nakládání s vodami se vydává na časově omezenou dobu. V povolení k nakládání s vodami se stanoví účel, rozsah, povinnosti a popřípadě podmínky, za kterých se toto povolení vydává. Podkladem vydání povolení k nakládání s podzemními vodami je vyjádření osoby s odbornou způsobilostí, pokud vodoprávní úřad ve výjimečných případech nerozhodne jinak.8)*
 >
 > *(2) Povolení k vypouštění odpadních vod nemůže být vydáno na dobu delší než 10 let, v případě vypouštění odpadních vod se zvlášť nebezpečnými závadnými látkami nebo nebezpečnými závadnými látkami podle přílohy č. 1 na dobu delší než 4 roky.*
 >
-> *(3) Povoluje-li vodoprávní úřad odběr povrchových nebo podzemních vod podléhající zpoplatnění (...) na dobu delší než 1 rok, stanoví současně i výši povoleného ročního odběru.*
+> *(3) Povoluje-li vodoprávní úřad odběr povrchových nebo podzemních vod podléhající zpoplatnění (hlava XI díl 1 a hlava XII) na dobu delší než 1 rok, stanoví současně i výši povoleného ročního odběru.*
 >
-> *(4) Odběr podzemní vody za účelem výroby balené kojenecké nebo pramenité vody lze povolit, pokud zdroj podzemní vody splňuje požadavky na jakost (...).*
+> *(4) Odběr podzemní vody za účelem výroby balené kojenecké nebo pramenité vody lze povolit, pokud zdroj podzemní vody splňuje požadavky na jakost balených kojeneckých nebo pramenitých vod podle vyhlášky upravující požadavky na jakost a zdravotní nezávadnost balených vod a o způsobu jejich úpravy8a); v případě, že lze podzemní vodu podle této vyhlášky upravovat, považují se limity na její jakost v ukazatelích, ve kterých ji lze upravovat, za splněné.*
 >
-> *(5) Povolení k nakládání s vodami pro využívání jejich energetického potenciálu nemůže být vydáno na dobu kratší než 30 let. (...)*
+> *(5) Povolení k nakládání s vodami pro využívání jejich energetického potenciálu nemůže být vydáno na dobu kratší než 30 let. Vodoprávní úřad postupem podle § 12 odst. 2 dobu platnosti povolení prodlouží o dobu stanovenou ve stávajícím povolení, nebyl-li oprávněnému pravomocně uložen správní trest za opakované porušování povinností stanovených tímto zákonem nebo podle něho.*
 >
 > *(6) Povolení k nakládání s vodami pro jejich vzdouvání, popřípadě akumulaci se vydává na dobu užívání vodního díla, které takové nakládání s vodami umožňuje.*
 >
-> *(7) Při povolování nakládání s vodami za účelem chovu ryb (...) stanoví vodoprávní úřad v povolení podmínky pro použití závadných látek (...). V případě, že jsou v povolení stanoveny podmínky pro použití nebezpečných závadných a zvlášť nebezpečných závadných látek, nesmí být toto povolení vydáno na dobu delší než 4 roky. (...)*
+> *(7) Při povolování nakládání s vodami za účelem chovu ryb nebo vodní drůbeže, popřípadě jiných vodních živočichů [§ 8 odst. 1 písm. a) bod 4 a 5], stanoví vodoprávní úřad v povolení podmínky pro použití závadných látek ke krmení ryb v jiných případech než stanovených v § 39 odst. 13 a k úpravě povrchových vod na nádržích určených pro chov ryb. V případě, že jsou v povolení stanoveny podmínky pro použití nebezpečných závadných a zvlášť nebezpečných závadných látek, nesmí být toto povolení vydáno na dobu delší než 4 roky. Na oprávněného, který zachází se závadnými látkami v rozsahu podmínek podle věty první, se nevztahuje § 39 odst. 1 věta druhá.*
 >
-> *(8) Povolení k nakládání s vodami k umělému obohacování zdrojů podzemních vod povrchovou vodou lze vydat pouze v případě, že použití zdroje povrchové nebo podzemní vody pro tento účel nepovede k ohrožení cílů stanovených podle § 23a (...).*
+> *(8) Povolení k nakládání s vodami k umělému obohacování zdrojů podzemních vod povrchovou vodou lze vydat pouze v případě, že použití zdroje povrchové nebo podzemní vody pro tento účel nepovede k ohrožení cílů stanovených podle § 23a pro tento vodní zdroj nebo cílů stanovených podle § 23a pro uměle obohacovaný zdroj podzemní vody.*
 >
 > *(9) Povolení k nakládání s vodami, které lze vykonávat pouze užíváním vodního díla, je podmínkou vykonatelnosti povolení záměru tohoto vodního díla podle zvláštního zákona. Povolení k nakládání s vodami pozbývá platnosti, jestliže do 3 let ode dne, kdy nabylo právní moci, nenabude právní moci povolení záměru podle zvláštního zákona.*
 >
-> *(10) Jde-li o záměr povolovaný podle stavebního zákona, který nelze provést bez udělené výjimky podle § 23a odst. 8, rozhodne o výjimce vodoprávní úřad. (...)*
+> *(10) Jde-li o záměr povolovaný podle stavebního zákona, který nelze provést bez udělené výjimky podle § 23a odst. 8, rozhodne o výjimce vodoprávní úřad. Vydání rozhodnutí o výjimce je podmínkou vykonatelnosti povolení záměru podle stavebního zákona.*
 
 **Výklad:**
 
@@ -596,9 +638,17 @@ Pro **výrobu balené kojenecké nebo pramenité vody** lze povolit odběr podze
 >
 > *(1) Měřit množství vody, se kterou nakládá, a předávat výsledky tohoto měření příslušnému správci povodí postupem podle § 22 odst. 2 je povinen*
 >
-> *- a) oprávněný, který má povolení k nakládání s vodami podle § 8 odst. 1 písm. a) bodu 1 nebo § 8 odst. 1 písm. b) bodu 1 v celkovém množství alespoň 1 000 m³ vody v kalendářním roce nebo 100 m³ vody v kalendářním měsíci,*
+> *  - a) oprávněný, který má povolení k nakládání s vodami podle § 8 odst. 1 písm. a) bodu 1 nebo § 8 odst. 1 písm. b) bodu 1 v celkovém množství alespoň 1 000 m3 vody v kalendářním roce nebo 100 m3 vody v kalendářním měsíci,*
 >
-> *- b) oprávněný, který má povolení k nakládání s vodami podle § 8 odst. 1 písm. a) bodu 5, § 8 odst. 1 písm. b) bodů 2 až 5 nebo § 8 odst. 1 písm. d), e) nebo f) v celkovém množství alespoň 6 000 m³ vody v kalendářním roce nebo 500 m³ vody v kalendářním měsíci, (...)*
+> *  - b) oprávněný, který má povolení k nakládání s vodami podle § 8 odst. 1 písm. a) bodu 5, § 8 odst. 1 písm. b) bodů 2 až 5 nebo § 8 odst. 1 písm. d), e) nebo f) v celkovém množství alespoň 6 000 m3 vody v kalendářním roce nebo 500 m3 vody v kalendářním měsíci,*
+>
+> *  - c) ten, kdo má povolení k nakládání s vodami v množství alespoň 6 000 m3 vody v kalendářním roce nebo 500 m3 vody v kalendářním měsíci, které jsou přírodním léčivým zdrojem nebo zdrojem přírodních minerálních vod nebo které jsou vyhrazeným nerostem.*
+>
+> *(2) Oprávněný, který má povolení ke vzdouvání, případně k akumulaci povrchových vod a přesahuje-li povolený objem vody vzduté vodním dílem ve vodním toku nebo vody vodním dílem akumulované 1 000 000 m3, je povinen měřit množství vzduté nebo akumulované vody a předávat o tom údaje příslušnému správci povodí postupem podle § 22 odst. 2.*
+>
+> *(3) Způsob a četnost měření množství vody podle odstavce 1 pro jednotlivé druhy nakládání s vodami, měření množství vody akumulované nebo vzduté podle odstavce 2 stanoví Ministerstvo zemědělství po projednání s Ministerstvem životního prostředí a Ministerstvem zdravotnictví vyhláškou.*
+>
+> *(4) Vodoprávní úřad může stanovit v povolení k nakládání s vodami i další podrobnosti těchto měření. V případě mimořádné situace může vodoprávní úřad na návrh oprávněného stanovit způsob a rozsah měření mimo řízení o povolení k nakládání s vodami, a to na omezenou nezbytně nutnou dobu.*
 
 **Výklad:**
 
@@ -619,13 +669,13 @@ Měřená data jsou **podkladem pro vodní bilanci** (§ 22 odst. 1 VZ) a slouž
 
 > **§ 11**
 >
-> *(1) Práva a povinnosti vyplývající z povolení k nakládání s vodami, které bylo vydáno pro účel spojený s vlastnictvím k pozemkům a nebo stavbám, přecházejí na jejich nabyvatele, pokud tyto pozemky a nebo stavby budou i nadále sloužit účelu uvedenému v povolení. (...) Nabyvatelé těchto pozemků a nebo staveb, případně jejich uživatelé, jsou povinni oznámit vodoprávnímu úřadu, že došlo k převodu nebo přechodu pozemku nebo stavby (...) do 2 měsíců (...).*
+> *(1) Práva a povinnosti vyplývající z povolení k nakládání s vodami, které bylo vydáno pro účel spojený s vlastnictvím k pozemkům a nebo stavbám, přecházejí na jejich nabyvatele, pokud tyto pozemky a nebo stavby budou i nadále sloužit účelu uvedenému v povolení. To platí i pro jejich uživatele po dobu užívání těchto pozemků nebo staveb v rozsahu, který odpovídá rozsahu práv uživatele k nim, vyplývajícího ze vzájemného vztahu mezi vlastníkem a tímto uživatelem. Nabyvatelé těchto pozemků a nebo staveb, případně jejich uživatelé, jsou povinni oznámit vodoprávnímu úřadu, že došlo k převodu nebo přechodu pozemku nebo stavby, s nimiž je povolení k nakládání s vodami spojeno, a to do 2 měsíců ode dne jejich převodu nebo přechodu, případně vzniku práv k jejich užívání.*
 >
 > *(2) Povolení k nakládání s vodami nezakládá práva k cizím pozemkům a stavbám ani nevzniká vodoprávnímu úřadu, správci vodního toku nebo vlastníku vodního díla právní povinnost náhrady oprávněným za nemožnost nakládat s vodami v maximálním povoleném množství a s určitými vlastnostmi.*
 >
 > *(3) Nestanoví-li vodoprávní úřad jinak, může oprávněný umožnit výkon svého povolení k nakládání s vodami i jinému.*
 >
-> *(4) Je-li povolené nakládání s vodami nezbytně třeba ve veřejném zájmu a oprávněný své povolení nevyužívá zcela nebo zčásti, může mu vodoprávní úřad uložit povinnost umožnit využití jeho vodního díla nebo zařízení k povolenému nakládání s vodami jinou, vodoprávním úřadem určenou fyzickou nebo právnickou osobou (...) za přiměřenou náhradu.*
+> *(4) Je-li povolené nakládání s vodami nezbytně třeba ve veřejném zájmu a oprávněný své povolení nevyužívá zcela nebo zčásti, může mu vodoprávní úřad uložit povinnost umožnit využití jeho vodního díla nebo zařízení k povolenému nakládání s vodami jinou, vodoprávním úřadem určenou fyzickou nebo právnickou osobou, na dobu nezbytně nutnou nebo do doby rozhodnutí o jeho vyvlastnění nebo omezení vlastnického práva, a to za přiměřenou náhradu.*
 
 **Výklad:**
 
@@ -660,18 +710,27 @@ Pokud oprávněný **své povolení nevyužívá** a využití je **nezbytně t�
 >
 > *(1) Vodoprávní úřad může z moci úřední povolení k nakládání s vodami změnit nebo zrušit*
 >
-> *- a) nevyužívá-li oprávněný vydaného povolení k nakládání s vodami nebo využívá-li jej pouze minimálně bez vážného důvodu po dobu delší než 2 roky; to neplatí v případě povolení podle § 8 odst. 1 písm. b) bodu 1 k odběru vody ze záložních zdrojů pro zásobování pitnou vodou z veřejného vodovodu,*
+> *  - a) nevyužívá-li oprávněný vydaného povolení k nakládání s vodami nebo využívá-li jej pouze minimálně bez vážného důvodu po dobu delší než 2 roky; to neplatí v případě povolení podle § 8 odst. 1 písm. b) bodu 1 k odběru vody ze záložních zdrojů pro zásobování pitnou vodou z veřejného vodovodu,*
 >
-> *- b) byla-li oprávněnému, který má povolení k vypouštění odpadních vod do vod povrchových nebo podzemních, uložena povinnost připojit se na kanalizaci podle zvláštního právního předpisu,*
+> *  - b) byla-li oprávněnému, který má povolení k vypouštění odpadních vod do vod povrchových nebo podzemních, uložena povinnost připojit se na kanalizaci podle zvláštního právního předpisu8b),*
 >
-> *- c) při stanovení minimální hladiny podzemních vod, nebyla-li dosud stanovena, či při její změně.*
+> *  - c) při stanovení minimální hladiny podzemních vod, nebyla-li dosud stanovena, či při její změně.*
 >
-> *(3) Vodoprávní úřad povolení k nakládání s vodami změní nebo zruší (...), je-li to nezbytné*
+> *(2) Vodoprávní úřad může povolení k nakládání s vodami změnit nebo zrušit na žádost oprávněného. Bylo-li povolení vydáno jiné osobě, musí žadatel doložit, že je oprávněným z tohoto povolení.*
 >
-> *- a) k dosažení cílů ochrany vod přijatých v plánu povodí (§ 24 a 26),*
-> *- b) ke splnění programů snížení znečištění povrchových vod (§ 34 odst. 2 a § 35 odst. 1),*
-> *- c) ke splnění programu snížení znečištění (...) nebezpečnými závadnými látkami (...),*
-> *- d) pro zásobování pitnou vodou podle plánu rozvoje vodovodů a kanalizací.*
+> *(3) Vodoprávní úřad povolení k nakládání s vodami změní nebo zruší, a to i v řízení podle odstavce 1 nebo 2, je-li to nezbytné*
+>
+> *  - a) k dosažení cílů ochrany vod přijatých v plánu povodí (§ 24 a 26),*
+>
+> *  - b) ke splnění programů snížení znečištění povrchových vod (§ 34 odst. 2 a § 35 odst. 1),*
+>
+> *  - c) ke splnění programu snížení znečištění povrchových a podzemních vod nebezpečnými závadnými látkami a zvlášť nebezpečnými závadnými látkami (§ 39 odst. 4),*
+>
+> *  - d) pro zásobování pitnou vodou podle plánu rozvoje vodovodů a kanalizací8c).*
+>
+> *(4) Požádá-li oprávněný o změnu doby platnosti povolení k nakládání s vodami, povolení nezanikne, dokud o žádosti není pravomocně rozhodnuto; žádost je nutné podat před uplynutím doby platnosti povolení k nakládání s vodami.*
+>
+> *(5) Na změnu a zrušení povolení k nakládání s vodami se použije ustanovení § 9 až 11 obdobně.*
 
 **Výklad:**
 
@@ -719,12 +778,21 @@ Pokud oprávněný požádá o **změnu doby platnosti** povolení, **povolení 
 >
 > *(1) Povolení k některým činnostem je třeba*
 >
-> *- a) k vysazování stromů nebo keřů v záplavových územích v rozsahu ovlivňujícím odtokové poměry,*
-> *- b) k těžbě písku, štěrku, bahna (...) z pozemků, na nichž leží koryto vodního toku,*
-> *- c) ke geologickým pracím spojeným se zásahem do pozemku v záplavových územích (§ 66) a v ochranných pásmech vodních zdrojů,*
-> *- d) k zasypávání odstavených ramen vodních toků,*
-> *- e) k vrácení vodního toku do původního koryta (§ 45),*
-> *- f) k ukládání těžebního odpadu do povrchových vod.*
+> *  - a) k vysazování stromů nebo keřů v záplavových územích v rozsahu ovlivňujícím odtokové poměry,*
+>
+> *  - b) k těžbě písku, štěrku, bahna s výjimkou bahna k léčivým účelům, valounů apod. (dále jen „říční materiál“) z pozemků, na nichž leží koryto vodního toku,*
+>
+> *  - c) ke geologickým pracím spojeným se zásahem do pozemku v záplavových územích (§ 66) a v ochranných pásmech vodních zdrojů,*
+>
+> *  - d) k zasypávání odstavených ramen vodních toků,*
+>
+> *  - e) k vrácení vodního toku do původního koryta (§ 45),*
+>
+> *  - f) k ukládání těžebního odpadu do povrchových vod10b).*
+>
+> *(2) Povolení k činnostem uvedeným v odstavci 1 písm. a) nebo b) se nevyžaduje, vykonává-li je správce vodního toku (§ 48) v souvislosti s jeho správou nebo vlastník vodního díla v souvislosti s údržbou vodní nádrže. Dále není třeba podle odstavce 1 písm. a), vykonává-li je vlastník lesa z důvodů obnovy porostů a při činnostech uložených zákonem č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů.*
+>
+> *(3) Vyplývá-li to z povahy věci, může vodoprávní úřad v povolení stanovit podmínky i dobu, na kterou se povolení uděluje.*
 
 **Výklad:**
 
@@ -763,21 +831,35 @@ Vodoprávní úřad stanovuje v povolení **kontrolní místo, způsob měření
 >
 > *(1) Souhlas vodoprávního úřadu je třeba ke stavbám, zařízením nebo činnostem, k nimž není třeba povolení podle tohoto zákona, které však mohou ovlivnit vodní poměry, a to*
 >
-> *- a) ke stavbám a zařízením na pozemcích, na nichž se nacházejí koryta vodních toků, nebo na pozemcích s takovými pozemky sousedících (...),*
-> *- b) ke zřizování dálkových potrubí a stavbám umožňujícím podzemní skladování látek (...) jakož i ke skladům, skládkám, popřípadě nádržím, pokud provoz uvedených staveb a skládek může významně ohrozit jakost povrchových nebo podzemních vod,*
-> *- c) ke stavbám, k těžbě nerostů nebo k terénním úpravám v záplavových územích (...),*
-> *- d) ke stavbám ve vzdálenosti do 15 m od vzdušné paty ochranné hráze vodního toku,*
-> *- e) ke stavbám v ochranných pásmech vodních zdrojů,*
-> *- f) k úložným místům pro nakládání s těžebním odpadem (...),*
-> *- g) k vrtům pro využívání energetického potenciálu podzemních vod, z nichž se neodebírá nebo nečerpá podzemní voda (...),*
-> *- h) k ukládání oxidu uhličitého do přírodních horninových struktur (...),*
-> *- i) ke geologickým pracím spojeným se zásahem do pozemku, jejichž cílem je následné využití průzkumného díla na stavbu k jímání podzemní vody nebo pro vrty pro využívání energetického potenciálu podzemních vod.*
+> *  - a) ke stavbám a zařízením na pozemcích, na nichž se nacházejí koryta vodních toků, nebo na pozemcích s takovými pozemky sousedících, pokud tyto stavby a zařízení ovlivní vodní poměry,*
 >
-> *(4) Souhlas je závazný pro příslušné orgány při postupu podle stavebního zákona a podle jiných zákonů (...).*
+> *  - b) ke zřizování dálkových potrubí a stavbám umožňujícím podzemní skladování látek v zemských dutinách, jakož i ke skladům, skládkám, popřípadě nádržím, pokud provoz uvedených staveb a skládek může významně ohrozit jakost povrchových nebo podzemních vod,*
 >
-> *(6) Vodoprávní úřad před vydáním souhlasu podle odstavce 1 posoudí možnost zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody. (...)*
+> *  - c) ke stavbám, k těžbě nerostů nebo k terénním úpravám v záplavových územích; ustanovení § 67 tím není dotčeno,*
 >
-> *(7) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko, souhlas podle odstavce 1 se nevydává. (...)*
+> *  - d) ke stavbám ve vzdálenosti do 15 m od vzdušné paty ochranné hráze vodního toku,*
+>
+> *  - e) ke stavbám v ochranných pásmech vodních zdrojů,*
+>
+> *  - f) k úložným místům pro nakládání s těžebním odpadem nebo k rozhodnutí o povinnosti shromažďovat a upravovat znečištěnou vodu a průsaky podle jiného právního předpisu10b),*
+>
+> *  - g) k vrtům pro využívání energetického potenciálu podzemních vod, z nichž se neodebírá nebo nečerpá podzemní voda; nestanoví-li tento zákon jinak, vodoprávní úřad může v řízení o udělení tohoto souhlasu žadateli uložit, aby mu předložil vyjádření osoby s odbornou způsobilostí8),*
+>
+> *  - h) k ukládání oxidu uhličitého do přírodních horninových struktur podle jiného právního předpisu49), nebo*
+>
+> *  - i) ke geologickým pracím spojeným se zásahem do pozemku, jejichž cílem je následné využití průzkumného díla na stavbu k jímání podzemní vody nebo pro vrty pro využívání energetického potenciálu podzemních vod.*
+>
+> *(2) K žádosti o souhlas k vrtům podle odstavce 1 písm. g) nebo geologickým pracím podle odstavce 1 písm. i) v ochranném pásmu stanoveném podle lázeňského zákona žadatel předloží vyjádření osoby s odbornou způsobilostí podle zákona o geologických pracích8).*
+>
+> *(3) Vyplývá-li to z povahy věci, může vodoprávní úřad v souhlasu stanovit podmínky i dobu, po kterou se souhlas uděluje.*
+>
+> *(4) Souhlas je závazný pro příslušné orgány při postupu podle stavebního zákona a podle jiných zákonů7b),10b) v případech uvedených v odstavci 1.*
+>
+> *(5) Souhlasu podle odstavce 1 není třeba k činnostem, jichž je třeba při cvičení nebo zásahu Hasičského záchranného sboru České republiky a jednotek požární ochrany, Báňské záchranné služby, Policie České republiky, obecní policie a ozbrojených sil České republiky, které v případech cvičení postupují v dohodě s příslušným vodoprávním úřadem.*
+>
+> *(6) Vodoprávní úřad před vydáním souhlasu podle odstavce 1 posoudí možnost zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody. Zároveň posoudí, zda provedením záměru nedojde k takové změně fyzikálních poměrů, která by vedla ke znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody. Dojde-li k závěru, že provedení záměru může vést ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo ke zhoršení stavu útvaru podzemní vody nebo znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody, před vydáním souhlasu podle odstavce 1 upozorní žadatele, že bez výjimky podle § 23a odst. 8 není možné záměr povolit ani provést a že bez této výjimky nelze souhlas podle odstavce 1 vydat.*
+>
+> *(7) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko65), souhlas podle odstavce 1 se nevydává. Dojde-li orgán příslušný k vydání jednotného environmentálního stanoviska k závěru, že provedení záměru může vést ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo ke zhoršení stavu útvaru podzemní vody nebo znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody, upozorní žadatele před vydáním jednotného environmentálního stanoviska, že bez výjimky podle § 23a odst. 8 nelze vydat souhlasné jednotné environmentální stanovisko65).*
 
 **Výklad:**
 
@@ -856,7 +938,13 @@ Přestože vyjádření není závazné, v praxi má vysokou **autoritu**: vodop
 
 > **§ 19**
 >
-> *(1) Správní úřady a orgány územní samosprávy jsou povinny vést evidenci jimi vydaných rozhodnutí, opatření obecné povahy, závazných stanovisek, souhlasů a jim podaných ohlášení (...).*
+> *(1) Správní úřady a orgány územní samosprávy jsou povinny vést evidenci jimi vydaných rozhodnutí, opatření obecné povahy, závazných stanovisek, souhlasů a jim podaných ohlášení, k nimž daly souhlas podle tohoto zákona, a dále částí rozhodnutí, které podle zákona o integrované prevenci nahradily rozhodnutí vydávaná podle tohoto zákona.*
+>
+> *(2) Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí vyhláškou stanoví rozsah a způsob vedení evidence podle odstavce 1, vymezí rozsah údajů a způsob jejich ukládání do informačního systému veřejné správy11) a způsob přechodu informací z dosavadní vodohospodářské evidence a souhrnné vodohospodářské evidence12) do tohoto informačního systému.*
+>
+> *(3) Správní úřady a orgány územní samosprávy jsou povinny z jimi vedené evidence podle odstavce 1 ukládat jimi vydávaná rozhodnutí, opatření obecné povahy, závazná stanoviska a identifikační údaje v rozsahu stanoveném vyhláškou vydanou podle odstavce 2 do informačního systému veřejné správy (§ 22 odst. 3 a 4) a předávat je v elektronické podobě Ministerstvu zemědělství nejpozději za kalendářní čtvrtletí vždy do 15. dne prvního měsíce následujícího čtvrtletí.*
+>
+> *(4) Správci povodí jsou povinni průběžně ukládat vybrané údaje z pravomocných rozhodnutí, z opatření obecné povahy a ze závazných stanovisek vodoprávních úřadů v rozsahu stanoveném vyhláškou vydanou podle odstavce 2 do informačního systému veřejné správy.*
 
 **Výklad:**
 
@@ -885,9 +973,11 @@ Správcem je **Ministerstvo životního prostředí**. Identifikaci výpustí b)
 
 > **§ 20**
 >
-> *(1) Přehrady, hráze, jezy, stavby, které se k plavebním účelům zřizují v korytech vodních toků nebo na jejích březích, stavby k využití vodní energie a stavby odkališť, pokud jsou spojené se zemí pevným základem, se evidují v katastru nemovitostí. (...)*
+> *(1) Přehrady, hráze, jezy, stavby, které se k plavebním účelům zřizují v korytech vodních toků nebo na jejích březích, stavby k využití vodní energie a stavby odkališť, pokud jsou spojené se zemí pevným základem, se evidují v katastru nemovitostí.12a) Podrobnosti vymezení těchto vodních děl stanoví Ministerstvo zemědělství v dohodě s Českým úřadem zeměměřickým a katastrálním vyhláškou.*
 >
-> *(2) V katastru nemovitostí se vyznačují ochranná pásma vodních děl (§ 58 odst. 3) podle odstavce 1 a ochranná pásma vodních zdrojů (§ 30) údaji o způsobu ochrany nemovitostí.*
+> *(2) V katastru nemovitostí se vyznačují ochranná pásma vodních děl (§ 58 odst. 3) podle odstavce 1 a ochranná pásma vodních zdrojů (§ 30) údaji o způsobu ochrany nemovitostí.13)*
+>
+> *(3) Vodoprávní úřad je povinen zaslat příslušnému katastrálnímu úřadu údaje potřebné k evidenci ochrany území podle odstavce 2 do 30 dnů ode dne nabytí právní moci rozhodnutí, kterým byla tato ochrana území vymezena.*
 
 **Výklad:**
 
@@ -916,11 +1006,55 @@ Ochranná pásma se vyznačují jako **způsob ochrany nemovitosti** (§ 13 kata
 >
 > *(2) Zjišťování a hodnocení stavu povrchových a podzemních vod zahrnuje zejména*
 >
-> *- a) zjišťování množství a jakosti povrchových a podzemních vod (...),*
-> *- b) vedení vodní bilance,*
-> *- c) zřízení, vedení a aktualizace evidence [vodních linií, vodních útvarů, množství a jakosti, odběrů, povodí, chráněných oblastí, ochranných pásem, zranitelných oblastí, koupacích vod, vod pro život ryb, závlahových zařízení, záplavových území],*
+> *- a) zjišťování množství a jakosti povrchových a podzemních vod včetně jejich ovlivňování lidskou činností a zjišťování stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,*
 >
-> *(4) Zjišťování a hodnocení stavu povrchových a podzemních vod (...) provádějí správci povodí a další odborné subjekty (...).*
+> *- b) vedení vodní bilance (§ 22 odst. 1),*
+>
+> *- c) zřízení, vedení a aktualizace evidence*
+>
+> *- 1. vodních linií a objektů na nich, hydrologických povodí vodních toků, hydrogeologických rajonů a vodních nádrží,*
+>
+> *- 2. vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů,*
+>
+> *- 3. množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,*
+>
+> *- 4. odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích,*
+>
+> *- 5. mezinárodních oblastí povodí na území České republiky a dílčích povodí (§ 24),*
+>
+> *- 6. chráněných oblastí přirozené akumulace vod (§ 28),*
+>
+> *- 7. ochranných pásem vodních zdrojů (§ 30),*
+>
+> *- 8. zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,*
+>
+> *- 9. citlivých oblastí (§ 32),*
+>
+> *- 10. zranitelných oblastí (§ 33),*
+>
+> *- 11. oblastí povrchových vod využívaných ke koupání (§ 34),*
+>
+> *- 12. povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů (§ 35),*
+>
+> *- 13. hlavních odvodňovacích a hlavních závlahových zařízení (§ 56),*
+>
+> *- 14. záplavových území (§ 66).*
+>
+> *Rozsah a způsob zpracování, ukládání a předávání údajů zahrnutých v evidencích, včetně statistických a kartografických dat, do informačních systémů veřejné správy (§ 22 odst. 3 a 4) stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí vyhláškou. Údaje z evidencí podle písmene c) se zveřejňují jako otevřená data60).*
+>
+> *(3) Způsob vymezení hydrogeologických rajonů, vymezení vodních útvarů, způsob hodnocení jejich stavu a způsob hodnocení ekologického potenciálu silně ovlivněných a umělých vodních útvarů (§ 23a), náležitosti programů zjišťování a hodnocení stavu vod (§ 26 odst. 4) stanoví Ministerstvo životního prostředí a Ministerstvo zemědělství vyhláškou.*
+>
+> *(4) Zjišťování a hodnocení stavu povrchových a podzemních vod a provozování informačních systémů veřejné správy provádějí správci povodí a další odborné subjekty, které za tím účelem pověřuje, zřizuje nebo zakládá Ministerstvo zemědělství, popřípadě Ministerstvo životního prostředí (dále jen „pověřené odborné subjekty“). Správci povodí a pověřené odborné subjekty jsou povinni se při této činnosti řídit pokyny svého zakladatele nebo zřizovatele.*
+>
+> *(5) Správci povodí a pověřené odborné subjekty jsou oprávněni požadovat pro účely zjišťování a hodnocení stavu povrchových a podzemních vod informace od toho, kdo nakládá s povrchovými nebo podzemními vodami, jakož i od správních úřadů, popřípadě orgánů územní samosprávy, do jejichž působnosti povolování nakládání s uvedenými vodami spadá, nebo které vedou informační systémy podle zvláštních právních předpisů;14) ti jsou povinni bezplatně sdělovat data správcům povodí a pověřeným odborným subjektům, popřípadě si správci povodí a pověřené odborné subjekty mohou u nich tato data bezplatně a za jejich pomoci zjišťovat. Ustanovení zvláštních právních předpisů chránících utajované informace tím nejsou dotčena.*
+>
+> *(6) Správci povodí a pověřené odborné subjekty poskytují na vyžádání bezplatně správním úřadům informace o stavu povrchových a podzemních vod; zároveň bezplatně poskytují Ministerstvu zdravotnictví informace týkající se nakládání s povrchovými a podzemními vodami v ochranných pásmech přírodních léčivých zdrojů a zdrojů přírodních minerálních vod.*
+>
+> *(7) Zaměstnanci správců povodí a pověřených odborných subjektů*
+>
+> *- a) jsou oprávněni při výkonu své činnosti, včetně odběru vzorků povrchových a podzemních vod, v nezbytně nutném rozsahu vstupovat na cizí pozemky a dále vstupovat do cizích staveb a dalších prostor užívaných pro podnikatelskou činnost nebo provozování jiné hospodářské činnosti, pokud k tomu není třeba povolení podle jiných právních předpisů; vlastníci nebo uživatelé těchto prostor jsou povinni vstup umožnit,*
+>
+> *- b) jsou povinni prokazovat se pověřením nebo průkazem správce povodí nebo pověřeného odborného subjektu a před vstupem na cizí pozemky nebo do cizích staveb a dalších prostor informovat oprávněného, jakož i jejich vlastníka nebo uživatele.*
 
 **Výklad:**
 
@@ -949,13 +1083,47 @@ Tyto subjekty jsou **oprávněny vstupovat na cizí pozemky** a do staveb pro od
 
 > **§ 22**
 >
-> *(1) Vodní bilance sestává z hydrologické bilance a vodohospodářské bilance. Hydrologická bilance porovnává přírůstky a úbytky vody a změny vodních zásob povodí, území nebo vodního útvaru za daný časový interval. Vodohospodářská bilance porovnává požadavky na odběry povrchové a podzemní vody a vypouštění odpadních vod s využitelnou kapacitou vodních zdrojů (...).*
+> *(1) Vodní bilance sestává z hydrologické bilance a vodohospodářské bilance. Hydrologická bilance porovnává přírůstky a úbytky vody a změny vodních zásob povodí, území nebo vodního útvaru za daný časový interval. Vodohospodářská bilance porovnává požadavky na odběry povrchové a podzemní vody a vypouštění odpadních vod s využitelnou kapacitou vodních zdrojů z hledisek množství a jakosti vody a jejich ekologického stavu. Obsah vodní bilance a způsob jejího sestavení stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí vyhláškou.*
 >
-> *(3) Ministerstvo zemědělství spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci [vodních linií, odběrů, povodí, zdrojů pitné vody, závlahových zařízení].*
+> *(2) Pro potřeby vodní bilance je ten, kdo je podle § 10 odst. 1 nebo 2 povinen měřit množství vody, se kterou nakládá, a dále ten, kdo má povolení k vypouštění odpadních vod nebo vypouští důlní vody do vod povrchových nebo podzemních v množství přesahujícím v kalendářním roce 6 000 m3 nebo 500 m3 v kalendářním měsíci, povinen jednou ročně ohlašovat příslušným správcům povodí údaje o tomto nakládání nebo vypouštění způsobem a v rozsahu, který stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí a Ministerstvem zdravotnictví vyhláškou.*
 >
-> *(4) Ministerstvo životního prostředí spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci [objektů na liniích, vodních útvarů, množství a jakosti, chráněných oblastí, ochranných pásem, citlivých oblastí, zranitelných oblastí, koupacích vod, záplavových území, vod pro život ryb].*
+> *(3) Ministerstvo zemědělství spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci*
 >
-> *(5) Ministerstvo životního prostředí spravuje jako samostatnou součást informačního systému veřejné správy (...) registr chráněných oblastí (...).*
+> *- a) vodních linií a objektů na nich a vodních nádrží,*
+>
+> *- b) odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích,*
+>
+> *- c) mezinárodních oblastí povodí na území České republiky a dílčích povodí (§ 24),*
+>
+> *- d) zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,*
+>
+> *- e) hlavních odvodňovacích a hlavních závlahových zařízení (§ 56).*
+>
+> *(4) Ministerstvo životního prostředí spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci*
+>
+> *- a) objektů na vodních liniích hydrologických povodí vodních toků a hydrogeologických rajonů,*
+>
+> *- b) vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů,*
+>
+> *- c) množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,*
+>
+> *- d) chráněných oblastí přirozené akumulace vod,*
+>
+> *- e) ochranných pásem vodních zdrojů,*
+>
+> *- f) citlivých oblastí,*
+>
+> *- g) zranitelných oblastí,*
+>
+> *- h) oblastí povrchových vod využívaných ke koupání,*
+>
+> *- i) záplavových území,*
+>
+> *- j) povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů.*
+>
+> *(5) Ministerstvo životního prostředí spravuje jako samostatnou součást informačního systému veřejné správy podle § 21 odst. 2 písm. c) registr chráněných oblastí, ve kterém v návaznosti na vodní útvary povrchové nebo podzemní vody eviduje oblasti a území vyžadující zvláštní ochranu podle tohoto zákona nebo zákona o ochraně přírody a krajiny14a).*
+>
+> *(6) Ministerstvo zemědělství a Ministerstvo životního prostředí postupují při správě informačních systémů podle odstavců 3 a 4 podle zvláštního právního předpisu.15) Tyto informační systémy slouží zejména pro účely podle § 21 odst. 1, § 23 až 26, § 54 a § 108 odst. 3 písm. w).*
 
 **Výklad:**
 
@@ -1025,28 +1193,91 @@ Plány jsou **podkladem pro výkon veřejné správy** — orientují územní p
 
 > **§ 23a**
 >
-> *(1) Cíli ochrany vod (...) jsou*
+> *(1) Cíli ochrany vod jako složky životního prostředí (dále jen „cíle ochrany vod“) jsou*
 >
 > *- a) pro povrchové vody*
->   *1. zamezení zhoršení stavu všech útvarů (...),*
->   *2. zajištění ochrany, zlepšení stavu a obnova všech útvarů (...) a dosažení jejich dobrého stavu,*
->   *3. (...) všech umělých a silně ovlivněných vodních útvarů a dosažení jejich dobrého ekologického potenciálu a dobrého chemického stavu,*
->   *4. snížení jejich znečištění prioritními látkami a zastavení nebo postupné odstraňování emisí (...),*
+>
+> *- 1. zamezení zhoršení stavu všech útvarů těchto vod, včetně vodních útvarů ležících v téže mezinárodní oblasti povodí,*
+>
+> *- 2. zajištění ochrany, zlepšení stavu a obnova všech útvarů těchto vod a dosažení jejich dobrého stavu, s výjimkou útvarů uvedených v bodu 3,*
+>
+> *- 3. zajištění ochrany, zlepšení stavu všech umělých a silně ovlivněných vodních útvarů a dosažení jejich dobrého ekologického potenciálu a dobrého chemického stavu,*
+>
+> *- 4. snížení jejich znečištění prioritními látkami a zastavení nebo postupné odstraňování emisí, vypouštění a úniků prioritních nebezpečných látek,*
 >
 > *- b) pro podzemní vody*
->   *1. zamezení nebo omezení vstupů nebezpečných (...) látek (...),*
->   *2. zajištění ochrany, zlepšení stavu a obnova všech útvarů (...) s cílem dosáhnout dobrého stavu (...),*
->   *3. odvrácení jakéhokoliv významného a trvajícího vzestupného trendu (...),*
 >
-> *- c) též v oblastech vymezených v § 28 odst. 1, § 30 odst. 1, § 32 odst. 2, § 33 odst. 1, § 34 odst. 1 a § 35 odst. 1 (...).*
+> *- 1. zamezení nebo omezení vstupů nebezpečných závadných, zvlášť nebezpečných závadných a jiných závadných látek do těchto vod a zamezení zhoršení stavu všech útvarů těchto vod,*
+>
+> *- 2. zajištění ochrany, zlepšení stavu a obnova všech útvarů těchto vod a zajištění vyváženého stavu mezi odběry podzemní vody a jejím doplňováním, s cílem dosáhnout dobrého stavu těchto vod,*
+>
+> *- 3. odvrácení jakéhokoliv významného a trvajícího vzestupného trendu koncentrace nebezpečných závadných, zvlášť nebezpečných závadných a jiných závadných látek jako důsledku dopadů lidské činnosti, za účelem účinného snížení znečištění těchto vod,*
+>
+> *- c) též v oblastech vymezených v § 28 odst. 1, § 30 odst. 1, § 32 odst. 2, § 33 odst. 1, § 34 odst. 1 a § 35 odst. 1 a ve zvláště chráněných územích podle zvláštních zákonů31) dosažení cílů stanovených pro povrchové vody podle písmene a) a pro podzemní vody podle písmene b), pokud v těchto oblastech nejsou pro tyto vody stanoveny zvláštními právními předpisy odlišné požadavky.*
 >
 > *(2) Cílů uvedených v odstavci 1 písm. a) bodech 2 a 3, písm. b) bodě 2 a písm. c) je třeba dosáhnout do 22. prosince 2015.*
 >
-> *(8) Zhoršení stavu (...) je možné pouze na základě výjimky, kterou udělí vodoprávní úřad na základě žádosti při současném splnění těchto podmínek:*
+> *(3) Pokud se na vybraný vodní útvar vztahuje více než jeden cíl ochrany vod uvedený v odstavci 1, uplatní se vždy nejpřísnější z nich.*
 >
-> *- a) jsou učiněny všechny schůdné kroky k omezení nepříznivých vlivů (...),*
-> *- b) důvody těchto změn nebo úprav vyplývají z převažujícího veřejného zájmu (...),*
-> *- c) prospěšné cíle (...) nelze (...) dosáhnout jinými prostředky (...).*
+> *(4) Pro vybrané vodní útvary mohou být v plánech povodí (§ 24) určeny zvláštní cíle ochrany vod, které spočívají v prodloužení lhůty uvedené v odstavci 2 za účelem postupného dosahování cílů ochrany vod pro vodní útvary nebo ve stanovení méně přísných cílů ochrany vod.*
+>
+> *(5) Lhůta uvedená v odstavci 2 může být prodloužena pouze tehdy, pokud se neprojeví další zhoršení stavu dotčeného vodního útvaru a při splnění těchto podmínek:*
+>
+> *- a) není-li včasné dosažení cílů ochrany vod možné z nejméně jednoho dále uvedeného důvodu:*
+>
+> *- 1. míra požadovaného zlepšení může být z důvodů technické proveditelnosti dosažena pouze postupnými kroky, které přesahují tímto zákonem stanovené lhůty,*
+>
+> *- 2. dosažení požadovaného zlepšení v rámci tímto zákonem stanovené lhůty by bylo neúměrně nákladné,*
+>
+> *- 3. přírodní podmínky nedovolují včasné zlepšení stavu daného vodního útvaru v rámci tímto zákonem stanovené lhůty,*
+>
+> *- b) prodloužení lhůty a důvody jejího prodloužení budou jmenovitě uvedeny a vysvětleny v plánu povodí a*
+>
+> *- c) prodloužení lhůty bude omezeno na období maximálně dvou následujících aktualizací plánů povodí, s výjimkou případů, kdy přírodní podmínky jsou takové, že stanovené cíle ochrany vod nemohou být v těchto obdobích dosaženy.*
+>
+> *(6) Méně přísné cíle ochrany vod pro vybrané vodní útvary mohou být stanoveny pouze tehdy, pokud jsou tyto vodní útvary ovlivněny lidskou činností do míry určené v souladu s § 25 odst. 1 písm. a) bodem 2, nebo pokud jsou jejich přírodní podmínky takové, že by dosažení těchto cílů bylo neproveditelné nebo neúměrně nákladné, a pokud jsou splněny tyto podmínky:*
+>
+> *- a) potřeby životního prostředí a sociálně ekonomické potřeby zajišťované takovou lidskou činností nemohou být dosaženy jinými prostředky, které by z hlediska životního prostředí byly významně lepší a nevyžadovaly by neúměrné náklady,*
+>
+> *- b) pro povrchové vody bude dosaženo nejlepšího možného ekologického a chemického stavu při daných vlivech, kterým nebylo možné předejít v důsledku povahy lidské činnosti nebo znečištění,*
+>
+> *- c) pro podzemní vody bude dosaženo nejmenší možné změny oproti dobrému stavu podzemní vody při daných vlivech, kterým nebylo možné předejít v důsledku povahy lidské činnosti nebo znečištění,*
+>
+> *- d) nedojde k dalšímu zhoršení stavu dotčeného vodního útvaru a*
+>
+> *- e) stanovení méně přísných cílů ochrany vod a příslušné důvody budou jmenovitě uvedeny v plánu povodí a tyto cíle budou každých šest let přezkoumány.*
+>
+> *(7) Dobrého stavu podzemních vod, dobrého ekologického stavu, dobrého ekologického potenciálu nebo předcházení zhoršování stavu útvaru povrchové nebo podzemní vody nemusí být dosaženo v důsledku nových změn fyzikálních poměrů v útvaru povrchové vody nebo změn hladin útvarů podzemních vod. Ke zhoršení stavu útvaru povrchové vody z velmi dobrého na dobrý může dojít v důsledku nových trvalých lidských činností.*
+>
+> *(8) Zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody podle odstavce 7 je možné pouze na základě výjimky, kterou udělí vodoprávní úřad na základě žádosti při současném splnění těchto podmínek:*
+>
+> *- a) jsou učiněny všechny schůdné kroky k omezení nepříznivých vlivů na stav vodního útvaru,*
+>
+> *- b) důvody těchto změn nebo úprav vyplývají z převažujícího veřejného zájmu nebo pokud jsou přínosy pro životní prostředí a společnost při dosahování cílů podle odstavce 1 převáženy přínosy nových změn pro lidské zdraví, udržení ochrany obyvatel nebo udržitelný rozvoj a*
+>
+> *- c) prospěšné cíle, které z těchto změn nebo úprav vodního útvaru vyplývají, nelze z důvodů technické neproveditelnosti nebo pro neúměrné náklady dosáhnout jinými prostředky, jež by byly z hlediska životního prostředí významně lepší.*
+>
+> *(9) Bez udělené výjimky podle odstavce 8 nelze záměr vedoucí ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchových vod nebo dobrého stavu útvaru podzemních vod povolit ani provést.*
+>
+> *(10) Důvody pro udělení výjimky podle odstavce 8 musí být uvedeny a vysvětleny v platném plánu povodí podle § 24 nebo v jeho nejbližší aktualizaci.*
+>
+> *(11) Lhůtu podle odstavce 5 lze prodloužit, méně přísné cíle podle odstavce 6 lze stanovit a výjimku podle odstavce 8 lze udělit, pouze pokud nedojde k trvalému vyloučení nebo ústupkům při dosahování cílů ochrany vod jako složky životního prostředí v jiných vodních útvarech ležících v téže oblasti povodí a jejich použití je v souladu s cíli ochrany životního prostředí.*
+>
+> *(12) Žádost o udělení výjimky podle odstavce 8 obsahuje kromě obecných náležitostí podle správního řádu*
+>
+> *- a) základní popis záměru, jeho rozsah a účel a*
+>
+> *- b) identifikační údaje o místu, na němž se má záměr uskutečnit.*
+>
+> *(13) Součástí žádosti je*
+>
+> *- a) projektová dokumentace nebo popis záměru,*
+>
+> *- b) údaje o plnění podmínek pro udělení výjimky,*
+>
+> *- c) stanovisko správce povodí a*
+>
+> *- d) správní úkon, z něhož vyplývá, že záměr nelze povolit ani provést bez udělení výjimky podle odstavce 8, byl-li vydán jiným správním orgánem než příslušným k udělení výjimky.*
 
 **Výklad:**
 
@@ -1102,7 +1333,7 @@ Pro některé vodní útvary mohou být stanoveny **méně přísné cíle** (le
 
 > **§ 23b**
 >
-> *(1) Má se za to, že plánování, výstavba, modernizace a provoz zařízení pro výrobu energie z obnovitelných zdrojů (...) jsou při posuzování existence převažujícího veřejného zájmu (...) podle § 23a odst. 8 písm. b) v převažujícím veřejném zájmu a že slouží veřejnému zdraví a bezpečnosti.*
+> *(1) Má se za to, že plánování, výstavba, modernizace a provoz zařízení pro výrobu energie z obnovitelných zdrojů, jejich připojení k soustavě a související soustava samotná a skladovací zařízení, jsou při posuzování existence převažujícího veřejného zájmu nebo převahy přínosů nových změn pro lidské zdraví, udržení ochrany obyvatel nebo udržitelný rozvoj podle § 23a odst. 8 písm. b) v převažujícím veřejném zájmu a že slouží veřejnému zdraví a bezpečnosti68).*
 >
 > *(2) Odstavec 1 se neuplatní v případě plánování a výstavby nových obnovitelných zdrojů využívajících energii vodního toku.*
 
@@ -1126,22 +1357,39 @@ jsou **v převažujícím veřejném zájmu** a slouží veřejnému zdraví a b
 >
 > *(1) Území České republiky náleží do třech mezinárodních oblastí povodí, a to do mezinárodní oblasti povodí Labe, mezinárodní oblasti povodí Odry a mezinárodní oblasti povodí Dunaje.*
 >
-> *(2) Plány povodí (...) se zpracovávají ve třech úrovních pro mezinárodní oblasti povodí (...), části mezinárodních oblastí povodí na území České republiky (...) a dílčí povodí.*
+> *(2) Plány povodí podle § 23 odst. 2 se zpracovávají ve třech úrovních pro mezinárodní oblasti povodí (dále jen „mezinárodní plány povodí“), části mezinárodních oblastí povodí na území České republiky (dále jen „národní plány povodí“) a dílčí povodí.*
 >
-> *(3) Ministerstvo životního prostředí a Ministerstvo zemědělství spolupracují v rámci mezinárodních komisí na zpracování mezinárodních plánů povodí (...).*
+> *(3) Ministerstvo životního prostředí a Ministerstvo zemědělství spolupracují v rámci mezinárodních komisí16) na zpracování mezinárodních plánů povodí a mezinárodních plánů pro zvládání povodňových rizik nebo souboru plánů pro zvládání povodňových rizik koordinovaných na úrovni mezinárodní oblasti povodí.*
 >
 > *(4) Národní plány povodí stanoví cíle:*
 >
 > *- a) pro ochranu a zlepšování stavu povrchových a podzemních vod a vodních ekosystémů,*
+>
 > *- b) ke snížení nepříznivých účinků povodní a sucha,*
+>
 > *- c) pro hospodaření s povrchovými a podzemními vodami a udržitelné užívání těchto vod pro zajištění vodohospodářských služeb a*
+>
 > *- d) pro zlepšování vodních poměrů a pro ochranu ekologické stability krajiny.*
 >
-> *(5) Národní plán povodí Labe je doplněn plány povodí pro pět dílčích povodí (...).*
+> *Dále obsahují souhrny programů opatření k dosažení uvedených cílů a stanoví strategii jejich financování.*
 >
-> *(6) Národní plán povodí Odry je doplněn plány povodí pro dvě dílčí povodí (...).*
+> *(5) Národní plán povodí Labe je doplněn plány povodí pro pět dílčích povodí, a to pro dílčí povodí Horního a středního Labe, dílčí povodí Horní Vltavy, dílčí povodí Berounky, dílčí povodí Dolní Vltavy a dílčí povodí Ohře, Dolního Labe a ostatních přítoků Labe.*
 >
-> *(7) Národní plán povodí Dunaje je doplněn plány povodí pro tři dílčí povodí (...).*
+> *(6) Národní plán povodí Odry je doplněn plány povodí pro dvě dílčí povodí, a to pro dílčí povodí Horní Odry, dílčí povodí Lužické Nisy a ostatních přítoků Odry.*
+>
+> *(7) Národní plán povodí Dunaje je doplněn plány povodí pro tři dílčí povodí, a to pro dílčí povodí Moravy a přítoků Váhu, dílčí povodí Dyje a dílčí povodí ostatních přítoků Dunaje.*
+>
+> *(8) Plány dílčích povodí stanoví návrhy programů opatření, které jsou nutné k dosažení cílů pro dané dílčí povodí na základě zjištěného stavu povrchových a podzemních vod, hodnocení povodňových rizik, potřeb užívání vodních zdrojů, a časový plán jejich uskutečnění.*
+>
+> *(9) Ministerstvo zemědělství stanoví vyhláškou vymezení jednotlivých částí mezinárodních oblastí povodí na území České republiky, jednotlivých dílčích povodí podle odstavců 5 až 7 a přiřazených hydrogeologických rajonů, a dále do kterých správních obvodů krajů a správních obvodů obcí s rozšířenou působností a do územní působnosti kterých správců povodí spadají.*
+>
+> *(10) Národní plány povodí pořizuje Ministerstvo zemědělství a Ministerstvo životního prostředí ve spolupráci s příslušnými správci povodí a místně příslušnými krajskými úřady. Národní plány povodí schvaluje vláda.*
+>
+> *(11) Plány pro zvládání povodňových rizik pořizuje Ministerstvo životního prostředí a Ministerstvo zemědělství ve spolupráci s příslušnými správci povodí a místně příslušnými krajskými úřady. Plány pro zvládání povodňových rizik schvaluje vláda.*
+>
+> *(12) Národní plány povodí a plány pro zvládání povodňových rizik jsou začleněny do mezinárodních plánů podle odstavce 3.*
+>
+> *(13) Plány dílčích povodí pořizují správci povodí podle své působnosti ve spolupráci s příslušnými krajskými úřady a ve spolupráci s ústředními vodoprávními úřady. Plány dílčích povodí schvalují podle své územní působnosti kraje.*
 
 **Výklad:**
 
@@ -1215,9 +1463,23 @@ Národní plány povodí vydává **Ministerstvo zemědělství jako opatření 
 
 > **§ 25**
 >
-> *(1) Plány povodí a plány pro zvládání povodňových rizik se zpracovávají ve třech etapách (...).*
+> *(1) Plány povodí a plány pro zvládání povodňových rizik se zpracovávají ve třech etapách, které představují:*
 >
-> *(3) Plány povodí a plány pro zvládání povodňových rizik se přezkoumávají a aktualizují každých 6 let ode dne jejich schválení (...).*
+> *- a) přípravné práce, které musí obsahovat*
+>
+> *- 1. předběžné vyhodnocení povodňových rizik a vymezení oblastí s významným povodňovým rizikem, které se musí zveřejnit a zpřístupnit veřejnosti k připomínkám, a to nejméně 4 roky před začátkem období, kterého se budou plány pro zvládání povodňových rizik týkat,*
+>
+> *- 2. časový plán a program prací pro zpracování plánů povodí, který se musí zveřejnit a zpřístupnit uživatelům vody a veřejnosti k připomínkám, a to nejméně 3 roky před začátkem období, kterého se budou plány povodí týkat,*
+>
+> *- 3. analýzu všeobecných a vodohospodářských charakteristik povodí, zhodnocení dopadů lidské činnosti na stav povrchových a podzemních vod, mapy povodňového nebezpečí a mapy povodňových rizik pro oblasti vymezené podle bodu 1, ekonomickou analýzu užívání vody, a na jejich základě zpracovaný předběžný přehled významných problémů nakládání s vodami zjištěných v povodí, včetně uvedení umělých vodních útvarů, určení silně ovlivněných vodních útvarů a jeho zdůvodnění, který se musí zveřejnit a zpřístupnit uživatelům vody a veřejnosti k připomínkám, a to nejméně 2 roky před začátkem období, kterého se budou plány povodí a plány pro zvládání povodňových rizik týkat,*
+>
+> *- b) zpracování návrhů plánů povodí a návrhů plánů pro zvládání povodňových rizik, které musí být zpracovány podle výsledků přípravných prací a obsahovat programy opatření k dosažení cílů podle § 24 odst. 4, zveřejněny a zpřístupněny uživatelům vody a veřejnosti k připomínkám nejméně 1 rok před začátkem období, kterého se budou plány povodí a plány pro zvládání povodňových rizik týkat,*
+>
+> *- c) zpracování plánů povodí a plánů pro zvládání povodňových rizik upravených podle vyhodnocení konzultací s uživateli vody a veřejností.*
+>
+> *(2) Ministerstvo zemědělství a Ministerstvo životního prostředí stanoví vyhláškou obsah plánů povodí a plánů pro zvládání povodňových rizik, způsob zpracování plánů, podrobnosti etap zpracování podle odstavce 1 včetně způsobu a formy zpracování předběžného vyhodnocení povodňových rizik, způsobu stanovení oblastí s významným povodňovým rizikem, obsahu a způsobu zpracování map povodňového nebezpečí a map povodňových rizik a formy jejich zveřejnění, způsob zpřístupnění přípravných prací a návrhů plánů povodí a návrhů plánů pro zvládání povodňových rizik pro aktivní zapojení uživatelů vody a veřejnosti.*
+>
+> *(3) Plány povodí a plány pro zvládání povodňových rizik se přezkoumávají a aktualizují každých 6 let ode dne jejich schválení podle postupů uvedených v odstavcích 1 a 2.*
 >
 > *(4) Národní plány povodí vydává Ministerstvo zemědělství jako opatření obecné povahy.*
 >
@@ -1256,16 +1518,35 @@ V ČR proběhly dosud čtyři cykly plánování:
 >
 > *(1) Programy opatření jsou hlavním nástrojem k dosažení cílů uvedených v plánech povodí a plánech pro zvládání povodňových rizik. Opatření přijatá k dosažení cílů ochrany vod v programu opatření je nutno uskutečnit do 3 let od schválení plánů povodí.*
 >
-> *(2) Programy opatření k dosažení cílů ochrany vod musí obsahovat základní opatření, a tam, kde je to nutné, i doplňková opatření. (...)*
+> *(2) Programy opatření k dosažení cílů ochrany vod musí obsahovat základní opatření, a tam, kde je to nutné, i doplňková opatření. Vymezení obsahu základních a doplňkových opatření a postupy při zavádění opatření, včetně vytýčení přísnějších cílů ochrany vod a dodatečných opatření stanoví vyhláškou Ministerstvo zemědělství a Ministerstvo životního prostředí.*
 >
-> *(4) Pokud zjišťování a hodnocení stavu povrchových a podzemních vod (...) nebo jiné údaje naznačují, že cíle ochrany vod stanovené pro příslušný vodní útvar (...) nebudou pravděpodobně dosaženy, musí být*
+> *(3) Opatření přijatá v plánech pro zvládání povodňových rizik nesmí svým rozsahem a dopadem významně zvyšovat povodňová rizika po proudu či proti proudu vodního toku, pokud taková opatření nebyla koordinována a dohodnuta v rámci částí mezinárodních oblastí povodí na území České republiky nebo v rámci mezinárodních oblastí povodí.*
+>
+> *(4) Pokud zjišťování a hodnocení stavu povrchových a podzemních vod podle § 21 nebo jiné údaje naznačují, že cíle ochrany vod stanovené pro příslušný vodní útvar podle § 23a nebudou pravděpodobně dosaženy, musí být*
 >
 > *- a) vyšetřeny příčiny možného nesplnění,*
-> *- b) přešetřena odpovídající povolení k nakládání s vodami (...),*
-> *- c) přešetřeny a upraveny programy pro zjišťování a hodnocení stavu (...),*
-> *- d) přijata dodatečná opatření pro dosažení těchto cílů ochrany vod (...).*
 >
-> *(7) Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí a krajskými úřady předkládá každé 3 roky vládě souhrnnou zprávu o plnění programů opatření (...).*
+> *- b) přešetřena odpovídající povolení k nakládání s vodami, na něž se vztahuje § 12 odst. 3 písm. a),*
+>
+> *- c) přešetřeny a upraveny programy pro zjišťování a hodnocení stavu povrchových a podzemních vod,*
+>
+> *- d) přijata dodatečná opatření pro dosažení těchto cílů ochrany vod, včetně stanovení přísnějších hodnot vybraných ukazatelů, nebo stanovit další ukazatele, pokud je to účelné.*
+>
+> *(5) V případech dočasného zhoršení stavu vodních útvarů daného okolnostmi přírodní povahy nebo vyšší mocí, které jsou výjimečné nebo nemohly být rozumně předvídány, jako v případě extrémních povodní nebo období déletrvajícího sucha nebo v důsledku havárií, je nutné splnit tyto podmínky:*
+>
+> *- a) přijmout všechna vhodná opatření s cílem předejít dalšímu zhoršování stavu a neustoupit od dosažení cílů ochrany vod podle § 23a odst. 1 u ostatních vodních útvarů neovlivněných těmito mimořádnými okolnostmi,*
+>
+> *- b) podmínky, za kterých mohou být okolnosti označeny za mimořádné nebo rozumně nepředpověditelné, jsou uvedeny, včetně zavedení příslušných ukazatelů, v plánu povodí,*
+>
+> *- c) opatření, která mají být přijata za takovýchto mimořádných okolností, jsou zahrnuta do programů opatření a nebudou oslabovat obnovu jakosti daného vodního útvaru po skončení mimořádných okolností,*
+>
+> *- d) důsledky mimořádných nebo rozumně nepředpověditelných okolností se každoročně přezkoumají a s ohledem na důvody prodloužení lhůt stanovené v § 23a odst. 5 a stanovení méně přísných cílů v § 23a odst. 6 se přijmou všechna proveditelná opatření s cílem v co možná nejkratším čase obnovit ve vodním útvaru stav, který byl před mimořádnou okolností, a*
+>
+> *- e) souhrn důsledků mimořádných okolností a opatření, která byla nebo mají být přijata v souladu s písmeny a) a d), se uvedou v nejbližší aktualizaci plánu povodí.*
+>
+> *(6) Uskutečnění opatření podle odstavce 2 nesmí vést ke zhoršení znečištění pobřežních vod a moří nebo ke zvýšení znečištění povrchových vod. Tento požadavek se neuplatní, pokud by jeho důsledkem bylo zvýšené znečištění životního prostředí jako celku.*
+>
+> *(7) Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí a krajskými úřady předkládá každé 3 roky vládě souhrnnou zprávu o plnění programů opatření a o stavu povrchových a podzemních vod a hospodaření s vodami v oblastech povodí.*
 
 **Výklad:**
 
@@ -1400,13 +1681,45 @@ Odst. 2 zakládá **odpovědnost za škodu** osoby, která způsobí ztrátu neb
 
 > **§ 30**
 >
-> *(1) K ochraně vydatnosti, jakosti a zdravotní nezávadnosti zdrojů podzemních nebo povrchových vod využívaných nebo využitelných pro zásobování pitnou vodou s průměrným odběrem více než 10 000 m³ za rok a zdrojů podzemní vody pro výrobu balené kojenecké vody nebo pramenité vody stanoví vodoprávní úřad ochranná pásma opatřením obecné povahy. (...) Stanovení ochranných pásem je vždy veřejným zájmem.*
+> *(1) K ochraně vydatnosti, jakosti a zdravotní nezávadnosti zdrojů podzemních nebo povrchových vod využívaných nebo využitelných pro zásobování pitnou vodou s průměrným odběrem více než 10 000 m3 za rok a zdrojů podzemní vody pro výrobu balené kojenecké vody nebo pramenité vody stanoví vodoprávní úřad ochranná pásma opatřením obecné povahy. Vyžadují-li to závažné okolnosti, může vodoprávní úřad stanovit ochranná pásma i pro vodní zdroje s nižší kapacitou, než je uvedeno v první větě. Vodoprávní úřad může ze závažných důvodů ochranné pásmo změnit, popřípadě je zrušit. Stanovení ochranných pásem je vždy veřejným zájmem.*
 >
 > *(2) Ochranná pásma se dělí na ochranná pásma I. stupně, která slouží k ochraně vodního zdroje v bezprostředním okolí jímacího nebo odběrného zařízení, a ochranná pásma II. stupně, která slouží k ochraně vodního zdroje v územích stanovených vodoprávním úřadem tak, aby nedocházelo k ohrožení jeho vydatnosti, jakosti nebo zdravotní nezávadnosti.*
 >
-> *(7) Do ochranného pásma I. stupně je zakázán vstup a vjezd; to neplatí pro osoby, které mají právo vodu z vodního zdroje odebírat (...). Vodoprávní úřad může stanovit rozhodnutím nebo opatřením obecné povahy i další výjimky ze zákazu vstupu a vjezdu.*
+> *(3) Ochranné pásmo I. stupně stanoví vodoprávní úřad jako souvislé území*
+>
+> *- a) u vodárenských nádrží a u dalších nádrží určených výhradně pro zásobování pitnou vodou minimálně pro celou plochu hladiny nádrže při maximálním vzdutí,*
+>
+> *- b) u ostatních nádrží s vodárenským využitím než uvedených pod písmenem a) s minimální vzdáleností hranice jeho vymezení na hladině nádrže 100 m od odběrného zařízení,*
+>
+> *- c) u vodních toků*
+>
+> *  - 1. s jezovým vzdutím na břehu odběru minimálně v délce 200 m nad místem odběru proti proudu, po proudu do vzdálenosti 100 m nebo k hraně vzdouvacího objektu a šířce ochranného pásma 15 m, ve vodním toku zahrnuje minimálně jednu polovinu jeho šířky v místě odběru,*
+>
+> *  - 2. bez jezového vzdutí na břehu odběru minimálně v délce 200 m nad místem odběru proti proudu, po proudu do vzdálenosti 50 m od místa odběru a šířce ochranného pásma 15 m, ve vodním toku zahrnuje minimálně jednu třetinu jeho šířky v místě odběru,*
+>
+> *- d) u zdrojů podzemní vody s minimální vzdáleností hranice jeho vymezení 10 m od odběrného zařízení,*
+>
+> *- e) v ostatních případech individuálně.*
+>
+> *(4) Vodoprávní úřad může stanovit v odůvodněných případech ochranné pásmo I. stupně v rozsahu menším, než je uveden v odstavci 3 písm. a) až d).*
+>
+> *(5) Ochranné pásmo II. stupně se stanoví vně ochranného pásma I. stupně; může být tvořeno jedním souvislým nebo více od sebe oddělenými územími v rámci hydrologického povodí nebo hydrogeologického rajonu. Vodoprávní úřad může ochranné pásmo II. stupně, je-li to účelné, stanovovat postupně po jednotlivých územích.*
+>
+> *(6) Ochranná pásma stanoví vodoprávní úřad na návrh nebo z vlastního podnětu. Nepodají-li návrh na jejich stanovení ti, kteří mají právo vodu z vodního zdroje odebírat, popřípadě ti, kteří o povolení k takovému odběru žádají, u vodárenských nádrží pak ti, kteří vlastní vodní díla sloužící ke vzdouvání vody v takových nádržích nebo jsou jejich stavebníky, může jim předložení tohoto návrhu s potřebnými podklady vodoprávní úřad uložit. Za vodárenské nádrže podle předchozí věty se považují nádrže uvedené v seznamu podle odstavce 13.*
+>
+> *(7) Do ochranného pásma I. stupně je zakázán vstup a vjezd; to neplatí pro osoby, které mají právo vodu z vodního zdroje odebírat, a u vodárenských nádrží pro osoby, které tato vodní díla vlastní. Vodoprávní úřad může stanovit rozhodnutím nebo opatřením obecné povahy i další výjimky ze zákazu vstupu a vjezdu.*
 >
 > *(8) V ochranném pásmu I. a II. stupně je zakázáno provádět činnosti poškozující nebo ohrožující vydatnost, jakost nebo zdravotní nezávadnost vodního zdroje, jejichž rozsah je vymezen v opatření obecné povahy o stanovení nebo změně ochranného pásma.*
+>
+> *(9) Odpadne-li důvod ochrany, vodoprávní úřad ochranné pásmo opatřením obecné povahy zruší.*
+>
+> *(10) V opatření obecné povahy o stanovení nebo změně ochranného pásma vodního zdroje vodoprávní úřad stanoví, které činnosti poškozující nebo ohrožující vydatnost, jakost nebo zdravotní nezávadnost vodního zdroje nelze v tomto pásmu provádět, jaká technická opatření jsou v ochranném pásmu povinny provést osoby podle odstavce 12, popřípadě způsob a dobu omezení užívání pozemků a staveb v tomto pásmu ležících.*
+>
+> *(11) Za prokázané omezení užívání pozemků a staveb v ochranných pásmech vodních zdrojů náleží vlastníkům nebo nájemcům nebo pachtýřům těchto pozemků a staveb náhrada, kterou jsou povinni na jejich žádost poskytnout v případě vodárenských nádrží vlastníci vodních děl umožňujících v nich vzdouvání vody, v ostatních případech oprávnění (§ 8) k odběru vody z vodního zdroje; je-li jich více, poměrně podle povoleného množství odebírané vody. Nedojde-li o poskytnutí náhrady k dohodě, rozhodne o jednorázové náhradě soud.*
+>
+> *(12) Náklady spojené s technickými úpravami v ochranných pásmech vodních zdrojů uloženými vodoprávním úřadem k ochraně vydatnosti, jakosti a zdravotní nezávadnosti nesou ti, kteří jsou oprávněni vodu z těchto vodních zdrojů odebírat, popřípadě o povolení k jejímu odběru žádají, u vodárenských nádrží pak vlastníci nebo stavebníci vodních děl sloužících ke vzdouvání vody.*
+>
+> *(13) Ministerstvo životního prostředí vyhláškou stanoví seznam vodárenských nádrží a zásady pro stanovení a změny ochranných pásem vodních zdrojů.*
 
 **Výklad:**
 
@@ -1531,7 +1844,11 @@ Akční program a vymezení zranitelných oblastí se přezkoumávají **v inter
 
 > **§ 34**
 >
-> *(1) Správci povodí ve spolupráci s Ministerstvem životního prostředí, Ministerstvem zdravotnictví, vodoprávními úřady a příslušnými krajskými hygienickými stanicemi sestavují, přezkoumávají a aktualizují profily vod uvedených v seznamu přírodních koupališť (...).*
+> *(1) Správci povodí ve spolupráci s Ministerstvem životního prostředí, Ministerstvem zdravotnictví, vodoprávními úřady a příslušnými krajskými hygienickými stanicemi sestavují, přezkoumávají a aktualizují profily vod uvedených v seznamu přírodních koupališť provozovaných na povrchových vodách využívaných ke koupání a dalších povrchových vod, kde lze očekávat, že se v nich bude koupat velký počet osob48). Profil povrchových vod využívaných ke koupání je souhrn údajů o povrchových vodách uvedených v seznamu sestaveném podle zákona o ochraně veřejného zdraví48). Profil povrchových vod využívaných ke koupání může být sestaven pro několik spolu sousedících povrchových vod. Obsah a způsob sestavení profilu povrchových vod využívaných ke koupání, podmínky jeho přezkumu a aktualizace a rozsah a způsob předávání podkladů správcům povodí stanoví Ministerstvo zemědělství v dohodě s Ministerstvem životního prostředí a Ministerstvem zdravotnictví vyhláškou.*
+>
+> *(2) Ukazatele a hodnoty přípustného znečištění vod pro účely povolování vypouštění odpadních vod do vod povrchových uvedených v seznamu sestaveném podle zákona o ochraně veřejného zdraví48) a program snížení znečištění těchto vod k dosažení hodnot přípustného znečištění těchto vod stanoví vláda nařízením.*
+>
+> *(3) Pokud povrchové vody uvedené v seznamu sestaveném podle zákona o ochraně veřejného zdraví48) přestanou trvale nebo opakovaně odpovídat požadavkům na jakost vody pro koupání, které jsou stanoveny zvláštním právním předpisem nebo v nařízení vlády podle odstavce 2, uloží nebo přijme vodoprávní úřad k nápravě tohoto stavu odpovídající opatření, a to po projednání s orgány ochrany veřejného zdraví a správcem povodí. Povrchové vody uvedené v seznamu musí do konce koupací sezóny 2015 splňovat požadavky na přijatelnou kvalitu vody.*
 
 **Výklad:**
 
@@ -1549,7 +1866,11 @@ Krajské hygienické stanice kontrolují **mikrobiologickou jakost** vody pro ko
 
 > **§ 35**
 >
-> *(1) Povrchové vody, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů, s rozdělením na vody lososové a kaprové (...).*
+> *(1) Povrchové vody, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů, s rozdělením na vody lososové a kaprové, ukazatele a hodnoty přípustného znečištění těchto vod, způsob zjišťování a hodnocení stavu jakosti těchto vod a program snížení znečištění těchto vod k dosažení hodnot přípustného znečištění těchto vod, stanoví vláda nařízením.*
+>
+> *(2) U vodárenských nebo jiných vodních nádrží nebo na úsecích vodních toků může vodoprávní úřad uložit jejich vlastníkovi, správci vodního toku a uživateli rybářského revíru též způsob rybářského obhospodařování.*
+>
+> *(3) Vypouštět ryby a ostatní vodní živočichy geneticky nevhodných a neprověřených populací přirozených druhů do vodních toků a vodních nádrží bez souhlasu příslušného vodoprávního úřadu, je zakázáno. V případě nepůvodních druhů se postupuje podle zákona o ochraně přírody a krajiny14a).*
 
 **Výklad:**
 
@@ -1570,7 +1891,9 @@ Hodnoty přípustného znečištění stanoví nařízení vlády č. 71/2003 Sb
 >
 > *(1) Minimálním zůstatkovým průtokem je průtok povrchových vod, který ještě umožňuje obecné nakládání s povrchovými vodami a ekologické funkce vodního toku a zohledňuje možnosti rekreační plavby.*
 >
-> *(2) Minimální zůstatkový průtok stanoví vodoprávní úřad v povolení k nakládání s vodami. (...)*
+> *(2) Minimální zůstatkový průtok stanoví vodoprávní úřad v povolení k nakládání s vodami. Vodoprávní úřad přitom přihlédne k podmínkám vodního toku a možnostem rekreační plavby, charakteru nakládání s vodami a vychází z opatření k dosažení cílů ochrany vod přijatých v plánu povodí podle § 26. Dále stanoví místo a způsob měření minimálního zůstatkového průtoku a četnost předkládání výsledků těchto měření vodoprávnímu úřadu.*
+>
+> *(3) Způsob a kritéria stanovení minimálního zůstatkového průtoku podle odstavce 2 stanoví vláda nařízením.*
 
 **Výklad:**
 
@@ -1607,11 +1930,37 @@ Minimální hladina je významná zejména pro **udržitelnost odběrů**, **och
 
 > **§ 38**
 >
-> *(1) Odpadní vody jsou vody použité v obytných, průmyslových, zemědělských, zdravotnických a jiných stavbách, zařízeních nebo dopravních prostředcích, pokud mají po použití změněnou jakost (složení nebo teplotu) a jejich směsi se srážkovými vodami, jakož i jiné vody z těchto staveb, zařízení nebo dopravních prostředků odtékající, pokud mohou ohrozit jakost povrchových nebo podzemních vod. Odpadní vody jsou i průsakové vody vznikající při provozování skládek a odkališť (...).*
+> *(1) Odpadní vody jsou vody použité v obytných, průmyslových, zemědělských, zdravotnických a jiných stavbách, zařízeních nebo dopravních prostředcích, pokud mají po použití změněnou jakost (složení nebo teplotu) a jejich směsi se srážkovými vodami, jakož i jiné vody z těchto staveb, zařízení nebo dopravních prostředků odtékající, pokud mohou ohrozit jakost povrchových nebo podzemních vod. Odpadní vody jsou i průsakové vody vznikající při provozování skládek a odkališť nebo během následné péče o ně, s výjimkou vod, které jsou zpětně využívány pro vlastní potřebu organizace, a vod, které odtékají do vod důlních.*
 >
-> *(8) Přímé vypouštění odpadních vod do podzemních vod je zakázáno. (...) lze povolit (...) přes půdní vrstvy do vod podzemních (...).*
+> *(2) Odpadní vody zneškodňované na komunální čistírně odpadních vod, kterou se rozumí zařízení pro čištění městských odpadních vod vybavené technologií pro likvidaci splašků, musí svým složením odpovídat platnému kanalizačnímu řádu.*
 >
-> *(9) Při povolování vypouštění odpadních vod do vod povrchových nebo podzemních stanoví vodoprávní úřad nejvýše přípustné hodnoty množství a koncentrace vypouštěného znečištění (emisní limity) a objemu vypouštěných vod. (...)*
+> *(3) Odvádí-li se odpadní voda a srážková voda společně jednotnou kanalizací10a), stává se srážková voda vtokem do této kanalizace vodou odpadní.*
+>
+> *(4) Vody z drenážních systémů odvodňovaných zemědělských pozemků, chladící vody užité na plavidlech a pro vodní turbíny, u nichž došlo pouze ke zvýšení teploty, a nepoužité minerální vody z přírodního léčivého zdroje nebo zdroje přírodní minerální vody nejsou odpadními vodami podle tohoto zákona. Odpadními vodami nejsou ani srážkové vody z pozemních komunikací, pokud je znečištění těchto vod závadnými látkami řešeno technickými opatřeními podle vyhlášky, kterou se provádí zákon o pozemních komunikacích21a).*
+>
+> *(5) Zneškodňováním odpadních vod se pro účely tohoto zákona rozumí jejich vypouštění do vod povrchových nebo podzemních nebo akumulace s jejich následným odvozem na čistírnu odpadních vod podle odstavce 8. Kdo vypouští odpadní vody do vod povrchových nebo podzemních, je povinen zajišťovat jejich zneškodňování v souladu s podmínkami stanovenými v povolení k jejich vypouštění. Při stanovování těchto podmínek je vodoprávní úřad povinen přihlížet k nejlepším dostupným technologiím v oblasti zneškodňování odpadních vod, kterými se rozumí nejúčinnější a nejpokročilejší stupeň vývoje použité technologie zneškodňování nebo čištění odpadních vod, vyvinuté v měřítku umožňujícím její zavedení za ekonomicky a technicky přijatelných podmínek a zároveň nejúčinnější pro ochranu vod. Kdo vypouští důlní vody do vod povrchových nebo podzemních podle zákona o ochraně a využití nerostného bohatství1a), může tak činit pouze způsobem a za podmínek, které stanoví vodoprávní úřad.*
+>
+> *(6) Kdo vypouští odpadní vody do vod povrchových nebo podzemních, je povinen v souladu s rozhodnutím vodoprávního úřadu měřit objem vypouštěných vod a míru jejich znečištění a výsledky těchto měření předávat vodoprávnímu úřadu, který rozhodnutí vydal, příslušnému správci povodí a pověřenému odbornému subjektu. Vodoprávní úřad tímto rozhodnutím stanoví místo a způsob měření objemu a znečištění vypouštěných odpadních vod a četnost předkládání výsledků těchto měření. Odběry a rozbory ke zjištění míry znečištění vypouštěných odpadních vod mohou provádět jen odborně způsobilé osoby oprávněné k podnikání (dále jen „oprávněná laboratoř“). Odborná způsobilost pro rozbory odpadních vod a provádění odběrů vzorků se prokazuje osvědčením o akreditaci vydaným podle zákona o technických požadavcích na výrobky57), osvědčením o správné činnosti laboratoře nebo autorizací k výkonu úředního měření podle zákona o metrologii58), vztahující se na analytické stanovení relevantních ukazatelů a na odběr požadovaného typu vzorků odpadních vod.*
+>
+> *(7) Kdo akumuluje odpadní vody v bezodtokové jímce, je povinen zajišťovat jejich zneškodňování odvozem na čistírnu odpadních vod a na výzvu vodoprávního úřadu nebo České inspekce životního prostředí předložit doklady o odvozu odpadních vod za období posledních dvou kalendářních let. Odvoz může provádět pouze provozovatel čistírny odpadních vod nebo osoba oprávněná podle živnostenského zákona23). Ten, kdo provede odvoz, je povinen tomu, kdo akumuluje odpadní vody v bezodtokové jímce, vydat doklad, ze kterého bude patrno jméno toho, kdo akumuluje odpadní vody v bezodtokové jímce, lokalizace jímky, množství odvezených odpadních vod, datum odvozu, název osoby, která odpadní vodu odvezla, a název čistírny odpadních vod, na které budou odpadní vody zneškodněny.*
+>
+> *(8) Přímé vypouštění odpadních vod do podzemních vod je zakázáno. Vypouštění odpadních vod neobsahujících nebezpečné závadné látky nebo zvlášť nebezpečné závadné látky (§ 39 odst. 4) z jedné nebo několika územně souvisejících staveb pro bydlení50), staveb pro rodinnou rekreaci51) nebo z jednotlivých staveb poskytujících ubytovací služby52), vznikajících převážně jako produkt lidského metabolismu a činností v domácnostech, přes půdní vrstvy do vod podzemních lze povolit, pokud není v daném případě technicky možné nebo s ohledem na zájmy chráněné tímto zákonem nebo jinými právními předpisy možné nebo žádoucí, vypouštění odpadních vod do vod povrchových. Povolení vypouštění odpadních vod do vod podzemních podle věty druhé nelze vydat bez souhlasného vyjádření osoby s odbornou způsobilostí8), která posoudí vliv vypouštění odpadních vod na jakost podzemních vod. Maximální povolené množství odpadních vod vypouštěné z jedné nebo několika územně souvisejících staveb pro bydlení nesmí celkově přesáhnout 15 m3/den.*
+>
+> *(9) Při povolování vypouštění odpadních vod do vod povrchových nebo podzemních stanoví vodoprávní úřad nejvýše přípustné hodnoty množství a koncentrace vypouštěného znečištění (emisní limity) a objemu vypouštěných vod. Při povolování vypouštění odpadních vod do vod povrchových je vázán ukazateli vyjadřujícími stav vody ve vodním toku, normami environmentální kvality, ukazateli a hodnotami přípustného znečištění povrchových vod, ukazateli a nejvýše přípustnými hodnotami ukazatelů znečištění odpadních vod (emisní standardy) stanovenými nařízením vlády a náležitostmi a podmínkami povolení k vypouštění odpadních vod, včetně specifikací nejlepších dostupných technologií v oblasti zneškodňování odpadních vod a podmínek jejich použití, které stanoví vláda nařízením a nejlepšími dostupnými technikami59) v oblasti zneškodňování odpadních vod. Při povolování vypouštění odpadních vod do vod podzemních je vázán ukazateli vyjadřujícími stav podzemní vody v příslušném útvaru podzemní vody, ukazateli a hodnotami přípustného znečištění podzemních vod, ukazateli a přípustnými hodnotami znečištění odpadních vod a náležitostmi a podmínkami povolení k vypouštění odpadních vod do vod podzemních, které stanoví vláda nařízením.*
+>
+> *(10) Při povolování vypouštění odpadních vod do vod povrchových nebo podzemních vodoprávní úřad*
+>
+> *- a) přihlíží k potřebě dosažení nebo zachování dobrého stavu povrchových nebo podzemních vod a na vodu vázaných ekosystémů a*
+>
+> *- b) posuzuje možnosti omezování znečištění u jeho zdroje i omezování emisí do životního prostředí jako celku a možnosti opětovného využívání odpadních vod.*
+>
+> *(11) Vyžadují-li to cíle stanovené v příslušném plánu povodí nebo cíle ochrany vod či normy environmentální kvality stanovené přímo použitelným předpisem Evropské unie, stanoví vodoprávní úřad v povolení přísnější emisní limity, než jsou emisní limity stanovené podle odstavce 9, popřípadě může stanovit další ukazatele a jejich emisní limity. Vodoprávním úřadem stanovené emisní limity nesmí být přísnější než hodnoty dosažitelné při použití nejlepších dostupných technik v oblasti zneškodňování odpadních vod59). Uvedený postup platí obdobně pro případy stanovení ukazatelů znečištění a emisních standardů stanovených nařízením vlády podle § 31, 34 a 35.*
+>
+> *(12) Vodoprávní úřad může při povolování vypouštění odpadních vod z průmyslových staveb a zařízení uložit zneškodňování odpadních vod z jednotlivých dílčích výrob nebo chladících vod odděleně od ostatních odpadních vod.*
+>
+> *(13) Vodoprávní úřad může na základě žádosti znečišťovatele povolit ve výjimečných případech na nezbytně nutnou dobu, zejména při uvádění čistírny odpadních vod do provozu, při zkušebním provozu, nezbytných opravách či změnách zařízení ke zneškodňování odpadních vod a při haváriích těchto zařízení a v případech, kdy odpadní vody budou do povrchových vod vypouštěny řízeným způsobem, při současném stanovení dalších podmínek, které omezí možnost zhoršení jakosti povrchových vod, vypouštění odpadních vod s přípustnými hodnotami ukazatelů znečištění odpadních vod vyššími než hodnoty stanovené vládou nařízením podle odstavce 9 nebo podle § 31.*
+>
+> *(14) V pochybnostech o tom, zda se jedná o odpadní vody, rozhoduje vodoprávní úřad.*
 
 **Výklad:**
 
@@ -1666,13 +2015,61 @@ Pokud cíle ochrany vod vyžadují **přísnější limity**, vodoprávní úřa
 
 > **§ 39**
 >
-> *(1) Závadné látky jsou látky, které nejsou odpadními ani důlními vodami a které mohou ohrozit jakost povrchových nebo podzemních vod (...).*
+> *(1) Závadné látky jsou látky, které nejsou odpadními ani důlními vodami a které mohou ohrozit jakost povrchových nebo podzemních vod (dále jen „závadné látky“). Každý, kdo zachází se závadnými látkami, je povinen učinit přiměřená opatření, aby nevnikly do povrchových nebo podzemních vod a neohrozily jejich prostředí.*
 >
-> *(2) V případech, kdy uživatel závadných látek zachází s těmito látkami ve větším rozsahu nebo kdy zacházení s nimi je spojeno se zvýšeným nebezpečím (...), má povinnost činit tato opatření:*
+> *(2) V případech, kdy uživatel závadných látek zachází s těmito látkami ve větším rozsahu nebo kdy zacházení s nimi je spojeno se zvýšeným nebezpečím pro povrchové nebo podzemní vody, má uživatel závadných látek povinnost činit tato opatření:*
 >
-> *- a) vypracovat plán opatření pro případy havárie (havarijní plán) (...).*
+> *- a) vypracovat plán opatření pro případy havárie (dále jen „havarijní plán“) a předložit jej ke schválení příslušnému vodoprávnímu úřadu; může-li havárie ovlivnit vodní tok, projedná jej uživatel závadných látek před předložením ke schválení s příslušným správcem vodního toku, kterému také předá jedno jeho vyhotovení a po schválení vodoprávním úřadem vloží havarijní plán do integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí,*
 >
-> *(4) Seznam nebezpečných závadných látek (...) je uveden v příloze č. 1 (...).*
+> *- b) provádět záznamy o provedených opatřeních a tyto záznamy uchovávat po dobu 5 let.*
+>
+> *(3) Povinnost vložení havarijního plánu do integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí podle odstavce 2 písm. a) se nevztahuje na havarijní plán vypracovaný pro závadnou látku statkové hnojivo, je-li v kterémkoliv okamžiku nakládáno s tuhým statkovým hnojivem v celkovém množství do 400 tun včetně nebo s tekutým statkovým hnojivem v celkovém množství do 200 tun včetně.*
+>
+> *(4) Seznam nebezpečných závadných látek a dalších látek nebo skupin látek, které v obdobné míře vyvolávají znepokojení, je uveden v příloze č. 1 k tomuto zákonu; tento seznam obsahuje i zvlášť nebezpečné závadné látky. Zvláštní kategorií nebezpečných závadných látek jsou prioritní látky, které představují významné riziko pro vodní prostředí a související ekosystémy. Seznam prioritních látek stanoví vláda nařízením. Součástí seznamu prioritních látek je také kategorie prioritní nebezpečné látky, což jsou látky, které vytvářejí velmi vysoké riziko ve vodním prostředí nebo zprostředkovaně přes vodní prostředí z důvodu své perzistence a schopnosti bioakumulace. K omezení znečišťování povrchových a podzemních vod nebezpečnými závadnými látkami a zvlášť nebezpečnými závadnými látkami může vláda přijmout na návrh Ministerstva životního prostředí Program na snížení znečištění povrchových a podzemních vod nebezpečnými závadnými látkami a zvlášť nebezpečnými závadnými látkami.*
+>
+> *(5) Každý, kdo zachází se zvlášť nebezpečnými závadnými látkami nebo nebezpečnými závadnými látkami nebo kdo zachází se závadnými látkami ve větším rozsahu nebo kdy zacházení s nimi je spojeno se zvýšeným nebezpečím, je povinen učinit odpovídající opatření, aby nevnikly do povrchových nebo podzemních vod nebo do kanalizací, které netvoří součást technologického vybavení výrobního zařízení. Je povinen zejména*
+>
+> *- a) umístit zařízení, v němž se závadné látky používají, zachycují, skladují, zpracovávají nebo dopravují, tak, aby bylo zabráněno nežádoucímu úniku těchto látek do půdy nebo jejich nežádoucímu smísení s odpadními nebo srážkovými vodami,*
+>
+> *- b) používat jen takové zařízení, popřípadě způsob při zacházení se závadnými látkami, které jsou vhodné i z hlediska ochrany jakosti vod,*
+>
+> *- c) nejméně jednou za 6 měsíců kontrolovat sklady a skládky, včetně výstupů jejich kontrolního systému pro zjišťování úniku závadných látek a bezodkladně provádět jejich včasné opravy; sklady musí být zabezpečeny nepropustnou úpravou proti úniku závadných látek do podzemních vod,*
+>
+> *- d) nejméně jednou za 5 let, pokud není technickou normou nebo výrobcem stanovena lhůta kratší, prostřednictvím odborně způsobilé osoby zkoušet těsnost potrubí nebo nádrží určených pro skladování a prostředků pro dopravu zvlášť nebezpečných závadných látek a nebezpečných závadných látek a v případě zjištění nedostatků bezodkladně provádět jejich včasné opravy; těsnost nádrží určených pro skladování ropy nebo ropných produktů s minimálním objemem 1 000 m3 nebo používaných pro skladování ropy a ropných produktů podle zákona o nouzových zásobách ropy21b), zabezpečených nepropustnou úpravou proti úniku závadných látek do podzemních vod a kontinuálně sledovaných kontrolními systémy, jejichž výstupy jsou zaznamenávány a uchovávány do doby provedení bezprostředně následující zkoušky těsnosti, lze, pokud není výrobcem stanovena lhůta kratší, zkoušet nejméně jednou za 20 let; v případě skladování hnojiv a výluhů z objemných krmiv nebo látek určených pro úpravu vody na vodu pitnou a pro čištění komunálních odpadních vod v nadzemních nádržích umístěných v záchytných vanách o objemu větším, než je objem největší nádrže v nich umístěné, se opakovaná zkouška těsnosti nepožaduje,*
+>
+> *- e) vybudovat a provozovat odpovídající kontrolní systém pro zjišťování úniků závadných látek a výstupy z něj předkládat na žádost vodoprávnímu úřadu nebo České inspekci životního prostředí,*
+>
+> *- f) zajistit, aby nově budované stavby byly zajištěny proti nežádoucímu úniku těchto látek při hašení požáru.*
+>
+> *(6) Opatření podle odstavce 5 se přiměřeně vztahují i na použité obaly závadných látek.*
+>
+> *(7) Každý, kdo zachází se zvlášť nebezpečnými závadnými látkami, je povinen vést záznamy o typech těchto látek, které jsou zpracovávány nebo s nimiž se nakládá, o jejich množství, o obsahu jejich účinných složek, o jejich vlastnostech zejména ve vztahu k povrchovým a podzemním vodám a tyto informace na vyžádání poskytnout vodoprávnímu úřadu a Hasičskému záchrannému sboru České republiky.*
+>
+> *(8) Vodoprávní úřad může při použití závadných látek povolit z ustanovení odstavce 1 výjimku a stanovit podmínky pro jejich použití, nejde-li o ropné látky, a to v nezbytně nutné míře, na omezenou dobu a za předpokladu, že jich bude použito*
+>
+> *- a) k úpravě a udržování koryta vodního toku,*
+>
+> *- b) ke krmení ryb,*
+>
+> *- c) z důvodů zdravotních,*
+>
+> *- d) k úpravě povrchových nebo podzemních vod pro určité způsoby užívání, například srážení anorganických živin přímo ve vodním toku,*
+>
+> *- e) k odstranění nežádoucí flóry nebo fauny ve vodním toku,*
+>
+> *- f) jako indikátorových látek pro účely měření, nebo*
+>
+> *- g) v rámci schválených sanačních technologií.*
+>
+> *(9) Náležitosti havarijního plánu a nakládání se závadnými látkami včetně požadavků na odborně způsobilou osobu a záchytné vany podle odstavce 5 písm. d) stanoví Ministerstvo životního prostředí vyhláškou. Zásady pro stanovení podmínek pro použití závadných látek v případě výjimek podle odstavce 8 písm. b), d) a e) a při nakládání s vodami za účelem chovu ryb nebo vodní drůbeže, popřípadě jiných vodních živočichů a vymezení kategorií rybníků z hlediska rybářského hospodaření stanoví Ministerstvo životního prostředí a Ministerstvo zemědělství vyhláškou.*
+>
+> *(10) Mytí motorových vozidel a provozních mechanismů ve vodních tocích nebo na místech, kde by mohlo dojít k ohrožení jakosti povrchových nebo podzemních vod, je zakázáno.*
+>
+> *(11) Na nakládání se sedimentovatelnými tuhými látkami uvedenými v příloze č. 1 k tomuto zákonu se vztahují odstavce 2, 5 a 6 obdobně.*
+>
+> *(12) Ukládání oxidu uhličitého49) do povrchových vod je zakázáno.*
+>
+> *(13) K přikrmování ryb krmivy rostlinného původu prováděnému na rybníku tak, aby množství podávaných krmiv bylo rybí obsádkou zkonzumováno, a nedošlo tak k rozkladu krmiv a s tím spojenému zhoršení jakosti vod, není třeba výjimka z použití závadných látek. Krmivo použité pro tyto účely nesmí obsahovat nebezpečné závadné nebo zvlášť nebezpečné závadné látky a přikrmování bez výjimky nesmí být prováděno na povrchových vodách uvedených v seznamu přírodních koupališť podle zákona o ochraně veřejného zdraví a na vodárenských nádržích. Za splnění podmínek uvedených ve větě první a druhé není třeba provádět na rybníku ani na odtoku z něj sledování jakosti vod. V případě kontroly předloží rybníkář vodoprávnímu úřadu nebo České inspekci životního prostředí evidenci o hospodaření vedenou podle zákona o rybářství.*
 
 **Výklad:**
 
@@ -1729,7 +2126,9 @@ Vodoprávní úřad může povolit použití závadných látek (vyjma ropných)
 >
 > *(1) Havárií je mimořádné závažné zhoršení nebo mimořádné závažné ohrožení jakosti povrchových nebo podzemních vod.*
 >
-> *(2) Havárií je vždy závažné zhoršení nebo závažné ohrožení jakosti povrchových nebo podzemních vod ropnými látkami, nebezpečnými závadnými látkami (...), zvlášť nebezpečnými závadnými látkami, prioritními nebezpečnými látkami, popřípadě radioaktivními látkami a radioaktivními odpady nebo zhoršení nebo ohrožení jakosti povrchových nebo podzemních vod v chráněné oblasti přirozené akumulace vod nebo v ochranném pásmu vodního zdroje.*
+> *(2) Havárií je vždy závažné zhoršení nebo závažné ohrožení jakosti povrchových nebo podzemních vod ropnými látkami, nebezpečnými závadnými látkami podle části II bodů 1 a 9 přílohy č. 1 k tomuto zákonu, zvlášť nebezpečnými závadnými látkami, prioritními nebezpečnými látkami, popřípadě radioaktivními látkami a radioaktivními odpady nebo zhoršení nebo ohrožení jakosti povrchových nebo podzemních vod v chráněné oblasti přirozené akumulace vod nebo v ochranném pásmu vodního zdroje.*
+>
+> *(3) Za součást havárie se považují rovněž technické poruchy a závady zařízení k zachycování, skladování, likvidaci, dopravě nebo odkládání závadných látek, které havárii předcházely a jsou s ní v příčinné souvislosti.*
 
 **Výklad:**
 
@@ -1756,11 +2155,25 @@ Tato úprava odráží **citlivost specifických látek a oblastí** — i menš
 
 > **§ 41**
 >
-> *(1) Ten, kdo způsobí havárii (dále jen „původce havárie"), nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky.*
+> *(1) Ten, kdo způsobí havárii (dále jen „původce havárie“), nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky.*
 >
-> *(2) Původce havárie je povinen činit bezprostřední opatření k odstraňování příčin a následků havárie (dále jen „zneškodňování havárie"). (...)*
+> *(2) Původce havárie je povinen činit bezprostřední opatření k odstraňování příčin a následků havárie (dále jen „zneškodňování havárie“). Přitom se řídí schváleným havarijním plánem, popřípadě pokyny vodoprávního úřadu příslušného podle místa havárie, České inspekce životního prostředí nebo Hasičského záchranného sboru České republiky při provádění záchranných a likvidačních prací. Za místo havárie se považuje místo vzniku havárie nebo, není-li místo vzniku havárie známo, místo, kde byla havárie poprvé zjištěna.*
 >
-> *(4) Řízení prací při zneškodňování havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie, se kterým spolupracuje Hasičský záchranný sbor České republiky. Záchranné a likvidační práce při havárii řídí Hasičský záchranný sbor České republiky.*
+> *(3) Hasičský záchranný sbor České republiky neprodleně informuje o jemu nahlášené havárii vodoprávní úřad příslušný podle místa havárie, správce povodí, Českou inspekci životního prostředí a Policii České republiky. Dojde-li k havárii v ochranném pásmu přírodního léčivého zdroje nebo zdroje přírodních minerálních vod nebo na povrchových vodách využívaných ke koupání podle § 34, informuje Česká inspekce životního prostředí neprodleně Ministerstvo zdravotnictví. Dojde-li při havárii k ohrožení nebo znečištění zdroje pitné vody, informuje vodoprávní úřad příslušný podle místa havárie neprodleně příslušnou krajskou hygienickou stanici.*
+>
+> *(4) Řízení prací při zneškodňování havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie, se kterým spolupracuje Hasičský záchranný sbor České republiky. Záchranné a likvidační práce při havárii35) řídí Hasičský záchranný sbor České republiky.*
+>
+> *(5) Šetření příčin havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie. Pro účely šetření příčin havárie správce povodí zajistí odběry vzorků havárií zasažené povrchové nebo podzemní vody, včetně příslušných vzorků sedimentů a živých organismů a vypouštěných odpadních vod v havárií zasaženém území, a jejich bezodkladné předání laboratoři s příslušnou akreditací pro rozbor uvedených vzorků; tím není dotčena možnost odběru vzorků orgány nebo osobami uvedenými v odstavci 6.*
+>
+> *(6) Česká inspekce životního prostředí, správci povodí, Policie České republiky, Vojenská policie a vodoprávní úřady, jejichž správní obvody byly havárií zasaženy, spolupracují při řízení prací při zneškodňování havárie a při šetření příčin havárie, pokud k tomu byly vyzvány Hasičským záchranným sborem České republiky nebo vodoprávním úřadem příslušným podle místa havárie, popřípadě krajským úřadem podle § 107 odst. 1 písm. d).*
+>
+> *(7) Jde-li o havárii, kterou lze řešit jen s použitím mimořádných odborných znalostí, Česká inspekce životního prostředí může převzít od vodoprávního úřadu řízení prací při zneškodňování havárie a šetření příčin havárií; odstavce 4 až 6 se použijí obdobně.*
+>
+> *(8) Původce havárie je povinen na výzvu orgánu nebo osoby uvedené v odstavci 3 při zneškodňování havárie s těmito orgány a osobami spolupracovat.*
+>
+> *(9) Osoby, které se zúčastnily zneškodňování havárie, jsou povinny poskytnout potřebné údaje Hasičskému záchrannému sboru České republiky, vodoprávnímu úřadu příslušnému podle místa havárie a České inspekci životního prostředí, pokud si jejich poskytnutí vyžádají.*
+>
+> *(10) Ministerstvo životního prostředí stanoví vyhláškou způsob a rozsah hlášení havárií Hasičskému záchrannému sboru České republiky, jejich zneškodňování, šetření jejich příčin a způsob odběru vzorků.*
 
 **Výklad:**
 
@@ -1787,11 +2200,23 @@ Při havárii nastupuje **třístupňový systém**:
 
 > **§ 42**
 >
-> *(1) K odstranění následků nedovoleného vypouštění odpadních vod, nedovoleného nakládání se závadnými látkami nebo havárií (dále jen „závadný stav") uloží vodoprávní úřad nebo Česká inspekce životního prostředí tomu, kdo porušil povinnost k ochraně povrchových nebo podzemních vod nebo původci havárie (dále jen „původce závadného stavu"), povinnost provést opatření k nápravě (...).*
+> *(1) K odstranění následků nedovoleného vypouštění odpadních vod, nedovoleného nakládání se závadnými látkami nebo havárií (dále jen „závadný stav“) uloží vodoprávní úřad nebo Česká inspekce životního prostředí tomu, kdo porušil povinnost k ochraně povrchových nebo podzemních vod nebo původci havárie (dále jen „původce závadného stavu“), povinnost provést opatření k nápravě spočívající v odstranění následků závadného stavu, popřípadě též v opatření náhradního zdroje vody, pokud to vyžaduje povaha věci. Náklady na provedení opatření k nápravě nese ten, jemuž bylo opatření k nápravě uloženo. Pokud ten, komu byla uložena opatření, je neplní a hrozí nebezpečí z prodlení, zabezpečí opatření k nápravě vodoprávní úřad nebo Česká inspekce životního prostředí na jeho náklady. Pokud k havárii došlo v důsledku zásahu základních složek integrovaného záchranného systému, nepovažují se za původce havárie, jestliže k zásahu použily přiměřených prostředků.*
 >
-> *(2) Vodoprávní úřad nebo Česká inspekce životního prostředí uloží podle potřeby opatření k nápravě nabyvateli majetku získaného způsobem uvedeným ve zvláštním zákoně, který není původcem závadného stavu, ale k jehož majetku takto získanému je závadný stav vázán. (...)*
+> *(2) Vodoprávní úřad nebo Česká inspekce životního prostředí uloží podle potřeby opatření k nápravě nabyvateli majetku získaného způsobem uvedeným ve zvláštním zákoně,22) který není původcem závadného stavu, ale k jehož majetku takto získanému je závadný stav vázán. Takto postupuje vodoprávní úřad nebo Česká inspekce životního prostředí v případě, že nabyvatel tohoto majetku jej získal s vědomím ekologické zátěže a byla-li s ním o tom uzavřena zvláštní smlouva nebo byla-li mu poskytnuta sleva z kupní ceny z důvodu závadného stavu, jenž je předmětem opatření k nápravě. Tímto způsobem postupuje vodoprávní úřad nebo Česká inspekce životního prostředí i v případě, existuje-li dosud původce závadného stavu. Exekuci rozhodnutí vydaného podle tohoto ustanovení nelze zahájit, nařídit nebo provést.*
 >
-> *(4) Nelze-li opatření k nápravě uložit podle odstavců 1 až 3 a hrozí-li závažné ohrožení nebo znečištění povrchových nebo podzemních vod, zabezpečí nezbytná opatření k nápravě příslušný vodoprávní úřad z vlastního podnětu nebo z podnětu České inspekce životního prostředí. (...) K účelu úhrady plateb za provedená opatření k nápravě zřizuje kraj v rámci svého rozpočtu zvláštní účet ročně doplňovaný do výše 10 000 000 Kč. (...)*
+> *(3) Povinnosti plynoucí z opatření k nápravě uloženého původci závadného stavu nebo nabyvateli majetku podle odstavce 2 přecházejí na jejich právní nástupce.*
+>
+> *(4) Nelze-li opatření k nápravě uložit podle odstavců 1 až 3 a hrozí-li závažné ohrožení nebo znečištění povrchových nebo podzemních vod, zabezpečí nezbytná opatření k nápravě příslušný vodoprávní úřad z vlastního podnětu nebo z podnětu České inspekce životního prostředí. Může k tomuto účelu uložit provedení opatření k nápravě právnické nebo podnikající fyzické osobě, která je k provedení opatření k nápravě odborně a technicky způsobilá. Účastníkem řízení o uložení opatření je jen tato osoba; odvolání proti tomuto rozhodnutí nemá odkladný účinek. K účelu úhrady plateb za provedená opatření k nápravě zřizuje kraj v rámci svého rozpočtu zvláštní účet ročně doplňovaný do výše 10 000 000 Kč. Obec s rozšířenou působností, jejíž úřad plní funkci vodoprávního úřadu, který provedení opatření k nápravě uložil, požádá příslušný kraj o úhradu platby za provedené opatření k nápravě. Příslušný kraj zašle bez zbytečného odkladu peněžní prostředky v dohodnuté výši obci s rozšířenou působností, která je zašle osobě, která opatření k nápravě provedla.*
+>
+> *(5) Ze zvláštního účtu kraje zřízeného podle odstavce 4 lze hradit rovněž náhradu nákladů na nápravná opatření k nápravě ekologické újmy na povrchových nebo podzemních vodách podle zákona o předcházení ekologické újmě a o její nápravě a o změně některých zákonů23a). Příslušný kraj zašle tyto prostředky příslušnému orgánu podle zákona o předcházení ekologické újmě a o její nápravě a o změně některých zákonů bez zbytečného odkladu na základě jeho žádosti.*
+>
+> *(6) Vlastníci majetku, na němž závadný stav vázne nebo jejichž majetku je nutno použít při odstranění závadného stavu a kteří nejsou těmi, jimž bylo opatření k nápravě uloženo, jsou povinni strpět provedení opatření k nápravě uloženého nebo nařízeného vodoprávním úřadem. Za tím účelem jsou povinni umožnit vstup, popřípadě vjezd na své pozemky a stavby a strpět omezení obvyklého užívání svých pozemků a staveb.*
+>
+> *(7) Pro vstup, popřípadě vjezd do staveb a zařízení ozbrojených sil České republiky, Policie České republiky, Bezpečnostní informační služby a Vězeňské služby České republiky platí zvláštní právní předpisy.24)*
+>
+> *(8) Jestliže se uložená opatření k nápravě dotýkají cizích pozemků nebo staveb, je třeba co nejvíce šetřit práv vlastníků dotčených pozemků a staveb; vstup, popřípadě vjezd a zamýšlená omezení obvyklého užívání pozemků nebo staveb je třeba jim předem oznámit, nehrozí-li nebezpečí z prodlení. Po dokončení opatření k nápravě jsou ti, jimž byla opatření k nápravě uložena, povinni na své náklady uvést pozemky nebo stavby do předchozího stavu, pokud se s jejich vlastníky nedohodli jinak; jsou-li opatření k nápravě prováděna na základě rozhodnutí vodoprávního úřadu podle odstavce 4, hradí tyto náklady příslušná obec, a to z prostředků státu.*
+>
+> *(9) Náhradu za majetkovou újmu nebo omezení vzniklá vlastníkům při provádění opatření k nápravě na jejich pozemcích nebo stavbách hradí ten, jemuž bylo opatření k nápravě uloženo. V případě uvedeném v odstavci 4 hradí tuto náhradu příslušný vodoprávní úřad. Právo na náhradu musí být uplatněno u toho, jemuž bylo opatření k nápravě uloženo, nebo u příslušného vodoprávního úřadu do 6 měsíců od jeho vzniku, jinak zaniká. Tímto ustanovením není dotčeno právo na náhradu škody.*
 
 **Výklad:**
 

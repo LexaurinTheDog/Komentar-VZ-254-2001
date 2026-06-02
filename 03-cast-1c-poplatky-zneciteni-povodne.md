@@ -63,25 +63,25 @@ Kvalifikace události jako havárie aktivuje celý katalog povinností podle § 
 
 > **§ 41**
 >
-> *(1) Ten, kdo způsobí havárii (dále jen „původce havárie"), nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky.*
+> *(1) Ten, kdo způsobí havárii (dále jen „původce havárie“), nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky.*
 >
-> *(2) Původce havárie je povinen činit bezprostřední opatření k odstraňování příčin a následků havárie (dále jen „zneškodňování havárie"). Přitom se řídí schváleným havarijním plánem, popřípadě pokyny vodoprávního úřadu příslušného podle místa havárie, České inspekce životního prostředí nebo Hasičského záchranného sboru České republiky při provádění záchranných a likvidačních prací. (...)*
+> *(2) Původce havárie je povinen činit bezprostřední opatření k odstraňování příčin a následků havárie (dále jen „zneškodňování havárie“). Přitom se řídí schváleným havarijním plánem, popřípadě pokyny vodoprávního úřadu příslušného podle místa havárie, České inspekce životního prostředí nebo Hasičského záchranného sboru České republiky při provádění záchranných a likvidačních prací. Za místo havárie se považuje místo vzniku havárie nebo, není-li místo vzniku havárie známo, místo, kde byla havárie poprvé zjištěna.*
 >
-> *(3) Hasičský záchranný sbor České republiky neprodleně informuje o jemu nahlášené havárii vodoprávní úřad příslušný podle místa havárie, správce povodí, Českou inspekci životního prostředí a Policii České republiky. (...)*
+> *(3) Hasičský záchranný sbor České republiky neprodleně informuje o jemu nahlášené havárii vodoprávní úřad příslušný podle místa havárie, správce povodí, Českou inspekci životního prostředí a Policii České republiky. Dojde-li k havárii v ochranném pásmu přírodního léčivého zdroje nebo zdroje přírodních minerálních vod nebo na povrchových vodách využívaných ke koupání podle § 34, informuje Česká inspekce životního prostředí neprodleně Ministerstvo zdravotnictví. Dojde-li při havárii k ohrožení nebo znečištění zdroje pitné vody, informuje vodoprávní úřad příslušný podle místa havárie neprodleně příslušnou krajskou hygienickou stanici.*
 >
-> *(4) Řízení prací při zneškodňování havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie, se kterým spolupracuje Hasičský záchranný sbor České republiky. Záchranné a likvidační práce při havárii řídí Hasičský záchranný sbor České republiky.*
+> *(4) Řízení prací při zneškodňování havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie, se kterým spolupracuje Hasičský záchranný sbor České republiky. Záchranné a likvidační práce při havárii35) řídí Hasičský záchranný sbor České republiky.*
 >
-> *(5) Šetření příčin havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie. (...)*
+> *(5) Šetření příčin havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie. Pro účely šetření příčin havárie správce povodí zajistí odběry vzorků havárií zasažené povrchové nebo podzemní vody, včetně příslušných vzorků sedimentů a živých organismů a vypouštěných odpadních vod v havárií zasaženém území, a jejich bezodkladné předání laboratoři s příslušnou akreditací pro rozbor uvedených vzorků; tím není dotčena možnost odběru vzorků orgány nebo osobami uvedenými v odstavci 6.*
 >
-> *(6) Česká inspekce životního prostředí, správci povodí, Policie České republiky, Vojenská policie a vodoprávní úřady, jejichž správní obvody byly havárií zasaženy, spolupracují (...)*
+> *(6) Česká inspekce životního prostředí, správci povodí, Policie České republiky, Vojenská policie a vodoprávní úřady, jejichž správní obvody byly havárií zasaženy, spolupracují při řízení prací při zneškodňování havárie a při šetření příčin havárie, pokud k tomu byly vyzvány Hasičským záchranným sborem České republiky nebo vodoprávním úřadem příslušným podle místa havárie, popřípadě krajským úřadem podle § 107 odst. 1 písm. d).*
 >
-> *(7) Jde-li o havárii, kterou lze řešit jen s použitím mimořádných odborných znalostí, Česká inspekce životního prostředí může převzít od vodoprávního úřadu řízení prací při zneškodňování havárie a šetření příčin havárií (...).*
+> *(7) Jde-li o havárii, kterou lze řešit jen s použitím mimořádných odborných znalostí, Česká inspekce životního prostředí může převzít od vodoprávního úřadu řízení prací při zneškodňování havárie a šetření příčin havárií; odstavce 4 až 6 se použijí obdobně.*
 >
-> *(8) Původce havárie je povinen na výzvu orgánu (...) při zneškodňování havárie s těmito orgány a osobami spolupracovat.*
+> *(8) Původce havárie je povinen na výzvu orgánu nebo osoby uvedené v odstavci 3 při zneškodňování havárie s těmito orgány a osobami spolupracovat.*
 >
-> *(9) Osoby, které se zúčastnily zneškodňování havárie, jsou povinny poskytnout potřebné údaje (...).*
+> *(9) Osoby, které se zúčastnily zneškodňování havárie, jsou povinny poskytnout potřebné údaje Hasičskému záchrannému sboru České republiky, vodoprávnímu úřadu příslušnému podle místa havárie a České inspekci životního prostředí, pokud si jejich poskytnutí vyžádají.*
 >
-> *(10) Ministerstvo životního prostředí stanoví vyhláškou způsob a rozsah hlášení havárií Hasičskému záchrannému sboru České republiky (...).*
+> *(10) Ministerstvo životního prostředí stanoví vyhláškou způsob a rozsah hlášení havárií Hasičskému záchrannému sboru České republiky, jejich zneškodňování, šetření jejich příčin a způsob odběru vzorků.*
 
 **Výklad:**
 
@@ -164,21 +164,23 @@ Ministerstvo životního prostředí vydává prováděcí vyhlášku stanovíc�
 
 > **§ 42**
 >
-> *(1) K odstranění následků nedovoleného vypouštění odpadních vod, nedovoleného nakládání se závadnými látkami nebo havárií (dále jen „závadný stav") uloží vodoprávní úřad nebo Česká inspekce životního prostředí tomu, kdo porušil povinnost k ochraně povrchových nebo podzemních vod nebo původci havárie (dále jen „původce závadného stavu"), povinnost provést opatření k nápravě spočívající v odstranění následků závadného stavu (...). Náklady na provedení opatření k nápravě nese ten, jemuž bylo opatření k nápravě uloženo. (...)*
+> *(1) K odstranění následků nedovoleného vypouštění odpadních vod, nedovoleného nakládání se závadnými látkami nebo havárií (dále jen „závadný stav“) uloží vodoprávní úřad nebo Česká inspekce životního prostředí tomu, kdo porušil povinnost k ochraně povrchových nebo podzemních vod nebo původci havárie (dále jen „původce závadného stavu“), povinnost provést opatření k nápravě spočívající v odstranění následků závadného stavu, popřípadě též v opatření náhradního zdroje vody, pokud to vyžaduje povaha věci. Náklady na provedení opatření k nápravě nese ten, jemuž bylo opatření k nápravě uloženo. Pokud ten, komu byla uložena opatření, je neplní a hrozí nebezpečí z prodlení, zabezpečí opatření k nápravě vodoprávní úřad nebo Česká inspekce životního prostředí na jeho náklady. Pokud k havárii došlo v důsledku zásahu základních složek integrovaného záchranného systému, nepovažují se za původce havárie, jestliže k zásahu použily přiměřených prostředků.*
 >
-> *(2) Vodoprávní úřad nebo Česká inspekce životního prostředí uloží podle potřeby opatření k nápravě nabyvateli majetku (...), který není původcem závadného stavu, ale k jehož majetku takto získanému je závadný stav vázán. (...)*
+> *(2) Vodoprávní úřad nebo Česká inspekce životního prostředí uloží podle potřeby opatření k nápravě nabyvateli majetku získaného způsobem uvedeným ve zvláštním zákoně,22) který není původcem závadného stavu, ale k jehož majetku takto získanému je závadný stav vázán. Takto postupuje vodoprávní úřad nebo Česká inspekce životního prostředí v případě, že nabyvatel tohoto majetku jej získal s vědomím ekologické zátěže a byla-li s ním o tom uzavřena zvláštní smlouva nebo byla-li mu poskytnuta sleva z kupní ceny z důvodu závadného stavu, jenž je předmětem opatření k nápravě. Tímto způsobem postupuje vodoprávní úřad nebo Česká inspekce životního prostředí i v případě, existuje-li dosud původce závadného stavu. Exekuci rozhodnutí vydaného podle tohoto ustanovení nelze zahájit, nařídit nebo provést.*
 >
 > *(3) Povinnosti plynoucí z opatření k nápravě uloženého původci závadného stavu nebo nabyvateli majetku podle odstavce 2 přecházejí na jejich právní nástupce.*
 >
-> *(4) Nelze-li opatření k nápravě uložit podle odstavců 1 až 3 a hrozí-li závažné ohrožení nebo znečištění povrchových nebo podzemních vod, zabezpečí nezbytná opatření k nápravě příslušný vodoprávní úřad z vlastního podnětu nebo z podnětu České inspekce životního prostředí. (...) K účelu úhrady plateb za provedená opatření k nápravě zřizuje kraj v rámci svého rozpočtu zvláštní účet ročně doplňovaný do výše 10 000 000 Kč. (...)*
+> *(4) Nelze-li opatření k nápravě uložit podle odstavců 1 až 3 a hrozí-li závažné ohrožení nebo znečištění povrchových nebo podzemních vod, zabezpečí nezbytná opatření k nápravě příslušný vodoprávní úřad z vlastního podnětu nebo z podnětu České inspekce životního prostředí. Může k tomuto účelu uložit provedení opatření k nápravě právnické nebo podnikající fyzické osobě, která je k provedení opatření k nápravě odborně a technicky způsobilá. Účastníkem řízení o uložení opatření je jen tato osoba; odvolání proti tomuto rozhodnutí nemá odkladný účinek. K účelu úhrady plateb za provedená opatření k nápravě zřizuje kraj v rámci svého rozpočtu zvláštní účet ročně doplňovaný do výše 10 000 000 Kč. Obec s rozšířenou působností, jejíž úřad plní funkci vodoprávního úřadu, který provedení opatření k nápravě uložil, požádá příslušný kraj o úhradu platby za provedené opatření k nápravě. Příslušný kraj zašle bez zbytečného odkladu peněžní prostředky v dohodnuté výši obci s rozšířenou působností, která je zašle osobě, která opatření k nápravě provedla.*
 >
-> *(5) Ze zvláštního účtu kraje zřízeného podle odstavce 4 lze hradit rovněž náhradu nákladů na nápravná opatření k nápravě ekologické újmy (...).*
+> *(5) Ze zvláštního účtu kraje zřízeného podle odstavce 4 lze hradit rovněž náhradu nákladů na nápravná opatření k nápravě ekologické újmy na povrchových nebo podzemních vodách podle zákona o předcházení ekologické újmě a o její nápravě a o změně některých zákonů23a). Příslušný kraj zašle tyto prostředky příslušnému orgánu podle zákona o předcházení ekologické újmě a o její nápravě a o změně některých zákonů bez zbytečného odkladu na základě jeho žádosti.*
 >
-> *(6) Vlastníci majetku, na němž závadný stav vázne (...) jsou povinni strpět provedení opatření k nápravě (...).*
+> *(6) Vlastníci majetku, na němž závadný stav vázne nebo jejichž majetku je nutno použít při odstranění závadného stavu a kteří nejsou těmi, jimž bylo opatření k nápravě uloženo, jsou povinni strpět provedení opatření k nápravě uloženého nebo nařízeného vodoprávním úřadem. Za tím účelem jsou povinni umožnit vstup, popřípadě vjezd na své pozemky a stavby a strpět omezení obvyklého užívání svých pozemků a staveb.*
 >
-> *(8) (...) Po dokončení opatření k nápravě jsou ti, jimž byla opatření k nápravě uložena, povinni na své náklady uvést pozemky nebo stavby do předchozího stavu (...).*
+> *(7) Pro vstup, popřípadě vjezd do staveb a zařízení ozbrojených sil České republiky, Policie České republiky, Bezpečnostní informační služby a Vězeňské služby České republiky platí zvláštní právní předpisy.24)*
 >
-> *(9) Náhradu za majetkovou újmu nebo omezení (...) hradí ten, jemuž bylo opatření k nápravě uloženo. (...)*
+> *(8) Jestliže se uložená opatření k nápravě dotýkají cizích pozemků nebo staveb, je třeba co nejvíce šetřit práv vlastníků dotčených pozemků a staveb; vstup, popřípadě vjezd a zamýšlená omezení obvyklého užívání pozemků nebo staveb je třeba jim předem oznámit, nehrozí-li nebezpečí z prodlení. Po dokončení opatření k nápravě jsou ti, jimž byla opatření k nápravě uložena, povinni na své náklady uvést pozemky nebo stavby do předchozího stavu, pokud se s jejich vlastníky nedohodli jinak; jsou-li opatření k nápravě prováděna na základě rozhodnutí vodoprávního úřadu podle odstavce 4, hradí tyto náklady příslušná obec, a to z prostředků státu.*
+>
+> *(9) Náhradu za majetkovou újmu nebo omezení vzniklá vlastníkům při provádění opatření k nápravě na jejich pozemcích nebo stavbách hradí ten, jemuž bylo opatření k nápravě uloženo. V případě uvedeném v odstavci 4 hradí tuto náhradu příslušný vodoprávní úřad. Právo na náhradu musí být uplatněno u toho, jemuž bylo opatření k nápravě uloženo, nebo u příslušného vodoprávního úřadu do 6 měsíců od jeho vzniku, jinak zaniká. Tímto ustanovením není dotčeno právo na náhradu škody.*
 
 **Výklad:**
 
@@ -292,9 +294,15 @@ Vznikne-li vlastníkovi pozemku nebo stavby škoda, má nárok na její náhradu
 >
 > *(1) Povodněmi se pro účely tohoto zákona rozumí přechodné výrazné zvýšení hladiny vodních toků nebo jiných povrchových vod, při kterém voda již zaplavuje území mimo koryto vodního toku a může způsobit škody. Povodní je i stav, kdy voda může způsobit škody tím, že z určitého území nemůže dočasně přirozeným způsobem odtékat nebo její odtok je nedostatečný, případně dochází k zaplavení území při soustředěném odtoku srážkových vod. Povodeň může být způsobena přírodními jevy, zejména táním, dešťovými srážkami nebo chodem ledů (přirozená povodeň), nebo jinými vlivy, zejména poruchou vodního díla, která může vést až k jeho havárii (protržení) nebo nouzovým řešením kritické situace na vodním díle (zvláštní povodeň).*
 >
-> *(2) Povodeň začíná vyhlášením druhého nebo třetího stupně povodňové aktivity (§ 70) a končí odvoláním třetího stupně povodňové aktivity (...). Povodní je rovněž situace uvedená v odstavci 1, při níž nebyl vyhlášen druhý nebo třetí stupeň povodňové aktivity, ale stav nebo průtok vody v příslušném profilu nebo srážka dosáhla směrodatné úrovně pro některý z těchto stupňů povodňové aktivity (...).*
+> *(2) Povodeň začíná vyhlášením druhého nebo třetího stupně povodňové aktivity (§ 70) a končí odvoláním třetího stupně povodňové aktivity, není-li v době odvolání třetího stupně povodňové aktivity vyhlášen druhý stupeň povodňové aktivity. V tom případě končí povodeň odvoláním druhého stupně povodňové aktivity. Povodní je rovněž situace uvedená v odstavci 1, při níž nebyl vyhlášen druhý nebo třetí stupeň povodňové aktivity, ale stav nebo průtok vody v příslušném profilu nebo srážka dosáhla směrodatné úrovně pro některý z těchto stupňů povodňové aktivity podle povodňového plánu příslušného územního celku. Pochybnosti o tom, zda v určitém území a v určitém čase byla povodeň, rozhoduje, je-li splněna některá z těchto podmínek, vodoprávní úřad.*
 >
-> *(3) Za nebezpečí povodně se považují situace zejména při (...) dosažení stanoveného limitu vodního stavu (...) déletrvajících vydatných dešťových srážkách (...) vzniku mimořádné situace na vodním díle (...).*
+> *(3) Za nebezpečí povodně se považují situace zejména při*
+>
+> *- a) dosažení stanoveného limitu vodního stavu nebo průtoku ve vodním toku a jeho stoupající tendenci,*
+>
+> *- b) déletrvajících vydatných dešťových srážkách, popřípadě prognóze nebezpečí intenzivních dešťových srážek, očekávaném náhlém tání, nebezpečném chodu ledů nebo při vzniku nebezpečných ledových zácp a nápěchů, nebo*
+>
+> *- c) vzniku mimořádné situace na vodním díle, kdy hrozí nebezpečí jeho poruchy.*
 
 **Výklad:**
 
@@ -341,15 +349,15 @@ Nebezpečí povodně je předstupeň povodně samé — situace, kdy je dosažen
 
 > **§ 64a**
 >
-> *(1) Zvládání povodňových rizik se soustředí na zmírnění možných nepříznivých účinků povodní na lidské zdraví, životní prostředí, kulturní dědictví a hospodářskou činnost (...).*
+> *(1) Zvládání povodňových rizik se soustředí na zmírnění možných nepříznivých účinků povodní na lidské zdraví, životní prostředí, kulturní dědictví a hospodářskou činnost, a pokud se to považuje za vhodné, na opatření nestavební povahy nebo na snížení pravděpodobnosti zaplavení.*
 >
-> *(2) Povodňovým rizikem se rozumí kombinace pravděpodobnosti výskytu povodní a jejich možných nepříznivých účinků (...).*
+> *(2) Povodňovým rizikem se rozumí kombinace pravděpodobnosti výskytu povodní a jejich možných nepříznivých účinků na lidské zdraví, životní prostředí, kulturní dědictví a hospodářskou činnost.*
 >
 > *(3) Předběžné vyhodnocení povodňových rizik je podkladem pro vymezení oblastí s významnými povodňovými riziky. Pro tato území se zpracují nebo aktualizují mapy povodňového nebezpečí, mapy povodňových rizik a plány pro zvládání povodňových rizik.*
 >
-> *(4) Mapy povodňového nebezpečí vymezují území, která by mohla být zaplavena podle různých povodňových scénářů (...). Na mapách povodňových rizik se vyznačí potenciální nepříznivé následky povodní (...).*
+> *(4) Mapy povodňového nebezpečí vymezují území, která by mohla být zaplavena podle různých povodňových scénářů a s využitím stanovených záplavových území. Na mapách povodňových rizik se vyznačí potenciální nepříznivé následky povodní podle těchto scénářů.*
 >
-> *(5) Plány pro zvládání povodňových rizik jsou součástí plánování v oblasti vod a zohledňují důležitá hlediska (...).*
+> *(5) Plány pro zvládání povodňových rizik jsou součástí plánování v oblasti vod a zohledňují důležitá hlediska, jako jsou náklady a přínosy, rozsah a průběh povodní, retenční schopnosti záplavových území, cíle ochrany vod podle § 23a odst. 1, hospodaření s půdou a s vodními zdroji, územní plánování, využití území, ochranu přírody, lodní dopravu a přístavní infrastrukturu. Plány pro zvládání povodňových rizik se zabývají všemi aspekty zvládání povodňových rizik, přičemž se soustřeďují na prevenci, ochranu, připravenost, včetně povodňových předpovědí a systémů včasného varování, a zohledňují charakteristiky konkrétního povodí nebo dílčího povodí. Plány pro zvládání povodňových rizik mohou zahrnovat rovněž podporu udržitelného využívání území, zlepšení schopnosti půdy zadržovat vodu a kontrolované zaplavení určitých oblastí v případě výskytu povodně.*
 
 **Výklad:**
 
@@ -369,13 +377,53 @@ PpZPR jsou součástí **plánování v oblasti vod** podle § 24–26 VZ a inte
 >
 > *(1) Povodňová opatření jsou přípravná opatření, opatření prováděná při nebezpečí povodně, za povodně a opatření prováděná po povodni.*
 >
-> *(2) Přípravná opatření jsou (a) stanovení záplavových území, (b) vymezení směrodatných limitů stupňů povodňové aktivity, (c) povodňové plány, (d) povodňové prohlídky, (e) příprava předpovědní a hlásné povodňové služby, (f) organizační a technická příprava, (g) vytváření hmotných povodňových rezerv, (h) příprava účastníků povodňové ochrany.*
+> *(2) Přípravná opatření jsou*
 >
-> *(3) Opatření při nebezpečí povodně a za povodně jsou (a) činnost předpovědní povodňové služby, (b) činnost hlásné povodňové služby, (c) varování při nebezpečí povodně, (d) zřízení a činnost hlídkové služby, (e) vyklizení záplavových území, (f) řízené ovlivňování odtokových poměrů, (g) povodňové zabezpečovací práce, (h) povodňové záchranné práce, (i) zabezpečení náhradních funkcí a služeb v území zasaženém povodní.*
+> *- a) stanovení záplavových území,*
 >
-> *(4) Opatření po povodni jsou (a) evidenční a dokumentační práce, (b) vyhodnocení povodňové situace včetně vzniklých povodňových škod, (c) odstranění povodňových škod a obnova území po povodni.*
+> *- b) vymezení směrodatných limitů stupňů povodňové aktivity,*
 >
-> *(5) Povodňová opatření podle odstavců 1 až 4 nejsou výstavba, údržba a opravy staveb a ostatních zařízení sloužících k ochraně před povodněmi (...).*
+> *- c) povodňové plány,*
+>
+> *- d) povodňové prohlídky,*
+>
+> *- e) příprava předpovědní a hlásné povodňové služby,*
+>
+> *- f) organizační a technická příprava,*
+>
+> *- g) vytváření hmotných povodňových rezerv,*
+>
+> *- h) příprava účastníků povodňové ochrany.*
+>
+> *(3) Opatření při nebezpečí povodně a za povodně jsou*
+>
+> *- a) činnost předpovědní povodňové služby,*
+>
+> *- b) činnost hlásné povodňové služby,*
+>
+> *- c) varování při nebezpečí povodně,*
+>
+> *- d) zřízení a činnost hlídkové služby,*
+>
+> *- e) vyklizení záplavových území,*
+>
+> *- f) řízené ovlivňování odtokových poměrů,*
+>
+> *- g) povodňové zabezpečovací práce,*
+>
+> *- h) povodňové záchranné práce,*
+>
+> *- i) zabezpečení náhradních funkcí a služeb v území zasaženém povodní.*
+>
+> *(4) Opatření po povodni jsou*
+>
+> *- a) evidenční a dokumentační práce,*
+>
+> *- b) vyhodnocení povodňové situace včetně vzniklých povodňových škod,*
+>
+> *- c) odstranění povodňových škod a obnova území po povodni.*
+>
+> *(5) Povodňová opatření podle odstavců 1 až 4 nejsou výstavba, údržba a opravy staveb a ostatních zařízení sloužících k ochraně před povodněmi, jakož i investice vyvolané povodněmi.*
 
 **Výklad:**
 
@@ -390,17 +438,23 @@ Odst. 5 výslovně vylučuje z pojmu povodňových opatření **kapitálové vý
 
 ### § 66–69 — Záplavová území, aktivní zóna, území určená k řízeným rozlivům, území ohrožená zvláštní povodní
 
-> **§ 66 odst. 1, 2, 7:**
+> **§ 66**
 >
-> *(1) Záplavová území jsou administrativně určená území, která mohou být při výskytu přirozené povodně zaplavena vodou. Jejich rozsah je povinen stanovit na návrh správce vodního toku vodoprávní úřad. (...)*
+> *(1) Záplavová území jsou administrativně určená území, která mohou být při výskytu přirozené povodně zaplavena vodou. Jejich rozsah je povinen stanovit na návrh správce vodního toku vodoprávní úřad. Vodoprávní úřad může uložit správci vodního toku povinnost zpracovat a předložit takový návrh v souladu s plány hlavních povodí a s plány oblastí povodí.*
 >
-> *(2) V zastavěných územích, v zastavitelných plochách podle územně plánovací dokumentace (...) vymezí vodoprávní úřad na návrh správce vodního toku aktivní zónu záplavového území podle nebezpečnosti povodňových průtoků.*
+> *(2) V zastavěných územích, v zastavitelných plochách podle územně plánovací dokumentace, případně podle potřeby v dalších územích, vymezí vodoprávní úřad na návrh správce vodního toku aktivní zónu záplavového území podle nebezpečnosti povodňových průtoků.*
+>
+> *(3) Způsob a rozsah zpracovávání návrhu a stanovování záplavových území a jejich dokumentace stanoví Ministerstvo životního prostředí vyhláškou.*
+>
+> *(4) Vodoprávní úřad, který záplavové území stanovil, zabezpečí zpřístupnění dokumentace a předá jednu kopii této dokumentace Ministerstvu životního prostředí.*
+>
+> *(5) Pokud záplavová území nejsou určena, mohou vodoprávní a stavební úřady a orgány územního plánování při své činnosti vycházet zejména z dostupných podkladů správců povodí a správců vodních toků o pravděpodobné hranici území ohroženého povodněmi.*
+>
+> *(6) Ministerstvo životního prostředí podle podkladů správců vodních toků zajišťuje vedení dokumentace o stanovených záplavových územích na území České republiky a zabezpečuje jejich evidenci v informačním systému veřejné správy.*
 >
 > *(7) Záplavová území a jejich aktivní zóny se stanovují formou opatření obecné povahy.*
 >
-> **§ 67 odst. 1–2:** *(1) V aktivní zóně záplavových území se nesmí povolovat ani provádět stavby s výjimkou vodních děl (...).*
->
-> *(2) V aktivní zóně je dále zakázáno (a) těžit nerosty a zeminu (...), (b) skladovat odplavitelný materiál (...), (c) zřizovat oplocení (...), (d) zřizovat tábory, kempy (...).*
+> *(8) Při změnách záplavových území a jejich aktivních zón se odstavce 1 až 4 použijí přiměřeně.*
 
 **Výklad:**
 
@@ -445,13 +499,15 @@ Pozemky nezbytné pro vzdouvání a akumulaci povrchových vod **veřejně prosp
 >
 > *(2) Rozsah operativních opatření prováděných pro ochranu před konkrétní povodní se řídí nebezpečím nebo vývojem povodňové situace, která se vyjadřuje třemi stupni povodňové aktivity, kterými jsou:*
 >
-> *- a) první stupeň (stav bdělosti) nastává při nebezpečí přirozené povodně (...); vyžaduje věnovat zvýšenou pozornost vodnímu toku (...) zahajuje činnost hlásná a hlídková služba;*
+> *- a) první stupeň (stav bdělosti) nastává při nebezpečí přirozené povodně a zaniká, pominou-li příčiny takového nebezpečí; tento stav nastává rovněž vydáním výstražné informace předpovědní povodňové služby; vyžaduje věnovat zvýšenou pozornost vodnímu toku nebo jinému zdroji povodňového nebezpečí, zahajuje činnost hlásná a hlídková služba; na vodních dílech nastává tento stav při dosažení mezních hodnot sledovaných jevů a skutečností z hlediska bezpečnosti díla nebo při zjištění mimořádných okolností, jež by mohly vést ke vzniku zvláštní povodně,*
 >
-> *- b) druhý stupeň (stav pohotovosti) se vyhlašuje, když nebezpečí přirozené povodně přerůstá v povodeň, ale nedochází k větším rozlivům a škodám mimo koryto; (...) aktivizují se povodňové orgány a další účastníci ochrany před povodněmi (...);*
+> *- b) druhý stupeň (stav pohotovosti) se vyhlašuje, když nebezpečí přirozené povodně přerůstá v povodeň, ale nedochází k větším rozlivům a škodám mimo koryto; vyhlašuje se také při překročení mezních hodnot sledovaných jevů a skutečností na vodním díle z hlediska jeho bezpečnosti; aktivizují se povodňové orgány a další účastníci ochrany před povodněmi, uvádějí se do pohotovosti prostředky na zabezpečovací práce, provádějí se opatření ke zmírnění průběhu povodně podle povodňového plánu,*
 >
-> *- c) třetí stupeň (stav ohrožení) se vyhlašuje při bezprostředním nebezpečí nebo vzniku škod většího rozsahu, ohrožení životů a majetku v záplavovém území (...); provádějí se povodňové zabezpečovací práce podle povodňových plánů a podle potřeby záchranné práce nebo evakuace.*
+> *- c) třetí stupeň (stav ohrožení) se vyhlašuje při bezprostředním nebezpečí nebo vzniku škod většího rozsahu, ohrožení životů a majetku v záplavovém území; vyhlašuje se také při dosažení kritických hodnot sledovaných jevů a skutečností na vodním díle z hlediska jeho bezpečnosti současně se zahájením nouzových opatření; provádějí se povodňové zabezpečovací práce podle povodňových plánů a podle potřeby záchranné práce nebo evakuace.*
 >
-> *(3) Druhý a třetí stupeň povodňové aktivity vyhlašují a odvolávají ve svém územním obvodu povodňové orgány. Podkladem je dosažení nebo předpověď dosažení směrodatného limitu hladin nebo průtoků stanovených v povodňových plánech (...).*
+> *(3) Druhý a třetí stupeň povodňové aktivity vyhlašují a odvolávají ve svém územním obvodu povodňové orgány. Podkladem je dosažení nebo předpověď dosažení směrodatného limitu hladin nebo průtoků stanovených v povodňových plánech, zpráva předpovědní nebo hlásné povodňové služby, doporučení správce vodního toku, oznámení vlastníka vodního díla, případně další skutečnosti charakterizující míru povodňového nebezpečí. O vyhlášení a odvolání povodňové aktivity je povodňový orgán povinen informovat subjekty uvedené v povodňovém plánu a vyšší povodňový orgán.*
+>
+> *(4) Směrodatné limity vodních stavů pro vyhlašování stupňů povodňové aktivity jsou obsažené v povodňových plánech a jsou závazné pro povodňové plány nižších stupňů.*
 
 **Výklad:**
 
@@ -484,19 +540,33 @@ Směrodatné limity (hladiny, průtoky, srážky) jsou obsahem **povodňových p
 
 > **§ 71**
 >
-> *(1) Povodňovými plány se pro účely tohoto zákona rozumějí dokumenty, které obsahují způsob zajištění včasných a spolehlivých informací o vývoji povodně, možnosti ovlivnění odtokového režimu, organizaci a přípravu zabezpečovacích prací; dále obsahují způsob zajištění včasné aktivizace povodňových orgánů, zabezpečení hlásné a hlídkové služby a ochrany objektů (...) a stanovené směrodatné limity stupňů povodňové aktivity.*
+> *(1) Povodňovými plány se pro účely tohoto zákona rozumějí dokumenty, které obsahují způsob zajištění včasných a spolehlivých informací o vývoji povodně, možnosti ovlivnění odtokového režimu, organizaci a přípravu zabezpečovacích prací; dále obsahují způsob zajištění včasné aktivizace povodňových orgánů, zabezpečení hlásné a hlídkové služby a ochrany objektů, přípravy a organizace záchranných prací a zajištění povodní narušených základních funkcí v objektech a v území a stanovené směrodatné limity stupňů povodňové aktivity.*
 >
-> *(2) Obsah povodňových plánů se dělí na (a) věcnou část, (b) organizační část, (c) grafickou část.*
+> *(2) Obsah povodňových plánů se dělí na*
 >
-> *(3) Povodňovými plány územních celků jsou (a) povodňové plány obcí, (b) povodňové plány správních obvodů obcí s rozšířenou působností, (c) povodňové plány správních obvodů krajů, (d) Povodňový plán České republiky.*
+> *- a) věcnou část, která zahrnuje údaje potřebné pro zajištění ochrany před povodněmi určitého objektu, obce, povodí nebo jiného územního celku, směrodatné limity pro vyhlašování stupňů povodňové aktivity,*
 >
-> *(4) Pro stavby ohrožené povodněmi, které se nacházejí v záplavovém území nebo mohou zhoršit průběh povodně, zpracovávají povodňové plány pro svou potřebu a pro součinnost s povodňovým orgánem obce jejich vlastníci. (...)*
+> *- b) organizační část, která obsahuje jmenné seznamy, adresy a způsob spojení účastníků ochrany před povodněmi, úkoly pro jednotlivé účastníky ochrany před povodněmi včetně organizace hlásné a hlídkové služby,*
+>
+> *- c) grafickou část, která obsahuje zpravidla mapy nebo plány, na kterých jsou zakresleny zejména záplavová území, evakuační trasy a místa soustředění, hlásné profily, informační místa.*
+>
+> *(3) Povodňovými plány územních celků jsou*
+>
+> *- a) povodňové plány obcí, které zpracovávají orgány obcí, v jejichž územních obvodech může dojít k povodni,*
+>
+> *- b) povodňové plány správních obvodů obcí s rozšířenou působností, které zpracovávají obce s rozšířenou působností,*
+>
+> *- c) povodňové plány správních obvodů krajů, které zpracovávají příslušné orgány krajů v přenesené působnosti ve spolupráci se správci povodí,*
+>
+> *- d) Povodňový plán České republiky, který zpracovává Ministerstvo životního prostředí.*
+>
+> *(4) Pro stavby ohrožené povodněmi, které se nacházejí v záplavovém území nebo mohou zhoršit průběh povodně, zpracovávají povodňové plány pro svou potřebu a pro součinnost s povodňovým orgánem obce jejich vlastníci. V pochybnostech o rozsahu této povinnosti nebo o tom, které stavby mohou zhoršit průběh povodně, rozhodne vodoprávní úřad.*
 >
 > *(5) Vodoprávní úřad může uložit povinnost zpracovat povodňový plán vlastníkům pozemků, které se nacházejí v záplavových územích, je-li to třeba s ohledem na způsob jejich užívání.*
 >
-> *(6) U povodňových plánů územních celků zpracovatelé každoročně prověřují jejich aktuálnost (...).*
+> *(6) U povodňových plánů územních celků (odstavec 3) zpracovatelé každoročně prověřují jejich aktuálnost zpravidla před obdobím jarního tání a toto prověření dokladují. Ostatní povodňové plány (odstavec 4) zpracovatelé přezkoumávají při podstatných změnách podmínek, za nichž byly zpracovány. Pokud z přezkoumání vyplyne potřeba úpravy nebo doplnění povodňového plánu, učiní tak zpracovatelé neprodleně.*
 >
-> *(7) (...) Potvrzením souladu se stává věcná a grafická část povodňového plánu závaznou. Organizační část povodňového plánu zpracovatelé průběžně upravují (...).*
+> *(7) Věcnou a grafickou část povodňového plánu územních celků a jeho změny zpracovatelé předkládají nadřízenému povodňovému orgánu k potvrzení souladu s povodňovým plánem vyšší úrovně. U povodňových plánů pozemků a staveb potvrzuje soulad povodňový orgán obce. Jde-li o stavbu přesahující svým rozsahem nebo vlivem na okolí významně území obce, potvrzuje soulad nadřízený povodňový orgán a nižší povodňové orgány o tom informuje. Potvrzením souladu se stává věcná a grafická část povodňového plánu závaznou. Organizační část povodňového plánu zpracovatelé průběžně upravují a poskytují dotčeným povodňovým orgánům a účastníkům řízení ochrany před povodněmi k využití, pokud jim není přístupná na portálu veřejné správy v elektronické podobě.*
 
 **Výklad:**
 
@@ -541,15 +611,13 @@ Plán nižší úrovně musí být v souladu s plánem vyšší úrovně. Soulad
 
 ### § 72–76 — Povodňové prohlídky, předpovědní a hlásná služba, záchranné a zabezpečovací práce, dokumentace
 
-> **§ 72 (Povodňové prohlídky):** *Povodňovými prohlídkami se zjišťuje, zda na vodních tocích, vodních dílech a v záplavových územích (...) nejsou závady, které by mohly zvýšit nebezpečí povodně nebo její škodlivé následky.* *Povodňové orgány mohou (...) vyzvat vlastníky (...) k odstranění předmětů a zařízení, které mohou způsobit zhoršení odtokových poměrů (...). Pokud (...) výzvy ve stanovené lhůtě neuposlechnou, uloží takovou povinnost rozhodnutím.*
+> **§ 72**
 >
-> **§ 73 (Předpovědní a hlásná povodňová služba):** *Předpovědní povodňová služba informuje povodňové orgány (...) o nebezpečí vzniku povodně (...). Tuto službu zabezpečuje Český hydrometeorologický ústav ve spolupráci se správcem povodí.* *Hlásná povodňová služba zabezpečuje informace povodňovým orgánům pro varování obyvatelstva (...). Vlastníci vodních děl vzdouvajících vodu oznamují nebezpečí zvláštní povodně příslušným povodňovým orgánům, Hasičskému záchrannému sboru České republiky a v případě nebezpečí z prodlení varují bezprostředně ohrožené fyzické a právnické osoby.*
+> (1) Povodňovými prohlídkami se zjišťuje, zda na vodních tocích, vodních dílech a v záplavových územích, popřípadě na objektech nebo zařízeních ležících v těchto územích nejsou závady, které by mohly zvýšit nebezpečí povodně nebo její škodlivé následky.
 >
-> **§ 74 (Povodňové záchranné práce):** *Povodňovými záchrannými pracemi jsou technická a organizační opatření prováděná za povodně v bezprostředně ohrožených nebo již zaplavených územích k záchraně životů a majetku, zejména ochrana a evakuace obyvatelstva (...).*
+> (2) Povodňové prohlídky organizují a provádějí povodňové orgány podle povodňových plánů, a to nejméně jednou ročně.
 >
-> **§ 75 (Povodňové zabezpečovací práce):** *Povodňovými zabezpečovacími pracemi jsou technická opatření prováděná při nebezpečí povodně a za povodně ke zmírnění průběhu povodně a jejích škodlivých následků* (odstraňování překážek, rozrušování ledů, ochrana koryta, opatření proti přelití hrází, instalace protipovodňových zábran atd.).
->
-> **§ 76 (Dokumentace a vyhodnocení povodní):** *Účelem dokumentace je zabezpečení průkazných a objektivních záznamů (...). K tomu zejména slouží záznamy v povodňové knize (...). Zprávu zpracují do 3 měsíců po ukončení povodně (...).*
+> (3) Povodňové orgány mohou na základě povodňové prohlídky vyzvat vlastníky pozemků, staveb a zařízení v záplavovém území k odstranění předmětů a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku. Pokud tito vlastníci výzvy ve stanovené lhůtě neuposlechnou, uloží takovou povinnost rozhodnutím.
 
 **Výklad:**
 
@@ -595,13 +663,29 @@ Zprávy předávají povodňové orgány a účastníci ochrany před povodněmi
 
 > **§ 77 odst. 1–4:**
 >
-> *(1) Řízení ochrany před povodněmi zabezpečují povodňové orgány. (...)*
+> *(1) Řízení ochrany před povodněmi zabezpečují povodňové orgány. Řízení ochrany před povodněmi zahrnuje přípravu na povodňové situace, řízení, organizaci a kontrolu všech příslušných činností v průběhu povodně a v období následujícím bezprostředně po povodni včetně řízení, organizace a kontroly činnosti ostatních účastníků ochrany před povodněmi. Povodňové orgány se při své činnosti řídí povodňovými plány.*
 >
-> *(2) V období mimo povodeň jsou povodňovými orgány (a) orgány obcí (...), (b) obecní úřady obcí s rozšířenou působností (...), (c) krajské úřady, (d) Ministerstvo životního prostředí; zabezpečení přípravy záchranných prací přísluší Ministerstvu vnitra.*
+> *(2) V období mimo povodeň jsou povodňovými orgány*
 >
-> *(3) Po dobu povodně jsou povodňovými orgány (a) povodňové komise obcí (...), (b) povodňové komise obcí s rozšířenou působností (...), (c) povodňové komise krajů, (d) Ústřední povodňová komise.*
+> *- a) orgány obcí a v hlavním městě Praze orgány městských částí v rozsahu stanoveném Statutem hlavního města Prahy,*
 >
-> *(4) Povodňové orgány mohou v době povodně činit opatření a vydávat operativní příkazy k zabezpečení ochrany před povodněmi, v odůvodněných případech i nad rámec platných povodňových plánů (...). Na vydávání těchto příkazů se nevztahuje správní řád. Mimořádné pravomoci povodňových orgánů začínají vyhlášením druhého nebo třetího stupně povodňové aktivity a končí odvoláním těchto stupňů.*
+> *- b) obecní úřady obcí s rozšířenou působností a v hlavním městě Praze úřady městských částí v rozsahu stanoveném Statutem hlavního města Prahy,*
+>
+> *- c) krajské úřady,*
+>
+> *- d) Ministerstvo životního prostředí; zabezpečení přípravy záchranných prací přísluší Ministerstvu vnitra.34)*
+>
+> *(3) Po dobu povodně jsou povodňovými orgány*
+>
+> *- a) povodňové komise obcí a v hlavním městě Praze povodňové komise městských částí v rozsahu stanoveném Statutem hlavního města Prahy,*
+>
+> *- b) povodňové komise obcí s rozšířenou působností a v hlavním městě Praze povodňové komise městských částí v rozsahu stanoveném Statutem hlavního města Prahy,*
+>
+> *- c) povodňové komise krajů,*
+>
+> *- d) Ústřední povodňová komise.*
+>
+> *(4) Povodňové orgány mohou v době povodně činit opatření a vydávat operativní příkazy k zabezpečení ochrany před povodněmi, v odůvodněných případech i nad rámec platných povodňových plánů s tím, že v takovém případě musí neprodleně uvědomit dotčené osoby. Všechna přijatá opatření a vydané příkazy se zapisují do povodňové knihy a musí být přístupné k nahlédnutí osobám vykonávajícím působnost místně příslušných povodňových orgánů, nebo způsobem umožňujícím dálkový přístup. Na vydávání těchto příkazů se nevztahuje správní řád. Mimořádné pravomoci povodňových orgánů začínají vyhlášením druhého nebo třetího stupně povodňové aktivity a končí odvoláním těchto stupňů.*
 
 **Výklad:**
 
@@ -645,11 +729,37 @@ Pokud dojde k **vyhlášení krizového stavu** (stav nebezpečí, nouzový stav
 
 > **§ 78**
 >
-> *(1) Obecní rada může k plnění úkolů při ochraně před povodněmi, je-li v jejich územních obvodech možnost povodní, zřídit povodňovou komisi, jinak tuto činnost zajišťuje obecní rada. Předsedou povodňové komise obce je starosta obce. Další členy komise jmenuje z členů obecního zastupitelstva a z fyzických a právnických osob, které jsou způsobilé k provádění opatření (...).*
+> *(1) Obecní rada může k plnění úkolů při ochraně před povodněmi, je-li v jejich územních obvodech možnost povodní, zřídit povodňovou komisi, jinak tuto činnost zajišťuje obecní rada. Předsedou povodňové komise obce je starosta obce. Další členy komise jmenuje z členů obecního zastupitelstva a z fyzických a právnických osob, které jsou způsobilé k provádění opatření, popřípadě pomoci při ochraně před povodněmi.*
 >
 > *(2) Povodňové orgány obcí jsou podřízeny povodňovému orgánu obce s rozšířenou působností.*
 >
-> *(3) Povodňové orgány obcí ve svých územních obvodech v rámci zabezpečení úkolů při ochraně před povodněmi (a) potvrzují soulad věcné a grafické části povodňových plánů vlastníků pozemků a staveb (...), (b) zpracovávají povodňový plán obce (...), (c) provádějí povodňové prohlídky, (d) zajišťují pracovní síly a věcné prostředky na provádění záchranných prací (...), (e) prověřují připravenost účastníků ochrany (...), (f) organizují a zabezpečují hlásnou povodňovou službu (...), (g) informují o nebezpečí (...), (h) vyhlašují a odvolávají stupně povodňové aktivity (...), (i) organizují, řídí, koordinují a ukládají opatření na ochranu před povodněmi (...), (j) zabezpečují evakuaci a návrat (...), (k) zajišťují v době povodně nutnou hygienickou a zdravotnickou péči (...), (l) provádějí prohlídky po povodni (...), (m) vedou záznamy v povodňové knize.*
+> *(3) Povodňové orgány obcí ve svých územních obvodech v rámci zabezpečení úkolů při ochraně před povodněmi*
+>
+> *- a) potvrzují soulad věcné a grafické části povodňových plánů vlastníků (uživatelů) pozemků a staveb, pokud se nacházejí v záplavovém území nebo zhoršují průběh povodně (§ 71 odst. 4), s povodňovým plánem obce,*
+>
+> *- b) zpracovávají povodňový plán obce a předkládají jej k odbornému stanovisku správci povodí, v případě drobných vodních toků správci těchto vodních toků,*
+>
+> *- c) provádějí povodňové prohlídky,*
+>
+> *- d) zajišťují pracovní síly a věcné prostředky na provádění záchranných prací a zabezpečení náhradních funkcí v území,*
+>
+> *- e) prověřují připravenost účastníků ochrany podle povodňových plánů,*
+>
+> *- f) organizují a zabezpečují hlásnou povodňovou službu a hlídkovou službu, zabezpečují varování právnických a fyzických osob v územním obvodu obce s využitím jednotného systému varování,*
+>
+> *- g) informují o nebezpečí a průběhu povodně povodňové orgány sousedních obcí a povodňový orgán obce s rozšířenou působností,*
+>
+> *- h) vyhlašují a odvolávají stupně povodňové aktivity v rámci územní působnosti,*
+>
+> *- i) organizují, řídí, koordinují a ukládají opatření na ochranu před povodněmi podle povodňových plánů a v případě potřeby vyžadují od orgánů, právnických a fyzických osob osobní a věcnou pomoc,*
+>
+> *- j) zabezpečují evakuaci a návrat, dočasné ubytování a stravování evakuovaných občanů, zajišťují další záchranné práce,*
+>
+> *- k) zajišťují v době povodně nutnou hygienickou a zdravotnickou péči, organizují náhradní zásobování, dopravu a další povodní narušené funkce v území,*
+>
+> *- l) provádějí prohlídky po povodni, zjišťují rozsah a výši povodňových škod, zjišťují účelnost provedených opatření a podávají zprávu o povodni povodňovému orgánu obce s rozšířenou působností,*
+>
+> *- m) vedou záznamy v povodňové knize.*
 
 **Výklad:**
 
@@ -761,17 +871,25 @@ V této kategorii je nutné zdůraznit povinnost **mít zpracovaný povodňový 
 
 > **§ 86 (Náklady na opatření na ochranu před povodněmi):**
 >
-> *(1) Jednotlivé obce mohou činit opatření k přímé ochraně majetku na svém území. Stát a kraje mohou na tato opatření přispět. (...)*
+> *(1) Jednotlivé obce mohou činit opatření k přímé ochraně majetku na svém území. Stát a kraje mohou na tato opatření přispět. Obce mohou požádat vlastníky majetku, který je těmito opatřeními chráněn, o příspěvek na jejich výstavbu.*
 >
 > *(2) Právnické a fyzické osoby nesou náklady, které jim vzniknou vlastními opatřeními k ochraně jejich majetku před povodněmi.*
 >
 > *(3) Náklady na zabezpečovací práce na vodních tocích hradí jejich správci. Vlastníci vodních děl hradí náklady na zabezpečovací práce na těchto vodních dílech.*
 >
-> *(4) Náklady na záchranné práce (...) hradí obce, kraje a stát (...).*
+> *(4) Náklady na záchranné práce, kromě nákladů podle odstavce 2, hradí obce, kraje a stát v souladu s působnostmi v systému povodňové ochrany podle zvláštního právního předpisu.36)*
 >
 > **§ 87 (Majetková újma):**
 >
-> *Majetkovou újmu vzniklou v důsledku činnosti nebo opatření uložených v době povodně (a) povodňovou komisí obce hradí obec, (b) povodňovou komisí obce s rozšířenou působností hradí obec s rozšířenou působností, (c) povodňovou komisí kraje hradí kraj, (d) Ústřední povodňovou komisí hradí Ministerstvo životního prostředí.*
+> *Majetkovou újmu vzniklou v důsledku činnosti nebo opatření uložených v době povodně*
+>
+> *- a) povodňovou komisí obce hradí obec,*
+>
+> *- b) povodňovou komisí obce s rozšířenou působností hradí obec s rozšířenou působností,*
+>
+> *- c) povodňovou komisí kraje hradí kraj,*
+>
+> *- d) Ústřední povodňovou komisí hradí Ministerstvo životního prostředí.*
 
 **Výklad:**
 
@@ -827,13 +945,37 @@ Hospodářské, meteorologické a zemědělské sucho zákon definicí přímo n
 
 > **§ 87b**
 >
-> *(1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho") se pořizuje pro území České republiky a pro území kraje.*
+> *(1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho“) se pořizuje pro území České republiky a pro území kraje.*
 >
-> *(2) Plán pro sucho je podkladem pro (a) rozhodnutí (...) vodoprávního úřadu (...) při zvládání sucha, (b) vyhodnocování nutnosti svolat komisi pro sucho, (c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.*
+> *(2) Plán pro sucho je podkladem pro*
 >
-> *(3) Plán pro sucho zahrnuje (a) základní část (...), (b) operativní část (...), (c) grafickou část (...).*
+> *- a) rozhodnutí nebo opatření obecné povahy, která vydává vodoprávní úřad podle § 6 odst. 4, § 59 odst. 3 nebo § 109 odst. 1 při zvládání sucha,*
 >
-> *(4) Stanovení jednotlivých opatření při vyhlášeném stavu nedostatku vody v plánu pro sucho musí odpovídat významu způsobu užití vody. Tyto způsoby užití vody se stanoví postupně od nejvýznamnějšího k méně významným takto: (a) zajištění poskytování základní služby podle zákona o kritické infrastruktuře (...), (b) zásobování obyvatelstva pitnou vodou, (c) živočišná výroba, chov ryb a vodních živočichů (...) a ekologická funkce vody, (d) hospodářské využití (...) s vazbou na místní zaměstnanost, (e) ostatní využití.*
+> *- b) vyhodnocování nutnosti svolat komisi pro zvládání sucha a stavu nedostatku vody (dále jen „komise pro sucho“),*
+>
+> *- c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.*
+>
+> *(3) Plán pro sucho zahrnuje*
+>
+> *- a) základní část, která obsahuje údaje potřebné pro zvládání sucha v daném území, charakteristiku území, popis vodních zdrojů včetně záložních a jejich případné zastupitelnosti, popis úpravy, dopravy, převodů vody a zásobování vodou, seznam a popis technických zařízení využitelných k řešení stavu nedostatku vody, seznam uživatelů vody významných pro dané území, seznam povolených nakládání s vodami významněji ovlivňujících množství a jakost vod, popis rizik sucha a místní směrodatné limity a kritéria pro vyhlášení stavu nedostatku vody,*
+>
+> *- b) operativní část, která obsahuje seznam orgánů veřejné moci a osob podílejících se na zvládání sucha a stavu nedostatku vody, popis činností, které vykonávají, popis přenosu informací, priority zásobování, návrh postupů pro zvládání sucha a opatření při vyhlášeném stavu nedostatku vody,*
+>
+> *- c) grafickou část, která obsahuje mapy nebo plány, na kterých jsou zakreslena zejména území ohrožená suchem, vodohospodářské a vodárenské soustavy, zdroje a úpravny vody a uživatelé vody významní pro dané území.*
+>
+> *(4) Stanovení jednotlivých opatření při vyhlášeném stavu nedostatku vody v plánu pro sucho musí odpovídat významu způsobu užití vody. Tyto způsoby užití vody se stanoví postupně od nejvýznamnějšího k méně významným takto:*
+>
+> *- a) zajištění poskytování základní služby podle zákona o kritické infrastruktuře a dalších provozů poskytujících nezbytné služby,*
+>
+> *- b) zásobování obyvatelstva pitnou vodou,*
+>
+> *- c) živočišná výroba, chov ryb a vodních živočichů, jako zemědělská výroba, a ekologická funkce vody,*
+>
+> *- d) hospodářské využití nespadající pod písmena a) až c) a jiné využití s vazbou na místní zaměstnanost,*
+>
+> *- e) ostatní využití.*
+>
+> *(5) Vyžadují-li to zvláštní místní podmínky, lze se od pořadí významnosti uvedeného v ustanovení odstavce 4 písm. c) až e) odchýlit.*
 
 **Výklad:**
 
@@ -929,35 +1071,12 @@ Tato opatření se vydávají buď **rozhodnutím** (cílí na konkrétní subje
 
 ### Díl 1 — Poplatek za odebrané množství podzemní vody (§§ 88–88l)
 
-> **§ 88 (Subjekt poplatku):**
+> *(1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho“) se pořizuje pro území České republiky a pro území kraje.*
 >
-> *(1) Poplatníkem poplatku za odebrané množství podzemní vody je oprávněný z povolení k odběru podzemní vody.*
->
-> *(2) V případě, že oprávněný (...) umožnil výkon svého povolení k nakládání s vodami (...) provozovateli vodovodu pro veřejnou potřebu (...), je poplatníkem poplatku tento provozovatel vodovodu pro veřejnou potřebu.*
->
-> **§ 88a:** Předmětem poplatku je odběr podzemní vody podle § 8 odst. 1 písm. b) bodu 1.
->
-> **§ 88b (Osvobození):** Osvobozeno je odebírání podzemní vody na území jedné obce nebo vojenského újezdu, jehož objem **nepřekračuje 6 000 m³ za kalendářní rok nebo 500 m³ v každém měsíci**.
->
-> **§ 88c:** Základ poplatku je objem odebrané vody v m³.
->
-> **§ 88d:** Sazba poplatku je uvedena **v příloze č. 2** k zákonu.
->
-> **§ 88e:** Poplatek se vypočte jako **součin základu × sazby**.
->
-> **§ 88f:** Poplatkové období je **kalendářní rok**.
->
-> **§ 88g (Rozpočtové určení):** Výnos: **50 % rozpočet kraje** (na jehož území se odběr uskutečňuje) + **50 % rozpočet SFŽP ČR**.
->
-> **§ 88h (Účelovost):** Výnos kraje — na podporu výstavby a obnovy vodohospodářské infrastruktury (zejména pro obec, na jejímž území se odběr uskutečňuje) a na zřízení/doplnění zvláštního účtu podle § 42 odst. 4. Výnos SFŽP — na zlepšování ochrany kvality a množství vod.
->
-> **§ 88i (Správce):** Správcem poplatku je **SFŽP ČR**. Správu placení vykonává **celní úřad** (místní příslušnost podle sídla/pobytu poplatníka).
->
-> **§ 88j (Poplatkové přiznání):** Podává se **do 15. února** kalendářního roku následujícího po skončení poplatkového období, **prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí (ISPOP)**. Nepodává se, je-li odběr osvobozen.
->
-> **§ 88k:** Splatnost: **30 dnů** ode dne nabytí právní moci platebního výměru.
->
-> **§ 88l:** U nedoplatku vzniká úrok z prodlení.
+> *(2) Plán pro sucho je podkladem pro*
+> *- a) rozhodnutí nebo opatření obecné povahy, která vydává vodoprávní úřad podle § 6 odst. 4, § 59 odst. 3 nebo § 109 odst. 1 při zvládání sucha,*
+> *- b) vyhodnocování nutnosti svolat komisi pro zvládání sucha a stavu nedostatku vody (dále jen „komise pro sucho“),*
+> *- c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.*
 
 **Výklad:**
 
@@ -995,49 +1114,24 @@ Poplatek za odběr podzemní vody je **daní ve smyslu DŘ § 2 odst. 3 písm. a
 
 ### Díl 2 — Poplatek za vypouštění odpadních vod do vod povrchových (§§ 89–89q)
 
-> **§ 89 (Subjekt poplatku):** Poplatníkem je **ten, kdo vypouští odpadní vody do vod povrchových**.
+> *(1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho“) se pořizuje pro území České republiky a pro území kraje.*
 >
-> **§ 89a (Předmět poplatku):**
+> *(2) Plán pro sucho je podkladem pro*
+> *- a) rozhodnutí nebo opatření obecné povahy, která vydává vodoprávní úřad podle § 6 odst. 4, § 59 odst. 3 nebo § 109 odst. 1 při zvládání sucha,*
+> *- b) vyhodnocování nutnosti svolat komisi pro zvládání sucha a stavu nedostatku vody (dále jen „komise pro sucho“),*
+> *- c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.*
 >
-> *(1) Předmětem poplatku za vypouštění odpadních vod do vod povrchových je vypouštění odpadních vod z jednotlivého zdroje znečištění do vod povrchových.*
+> *(1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho“) se pořizuje pro území České republiky a pro území kraje.*
 >
-> *(2) Zdrojem znečištění se rozumí území obce, území vojenského újezdu, průmyslový areál, stavba nebo zařízení, pokud se z nich vypouštějí samostatně odpadní vody do povrchových vod.*
+> *(2) Plán pro sucho je podkladem pro*
+> *- a) rozhodnutí nebo opatření obecné povahy, která vydává vodoprávní úřad podle § 6 odst. 4, § 59 odst. 3 nebo § 109 odst. 1 při zvládání sucha,*
+> *- b) vyhodnocování nutnosti svolat komisi pro zvládání sucha a stavu nedostatku vody (dále jen „komise pro sucho“),*
+> *- c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.*
 >
-> **§ 89b (Osvobození od poplatku):** Vypouštění (a) minerálních vod z léčivého zdroje, (b) přírodních minerálních vod, (c) vod ze sanačních vrtů, (d) vod z průtočného chlazení parních turbín, (e) vod vzniklých při tepelné energetice z PV/podzemních vod, (f) vod z odlehčovacích komor jednotné kanalizace splňujících tech. požadavky.
->
-> **§ 89c (Osvobození od dílčích poplatků):** Od dílčího poplatku z objemu — vypouštění do **100 000 m³ za poplatkové období**. Od dílčího poplatku ze znečištění — vody nepřekračující limit znečištění uvedený v příloze č. 2.
->
-> **§ 89d (Základ):** Skládá se z dílčích základů.
->
-> **§ 89e (Dílčí základy):** (a) objem odpadních vod v m³; (b) celkové množství jednotlivého znečištění v kg. Poplatník může snížit dílčí základ o množství znečištění obsažené v odebrané vodě.
->
-> **§ 89f (Sazba):** Uvedena v příloze č. 2. Rozdílná sazba pro **čištěné** a **nečištěné** odpadní vody (z hlediska organického znečištění).
->
-> **§ 89g (Sleva):** Při snížení vypouštěného množství v důsledku **trvalého technického nebo technologického opatření** — sleva podle vzorce v odst. 2 (koeficient 2,5). Sleva nelze, pokud je relativní snížení nižší než 10 %.
->
-> **§ 89h, 89i:** Poplatek = součet dílčích poplatků. Dílčí poplatek = (základ × sazba) − sleva.
->
-> **§ 89j:** Poplatkové období = kalendářní rok.
->
-> **§ 89k (Rozpočtové určení):** Výnos je **příjmem rozpočtu SFŽP ČR**.
->
-> **§ 89l (Účelovost):** Použít na podporu **intenzifikace a výstavby vodohospodářské infrastruktury** a úhradu nákladů na činnost **oprávněné a kontrolní laboratoře** a odborně způsobilých osob pro úřední měření průtoku.
->
-> **§ 89m (Správce):** Správcem je **SFŽP ČR**, správu placení vykonává **celní úřad**.
->
-> **§ 89n (Povinnosti poplatníka):**
->
-> *(1) Poplatník (...) je povinen vést provozní evidenci o sledování množství vypouštěného znečištění, objemu vypouštěných odpadních vod a dalších skutečnostech rozhodných pro určení výše poplatku. Poplatník je povinen uchovávat veškeré podklady k vedení provozní evidence po dobu 5 let.*
->
-> *(2) Poplatník je povinen u každého zdroje a výpustě prostřednictvím oprávněné laboratoře odebírat vzorky odpadních vod a sledovat koncentraci znečištění v nich v příslušných ukazatelích podle přílohy č. 2 části B (...).*
->
-> *(3) Poplatník je povinen oznámit bez zbytečného odkladu správci poplatku omezení, přerušení a obnovení provozu čistírny odpadních vod.*
->
-> **§ 89o (Poplatkové přiznání):** Do **15. února** následujícího roku, prostřednictvím **ISPOP**.
->
-> **§ 89p:** Splatnost 30 dnů od PM platebního výměru.
->
-> **§ 89q:** U nedoplatku úrok z prodlení.
+> *(3) Plán pro sucho zahrnuje*
+> *- a) základní část, která obsahuje údaje potřebné pro zvládání sucha v daném území, charakteristiku území, popis vodních zdrojů včetně záložních a jejich případné zastupitelnosti, popis úpravy, dopravy, převodů vody a zásobování vodou, seznam a popis technických zařízení využitelných k řešení stavu nedostatku vody, seznam uživatelů vody významných pro dané území, seznam povolených nakládání s vodami významněji ovlivňujících množství a jakost vod, popis rizik sucha a místní směrodatné limity a kritéria pro vyhlášení stavu nedostatku vody,*
+> *- b) operativní část, která obsahuje seznam orgánů veřejné moci a osob podílejících se na zvládání sucha a stavu nedostatku vody, popis činností, které vykonávají, popis přenosu informací, priority zásobování, návrh postupů pro zvládání sucha a opatření při vyhlášeném stavu nedostatku vody,*
+> *- c) grafickou část, která obsahuje mapy nebo plány, na kterých jsou zakreslena zejména území ohrožená suchem, vodohospodářské a vodárenské soustavy, zdroje a úpravny vody a uživatelé vody významní pro dané území.*
 
 **Výklad:**
 
@@ -1252,7 +1346,7 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 >
 > *(2) Vodoprávní úřady jsou povinny v rozsahu své působnosti kontrolovat, zda jsou dodržována jimi vydaná rozhodnutí a opatření obecné povahy.*
 >
-> *(3) Obecní úřady ORP kontrolují dodržování OOP komisí pro sucho. Krajské úřady kontrolují rozhodnutí krajské komise pro sucho. MZe a MŽP kontrolují rozhodnutí ústřední komise pro sucho.*
+> *(3) Obecní úřady obcí s rozšířenou působností kontrolují dodržování opatření obecné povahy vydaných komisemi pro sucho. Krajské úřady kontrolují dodržování rozhodnutí vydaných krajskou komisí pro sucho. Ministerstvo zemědělství a Ministerstvo životního prostředí kontrolují dodržování rozhodnutí vydaných ústřední komisí pro sucho.*
 >
 > *(5) Stavební úřady jako součást vodoprávního dozoru provádějí dozor nad vodními díly, jejichž stav by mohl ohrozit bezpečnost osob nebo majetku.*
 >
@@ -1262,7 +1356,7 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 >
 > *(1) České inspekci životního prostředí přísluší*
 >
-> *- a) v rámci vodoprávního dozoru kontrolovat, jak podnikající fyzické nebo právnické osoby dodržují povinnosti stanovené tímto zákonem (...) na úsecích*
+> *- a) v rámci vodoprávního dozoru kontrolovat, jak podnikající fyzické nebo právnické osoby dodržují povinnosti stanovené tímto zákonem nebo uložené podle tohoto zákona jí nebo vodoprávními úřady na úseku*
 >
 >     *1. nakládání s povrchovými nebo podzemními vodami,*
 >     *2. ochrany uvedených vod včetně jejich ochrany při provozování plavby,*
@@ -1271,11 +1365,11 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 >     *5. ochrany vodních poměrů a vodních zdrojů,*
 >     *6. uvádění vypouštění odpadních vod do vod povrchových nebo podzemních do souladu s požadavky zákona v případech vyžadujících zvláštní pozornost,*
 >
-> *- b) ukládat odstranění a nápravu zjištěných nedostatků, jejich příčin a škodlivých následků (...),*
+> *- b) ukládat odstranění a nápravu zjištěných nedostatků, jejich příčin a škodlivých následků, zjistí-li porušení povinností na úsecích uvedených pod písmenem a),*
 >
-> *- c) nařídit (...) zastavení výroby nebo jiné činnosti, pokud velmi závažným způsobem ohrožuje veřejný zájem a životní prostředí, až do doby odstranění nedostatků (...),*
+> *- c) nařídit v oblasti, ve které jí přísluší vykonávat kontrolu, zastavení výroby nebo jiné činnosti, pokud velmi závažným způsobem ohrožuje veřejný zájem a životní prostředí, až do doby odstranění nedostatků, popřípadě jejich příčin,*
 >
-> *- d) spolupracovat s vodoprávními úřady a SFŽP,*
+> *- d) spolupracovat s vodoprávními úřady a Státním fondem životního prostředí České republiky,*
 >
 > *- e) vést centrální evidenci havárií podle § 40 a násl.,*
 >
@@ -1283,7 +1377,9 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 >
 > *- g) provádět kontrolní zjišťování jakosti a množství vypouštěných odpadních vod včetně zjišťování zdrojů znečišťování,*
 >
-> *- h) rozhodovat v pochybnostech o tom, zda jde o čištěné odpadní vody (...).*
+> *- h) rozhodovat v pochybnostech o tom, zda jde o čištěné odpadní vody pro účely výpočtu poplatku za vypouštění odpadních vod do vod povrchových,*
+>
+> *- i) plnit další úkoly podle tohoto zákona.*
 
 **Výklad:**
 
@@ -1456,13 +1552,13 @@ Za nedovolený odběr **podzemních vod** — pokuta násobkem **70 Kč/m³** (m
 
 > **§ 125l**
 >
-> *(1) Česká inspekce životního prostředí nebo vodoprávní úřad může upustit od uložení správního trestu také tehdy, jestliže pachatel přestupku přijme faktická opatření k odstranění následků porušení povinnosti (...) a uložení správního trestu by vzhledem k nákladům na učiněná opatření vedlo k nepřiměřené tvrdosti.*
+> *(1) Česká inspekce životního prostředí nebo vodoprávní úřad může upustit od uložení správního trestu také tehdy, jestliže pachatel přestupku přijme faktická opatření k odstranění následků porušení povinnosti, jakož i opatření zamezující dalšímu ohrožování nebo znečišťování podzemních nebo povrchových vod, a uložení správního trestu by vzhledem k nákladům na učiněná opatření vedlo k nepřiměřené tvrdosti.*
 >
-> *(2) Sazba pokuty za přestupek (...) se zvyšuje na dvojnásobek, nejvýše však na částku 20 000 000 Kč, jestliže je týž přestupek spáchán opakovaně (...). Přestupek je spáchán opakovaně, pokud ode dne, kdy rozhodnutí o uložení pokuty za týž přestupek nabylo právní moci, neuplynul 1 rok.*
+> *(2) Sazba pokuty za přestupek podle tohoto zákona se zvyšuje na dvojnásobek, nejvýše však na částku 20 000 000 Kč, jestliže je týž přestupek spáchán opakovaně; to se nepoužije pro přestupek podle § 125a odst. 1 písm. m), § 125a odst. 2 písm. g) bodu 2, § 125c odst. 5 písm. e) nebo § 125g odst. 7 písm. g). Přestupek je spáchán opakovaně, pokud ode dne, kdy rozhodnutí o uložení pokuty za týž přestupek nabylo právní moci, neuplynul 1 rok.*
 >
-> *(3) Při stanovení výše pokuty za přestupek spáchaný vypouštěním odpadních vod bez povolení k nakládání s vodami nebo v rozporu s ním, přihlédne orgán ukládající pokutu zejména k míře překročení podmínek povolení (...), k míře ovlivnění jakosti (...), ke stupni ochrany dotčeného území a k příčině nedovoleného vypouštění vod.*
+> *(3) Při stanovení výše pokuty za přestupek spáchaný vypouštěním odpadních vod bez povolení k nakládání s vodami nebo v rozporu s ním, přihlédne orgán ukládající pokutu zejména k míře překročení podmínek povolení k vypouštění těchto vod, k míře ovlivnění jakosti povrchových nebo podzemních vod a jejímu lokálnímu rozsahu, ke stupni ochrany dotčeného území a k příčině nedovoleného vypouštění vod.*
 >
-> *(4) Správní přestupky podle § 117 odst. 2 a § 125b odst. 1 písm. d) a e) projednává Státní plavební správa. Ostatní přestupky podle tohoto zákona projednává v rozsahu své působnosti vodoprávní úřad nebo Česká inspekce životního prostředí. (...)*
+> *(4) Správní přestupky podle § 117 odst. 2 a § 125b odst. 1 písm. d) a e) projednává Státní plavební správa. Ostatní přestupky podle tohoto zákona projednává v rozsahu své působnosti vodoprávní úřad nebo Česká inspekce životního prostředí. Pokutu za přestupek podle § 117 odst. 2 písm. b) může příkazem na místě uložit Státní plavební správa a orgán Policie České republiky. Přestupek projedná ten z příslušných správních orgánů, který dříve zahájil řízení, nebo bylo-li řízení zahájeno v týž den, tak vodoprávní úřad nebo Státní plavební správa.*
 >
 > *(5) Za porušení povinností stanovených stavebními předpisy a týkajících se vodních děl ukládají v rozsahu své působnosti stavební úřady pokuty podle zvláštního zákona.*
 >
