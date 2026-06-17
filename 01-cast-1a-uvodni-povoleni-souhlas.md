@@ -863,6 +863,11 @@ Vodoprávní úřad stanovuje v povolení **kontrolní místo, způsob měření
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 6/2022 - 86](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702796) — 28. 6. 2022
+  > „Souhlas vodoprávního úřadu podle § 17 odst. 1 písm. c) zákona č. 254/2001 Sb., o vodách, vydávaný pro účely stavby, k jejímuž provedení je třeba povolení nebo jiného opatření obecného stavebního úřadu, má charakter závazného stanoviska dle § 149 správního řádu. […] [J]edná se o závazné stanovisko v materiálním smyslu (formální označení je „souhlas“), neboť účel zmíněného souhlasu plně odpovídá definici závazného stanoviska podle § 149 odst. 1 správního řádu"
+
 #### Souhlas jako mírnější forma intervence
 
 **Souhlas vodoprávního úřadu** je **mírnějším administrativním instrumentem** než povolení. Vyžaduje se pro stavby, zařízení a činnosti, které:
@@ -1732,6 +1737,13 @@ Odst. 2 zakládá **odpovědnost za škodu** osoby, která způsobí ztrátu neb
 > *(13) Ministerstvo životního prostředí vyhláškou stanoví seznam vodárenských nádrží a zásady pro stanovení a změny ochranných pásem vodních zdrojů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 35/2013 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/628797) — 22. 8. 2013
+  > „Smyslem rozhodnutí o revizi ochranných pásem vodního díla Želivka je nastavení obecných pravidel (opatření) k ochraně vydatnosti, jakosti nebo zdravotní nezávadnosti vodních zdrojů povrchových nebo podzemních vod určených pro zásobování pitnou vodou (§ 19 odst. 1 vodního zákona z roku 1973 nebo obdobně i § 30 odst. 1 zákona č. 254/2001 Sb., vodní zákon). […] Ochranné pásmo je tedy pevně spjato s existencí vodního díla […] a v nutném rozsahu chrání toto vodní dílo, zejména kvalitu jeho vody, před negativními externalitami"
+- *NSS* [29 A 150/2015 - 73](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/466482) — 21. 11. 2017
+  > „Z uvedeného ustanovení vyplývá, že podmínkou pro existenci ochranného pásma vodního zdroje není, aby byl vodní zdroj reálně využíván, postačuje, aby byl využitelný. […] Je totiž zřejmé, že mohou být chráněny i vodní zdroje potencionálně využitelné v budoucnu"
 
 #### Ochranná pásma vodních zdrojů (OP VZ) — pilíř ochrany zdrojů pitné vody
 

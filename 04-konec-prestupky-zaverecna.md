@@ -121,6 +121,11 @@ Postihuje porušení **pasivních povinností** vlastníků pozemků a staveb so
 
 Sazby jsou nízké (5 000–50 000 Kč) — jde o občanské pasivní povinnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 A 7/2020 - 21](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699366) — 31. 3. 2022
+  > „jednání spočívající v udržování protiprávního stavu, který nemusí být pachatelem vyvolán (např. přestupek spočívající v neodstranění předmětů zachycené či ulpělé na stavbě nebo zařízení podle § 120 odst. 4 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon). Trvající přestupky nesmějí být zaměňovány s přestupky, jejichž znakem je jednání spočívající pouze ve vyvolání protiprávního stavu …"
+
 #### § 121 — Povinnosti v ochraně před povodněmi (vlastníci)
 
 > **§ 121** — odst. 1–5.
@@ -168,6 +173,11 @@ Specifická skutková podstata pro **havárie** (§ 40 a násl. VZ) — mimořá
 **Výklad:**
 
 Sankcionuje fyzickou osobu jako **správce drobného vodního toku** (§ 48 odst. 2 VZ — typicky vlastník přilehlého pozemku, obec, drobný soukromý správce). Skutky: nesplnění obecných povinností správce dle § 47 odst. 2, nezajištění povodňových zabezpečovacích prací (§ 75 odst. 3), nesplnění povinností v ochraně před povodněmi (§ 83). Sazby 50 000–200 000 Kč.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 174/2014 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/439712) — 21. 5. 2019
+  > „Zjistit porušení zákona“ (zde ve smyslu § 124 odst. 2 zákona č. 254/2001 Sb., o vodách, ve znění účinném do 31. 7. 2010) neznamená, že již v tomto okamžiku musí být najisto postaveno, že k porušení povinnosti došlo, nýbrž postačí, že vzniklo důvodné podezření, že se tak stalo. Prokázání, že k porušení povinnosti došlo a kdo je za porušení povinnosti odpovědný, je předmětem příslušného řízení. „Zjištění porušení zákona“ však nemůže být dáno pouhým vědomím správního orgánu, resp. jeho pracovníků, o porušení zákona; musí být založeno na objektivní skutečnosti …"
 
 #### § 125 — Porušení povinností poplatníka (FO)
 
@@ -355,6 +365,11 @@ Při souběhu (více orgánů zahájí řízení) projedná věc ten, kdo zaháj
 
 To je environmentálně motivovaný princip „polluter pays" v rozpočtové rovině: výnos z pokut směřuje zpět do ekologických fondů a obcí dotčených přestupkem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 72/2013 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/515067) — 31. 8. 2017
+  > „Aby však mohl být naplněn liberační důvod ve smyslu § 125l odst. 1 zákona č. 254/2001 Sb., čehož se žalobce fakticky dovolával v žalobě, je třeba, aby účastník řízení (zde žalobce) prokázal, že vynaložil veškeré úsilí k tomu, aby nebyla naplněna ani jedna ze dvou shora uvedených podmínek"
+
 ---
 
 ## Hlava XVI — Společná a přechodná ustanovení (§§ 126–127)
@@ -454,6 +469,13 @@ Klíčová pravidla:
 **Odst. 16 — Záplavová území.** „Zátopová území" stanovená podle dosavadních předpisů **se považují za záplavová území** podle § 66 VZ.
 
 **Odst. 17 — Správci drobných vodních toků.** Správci určení podle dosavadních předpisů **se považují za správce drobných vodních toků** podle VZ.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 171/2002 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/239313) — 30. 10. 2003
+  > „podle ustanovení § 127 odst. 1 zákona č. 254/2001 Sb. se řízení zahájená a neskončená do dne nabytí účinnosti tohoto zákona dokončí podle dosavadních předpisů a žalovaný proto správně hmotněprávně vycházel z – již zrušeného – zákona č. 138/1973 Sb"
+- *NSS* [10 As 44/2021 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658644) — 15. 4. 2021
+  > „Podle § 127 odst. 17 zákona č. 254/2001 Sb. se pak správci vodních toků určení podle dosavadních právních předpisů považují za správce drobných vodních toků podle tohoto zákona"
 
 ---
 

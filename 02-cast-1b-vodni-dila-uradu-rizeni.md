@@ -48,6 +48,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 118/2017 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643504) — 31. 8. 2017
+  > „V prvé řadě je třeba zdůraznit, že čistírna odpadních vod je vodní dílo podle § 55 odst. 1 písm. c) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), přičemž podle § 58 odst. 3 téhož zákona „[v]odoprávní úřad může na návrh vlastníka vodního díla v zájmu jeho ochrany opatřením obecné povahy stanovit ochranná pásma podél něho a zakázat nebo omezit na nich podle povahy vodního díla umísťování a provádění některých staveb nebo činností.“"
+
 #### Funkční a demonstrativní definice (odst. 1)
 
 § 55 odst. 1 definuje vodní dílo **funkčně** — rozhodující není stavební forma, nýbrž účel, kterému stavba slouží. Zákonodárce uvádí šest hlavních účelových kategorií (vzdouvání a zadržování vod, umělé usměrňování odtoku, ochrana a užívání vod, nakládání s vodami, ochrana před škodlivými účinky vod, úprava vodních poměrů) a otevírá tuto množinu doplňkem „**nebo k jiným účelům sledovaným tímto zákonem**" — definice je tedy konstrukčně otevřená.
@@ -227,6 +232,11 @@ Pozitivní fikce souhlasu po 30denním marném plynutí (odst. 5) urychluje proc
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 A 8/2019 - 244](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712968) — 26. 4. 2023
+  > „… z něhož plyne povinnost užívat pozemek tak, aby neovlivnil negativně funkci stavby k vodohospodářským melioracím pozemků. Tato zákonem daná povinnost, která tíží vlastníky pozemků, na nichž se nachází stavby k melioracím, a jejímž objektem je ochrana těchto staveb, nekoresponduje obsahu povinnosti uložené v územním plánu, která směřuje k ochraně hydrologického režimu v dané oblasti"
+
 #### Pojem meliorací a jejich klasifikace (odst. 1–3)
 
 Meliorace pozemků zahrnují tři kategorie staveb: **závlahové, odvodňovací a protierozní**. Strukturálně je nejvýznamnější odvodňovací režim — stavby k odvodnění se dělí na:
@@ -364,6 +374,11 @@ Odst. 3 zavádí **opatření obecné povahy** zřizující ochranná pásma pod
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 6/2024 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/725789) — 18. 10. 2024
+  > „Pokud zamýšlí zákonodárce vyjmout určité dřeviny rostoucí mimo les z ochrany stanovené v ZOPK a z působnosti orgánů ochrany přírody, činí tak výslovně – viz např. § 59 odst. 1 písm. j) zákona č. 254/2001 Sb., o vodách (srov. rozsudek NSS ze dne 5. 11. 2015, č. j. 7 As 162/2015 59)"
+
 #### Katalog povinností vlastníka (odst. 1)
 
 § 59 odst. 1 obsahuje **desetičlenný katalog povinností** vlastníka vodního díla, který reprezentuje jádro hmotněprávního statusu vodního díla:
@@ -430,6 +445,11 @@ Vodoprávní úřad pak rozhodne, že **jiná osoba** přejímá provoz nebo úd
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 A 19/2023 - 150](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746673) — 18. 9. 2025
+  > „… nejde o stavbu nepovolenou, nýbrž o stavbu, která je součástí poměrně významné a rozsáhlé liniové stavby vodního díla, což je navíc stavba, které zákonodárce přiznává zvýšenou ochranu, kdy s účinností od 1. 1. 2014 vzniklo ve prospěch této sítě tzv. zákonné věcné břemeno (§ 59a zákona č. 254/2001 Sb.)"
+
 #### Zákonná služebnost pro stará vodní díla
 
 § 59a (vložený novelou č. 113/2018 Sb.) konstituuje **zákonnou služebnost ex lege** pro vodní díla vybudovaná před 1. 1. 2002. Tato úprava řeší dlouhodobý problém: před účinností vodního zákona č. 254/2001 Sb. byla řada vodních děl postavena bez formalizovaného vypořádání vztahu k pozemkům, na nichž stála — typicky v období socialismu, kdy se rozlišení vlastnictví staveb a pozemků prakticky nevedlo.
@@ -475,6 +495,11 @@ Vodoprávní úřad pak rozhodne, že **jiná osoba** přejímá provoz nebo úd
 - **Náhrada škody** — vzniklá vstupem (sešlapaná úroda, poškozený plot apod.).
 
 Rozdíl oproti § 59a: § 59a se týká pozemků, na nichž **stojí** vodní dílo (zakládá služebnost); § 60 se týká pozemků **sousedních** (zakládá pouze povinnost strpět dočasný vstup).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 2005/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2005-09_1) — nález, 26. 4. 2012
+  > „… zákonodárce může stanovit omezení výkonu vlastnických práv a v ustanovení § 60 odst. 1 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), tak učinil, neboť uložil vlastníkům pozemků sousedících s vodním dílem povinnost umožnit vstup na své pozemky jiným osobám za stanoveným účelem"
 
 ---
 
@@ -844,6 +869,11 @@ Poslední odst. 5 vyjasňuje, že **investice typu výstavby protipovodňových 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 60/2017 - 68](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/428132) — 5. 12. 2019
+  > „[p]ři stanovení záplavového území a jeho aktivní zóny dochází k zásahu do vlastnického práva z objektivně existujících důvodů (poloha nemovitosti v území ohroženém rozlivem), nikoli z vůle správního orgánu (§ 66 zákona č. 254/2001 Sb., o vodách a § 7 vyhlášky č. 236/2002 Sb., o způsobu a rozsahu zpracovávání návrhu a stanovování záplavových území). Proto se při vydávání ani přezkumu opatření obecné povahy, jímž se vyhlašují, nemohou v plném rozsahu uplatnit požadavky subsidiarity a minimalizace zásahu do práv …“"
+
 #### Pojem a stanovení záplavového území (odst. 1)
 
 **Záplavové území** je **administrativně určená** plocha, která může být při výskytu přirozené povodně zaplavena vodou. Klíčový procesní moment:
@@ -889,6 +919,11 @@ Stanovení záplavového území je **opatřením obecné povahy** — což má 
 > *(3) Mimo aktivní zónu v záplavovém území stanoví vodoprávní úřad podle povodňového nebezpečí nebo povodňového ohrožení opatřením obecné povahy omezující podmínky. Při změně podmínek je může stejným postupem změnit nebo zrušit. Takto postupuje i v případě, není-li aktivní zóna stanovena.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [47 A 32/2013 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/540198) — 18. 12. 2015
+  > „… v aktivní zóně záplavového území je umisťování staveb oplocení v zásadě nepřípustné, jak vyplývá z ustanovení § 67 odst. 2 písm. c) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů. Z dikce zmiňovaného ustanovení nicméně vyplývá, že zákaz cílí primárně na budování nových staveb („…se nesmí umísťovat, povolovat ani provádět stavby…“; „…je zakázáno zřizovat…“)"
 
 #### Stavební zákaz v aktivní zóně (odst. 1)
 
@@ -1136,6 +1171,11 @@ Pro předávání informací se využívají **operační a informační středi
 > *(2) Povodňové záchranné práce v případech, kdy jsou ohroženy lidské životy, nebo hospodářské zájmy, jimiž jsou doprava, zásobování, spoje a zdravotnictví, zajišťují povodňové orgány ve spolupráci se složkami integrovaného záchranného systému.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 95/2021 - 79](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700382) — 21. 3. 2022
+  > „Protipovodňové zábrany jsou realizovány za účelem zmírnění průběhu povodní a jejich škodlivých následků [§ 75 odst. 2 písm. g) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon)]"
 
 #### Rozdíl mezi záchrannými a zabezpečovacími pracemi
 

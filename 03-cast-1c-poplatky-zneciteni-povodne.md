@@ -85,6 +85,11 @@ Kvalifikace události jako havárie aktivuje celý katalog povinností podle § 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 19/2009 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617161) — 30. 11. 2009
+  > „…podle § 41 odst. 2 zákona č. 254/2001 Sb., o vodách a změně některých zákonů (vodní zákon), kdo způsobí nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky… pojem neprodleně zákonodárce užívá v souvislosti s úkony, které jsou velice naléhavé a nesnesnou sebemenší odklad. Jistě není možné… aby tomu, kdo způsobí nebo zjistí havárii ve smyslu § 41 odst. 2 vodního zákona trvalo několik dnů či týdnů její nahlášení"
+
 #### Oznamovací povinnost: „neprodleně" a vůči HZS (odst. 1)
 
 Klíčové ustanovení celého režimu. Adresátem oznamovací povinnosti je:
@@ -183,6 +188,11 @@ Ministerstvo životního prostředí vydává prováděcí vyhlášku stanovíc�
 > *(9) Náhradu za majetkovou újmu nebo omezení vzniklá vlastníkům při provádění opatření k nápravě na jejich pozemcích nebo stavbách hradí ten, jemuž bylo opatření k nápravě uloženo. V případě uvedeném v odstavci 4 hradí tuto náhradu příslušný vodoprávní úřad. Právo na náhradu musí být uplatněno u toho, jemuž bylo opatření k nápravě uloženo, nebo u příslušného vodoprávního úřadu do 6 měsíců od jeho vzniku, jinak zaniká. Tímto ustanovením není dotčeno právo na náhradu škody.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 84/2008 - 131](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/615970) — 23. 7. 2009
+  > „Nelze totiž přehlédnout, že povinnost provést opatření k nápravě (ve smyslu jeho definice uvedené v § 42 odst. 1 vodního zákona) sleduje veřejný zájem na ochraně povrchových a podzemních vod (§ 1 odst. 1 vodního zákona) a její ukládání (srov. § 42 odst. 1 až 3 vodního zákona) popřípadě zabezpečení (viz § 42 odst. 4 cit. zákona) je, při splnění zákonných podmínek, povinností vodoprávního úřadu či ČIŽP. Postavení původce závadného stavu či nabyvatele majetku, s nímž je tento závadný stav spojen ve smyslu § 42 odst. 1 a 2 vodního zákona, je tak mimo jakoukoli pochybnost podřízeno veřejnoprávní regulaci. Logickým důsledkem tohoto stavu pak je, že se dotčený subjekt nemůže z tohoto vztahu vyvázat pouhou soukromoprávní disposicí, leda že by tak výslovně stanovil zákon"
 
 #### Trojí pojem závadného stavu (odst. 1)
 
@@ -458,6 +468,13 @@ Odst. 5 výslovně vylučuje z pojmu povodňových opatření **kapitálové vý
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 60/2017 - 68](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/428132) — 5. 12. 2019
+  > „[p]ři stanovení záplavového území a jeho aktivní zóny dochází k zásahu do vlastnického práva z objektivně existujících důvodů (poloha nemovitosti v území ohroženém rozlivem), nikoli z vůle správního orgánu (§ 66 zákona č. 254/2001 Sb., o vodách a § 7 vyhlášky č. 236/2002 Sb., o způsobu a rozsahu zpracovávání návrhu a stanovování záplavových území). Proto se při vydávání ani přezkumu opatření obecné povahy, jímž se vyhlašují, nemohou v plném rozsahu uplatnit požadavky subsidiarity a minimalizace zásahu do práv…"
+- *NSS* [47 A 32/2013 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/540198) — 18. 12. 2015
+  > „…v aktivní zóně záplavového území je umisťování staveb oplocení v zásadě nepřípustné, jak vyplývá z ustanovení § 67 odst. 2 písm. c) zákona č. 254/2001 Sb., o vodách… Z dikce zmiňovaného ustanovení nicméně vyplývá, že zákaz cílí primárně na budování nových staveb („…se nesmí umísťovat, povolovat ani provádět stavby…“; „…je zakázáno zřizovat…“), evidentně se však nemůže týkat staveb, které v aktivní zóně záplavového území již z nějakého důvodu jsou (typicky půjde o stavby zřízené v době, kdy byl rozsah aktivní zóny jiný, popř. v době před účinností § 67 vodního zákona)"
+
 #### Záplavové území jako administrativní pojem (§ 66)
 
 Záplavové území není přírodní jev, nýbrž **administrativně vymezené území**, které stanoví vodoprávní úřad **formou opatření obecné povahy** (OOP). Slouží:
@@ -620,6 +637,13 @@ Plán nižší úrovně musí být v souladu s plánem vyšší úrovně. Soulad
 > (3) Povodňové orgány mohou na základě povodňové prohlídky vyzvat vlastníky pozemků, staveb a zařízení v záplavovém území k odstranění předmětů a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku. Pokud tito vlastníci výzvy ve stanovené lhůtě neuposlechnou, uloží takovou povinnost rozhodnutím.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 A 87/2010 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/566654) — 22. 3. 2011
+  > „Smyslem ustanovení § 72 odst. 3 vodního zákona je zajistit, aby vlastníci pozemků, staveb a zařízení v záplavovém území odstranili na výzvu povodňových orgánů předměty a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku, přičemž zde nejsou stanoveny bližší podmínky a kritéria a postup při realizaci tohoto opatření. … § 72 odst. 3 vodního zákona není sankčním ustanovením, které by upravovalo postih nedovolených činností v záplavovém území"
+- *NSS* [51 A 95/2021 - 79](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700382) — 21. 3. 2022
+  > „Protipovodňové zábrany jsou realizovány za účelem zmírnění průběhu povodní a jejich škodlivých následků [§ 75 odst. 2 písm. g) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon)]"
 
 #### Povodňové prohlídky (§ 72)
 
@@ -1565,6 +1589,11 @@ Za nedovolený odběr **podzemních vod** — pokuta násobkem **70 Kč/m³** (m
 > *(6) Pokuty uložené Českou inspekcí životního prostředí obcím a Státní plavební správou jsou příjmem Státního fondu životního prostředí. Ostatní pokuty uložené Českou inspekcí životního prostředí jsou z 50 % příjmem rozpočtu obce, v jejímž územním obvodu byl přestupek spáchán, a z 50 % příjmem Státního fondu životního prostředí České republiky.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 72/2013 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/515067) — 31. 8. 2017
+  > „Aby však mohl být naplněn liberační důvod ve smyslu § 125l odst. 1 zákona č. 254/2001 Sb., čehož se žalobce fakticky dovolával v žalobě, je třeba, aby účastník řízení (zde žalobce) prokázal, že vynaložil veškeré úsilí k tomu, aby nebyla naplněna ani jedna ze dvou shora uvedených podmínek"
 
 #### Upuštění od správního trestu (odst. 1) — pozitivní motivace
 
