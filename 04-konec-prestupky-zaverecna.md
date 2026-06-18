@@ -60,6 +60,43 @@ Procesně se přestupky podle VZ projednávají v režimu **zákona č. 250/2016
 
 **Speciální sazba za neoprávněný odběr (odst. 3–6):** Pokuta se počítá jako **násobek sazby a objemu** nedovoleně odebraných vod (40 Kč/m³ pro povrchové vody, 70 Kč/m³ pro podzemní vody), maximálně 500 000 Kč u FO. Toto „taxativní" odčerpání neoprávněného prospěchu je hlavním ekonomickým nástrojem proti černým odběrům. Sazba lze za zvláštních důvodů snížit, ne však pod **10 Kč/m³** (povrchové) resp. **15 Kč/m³** (podzemní). Doba retroaktivního výpočtu: **3 roky** zpětně ode dne zjištění. Pokud množství nelze stanovit, použijí se **směrná čísla roční potřeby vody** dle vyhlášky ke ZVaK (vyhláška č. 428/2001 Sb.), případně odhad podle účelu a místních podmínek.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan N., majitel rekreační chaty, si bez povolení vodoprávního úřadu nechal vyvrtat studnu hlubokou 30 m a začal z ní odebírat podzemní vodu nejen pro domácnost, ale i pro zalévání rozsáhlého ovocného sadu (cca 2 000 m³ ročně). Vrt nebyl ohlášen ani povolen podle § 8 a § 14 VZ. Při místním šetření po stížnosti souseda ČIŽP zjistila odběr a chybějící povolení. Důkazy k obstarání: protokol o místním šetření, fotodokumentace vrtu a čerpací techniky, výpočet odebraného množství (z výkonu čerpadla a provozních hodin, příp. ze směrných čísel roční potřeby), katastrální zjištění vlastnictví pozemku.
+
+**2. Právní otázka.** Jde o jeden přestupek nakládání s podzemní vodou bez povolení podle § 116 odst. 1 písm. b), a jak se stanoví výše pokuty za neoprávněný odběr podle § 116 odst. 3–6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 odst. 1 písm. b) (nakládání s vodami bez povolení) a odst. 3–6 (speciální sazba za neoprávněný odběr).
+- *Související ustanovení téhož zákona:* § 8 (povolení k nakládání s vodami), § 14 (povolení k vrtům/sondám), § 116 odst. 2 (škála pokut), § 125l (kritéria, příslušnost).
+- *Související předpisy:* zákon č. 250/2016 Sb. (řízení o přestupku, kritéria § 37); vyhláška č. 428/2001 Sb. ke ZVaK (směrná čísla roční potřeby vody); správní řád č. 500/2004 Sb.
+- *Judikatura:* k povaze trvajícího vs. jednorázového jednání srov. NSS 62 A 7/2020 (citováno u § 120 — udržování protiprávního stavu); obecně k povinnosti správního orgánu zjistit skutkový stav bez důvodných pochybností.
+
+**4. Subsumpce.** Naplněn je objektivní znak „nakládání s vodami" (odběr podzemní vody) i znak „bez povolení". Sporné může být přesné množství odebrané vody (rozhodné pro výpočet pokuty dle odst. 3–6) a tříletá retroaktivní doba výpočtu (jen ode dne zjištění zpětně, max. 3 roky). Pokud množství nelze přesně stanovit, použijí se směrná čísla nebo odhad dle účelu a místních podmínek.
+
+**5. Řešení.** Vodoprávní úřad / ČIŽP zahájí řízení o přestupku, uloží pokutu vypočtenou jako 70 Kč/m³ za podzemní vodu (max. 500 000 Kč u FO), s možností snížení nejvýše na 15 Kč/m³ za zvláštních důvodů. Vedle sankce úřad pravidelně uloží zjednání nápravy (dodatečné povolení dle § 8/§ 14, nebo ukončení odběru). Procesně je nutné množství řádně doložit — to bývá hlavní třecí plocha.
+
+**6. Varianty.** (a) Šlo-li by o odběr povrchové vody, sazba je 40 Kč/m³ (min. 10 Kč/m³). (b) Pokud by pan N. měl povolení, ale překračoval povolené množství, věc se posoudí podle § 118 odst. 5–6 (odběr v rozporu s povolením), nikoli § 116.
+
+##### G. Protiargumenty a rizika
+
+- *„Studna pro domácnost je odběr bez povolení nepostižitelný."* Nikoli — odběr podzemní vody k zalévání sadu v tomto rozsahu není odběrem bez povolení podle § 8 odst. 3 (drobné odběry ze studny pro potřebu jednotlivce nepřesahující stanovené limity); překročení účelu/množství zakládá přestupek.
+- *Zpochybnění výpočtu množství.* Pachatel namítne, že úřad množství jen odhadl. Neutralizace: pečlivá kalkulace z výkonu čerpadla, motohodin, směrných čísel; břemeno tvrzení i důkazní leží na úřadu (zjistit stav bez důvodných pochybností).
+- *Slabé místo:* tříletá retroaktivní hranice — úřad nesmí počítat pokutu za delší období než 3 roky zpětně od zjištění; chybný výpočet je důvodem ke zrušení rozhodnutí.
+
+##### H. Praktický závěr
+
+§ 116 je nástroj proti „černým" odběrům a nakládání s vodami bez povolení u fyzických osob; jádrem je ekonomické odčerpání prospěchu sazbou za m³.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje povolení podle § 8 (a § 14 u vrtů)? Pokud ne, jde o § 116, nikoli § 118.
+- [ ] Je odběr podřaditelný pod výjimku § 8 odst. 3 (drobný odběr ze studny)?
+- [ ] Je množství vody doloženo (měření, motohodiny, směrná čísla) a počítáno max. 3 roky zpětně?
+- [ ] Byla zvážena možnost snížení sazby (min. 10/15 Kč/m³) za zvláštní důvody?
+- [ ] Není pro týž skutek vedeno trestní řízení (§ 293/294/294a TZ)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o místním šetření, fotodokumentace, technické parametry čerpadla a doba provozu, směrná čísla roční potřeby, katastrální výpis, absence/existence povolení ve spisu vodoprávního úřadu.
+
 #### § 117 — Plavební přestupky FO
 
 > **§ 117** — odst. 1 (provozovatel plavidla), odst. 2 (vůdce plavidla), odst. 3 (sazby).
@@ -72,6 +109,42 @@ Speciální skutková podstata pro porušení povinností při plavbě na povrch
 - **Vůdce plavidla** (odst. 2): užití plavidla se spalovacím motorem v rozporu s § 7 odst. 5 nebo nedodržení podmínek užívání povrchových vod k plavbě.
 
 **Procesní specifikum:** § 117 odst. 2 písm. b) (užití plavidla v rozporu se stanovenými podmínkami) lze postihnout **příkazem na místě** (do 5 000 Kč) — operativní nástroj, který používá zejména **Státní plavební správa** a **Policie ČR** (viz § 125l odst. 4).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan K. provozuje na řece motorový rekreační člun se spalovacím motorem v úseku, kde je plavba se spalovacími motory omezena podmínkami stanovenými podle § 7 odst. 5 VZ (vyhláškou / opatřením). Při kontrole Státní plavební správa zjistí, že vůdce plavidla pana K. tento člun užívá v rozporu se stanovenými podmínkami užívání povrchových vod k plavbě. Důkazy: záznam kontroly SPS, identifikace plavidla a vůdce, mapa s vyznačením omezeného úseku, příp. fotodokumentace.
+
+**2. Právní otázka.** Lze přestupek vůdce plavidla podle § 117 odst. 2 písm. b) vyřídit příkazem na místě a který orgán je příslušný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 odst. 2 (vůdce plavidla), odst. 3 (sazby).
+- *Související ustanovení téhož zákona:* § 7 (užívání povrchových vod k plavbě, odst. 2, 4, 5), § 125l odst. 4 (příslušnost SPS, příkaz na místě), § 125b (paralela pro PO/PFO).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 91 příkaz na místě); zákon č. 114/1995 Sb., o vnitrozemské plavbě; správní řád.
+- *Judikatura:* k požadavkům na zjištění skutku srov. NSS 5 A 174/2014 (citováno u § 124 — „zjistit porušení zákona" znamená důvodné podezření, prokázání je předmětem řízení).
+
+**4. Subsumpce.** Naplněn znak „vůdce plavidla" a „užití plavidla v rozporu se stanovenými podmínkami" (§ 117 odst. 2 písm. b). Pro postih příkazem na místě musí být skutek nepochybně zjištěn a pachatel souhlasit s vyřízením příkazem na místě.
+
+**5. Řešení.** Státní plavební správa (případně Policie ČR) může za tento skutek uložit příkaz na místě do 5 000 Kč; jinak se vede řízení o přestupku s pokutou v sazbě dle § 117 odst. 3. Příslušnost náleží SPS (§ 125l odst. 4), nikoli vodoprávnímu úřadu.
+
+**6. Varianty.** (a) Jde-li o provozovatele plavidla, který nevybavil plavidlo zařízením k akumulaci OV (§ 7 odst. 2/4), aplikuje se § 117 odst. 1, nikoli odst. 2. (b) Je-li pachatelem PO/PFO, použije se § 125b.
+
+##### G. Protiargumenty a rizika
+
+- *„Omezení plavby nebylo řádně vyhlášeno."* Pachatel namítne neexistenci nebo neplatnost podmínek dle § 7 odst. 5. Neutralizace: doložit platné opatření/vyhlášku a jeho zveřejnění; bez platného omezení skutková podstata odpadá.
+- *Nesouhlas s příkazem na místě.* Pachatel může odmítnout vyřízení na místě; pak se vede standardní řízení a uplatní se vyšší sazba dle odst. 3.
+- *Slabé místo:* identifikace vůdce plavidla — je-li sporná, hrozí neunesení důkazního břemene.
+
+##### H. Praktický závěr
+
+§ 117 chrání povrchové vody před znečištěním z plavby a vynucuje podmínky užívání vod k plavbě; klíčový je operativní příkaz na místě SPS/Policie.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o provozovatele (odst. 1) nebo vůdce plavidla (odst. 2)?
+- [ ] Existuje platné a vyhlášené omezení podle § 7 odst. 5?
+- [ ] Je příslušná SPS (§ 125l odst. 4), nikoli vodoprávní úřad?
+- [ ] Lze věc vyřídit příkazem na místě (do 5 000 Kč) se souhlasem pachatele?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní záznam SPS, identifikace plavidla a vůdce, platné opatření o omezení plavby, fotodokumentace, mapa úseku.
 
 #### § 118 — Jiné povinnosti při nakládání s vodami (oprávněný)
 
@@ -91,6 +164,42 @@ Odst. 3 sankcionuje **odmítnutí přístupu** kontrolním osobám (§ 103 odst.
 
 **Speciální sazby (odst. 5–6):** odběr **v rozporu** s povolením se sankcionuje stejnou metodikou jako odběr **bez** povolení (násobek 40/70 Kč), maximálně však 500 000 Kč u FO.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Paní M. má povolení k odběru povrchové vody z potoka pro malou vodní elektrárnu (oprávněná dle § 8 odst. 2) s limitem 50 l/s. Soustavně však odebírá více (až 80 l/s), aby zvýšila výrobu, a neměří odebrané množství, ač jí to povolení i § 10 ukládá. Vodoprávní úřad to zjistí při kontrole. Důkazy: rozhodnutí o povolení s limity, výsledky kontrolního měření průtoku, absence/neúplnost měřicích záznamů.
+
+**2. Právní otázka.** Posoudí se nadměrný odběr jako přestupek podle § 118 (odběr v rozporu s povolením) nebo § 116 (bez povolení), a jak se vypočte pokuta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 odst. 1 písm. a) (nakládání v rozporu s povolením), odst. 5–6 (speciální sazba za odběr v rozporu s povolením).
+- *Související ustanovení téhož zákona:* § 8 odst. 2 (oprávněný), § 10 a § 22 odst. 2 (měření a předání údajů), § 38 odst. 6 (měření OV), § 116 (odběr bez povolení — odlišení).
+- *Související předpisy:* zákon č. 250/2016 Sb.; vyhláška č. 428/2001 Sb. (směrná čísla); správní řád.
+- *Judikatura:* obecné požadavky na řádné zjištění množství a stavu věci (srov. NSS 5 A 174/2014 k „zjištění porušení zákona").
+
+**4. Subsumpce.** Klíčové je odlišení § 118 od § 116: paní M. povolení MÁ, jen ho překračuje → § 118 odst. 1 písm. a). Současně neměří (§ 10) → samostatná skutková podstata. Odběr nad limit se sankcionuje podle odst. 5–6 metodikou 40 Kč/m³ (povrchová voda), max. 500 000 Kč u FO, jen za množství přesahující povolení.
+
+**5. Řešení.** Úřad uloží pokutu za odběr v rozporu s povolením (násobek nadlimitního objemu × 40 Kč) a samostatně postihne nesplnění měřicí povinnosti (do horní sazby dle odst. 4). Vedle toho lze uložit nápravu (úprava odběru na limit, instalace měření).
+
+**6. Varianty.** (a) Kdyby paní M. povolení vůbec neměla, věc spadá pod § 116, nikoli § 118. (b) Samostatně by se postihlo i neoznámení převodu pozemku spojeného s povolením (§ 11 odst. 1) podle § 118 odst. 2.
+
+##### G. Protiargumenty a rizika
+
+- *„Překročení limitu bylo nahodilé."* Pachatel namítne výjimečnost. Neutralizace: doložit soustavnost z měřicích/provozních dat; i nahodilé překročení je přestupkem, soustavnost je přitěžující okolnost (§ 37 zák. č. 250/2016 Sb.).
+- *Spor o rozhraní § 116 vs. § 118.* Záměna vede k nesprávné sazbě a vadě rozhodnutí. Neutralizace: jednoznačně doložit existenci a obsah povolení.
+- *Slabé místo:* výpočet nadlimitního objemu — počítá se jen objem nad povolený limit, ne celkový odběr.
+
+##### H. Praktický závěr
+
+§ 118 postihuje držitele povolení, který povolení překračuje nebo neplní doprovodné povinnosti (měření, oznámení převodu, zpřístupnění kontrole); odlišení od § 116 je zásadní pro správnou kvalifikaci i sazbu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má pachatel povolení (§ 8 odst. 2)? Pokud ano → § 118, pokud ne → § 116.
+- [ ] Počítá se pokuta jen z množství nad povolený limit (odst. 5–6)?
+- [ ] Byla splněna povinnost měřit a předávat údaje (§ 10, § 22 odst. 2, § 38 odst. 6)?
+- [ ] Nebylo odepřeno zpřístupnění kontrolní osobě/laboratoři (§ 103 odst. 5, § 103a odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení s limity, kontrolní měření průtoku/objemu, měřicí záznamy oprávněného, doklady o oznámení převodu pozemku, protokol o kontrole.
+
 #### § 119 — Povinnosti vlastníků a stavebníků vodních děl
 
 > **§ 119** — odst. 1–7 (různé skutkové podstaty vlastníků VD), odst. 8 (sazby).
@@ -103,6 +212,42 @@ Komplexní katalog povinností vlastníků vodních děl podle § 59 a § 62. Kl
 - **neprovádění technickobezpečnostního dohledu** (odst. 1 písm. b, § 59 odst. 1 písm. c) — sankce až 500 000 Kč;
 - **neprovozování vodního díla v souladu se schváleným manipulačním řádem** (odst. 4 písm. a, § 59 odst. 1 písm. a) — sankce až 1 mil. Kč;
 - **neohlášení nebezpečí zvláštní povodně** vlastníkem vodního díla sloužícího ke vzdouvání (odst. 6 písm. b, § 73 odst. 3) — sankce až 1 mil. Kč. Týká se majitelů přehrad a větších vodních děl, jejichž porucha by způsobila „zvláštní povodeň" — povodňová vlna vzniklá kolapsem vodního díla.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan H. zdědil malý rybník s hrází (vodní dílo dle § 55). Hráz dlouhodobě neudržuje, je porostlá dřevinami a výpustné zařízení je nefunkční; technickobezpečnostní dohled (TBD) nikdy neprováděl. Po lokální přívalové srážce hrozí přelití a protržení hráze. Vodoprávní úřad zjistí zanedbaný stav. Důkazy: znalecký posudek o stavu hráze, fotodokumentace, zařazení díla do kategorie TBD, absence záznamů o dohledu.
+
+**2. Právní otázka.** Které skutkové podstaty § 119 jsou naplněny a jaká je horní hranice pokuty u fyzické osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119 odst. 1 písm. a) (neudržování VD v řádném stavu), písm. b) (neprovádění TBD), odst. 8 (sazby).
+- *Související ustanovení téhož zákona:* § 59 odst. 1 písm. a)–c) (povinnosti vlastníka VD), § 61 (TBD), § 73 odst. 3 (ohlášení nebezpečí zvláštní povodně), § 55 (vodní dílo).
+- *Související předpisy:* zákon č. 250/2016 Sb.; vyhláška o TBD; správní řád.
+- *Judikatura:* k povaze trvajícího protiprávního stavu (zde trvající zanedbání údržby) srov. NSS 62 A 7/2020 (citováno u § 120).
+
+**4. Subsumpce.** Naplněno: neudržování VD v řádném stavu (odst. 1 písm. a, § 59 odst. 1 písm. b) — sazba až 1 mil. Kč; neprovádění TBD (odst. 1 písm. b, § 59 odst. 1 písm. c) — až 500 000 Kč. Jde o trvající přestupek (udržování protiprávního stavu), což má význam pro běh promlčecí doby.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu (s ohledem na riziko pro bezpečnost díla i pod horní hranicí) a současně podle § 59 nařídí provedení nezbytných úprav a zajištění TBD. Při akutním nebezpečí přichází v úvahu i opatření k odvrácení ohrožení podle příslušných ustanovení Hlavy VIII/IX.
+
+**6. Varianty.** (a) Jde-li o VD sloužící ke vzdouvání a vlastník neohlásí nebezpečí zvláštní povodně (§ 73 odst. 3), aplikuje se odst. 6 písm. b) se sazbou až 1 mil. Kč. (b) Je-li vlastníkem PO/PFO, věc spadá pod § 125d s vyššími sazbami.
+
+##### G. Protiargumenty a rizika
+
+- *„Dílo není vodním dílem."* Pachatel zpochybní podřazení pod § 55. Neutralizace: doložit charakter stavby (hráz, výpust) a její zařazení; pochybnosti řeší vodoprávní úřad.
+- *Promlčení.* Pachatel namítne uplynutí lhůty. Neutralizace: u trvajícího přestupku (neudržování) běží lhůta až od ukončení protiprávního stavu (srov. NSS 62 A 7/2020).
+- *Slabé místo:* prokázání příčinné souvislosti zanedbání a ohrožení vyžaduje znalecký posudek; bez něj hrozí oslabení kvalifikace nejzávažnějších znaků.
+
+##### H. Praktický závěr
+
+§ 119 vynucuje aktivní povinnosti vlastníků vodních děl (údržba, TBD, manipulační řád, ohlášení nebezpečí); u FO sahá sazba až k 1 mil. Kč u nejzávažnějších skutků.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o vodní dílo (§ 55) a do jaké kategorie TBD je zařazeno?
+- [ ] Které povinnosti dle § 59 odst. 1 byly porušeny (a, b, c)?
+- [ ] Jde o trvající přestupek (běh promlčecí doby od ukončení stavu)?
+- [ ] Bylo vedle pokuty uloženo i opatření k nápravě (úprava díla, zajištění TBD)?
+
+**Typicky rozhodné důkazy / podklady:** znalecký posudek stavu hráze/díla, fotodokumentace, zařazení do kategorie TBD, záznamy (či jejich absence) o dohledu, manipulační řád.
 
 #### § 120 — Vlastníci pozemků, staveb a zařízení
 
@@ -126,6 +271,42 @@ Sazby jsou nízké (5 000–50 000 Kč) — jde o občanské pasivní povinnosti
 - *NSS* [62 A 7/2020 - 21](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699366) — 31. 3. 2022
   > „jednání spočívající v udržování protiprávního stavu, který nemusí být pachatelem vyvolán (např. přestupek spočívající v neodstranění předmětů zachycené či ulpělé na stavbě nebo zařízení podle § 120 odst. 4 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon). Trvající přestupky nesmějí být zaměňovány s přestupky, jejichž znakem je jednání spočívající pouze ve vyvolání protiprávního stavu …"
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Na pozemku pana P. stojí v korytě potoka stavba (lávka). Po průtoku se na ní zachytí naplavené dřevo a odpad, čímž se zužuje průtočný profil a vzniká riziko vzdutí. Pan P. přes upozornění správce toku zachycené předměty neodstraní. Po dalším dešti dojde k lokálnímu rozlivu. Důkazy: fotodokumentace zachycených předmětů, výzva správce toku, časová osa (kdy předměty vznikly a kdy nebyly odstraněny).
+
+**2. Právní otázka.** Jde o trvající přestupek podle § 120 odst. 4 (neodstranění předmětů zachycených na stavbě v korytě), a od kdy běží promlčecí lhůta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 odst. 4 (§ 52 odst. 1 — neodstranění zachycených předmětů, sazba až 50 000 Kč).
+- *Související ustanovení téhož zákona:* § 27 (péče o vodní poměry), § 50, § 51 odst. 1 (povinnosti vlastníků pozemků s korytem a sousedů), § 56 odst. 4, § 60 odst. 1, § 21 odst. 7.
+- *Související předpisy:* zákon č. 250/2016 Sb. (trvající přestupek, promlčení); správní řád.
+- *Judikatura:* NSS 62 A 7/2020 (citováno výše) — neodstranění předmětů podle § 120 odst. 4 je typickým **trvajícím přestupkem** (udržování protiprávního stavu, který nemusí být pachatelem vyvolán); je třeba odlišit od přestupků spočívajících jen ve vyvolání protiprávního stavu.
+
+**4. Subsumpce.** Naplněn znak „neodstranění předmětů zachycených na stavbě/zařízení v korytě" (§ 52 odst. 1). Klíčové je, že jde o trvající přestupek — odpovědnost trvá po celou dobu, kdy předměty nejsou odstraněny, bez ohledu na to, že je pachatel sám nevyvolal.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu do 50 000 Kč a nařídí odstranění předmětů. Protože jde o trvající přestupek, promlčecí lhůta začíná běžet až okamžikem odstranění (ukončení protiprávního stavu).
+
+**6. Varianty.** (a) Jde-li o porušení obecné povinnosti péče o vodní poměry (§ 27), aplikuje se odst. 1. (b) Při neumožnění vstupu na pozemek (§ 60 odst. 1) jde o odst. 7–8. (c) U PO/PFO se uplatní § 125e (sazba až 200 000 Kč).
+
+##### G. Protiargumenty a rizika
+
+- *„Předměty jsem nezpůsobil, nemohu být postižen."* Neutralizace: NSS 62 A 7/2020 výslovně potvrzuje, že u trvajícího přestupku nemusí být protiprávní stav pachatelem vyvolán — odpovědnost vzniká neodstraněním.
+- *Záměna s jednorázovým přestupkem* by vedla k chybnému výpočtu promlčení. Neutralizace: striktně rozlišit kategorie podle citované judikatury.
+- *Slabé místo:* určení okamžiku, odkdy pachatel o zachycených předmětech věděl / měl vědět — relevantní pro zavinění a počátek odpovědnosti.
+
+##### H. Praktický závěr
+
+§ 120 sankcionuje převážně pasivní povinnosti vlastníků pozemků a staveb u vodních toků; dominantní praktická otázka je trvající povaha přestupku podle odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kterému odstavci § 120 skutek odpovídá (§ 27, § 50, § 51, § 52, § 56, § 60)?
+- [ ] Jde o trvající přestupek (odst. 4)? Pak promlčení běží od odstranění stavu.
+- [ ] Byl pachatel na povinnost upozorněn a měl reálnou možnost ji splnit?
+- [ ] U PO/PFO posoudit § 125e namísto § 120.
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace zachycených předmětů a koryta, výzva správce toku, časová osa vzniku a trvání stavu, doklad o vlastnictví pozemku/stavby.
+
 #### § 121 — Povinnosti v ochraně před povodněmi (vlastníci)
 
 > **§ 121** — odst. 1–5.
@@ -142,6 +323,43 @@ Speciální sada povinností vlastníků v záplavovém území nebo v ochranné
 
 Sazby do 500 000 Kč.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan R. vlastní rodinný dům v záplavovém území. Nezpracoval povodňový plán vlastníka, ač jeho stavba může zhoršit průběh povodně, a do aktivní zóny umístil skladovou buňku s nářadím a chemikáliemi, čímž zhoršuje odtokové podmínky. Při povodni buňka odplave a způsobí ucpání profilu pod mostem. Důkazy: vymezení záplavového území a aktivní zóny, fotodokumentace umístěného majetku, absence povodňového plánu, povodňová dokumentace obce.
+
+**2. Právní otázka.** Které skutkové podstaty § 121 jsou naplněny a v jaké sazbě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 121 odst. 2 písm. a) (absence povodňového plánu vlastníka, § 71 odst. 4/5), odst. 2 písm. b) a odst. 4 (zhoršení odtokových podmínek, nesprávné umístění majetku, § 85, § 85 odst. 3).
+- *Související ustanovení téhož zákona:* § 63 odst. 3 (umožnění vstupu), § 67 odst. 2 (aktivní zóna — srov. § 116 písm. r), § 71, § 75 odst. 3 (zabezpečovací práce).
+- *Související předpisy:* zákon č. 250/2016 Sb.; správní řád; obecní povodňový plán.
+- *Judikatura:* k povaze trvajícího stavu (umístění majetku v záplavovém území) lze přiměřeně užít NSS 62 A 7/2020.
+
+**4. Subsumpce.** Naplněna absence povodňového plánu vlastníka (§ 71 odst. 4/5) a nesprávné umístění movitého majetku v záplavovém území zhoršující odtok (§ 85 odst. 3). Sporné může být, zda stavba/činnost objektivně zhoršuje odtokové podmínky — bývá nutné odborné posouzení.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu do 500 000 Kč a nařídí zjednání nápravy (zpracování plánu, odstranění majetku z aktivní zóny). Při bezprostředním ohrožení lze uplatnit operativní opatření povodňových orgánů.
+
+**6. Varianty.** (a) Při neumožnění vstupu k zajištění ochrany před povodněmi jde o odst. 1 (§ 63 odst. 3). (b) Při nezajištění povodňových zabezpečovacích prací o odst. 3 (§ 75 odst. 3). (c) U PO/PFO se aplikuje § 125f.
+
+##### G. Protiargumenty a rizika
+
+- *„Nemám povinnost zpracovat povodňový plán."* Povinnost vzniká jen za podmínek § 71 (stavba může zhoršit průběh povodně / je v záplavovém území). Neutralizace: doložit splnění zákonných podmínek vzniku povinnosti.
+- *Spor o zhoršení odtokových podmínek.* Pachatel namítne neprůkaznost. Neutralizace: odborné/znalecké posouzení vlivu na proudění a aktivní zónu.
+- *Slabé místo:* hranice aktivní zóny a záplavového území musí být řádně vymezeny opatřením obecné povahy; bez platného vymezení skutková podstata oslabuje.
+
+##### H. Praktický závěr
+
+§ 121 vynucuje protipovodňové povinnosti vlastníků v záplavovém území a ochranných pásmech; jádrem je povodňový plán vlastníka a zákaz zhoršování odtokových poměrů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pozemek/stavba v záplavovém území / aktivní zóně (platné vymezení)?
+- [ ] Vznikla povinnost zpracovat povodňový plán vlastníka (§ 71)?
+- [ ] Zhoršuje umístěný majetek/stavba odtokové podmínky (§ 85)?
+- [ ] Bylo umožněno vstoupit k zajištění ochrany před povodněmi (§ 63 odst. 3)?
+- [ ] U PO/PFO aplikovat § 125f.
+
+**Typicky rozhodné důkazy / podklady:** vymezení záplavového území a aktivní zóny, povodňový plán (či jeho absence), fotodokumentace umístěného majetku, odborné posouzení odtokových poměrů, povodňová dokumentace obce.
+
 #### § 122 — Závadné látky (FO)
 
 > **§ 122** — odst. 1–7.
@@ -155,6 +373,42 @@ Sankcionuje porušení povinností při **zacházení se závadnými látkami** 
 - **osoba zacházející se zvlášť nebezpečnými / nebezpečnými závadnými látkami** (odst. 3) — povinnosti dle § 39 odst. 5 — sankce **až 1 000 000 Kč** (i u FO);
 - **přikrmování ryb krmivy rostlinného původu v rozporu s § 39 odst. 13** (odst. 6) — sankce do 5 000 Kč (drobná skutková podstata k rybníkářství).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan S. provozuje na vlastním pozemku dílnu, kde ve větším rozsahu zachází se závadnými látkami (motorové oleje, ředidla). Nemá zpracovaný havarijní plán (§ 39 odst. 2 písm. a) a nevede předepsané záznamy (písm. b). Při kontrole ČIŽP se navíc zjistí, že nedodržuje povinnosti při zacházení se zvlášť nebezpečnými závadnými látkami (§ 39 odst. 5). Důkazy: protokol ČIŽP, soupis skladovaných látek a jejich množství, absence havarijního plánu a záznamů.
+
+**2. Právní otázka.** Jaká je horní sazba pokuty u fyzické osoby za absenci havarijního plánu a za porušení povinností u zvlášť nebezpečných závadných látek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122 odst. 2 (zacházení ve větším rozsahu — havarijní plán, záznamy; až 500 000 Kč za chybějící havarijní plán), odst. 3 (zvlášť nebezpečné/nebezpečné látky, § 39 odst. 5 — až 1 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 39 (závadné látky), § 16 (vypouštění do kanalizace), Příloha č. 1 (katalog ZNZL/NZL), § 125g (paralela PO/PFO).
+- *Související předpisy:* zákon č. 250/2016 Sb.; správní řád; prováděcí vyhláška k havarijním plánům.
+- *Judikatura:* k liberaci a úsilí pachatele srov. NSS 8 A 72/2013 (citováno u § 125l).
+
+**4. Subsumpce.** Naplněna absence havarijního plánu při zacházení ve větším rozsahu (§ 39 odst. 2 písm. a) → odst. 2; porušení povinností u ZNZL (§ 39 odst. 5) → odst. 3 se sazbou až 1 mil. Kč i u FO. Sporné může být, zda jde o „větší rozsah" — posuzuje se dle množství a charakteru látek.
+
+**5. Řešení.** ČIŽP / vodoprávní úřad uloží pokutu (u odst. 3 až 1 mil. Kč) a nařídí zjednání nápravy — zpracování havarijního plánu, zavedení evidence, technická opatření proti úniku. Při hrozícím úniku se uplatní režim havárií (§ 40 a násl.).
+
+**6. Varianty.** (a) Pouze nevedení záznamů (bez chybějícího havarijního plánu) → mírnější postih v rámci odst. 2. (b) Přikrmování ryb v rozporu s § 39 odst. 13 → odst. 6, sazba jen do 5 000 Kč. (c) U PO/PFO se aplikuje § 125g s mnohonásobně vyššími sazbami (až 25 mil. Kč).
+
+##### G. Protiargumenty a rizika
+
+- *„Nejde o zacházení ve větším rozsahu."* Pachatel zpochybní rozsah. Neutralizace: doložit množství a povahu látek; větší rozsah zakládá povinnost havarijního plánu.
+- *Liberace.* Pachatel namítne, že vynaložil veškeré úsilí. Neutralizace: u FO se posuzuje zavinění; objektivní liberace dle § 125l odst. 1 (úsilí) je nadstavbou — viz NSS 8 A 72/2013.
+- *Slabé místo:* zařazení látky do kategorie ZNZL/NZL podle Přílohy č. 1 musí být doloženo; nesprávné zařazení vede k chybné sazbě.
+
+##### H. Praktický závěr
+
+§ 122 chrání vody před závadnými látkami u fyzických osob; nejtvrdší postih (až 1 mil. Kč) míří na porušení povinností u zvlášť nebezpečných závadných látek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zacházení se závadnými látkami ve „větším rozsahu" (§ 39 odst. 2)?
+- [ ] Existuje havarijní plán a vedou se záznamy (§ 39 odst. 2 písm. a, b)?
+- [ ] Jsou látky zařazeny jako ZNZL/NZL dle Přílohy č. 1 (rozhoduje o odst. 3)?
+- [ ] U PO/PFO aplikovat § 125g.
+
+**Typicky rozhodné důkazy / podklady:** protokol ČIŽP, soupis a množství závadných látek, havarijní plán a evidence (či jejich absence), zařazení látek dle Přílohy č. 1, technická dokumentace skladování.
+
 #### § 123 — Havárie
 
 > **§ 123** — odst. 1–3.
@@ -165,6 +419,43 @@ Specifická skutková podstata pro **havárie** (§ 40 a násl. VZ) — mimořá
 
 - **původce havárie** (odst. 1): neohlášení havárie (§ 41 odst. 1), nevykonání bezprostředních opatření (§ 41 odst. 2), nevyhovění výzvě ke spolupráci (§ 41 odst. 8) — sankce až 500 000 Kč;
 - **každého, kdo havárii zjistil** (odst. 2): neohlášení (§ 41 odst. 1), neposkytnutí údajů (§ 41 odst. 9), neuvedení pozemku do předchozího stavu (§ 42 odst. 8) — sankce do 100 000 Kč.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan T. při údržbě svého traktoru na břehu řeky způsobí únik nafty do vody (havárie dle § 40). Únik ihned nenahlásí ani neučiní bezprostřední opatření k zamezení šíření. Sousední rybář pan V. havárii zpozoruje, ale rovněž ji nenahlásí. Naftová skvrna postupuje po toku. Důkazy: rozbory vody, fotodokumentace skvrny, výpovědi svědků, časová osa události a hlášení.
+
+**2. Právní otázka.** Jak se liší odpovědnost původce havárie (§ 123 odst. 1) od odpovědnosti osoby, která havárii pouze zjistila (§ 123 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 123 odst. 1 (původce havárie — neohlášení dle § 41 odst. 1, nevykonání opatření dle § 41 odst. 2; až 500 000 Kč), odst. 2 (kdo havárii zjistil — neohlášení dle § 41 odst. 1; do 100 000 Kč).
+- *Související ustanovení téhož zákona:* § 40 (havárie), § 41 (povinnosti při havárii), § 42 (opatření k nápravě), § 125h (paralela PO/PFO).
+- *Související předpisy:* zákon č. 250/2016 Sb.; trestní zákoník (§ 293/294/294a TZ při dosažení intenzity trestného činu); zákon č. 167/2008 Sb. (ekologická újma).
+- *Judikatura:* k přednosti trestního řízení srov. § 14 odst. 1 zák. č. 250/2016 Sb. (popsáno v interpretačním rámci Hlavy XV).
+
+**4. Subsumpce.** U pana T. (původce) naplněno neohlášení havárie i nevykonání bezprostředních opatření (§ 41 odst. 1 a 2) → odst. 1, sazba až 500 000 Kč. U pana V. (kdo zjistil) naplněno neohlášení (§ 41 odst. 1) → odst. 2, sazba do 100 000 Kč. Klíčové je odlišení rolí původce vs. nálezce.
+
+**5. Řešení.** Oba se postihnou samostatně podle své role. Vedle pokuty se původci uloží opatření k nápravě (§ 42), ledaže je vydáno rozhodnutí podle zákona o ekologické újmě (pak se nápravné opatření dle VZ neuloží — § 126 odst. 7). Dosáhne-li skutek intenzity trestného činu, má přednost trestní řízení.
+
+**6. Varianty.** (a) Učiní-li pan T. bezprostřední opatření a havárii nahlásí, odpadá podstatná část odpovědnosti a může se uplatnit upuštění od trestu (§ 125l odst. 1). (b) Je-li původcem PO/PFO, aplikuje se § 125h, kde je neohlášení sankcionováno až 5 mil. Kč.
+
+##### G. Protiargumenty a rizika
+
+- *„Nešlo o havárii ve smyslu § 40."* Pachatel zpochybní intenzitu. Neutralizace: doložit únik závadné látky do vod a jeho rozsah rozbory a fotodokumentací.
+- *„O havárii jsem nevěděl."* U nálezce (odst. 2) je třeba prokázat, že havárii zjistil. Neutralizace: svědecké výpovědi, časová osa.
+- *Slabé místo:* souběh s trestním řízením — je-li zahájeno trestní stíhání pro týž skutek, přestupek se neprojedná (§ 14 odst. 1 zák. č. 250/2016 Sb.).
+
+##### H. Praktický závěr
+
+§ 123 vynucuje okamžitou reakci na havárie — ohlášení a bezprostřední opatření; rozlišuje přísnější odpovědnost původce a mírnější odpovědnost nálezce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o havárii dle § 40 (únik závadných látek do vod)?
+- [ ] Je pachatel původcem (odst. 1) nebo tím, kdo havárii zjistil (odst. 2)?
+- [ ] Byla splněna ohlašovací povinnost a bezprostřední opatření (§ 41 odst. 1, 2)?
+- [ ] Není pro skutek vedeno trestní řízení (§ 293/294/294a TZ)?
+- [ ] Nebylo vydáno rozhodnutí dle zákona o ekologické újmě (§ 126 odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** rozbory vody, fotodokumentace úniku/skvrny, časová osa události a hlášení, svědecké výpovědi, doklady o učiněných opatřeních.
 
 #### § 124 — Správce drobného vodního toku (FO)
 
@@ -179,6 +470,42 @@ Sankcionuje fyzickou osobu jako **správce drobného vodního toku** (§ 48 odst
 - *NSS* [5 A 174/2014 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/439712) — 21. 5. 2019
   > „Zjistit porušení zákona“ (zde ve smyslu § 124 odst. 2 zákona č. 254/2001 Sb., o vodách, ve znění účinném do 31. 7. 2010) neznamená, že již v tomto okamžiku musí být najisto postaveno, že k porušení povinnosti došlo, nýbrž postačí, že vzniklo důvodné podezření, že se tak stalo. Prokázání, že k porušení povinnosti došlo a kdo je za porušení povinnosti odpovědný, je předmětem příslušného řízení. „Zjištění porušení zákona“ však nemůže být dáno pouhým vědomím správního orgánu, resp. jeho pracovníků, o porušení zákona; musí být založeno na objektivní skutečnosti …"
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan U. je jako vlastník přilehlého pozemku určen správcem drobného vodního toku (§ 48 odst. 2). Neplní obecné povinnosti správce (§ 47 odst. 2 — neudržuje koryto, neodstraňuje překážky) a před očekávanou povodní nezajistí povodňové zabezpečovací práce (§ 75 odst. 3). Vodoprávní úřad zahájí řízení poté, co obdrží podnět. Důkazy: dokumentace o určení správcem, fotodokumentace stavu koryta, povodňová dokumentace, časová osa zjištění.
+
+**2. Právní otázka.** Od kterého okamžiku je „zjištěno porušení zákona" pro účely řízení podle § 124 a co musí být v tomto okamžiku postaveno najisto?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124 odst. 1–2 (povinnosti správce drobného toku; sazby 50 000–200 000 Kč).
+- *Související ustanovení téhož zákona:* § 47 odst. 2 (povinnosti správce), § 48 odst. 2 (kdo je správcem drobného toku), § 75 odst. 3, § 83 (ochrana před povodněmi), § 125i (paralela pro profesionální správce — PO/PFO).
+- *Související předpisy:* zákon č. 250/2016 Sb.; správní řád.
+- *Judikatura:* NSS 5 A 174/2014 — „zjistit porušení zákona" (§ 124 odst. 2) neznamená, že již v daném okamžiku musí být najisto, že k porušení došlo; postačí důvodné podezření založené na objektivní skutečnosti, nikoli pouhé vědomí pracovníků úřadu. Prokázání porušení a odpovědnosti je předmětem řízení.
+
+**4. Subsumpce.** Naplněno nesplnění obecných povinností správce (§ 47 odst. 2) a nezajištění zabezpečovacích prací (§ 75 odst. 3). Pro běh lhůt a zahájení řízení je rozhodný okamžik „zjištění porušení" ve smyslu NSS 5 A 174/2014 — důvodné podezření z objektivní skutečnosti.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu v sazbě 50 000–200 000 Kč a nařídí nápravu (údržba koryta, zajištění prací). Rozhodný je řádný popis okamžiku zjištění porušení a podklady, na nichž bylo důvodné podezření založeno.
+
+**6. Varianty.** (a) Je-li správcem státní podnik Povodí nebo Lesy ČR (PO), aplikuje se § 125i, nikoli § 124. (b) Při porušení povinností výhradně v ochraně před povodněmi (§ 83) se postih opírá o příslušné písmeno § 124.
+
+##### G. Protiargumenty a rizika
+
+- *„Úřad o porušení věděl dříve, lhůta uplynula."* Neutralizace: NSS 5 A 174/2014 — rozhodné je objektivní zjištění (důvodné podezření), nikoli subjektivní vědomí pracovníků; lhůty se odvíjejí od doložitelné objektivní skutečnosti.
+- *„Nejsem správcem toku."* Pachatel zpochybní určení. Neutralizace: doložit určení/postavení správce dle § 48 odst. 2 nebo § 127 odst. 17 (kontinuita určení).
+- *Slabé místo:* prokázání obsahu a rozsahu povinností správce v konkrétním úseku; bez jasného vymezení úseku hrozí neurčitost skutku.
+
+##### H. Praktický závěr
+
+§ 124 postihuje fyzickou osobu v roli správce drobného vodního toku; praktickým těžištěm je správné určení okamžiku zjištění porušení a postavení správce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pachatel správcem drobného vodního toku (§ 48 odst. 2, § 127 odst. 17)?
+- [ ] Které povinnosti byly porušeny (§ 47 odst. 2, § 75 odst. 3, § 83)?
+- [ ] Je řádně doložen okamžik „zjištění porušení" (NSS 5 A 174/2014)?
+- [ ] Jde o FO? PO/PFO se posuzuje podle § 125i.
+
+**Typicky rozhodné důkazy / podklady:** doklad o určení správcem, fotodokumentace stavu koryta, povodňová dokumentace, podklady zakládající důvodné podezření, časová osa zjištění.
+
 #### § 125 — Porušení povinností poplatníka (FO)
 
 > **§ 125** — odst. 1–2.
@@ -186,6 +513,42 @@ Sankcionuje fyzickou osobu jako **správce drobného vodního toku** (§ 48 odst
 **Výklad:**
 
 Drobná skutková podstata: nezajištění odběrů vzorků a sledování koncentrací znečištění OV pro účely **poplatkového řízení** (§ 89n odst. 2 — Hlava XI). Sazba do 50 000 Kč. Tato povinnost se vztahuje na malé zdroje znečištění s ročním vypouštěním nad 6 000 m³ (mimo režim ČIŽP).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pan Z. provozuje malý zdroj znečištění (penzion s ČOV) s ročním vypouštěním OV nad 6 000 m³. Pro účely poplatkového řízení (Hlava XI) je povinen zajistit odběr vzorků a sledování koncentrací znečištění (§ 89n odst. 2). Tuto povinnost neplní — nevede sledování, takže nelze řádně stanovit poplatek. Důkazy: evidence vypouštěného množství, absence protokolů o odběrech vzorků, výzvy správce poplatku.
+
+**2. Právní otázka.** Vztahuje se na pana Z. povinnost podle § 89n odst. 2 (sledování koncentrací) a jaká je sazba za její nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125 odst. 1–2 (nezajištění odběru vzorků a sledování koncentrací; sazba do 50 000 Kč).
+- *Související ustanovení téhož zákona:* § 89n odst. 2 (Hlava XI — poplatky), § 38 (odpadní vody), § 126 odst. 6 (plnění ohlašovacích povinností přes ISPOP nad 6 000 m³/rok), § 125k (paralela PO/PFO).
+- *Související předpisy:* zákon č. 250/2016 Sb.; správní řád; vyhláška k poplatkové agendě.
+- *Judikatura:* obecné požadavky na zjištění skutkového stavu bez důvodných pochybností (srov. NSS 5 A 174/2014).
+
+**4. Subsumpce.** Naplněno nezajištění odběru vzorků a sledování koncentrací pro poplatkové účely (§ 89n odst. 2). Podmínkou je překročení prahu (nad 6 000 m³/rok mimo režim ČIŽP). Sporné může být zařazení zdroje a překročení prahu.
+
+**5. Řešení.** Vodoprávní úřad / správce poplatku uloží pokutu do 50 000 Kč a vyzve k zjednání nápravy (zavedení sledování, odběry akreditovanou laboratoří). Poplatek lze případně stanovit náhradním způsobem.
+
+**6. Varianty.** (a) Je-li pachatelem PO/PFO, aplikuje se § 125k (sazba do 100 000 Kč). (b) Spadá-li zdroj pod režim ČIŽP, mění se příslušnost i povinnosti měření.
+
+##### G. Protiargumenty a rizika
+
+- *„Nedosahuji prahu 6 000 m³."* Pachatel zpochybní rozsah vypouštění. Neutralizace: doložit množství z evidence/měření a navazujících podkladů.
+- *„Povinnost se mě netýká."* Neutralizace: § 89n odst. 2 ve spojení s charakterem zdroje; je-li zdroj poplatníkem, povinnost sledování platí.
+- *Slabé místo:* drobná sazba (do 50 000 Kč) může v praxi motivovat k pasivitě; účinnější je vynucení nápravy a správné stanovení poplatku.
+
+##### H. Praktický závěr
+
+§ 125 zajišťuje datovou základnu poplatkového řízení u fyzických osob — bez sledování koncentrací nelze řádně vyměřit poplatek za vypouštění OV.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zdroj poplatníkem dle Hlavy XI a překračuje práh (nad 6 000 m³/rok)?
+- [ ] Byly zajištěny odběry vzorků a sledování koncentrací (§ 89n odst. 2)?
+- [ ] Probíhá ohlašování přes ISPOP (§ 126 odst. 6)?
+- [ ] U PO/PFO aplikovat § 125k.
+
+**Typicky rozhodné důkazy / podklady:** evidence vypouštěného množství, protokoly o odběrech vzorků (či jejich absence), výzvy správce poplatku, doklady o akreditované laboratoři.
 
 ---
 
@@ -220,6 +583,43 @@ Paralela § 116. Katalog 24 dílčích skutkových podstat doplněný o specifik
 
 **Speciální sazba za odběr (odst. 3–4):** Stejná metodika jako u FO (40/70 Kč/m³), avšak strop **10 000 000 Kč**.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Těžební společnost (a.s.) vypouští důlní vody do povrchového toku v rozporu s podmínkami § 38 odst. 5 a současně dlouhodobě odebírá podzemní vodu nad rámec povolení. ČIŽP zjistí oba skutky a navíc nesplnění opatření, které jí dříve uložila podle § 112 odst. 1 písm. b). Důkazy: protokoly ČIŽP, rozbory vypouštěných vod, měření odebraného množství, dřívější rozhodnutí ČIŽP o uložení opatření.
+
+**2. Právní otázka.** Jak se kombinuje sazbová škála § 125a odst. 2 s objektivní odpovědností PO a se speciální sazbou za neoprávněný odběr (odst. 3–4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125a odst. 1 písm. k) (vypuštění důlních vod dle § 38 odst. 5), písm. x) (nesplnění opatření ČIŽP dle § 112 odst. 1 písm. b), odst. 2 (škála sazeb), odst. 3–4 (odběr — strop 10 mil. Kč).
+- *Související ustanovení téhož zákona:* § 116 (paralela FO), § 8 (povolení), § 38 (OV, důlní vody), § 112 (opatření ČIŽP), § 125l (recidiva, kritéria, příslušnost), Příloha č. 1.
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 — objektivní odpovědnost a liberace PO/PFO); správní řád; zákon č. 167/2008 Sb.
+- *Judikatura:* k liberaci PO srov. NSS 8 A 72/2013 (citováno u § 125l) — prokázání vynaložení veškerého úsilí.
+
+**4. Subsumpce.** Naplněno vypuštění důlních vod v rozporu s § 38 odst. 5 (písm. k) i nesplnění opatření ČIŽP (písm. x). Odběr nad povolení se sankcionuje metodikou 40/70 Kč/m³ se stropem 10 mil. Kč. U PO platí objektivní odpovědnost — zproštění jen prokázáním veškerého úsilí (§ 21 zák. č. 250/2016 Sb.).
+
+**5. Řešení.** ČIŽP uloží pokutu v příslušné sazbě (u nejzávažnějších skutků až do milionů Kč), zohlední kritéria § 125l odst. 3 a případnou recidivu (zdvojnásobení dle § 125l odst. 2, max. 20 mil. Kč). Pokuta uložená ČIŽP se rozdělí 50 % obec / 50 % SFŽP (§ 125l odst. 6).
+
+**6. Varianty.** (a) Půjde-li o vypouštění OV se zvlášť nebezpečnými závadnými látkami (písm. m), sazba dosáhne 25 mil. Kč a recidiva se neuplatní. (b) Prokáže-li PO vynaložení veškerého úsilí, zprostí se odpovědnosti (liberace).
+
+##### G. Protiargumenty a rizika
+
+- *Liberace (§ 21 zák. č. 250/2016 Sb.).* PO tvrdí, že vynaložila veškeré úsilí. Neutralizace: posoudit, zda šlo o objektivně předvídatelné a odvratitelné porušení; NSS 8 A 72/2013 klade na liberaci přísné požadavky.
+- *Spor o množství odebrané vody* (strop 10 mil. Kč) — neutralizace pečlivým výpočtem a max. 3letou retroaktivní dobou.
+- *Slabé místo:* správná subsumpce konkrétního písmene (a tedy sazby) — chybné zařazení mezi šesti sazbovými stupni je častou vadou rozhodnutí.
+
+##### H. Praktický závěr
+
+§ 125a je vlajková skutková podstata pro PO/PFO s mimořádně širokou škálou sazeb (až 25 mil. Kč) a objektivní odpovědností; klíčové je přesné zařazení skutku a výpočet odběrové pokuty.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které konkrétní písmeno § 125a odst. 1 skutek naplňuje (určuje sazbu)?
+- [ ] Uplatní se speciální sazba za odběr (odst. 3–4, strop 10 mil. Kč)?
+- [ ] Je dána objektivní odpovědnost a zvážena liberace (§ 21 zák. č. 250/2016 Sb.)?
+- [ ] Jde o recidivu (§ 125l odst. 2) a platí výjimka u „mega" deliktů?
+- [ ] Rozdělení výnosu pokuty (§ 125l odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** protokoly ČIŽP, rozbory vod, měření odebraného množství, dřívější rozhodnutí o uložených opatřeních, doklady k liberaci (interní kontrolní systém, preventivní opatření).
+
 #### § 125b — Plavební přestupky PO/PFO
 
 > **§ 125b** — odst. 1 (provozovatel plavidla), odst. 2 (provozovatel přístavu), odst. 3 (sazby).
@@ -230,6 +630,42 @@ Paralela § 117 s doplněním:
 
 - **nezabezpečení povinností provozovatele speciální lodi** určené k dopravě pohonných hmot a odpadů (odst. 1 písm. b, § 7 odst. 3) — sankce 200 000 Kč;
 - **provozovatel přístavu / servisního zařízení** (odst. 2) — porušení podmínek pro zásobování plavidel a odstraňování OV (§ 7 odst. 3) — sankce 200 000 Kč.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Přepravní společnost (s.r.o.) provozuje na vodní cestě speciální loď určenou k dopravě pohonných hmot, avšak nezabezpečí povinnosti provozovatele speciální lodi podle § 7 odst. 3 (chybí předepsané vybavení proti úniku). Současně provozuje přístav, kde nedodržuje podmínky pro odstraňování OV z plavidel. Důkazy: kontrolní záznam SPS, technická dokumentace lodi a přístavu, fotodokumentace.
+
+**2. Právní otázka.** Jaké jsou sazby za porušení povinností provozovatele speciální lodi a provozovatele přístavu a který orgán je příslušný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125b odst. 1 písm. b) (provozovatel speciální lodi, § 7 odst. 3; až 200 000 Kč), odst. 2 (provozovatel přístavu/servisního zařízení; až 200 000 Kč), odst. 3 (sazby).
+- *Související ustanovení téhož zákona:* § 7 (užívání povrchových vod k plavbě), § 117 (paralela FO), § 125l odst. 4 (příslušnost SPS u vůdce plavidla).
+- *Související předpisy:* zákon č. 114/1995 Sb., o vnitrozemské plavbě; zákon č. 250/2016 Sb.; správní řád.
+- *Judikatura:* k požadavkům na zjištění skutku přiměřeně NSS 5 A 174/2014.
+
+**4. Subsumpce.** Naplněno nezabezpečení povinností provozovatele speciální lodi (§ 7 odst. 3) → odst. 1 písm. b); porušení podmínek provozovatelem přístavu → odst. 2. U PO platí objektivní odpovědnost (§ 21 zák. č. 250/2016 Sb.).
+
+**5. Řešení.** Příslušný orgán (vodoprávní úřad / ČIŽP; u skutků vůdce plavidla SPS dle § 125l odst. 4) uloží pokutu do 200 000 Kč a vyžádá zjednání nápravy (doplnění vybavení, úprava provozu přístavu).
+
+**6. Varianty.** (a) Jde-li o skutky vůdce plavidla (§ 125b odst. 1 písm. d, e), je příslušná Státní plavební správa. (b) U fyzické osoby se aplikuje § 117.
+
+##### G. Protiargumenty a rizika
+
+- *„Loď není speciální lodí dle § 7 odst. 3."* Pachatel zpochybní kvalifikaci plavidla. Neutralizace: doložit účel (doprava PHM/odpadů) a technické parametry.
+- *Liberace PO.* Společnost tvrdí vynaložení úsilí. Neutralizace: posoudit reálnost a dostatečnost preventivních opatření (NSS 8 A 72/2013).
+- *Slabé místo:* správné určení příslušnosti — záměna mezi SPS a vodoprávním úřadem/ČIŽP vede k vadě řízení.
+
+##### H. Praktický závěr
+
+§ 125b postihuje plavební přestupky PO/PFO se zaměřením na speciální lodě a provozovatele přístavů; sazby do 200 000 Kč, příslušnost se dělí mezi SPS a vodoprávní orgány.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o provozovatele plavidla, speciální lodi nebo přístavu (odst. 1 vs. 2)?
+- [ ] Byly splněny povinnosti dle § 7 odst. 3?
+- [ ] Který orgán je příslušný (§ 125l odst. 4 — SPS u vůdce plavidla)?
+- [ ] U FO aplikovat § 117.
+
+**Typicky rozhodné důkazy / podklady:** kontrolní záznam SPS, technická dokumentace lodi/přístavu, fotodokumentace vybavení, doklady o provozním řádu přístavu.
 
 #### § 125c — Jiné povinnosti při nakládání s vodami (PO/PFO)
 
@@ -244,6 +680,43 @@ Paralela § 118 — s **dramaticky vyššími sazbami**. Klíčové:
 
 Doplňková skutková podstata: **osoba provádějící odvoz OV z bezodtokové jímky** (odst. 3) nevydá doklad podle § 38 odst. 7 — sankce 50 000 Kč. Tato povinnost je klíčová pro kontrolu nakládání s OV z bezodtokových jímek (žump) — § 38 odst. 7 vyžaduje, aby majitel žumpy doložil odvoz akreditovaným odvozcem.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Průmyslový podnik (a.s.) provozuje ČOV s povolením k vypouštění OV obsahujících zvlášť nebezpečné závadné látky do povrchového toku. Po poruše technologie vypouští OV se ZNZL v rozporu s povolením (překračuje emisní limity). ČIŽP zjistí překročení rozborem. Důkazy: protokoly o odběru vzorků a rozbory, povolení s limity, provozní záznamy ČOV, časová osa poruchy.
+
+**2. Právní otázka.** Jaká je horní sazba za vypouštění OV se zvlášť nebezpečnými závadnými látkami v rozporu s povolením a jak se zohlední následná náprava?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125c odst. 5 písm. d) (vypouštění OV v rozporu s povolením — 5 mil. Kč), písm. e) (OV se ZNZL — 25 mil. Kč), odst. 3 (osoba provádějící odvoz OV z bezodtokové jímky — doklad dle § 38 odst. 7).
+- *Související ustanovení téhož zákona:* § 118 (paralela FO), § 38 (OV), § 16/§ 39 (ZNZL), § 125l odst. 1 (upuštění od trestu při nápravě), odst. 3 (kritéria), Příloha č. 1.
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); zákon č. 76/2002 Sb. (integrovaná prevence — § 126 odst. 5); správní řád.
+- *Judikatura:* NSS 8 A 72/2013 (citováno u § 125l) — podmínky liberace/upuštění od trestu.
+
+**4. Subsumpce.** Naplněno vypouštění OV se ZNZL v rozporu s povolením → odst. 5 písm. e), sazba až 25 mil. Kč (nejvyšší ve VZ). Kritéria § 125l odst. 3 (míra překročení, ovlivnění jakosti, stupeň ochrany území, příčina) určují konkrétní výši.
+
+**5. Řešení.** ČIŽP uloží pokutu a zohlední kritéria § 125l odst. 3. Pokud podnik investuje do faktické nápravy (oprava technologie, dekontaminace), lze za podmínek § 125l odst. 1 upustit od trestu (úsilí + nepřiměřená tvrdost vzhledem k nákladům nápravy). Recidiva se u 25mil. sazby (§ 125c odst. 5 písm. e) nezdvojnásobuje (§ 125l odst. 2).
+
+**6. Varianty.** (a) Bez ZNZL (jen OV v rozporu s povolením) → odst. 5 písm. d), sazba 5 mil. Kč. (b) Je-li povolení nahrazeno integrovaným povolením (§ 126 odst. 5), mění se režim rozhodování. (c) U FO se aplikuje § 118.
+
+##### G. Protiargumenty a rizika
+
+- *Upuštění od trestu (§ 125l odst. 1).* Podnik se ho dovolá. Neutralizace: NSS 8 A 72/2013 — musí být splněny obě podmínky (faktická opatření i nepřiměřená tvrdost); důkazní břemeno nese pachatel.
+- *Spor o zařazení látky jako ZNZL* (rozhoduje mezi 5 a 25 mil. Kč). Neutralizace: doložit zařazení dle Přílohy č. 1 a rozbory.
+- *Slabé místo:* prokázání míry překročení limitů a ovlivnění jakosti vod vyžaduje reprezentativní odběry a rozbory akreditovanou laboratoří.
+
+##### H. Praktický závěr
+
+§ 125c obsahuje jednu ze tří „mega" sazeb VZ (25 mil. Kč za OV se ZNZL); rozhodující je zařazení látek, míra překročení a možnost upuštění od trestu při faktické nápravě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahují vypouštěné OV zvlášť nebezpečné závadné látky (Příloha č. 1)?
+- [ ] Jde o vypouštění v rozporu s povolením (odst. 5 písm. d/e)?
+- [ ] Byla zvážena kritéria § 125l odst. 3 pro výši pokuty?
+- [ ] Přichází v úvahu upuštění od trestu při faktické nápravě (§ 125l odst. 1)?
+- [ ] Není rozhodování nahrazeno integrovaným povolením (§ 126 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** protokoly o odběru a rozbory OV, povolení s emisními limity, provozní záznamy ČOV, zařazení látek dle Přílohy č. 1, doklady o nápravných investicích.
+
 #### § 125d — Vlastníci a stavebníci vodních děl (PO/PFO)
 
 > **§ 125d** — odst. 1–8.
@@ -251,6 +724,43 @@ Doplňková skutková podstata: **osoba provádějící odvoz OV z bezodtokové 
 **Výklad:**
 
 Paralela § 119 s **doplněním povinnosti zpracovat provozní řád** vodního díla pro čištění OV s povolením vypouštět zvlášť nebezpečné závadné látky (odst. 5 písm. h, § 59 odst. 2). Maximální sazba 1 000 000 Kč. Vyšší horní sazby (500 000 Kč) za **neprovádění TBD u vodního díla I.–IV. kategorie** (odst. 2) odrážejí kritičnost těchto děl pro bezpečnost (přehrady, retenční nádrže).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost provozuje vodní dílo I. kategorie (přehradu) a ČOV s povolením vypouštět zvlášť nebezpečné závadné látky. Neprovádí technickobezpečnostní dohled u díla I. kategorie a nezpracovala provozní řád ČOV podle § 59 odst. 2. ČIŽP / vodoprávní úřad to zjistí kontrolou. Důkazy: zařazení díla do kategorie TBD, dokumentace dohledu (či absence), povolení k vypouštění ZNZL, provozní řád (či jeho absence).
+
+**2. Právní otázka.** Jaké sazby hrozí PO za neprovádění TBD u díla I.–IV. kategorie a za absenci provozního řádu ČOV s povolením vypouštět ZNZL?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125d odst. 2 (neprovádění TBD u díla I.–IV. kategorie — až 500 000 Kč), odst. 5 písm. h) (nezpracování provozního řádu dle § 59 odst. 2 — až 1 mil. Kč).
+- *Související ustanovení téhož zákona:* § 119 (paralela FO), § 59 (povinnosti vlastníka VD), § 61 (kategorizace TBD), § 73 odst. 3 (nebezpečí zvláštní povodně).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); vyhláška o TBD; správní řád.
+- *Judikatura:* k trvající povaze zanedbání povinností přiměřeně NSS 62 A 7/2020.
+
+**4. Subsumpce.** Naplněno neprovádění TBD u díla I. kategorie (odst. 2) a nezpracování provozního řádu ČOV s povolením vypouštět ZNZL (odst. 5 písm. h, § 59 odst. 2). Vyšší sazby odrážejí kritičnost děl I.–IV. kategorie pro bezpečnost.
+
+**5. Řešení.** Úřad uloží pokutu (až 1 mil. Kč u absence provozního řádu) a nařídí zjednání nápravy (zajištění TBD pověřenou osobou, zpracování provozního řádu). U děl vyšších kategorií je třeba klást důraz na prevenci selhání.
+
+**6. Varianty.** (a) Neohlášení nebezpečí zvláštní povodně vlastníkem vzdouvacího díla → příslušný odstavec s vysokou sazbou. (b) U FO se aplikuje § 119.
+
+##### G. Protiargumenty a rizika
+
+- *„Dílo není zařazeno do kategorie TBD."* Pachatel zpochybní zařazení. Neutralizace: doložit kategorizaci dle § 61 a § 127 odst. 3 (kontinuita zařazení).
+- *Liberace PO.* Společnost tvrdí vynaložení úsilí. Neutralizace: posoudit dostatečnost organizačních a technických opatření (NSS 8 A 72/2013).
+- *Slabé místo:* prokázání, že povinnost zpracovat provozní řád vznikla (povolení vypouštět ZNZL musí existovat) — bez něj odst. 5 písm. h) neobstojí.
+
+##### H. Praktický závěr
+
+§ 125d postihuje vlastníky a stavebníky vodních děl z řad PO/PFO; nejpřísněji se sankcionuje absence TBD u kritických děl a chybějící provozní řád ČOV s povolením vypouštět ZNZL.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do jaké kategorie TBD je vodní dílo zařazeno (§ 61, § 127 odst. 3)?
+- [ ] Je TBD prováděn pověřenou osobou?
+- [ ] Existuje provozní řád dle § 59 odst. 2 (u děl s povolením vypouštět ZNZL)?
+- [ ] Zvážena liberace PO (§ 21 zák. č. 250/2016 Sb.)?
+- [ ] U FO aplikovat § 119.
+
+**Typicky rozhodné důkazy / podklady:** zařazení díla do kategorie TBD, dokumentace dohledu, povolení k vypouštění ZNZL, provozní/manipulační řád, protokol o kontrole.
 
 #### § 125e — Vlastníci pozemků, staveb a zařízení (PO/PFO)
 
@@ -260,6 +770,42 @@ Paralela § 119 s **doplněním povinnosti zpracovat provozní řád** vodního 
 
 Paralela § 120 se sazbami 20 000–200 000 Kč. Sankce za neodstranění předmětů zachycených na stavbě v korytě toku (odst. 4) — 200 000 Kč — odráží vyšší míru profesionality očekávané od PO/PFO.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stavební společnost (s.r.o.) vlastní v korytě řeky mostní pilíř, na němž se opakovaně zachycují naplaveniny. Společnost je neodstraňuje, čímž zužuje průtočný profil. Při povodni dojde ke vzdutí a podemletí břehu. Vodoprávní úřad zahájí řízení. Důkazy: fotodokumentace zachycených předmětů a stavby v korytě, vyjádření správce toku, časová osa.
+
+**2. Právní otázka.** Jaká je sazba u PO/PFO za neodstranění předmětů zachycených na stavbě v korytě a jak se promítne vyšší míra profesionality?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125e odst. 4 (neodstranění předmětů zachycených na stavbě v korytě — 200 000 Kč), odst. 1–9 (povinnosti vlastníků pozemků, staveb a zařízení, sazby 20 000–200 000 Kč).
+- *Související ustanovení téhož zákona:* § 120 (paralela FO), § 27, § 50, § 51 odst. 1, § 52 odst. 1, § 56 odst. 4, § 60 odst. 1.
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); správní řád.
+- *Judikatura:* NSS 62 A 7/2020 — neodstranění zachycených předmětů (§ 120 odst. 4 / paralelně § 125e odst. 4) je trvajícím přestupkem (udržování protiprávního stavu, který nemusí pachatel vyvolat).
+
+**4. Subsumpce.** Naplněno neodstranění předmětů zachycených na stavbě v korytě → odst. 4, sazba 200 000 Kč (vyšší než u FO). Jde o trvající přestupek — odpovědnost trvá, dokud předměty nejsou odstraněny; promlčení běží od ukončení stavu.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu do 200 000 Kč a nařídí odstranění předmětů. Od PO se očekává vyšší míra profesionality a prevence (pravidelná kontrola stavby v korytě).
+
+**6. Varianty.** (a) Jiné porušení (péče o vodní poměry § 27, povinnosti vlastníka pozemku s korytem § 50) → příslušný odstavec s nižší sazbou. (b) U FO se aplikuje § 120 (sazba u odst. 4 jen do 50 000 Kč).
+
+##### G. Protiargumenty a rizika
+
+- *„Předměty jsme nevyvolali."* Neutralizace: NSS 62 A 7/2020 — u trvajícího přestupku není rozhodné, že stav pachatel nevyvolal; odpovědnost vzniká neodstraněním.
+- *Liberace PO.* Neutralizace: posoudit, zda společnost zavedla kontrolní mechanismy; pasivita liberaci vylučuje.
+- *Slabé místo:* určení okamžiku, odkdy předměty bránily průtoku a odkdy o nich pachatel věděl/měl vědět.
+
+##### H. Praktický závěr
+
+§ 125e je paralelou § 120 pro PO/PFO s vyššími sazbami; praktickým těžištěm je trvající povaha neodstranění zachycených předmětů a vyšší standard péče u podnikatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kterému odstavci § 125e skutek odpovídá (§ 27, § 50, § 51, § 52, § 56, § 60)?
+- [ ] Jde o trvající přestupek (odst. 4)? Pak promlčení od ukončení stavu.
+- [ ] Zavedla PO kontrolu stavby v korytě (relevantní pro liberaci)?
+- [ ] U FO aplikovat § 120.
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace stavby v korytě a zachycených předmětů, vyjádření správce toku, časová osa, doklad o vlastnictví stavby.
+
 #### § 125f — Ochrana před povodněmi (PO/PFO)
 
 > **§ 125f** — odst. 1–5.
@@ -267,6 +813,43 @@ Paralela § 120 se sazbami 20 000–200 000 Kč. Sankce za neodstranění předm
 **Výklad:**
 
 Paralela § 121, identické sazby (100 000 / 500 000 Kč). Sankcionuje stejné skutky jako u FO, ale u PO/PFO se objektivní odpovědnost a možnost vyšších efektivních pokut projevuje skrze recidivní mechanismus § 125l odst. 2.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Logistická firma (a.s.) provozuje rozsáhlý areál v záplavovém území. Nezpracovala povodňový plán vlastníka, ač její stavby zhoršují průběh povodně, a v aktivní zóně skladuje paletizované zboží, které při povodni odplave. Vodoprávní úřad zahájí řízení. Důkazy: vymezení záplavového území a aktivní zóny, fotodokumentace skladovaného zboží, absence povodňového plánu.
+
+**2. Právní otázka.** Jak se u PO/PFO uplatní recidivní mechanismus § 125l odst. 2 ve spojení se sazbami § 125f?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125f odst. 1–5 (povinnosti v ochraně před povodněmi; sazby 100 000 / 500 000 Kč).
+- *Související ustanovení téhož zákona:* § 121 (paralela FO), § 63 odst. 3, § 71 odst. 4/5, § 75 odst. 3, § 85, § 125l odst. 2 (recidiva).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); správní řád; obecní povodňový plán.
+- *Judikatura:* k liberaci PO srov. NSS 8 A 72/2013.
+
+**4. Subsumpce.** Naplněna absence povodňového plánu vlastníka a zhoršení odtokových podmínek skladovaným majetkem v aktivní zóně. U PO se vyšší účinnost sankce projeví objektivní odpovědností a recidivním zdvojnásobením (§ 125l odst. 2).
+
+**5. Řešení.** Úřad uloží pokutu do 500 000 Kč; při opakování do 1 roku se sazba zdvojnásobí (max. 20 mil. Kč). Současně nařídí nápravu (zpracování plánu, vyklizení aktivní zóny).
+
+**6. Varianty.** (a) Neumožnění vstupu k ochraně před povodněmi → odst. 1 (§ 63 odst. 3). (b) U FO se aplikuje § 121.
+
+##### G. Protiargumenty a rizika
+
+- *„Stavby nezhoršují průběh povodně."* Pachatel zpochybní podmínku vzniku povinnosti. Neutralizace: odborné posouzení vlivu na proudění a aktivní zónu.
+- *Liberace PO.* Neutralizace: posoudit dostatečnost preventivních opatření (NSS 8 A 72/2013).
+- *Slabé místo:* platné vymezení záplavového území a aktivní zóny opatřením obecné povahy je podmínkou postihu.
+
+##### H. Praktický závěr
+
+§ 125f je paralelou § 121 pro PO/PFO; vyšší efektivní postih plyne z objektivní odpovědnosti a recidivního mechanismu § 125l odst. 2.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je areál v záplavovém území / aktivní zóně (platné vymezení)?
+- [ ] Vznikla povinnost zpracovat povodňový plán vlastníka (§ 71)?
+- [ ] Zhoršuje skladovaný majetek odtokové podmínky (§ 85)?
+- [ ] Jde o recidivu (§ 125l odst. 2)?
+- [ ] U FO aplikovat § 121.
+
+**Typicky rozhodné důkazy / podklady:** vymezení záplavového území a aktivní zóny, povodňový plán (či absence), fotodokumentace skladovaného majetku, odborné posouzení odtokových poměrů.
 
 #### § 125g — Závadné látky (PO/PFO)
 
@@ -282,6 +865,43 @@ Paralela § 122 s **velmi tvrdými sazbami**:
 
 Toto je vedle § 125a odst. 2 písm. g a § 125c odst. 5 písm. e jeden ze **tří „mega" deliktů** VZ se sazbou 25 mil. Kč. Cílí na nejzávažnější ekologické přečiny: ropné havárie, masivní úniky zvlášť nebezpečných látek, chemické katastrofy. V praxi se aplikuje na velké průmyslové podniky.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Chemický podnik (a.s.) zachází se zvlášť nebezpečnými závadnými látkami. Nemá řádný havarijní plán (§ 39 odst. 2 písm. a) a neplní povinnosti dle § 39 odst. 5. Dojde k úniku ZNZL do podzemních vod a kontaminaci zdroje pitné vody. ČIŽP zahájí řízení. Důkazy: rozbory podzemních vod, monitoring kontaminace, absence/nedostatečnost havarijního plánu, technologická dokumentace.
+
+**2. Právní otázka.** Jaká je nejvyšší sazba za nesplnění povinností u zvlášť nebezpečných závadných látek s následným únikem a jak se kombinuje s upuštěním od trestu při nápravě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125g odst. 7 písm. e) (zacházení bez havarijního plánu — 2 mil. Kč), písm. f) (OV se ZNZL do kanalizace v rozporu s povolením — 5 mil. Kč), písm. g) (nesplnění § 39 odst. 5 s únikem ZNZL — 25 mil. Kč).
+- *Související ustanovení téhož zákona:* § 122 (paralela FO), § 39 (závadné látky), § 16, § 125l odst. 1 (upuštění od trestu), odst. 2 (recidiva — výjimka u 25mil. sazby), Příloha č. 1.
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); zákon č. 167/2008 Sb. (ekologická újma — § 126 odst. 7); zákon č. 76/2002 Sb.; trestní zákoník (§ 293/294/294a TZ).
+- *Judikatura:* NSS 8 A 72/2013 (citováno u § 125l) — podmínky liberace a upuštění od trestu.
+
+**4. Subsumpce.** Naplněno nesplnění povinností § 39 odst. 5 s následným únikem ZNZL → odst. 7 písm. g), sazba až 25 mil. Kč (jedna ze tří „mega" sazeb VZ). Recidiva se u této sazby nezdvojnásobuje (§ 125l odst. 2). Souběžně lze postihnout absenci havarijního plánu (písm. e).
+
+**5. Řešení.** ČIŽP uloží pokutu s ohledem na kritéria § 125l odst. 3. Pokud podnik provede faktickou nápravu (sanace, dekontaminace) a uložení trestu by vzhledem k nákladům vedlo k nepřiměřené tvrdosti, lze upustit od trestu (§ 125l odst. 1). Při dosažení intenzity trestného činu má přednost trestní řízení; nápravné opatření dle VZ se neuloží, je-li vydáno rozhodnutí dle zákona o ekologické újmě.
+
+**6. Varianty.** (a) Bez následného úniku ZNZL → nižší sazba (písm. e/f). (b) Body 3 a 10 Přílohy č. 1 jsou z nejtvrdší sazby (písm. g) výslovně vyňaty. (c) U FO se aplikuje § 122.
+
+##### G. Protiargumenty a rizika
+
+- *Upuštění od trestu (§ 125l odst. 1).* Podnik se ho dovolá. Neutralizace: NSS 8 A 72/2013 — kumulativní splnění obou podmínek; břemeno na pachateli.
+- *Spor o zařazení látky / vynětí dle Přílohy č. 1* (rozhoduje o aplikaci 25mil. sazby). Neutralizace: doložit zařazení a že nejde o vyňaté body 3/10.
+- *Slabé místo:* prokázání příčinné souvislosti mezi porušením § 39 odst. 5 a únikem ZNZL — vyžaduje monitoring a odborné posouzení.
+
+##### H. Praktický závěr
+
+§ 125g obsahuje nejtvrdší sazbu VZ (25 mil. Kč) za nejzávažnější ekologické přečiny s úniky zvlášť nebezpečných látek; cílí na velké průmyslové podniky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zvlášť nebezpečné závadné látky dle Přílohy č. 1 (mimo vyňaté body 3, 10)?
+- [ ] Existuje havarijní plán (§ 39 odst. 2 písm. a)?
+- [ ] Došlo k úniku ZNZL v důsledku porušení § 39 odst. 5 (sazba 25 mil. Kč)?
+- [ ] Přichází v úvahu upuštění od trestu (§ 125l odst. 1) a vyloučení recidivního zdvojnásobení?
+- [ ] Není pro skutek vedeno trestní řízení / rozhodnutí dle zákona o ekologické újmě?
+
+**Typicky rozhodné důkazy / podklady:** rozbory a monitoring vod, technologická dokumentace, havarijní plán a evidence, zařazení látek dle Přílohy č. 1, doklady o nápravných investicích.
+
 #### § 125h — Havárie (PO/PFO)
 
 > **§ 125h** — odst. 1–3.
@@ -293,6 +913,43 @@ Paralela § 123 s navýšenými sazbami:
 - **1 000 000 Kč** za **způsobení havárie** (odst. 1 písm. a) — pozor: skutek nezahrnuje havárie způsobené únikem provozních kapalin při dopravní nehodě (ty řeší zákon o pozemních komunikacích) ani havárie spadající pod jiný zákon s přísnějším trestem;
 - **2 000 000 Kč** za neučinění bezprostředních opatření (odst. 1 písm. c);
 - **5 000 000 Kč** za neohlášení havárie (odst. 1 písm. b) — paradoxní vrchol sazby je odůvodněn tím, že pozdní oznámení znemožní efektivní zásah a může mít fatální následky (kontaminace vodního zdroje, otrava ryb v desítkách kilometrů toku).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Při přepravě dojde k dopravní nehodě cisterny s chemikálií poblíž řeky; provozovatel (a.s.) sice únik způsobí, ale havárii neohlásí včas, čímž znemožní efektivní zásah; kontaminace zasáhne desítky kilometrů toku a způsobí úhyn ryb. ČIŽP zahájí řízení. Důkazy: rozbory vody, dokumentace úhynu ryb, časová osa havárie a hlášení, záznamy o opatřeních.
+
+**2. Právní otázka.** Proč je u § 125h sazba za neohlášení havárie (5 mil. Kč) vyšší než za samotné způsobení havárie (1 mil. Kč) a jak se vymezí vůči jiným zákonům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125h odst. 1 písm. a) (způsobení havárie — 1 mil. Kč), písm. b) (neohlášení havárie — 5 mil. Kč), písm. c) (neučinění bezprostředních opatření — 2 mil. Kč).
+- *Související ustanovení téhož zákona:* § 123 (paralela FO), § 40–42 (havárie a opatření k nápravě), § 125l odst. 1 (upuštění od trestu).
+- *Související předpisy:* zákon č. 250/2016 Sb.; zákon o pozemních komunikacích (havárie z provozních kapalin při dopravní nehodě); trestní zákoník (§ 293/294/294a TZ); zákon č. 167/2008 Sb.
+- *Judikatura:* k podmínkám liberace/upuštění od trestu NSS 8 A 72/2013.
+
+**4. Subsumpce.** Naplněno neohlášení havárie (§ 41 odst. 1) → odst. 1 písm. b), sazba až 5 mil. Kč; vysoká sazba je odůvodněna tím, že pozdní oznámení znemožní efektivní zásah a může mít fatální následky. Pozor na vymezení: skutek „způsobení havárie" nezahrnuje havárie z provozních kapalin při dopravní nehodě (řeší zákon o pozemních komunikacích) ani havárie pod jiným zákonem s přísnějším trestem.
+
+**5. Řešení.** ČIŽP uloží pokutu (až 5 mil. Kč za neohlášení) a nařídí opatření k nápravě (§ 42), ledaže je vydáno rozhodnutí dle zákona o ekologické újmě (§ 126 odst. 7). Při faktické nápravě lze za podmínek § 125l odst. 1 upustit od trestu. Při intenzitě trestného činu má přednost trestní řízení.
+
+**6. Varianty.** (a) Včasné ohlášení a bezprostřední opatření výrazně snižují odpovědnost a otevírají upuštění od trestu. (b) Havárie z provozních kapalin při dopravní nehodě se posoudí podle zákona o pozemních komunikacích, nikoli § 125h. (c) U FO se aplikuje § 123.
+
+##### G. Protiargumenty a rizika
+
+- *„Havárie spadá pod jiný zákon."* Pachatel namítne vynětí (dopravní nehoda / přísnější zákon). Neutralizace: posoudit povahu úniku a aplikovatelný zvláštní předpis.
+- *Upuštění od trestu / liberace.* Neutralizace: NSS 8 A 72/2013 — přísné kumulativní podmínky.
+- *Slabé místo:* prokázání okamžiku, kdy vznikla ohlašovací povinnost a kdy bylo (ne)ohlášeno — rozhodné pro nejvyšší sazbu.
+
+##### H. Praktický závěr
+
+§ 125h sankcionuje havárie u PO/PFO, přičemž paradoxně nejpřísněji postihuje neohlášení (5 mil. Kč), protože brání efektivnímu zásahu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o havárii dle § 40, nebo o případ vyňatý (dopravní nehoda / přísnější zákon)?
+- [ ] Byla havárie ohlášena a byla učiněna bezprostřední opatření (§ 41)?
+- [ ] Bylo uloženo opatření k nápravě (§ 42), nebo platí přednost zákona o ekologické újmě?
+- [ ] Přichází v úvahu upuštění od trestu (§ 125l odst. 1)?
+- [ ] Není pro skutek vedeno trestní řízení?
+
+**Typicky rozhodné důkazy / podklady:** rozbory vody, dokumentace následků (úhyn ryb, rozsah kontaminace), časová osa havárie a hlášení, záznamy o učiněných opatřeních.
 
 #### § 125i — Správce vodního toku a správce povodí
 
@@ -310,6 +967,43 @@ Skutky: nesplnění obecných povinností (§ 47 odst. 2), nezajištění povod�
 
 Sazby do 500 000 Kč.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Státní podnik Povodí jako správce významného vodního toku a současně správce povodí před očekávanou povodní nezajistí povodňové zabezpečovací práce v určeném úseku (§ 75 odst. 3) a nesplní povinnosti v ochraně před povodněmi (§ 82). Dojde k rozlivu, který bylo možné zmírnit. Vodoprávní úřad zahájí řízení. Důkazy: dokumentace o postavení správce, povodňová dokumentace, časová osa, fotodokumentace stavu úseku.
+
+**2. Právní otázka.** Jak se liší odpovědnost správce drobného toku, správce významného toku a správce povodí podle § 125i a jaká je horní sazba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125i odst. 1 (správce drobného toku), odst. 2 (správce významného toku), odst. 3 (správce povodí), odst. 4 (sazby do 500 000 Kč).
+- *Související ustanovení téhož zákona:* § 124 (paralela FO), § 47 odst. 2, § 48, § 54 (správa povodí), § 75 odst. 3, § 82 (správce povodí), § 83 (správce toku).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); správní řád.
+- *Judikatura:* NSS 10 As 44/2021 (citováno u § 127) — kontinuita postavení správců vodních toků (§ 127 odst. 17); NSS 5 A 174/2014 k okamžiku zjištění porušení.
+
+**4. Subsumpce.** Naplněno nezajištění povodňových zabezpečovacích prací (§ 75 odst. 3) a nesplnění povinností správce povodí (§ 82). Subjektem je profesionální správce (státní podnik Povodí) — objektivní odpovědnost dle § 21 zák. č. 250/2016 Sb.
+
+**5. Řešení.** Vodoprávní úřad uloží pokutu do 500 000 Kč a nařídí nápravu. Vzhledem k objektivní odpovědnosti se správce zprostí jen prokázáním vynaložení veškerého úsilí.
+
+**6. Varianty.** (a) Je-li správcem FO (drobný tok), aplikuje se § 124. (b) Při porušení povinností výhradně správce toku (§ 83) se postih opírá o odst. 1/2 dle typu toku.
+
+##### G. Protiargumenty a rizika
+
+- *Liberace správce.* Povodí tvrdí, že vynaložilo veškeré úsilí (např. povodňová situace nad rámec předvídatelného). Neutralizace: posoudit reálnost a včasnost opatření; NSS 8 A 72/2013 klade přísné požadavky.
+- *Spor o vymezení úseku/působnosti správce.* Neutralizace: doložit postavení správce (§ 48, § 54, § 127 odst. 17 — NSS 10 As 44/2021).
+- *Slabé místo:* rozlišení rolí (správce toku vs. správce povodí) určuje aplikovatelný odstavec a okruh povinností (§ 82 vs. § 83).
+
+##### H. Praktický závěr
+
+§ 125i postihuje profesionální správce vodního hospodářství (státní podniky Povodí, Lesy ČR, obce) za nesplnění povinností správce a protipovodňových povinností; sazba do 500 000 Kč.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o správce drobného toku (odst. 1), významného toku (odst. 2) nebo správce povodí (odst. 3)?
+- [ ] Které povinnosti byly porušeny (§ 47 odst. 2, § 75 odst. 3, § 82, § 83)?
+- [ ] Je postavení správce doloženo (§ 48, § 54, § 127 odst. 17)?
+- [ ] Zvážena objektivní odpovědnost a liberace (§ 21 zák. č. 250/2016 Sb.)?
+- [ ] U FO aplikovat § 124.
+
+**Typicky rozhodné důkazy / podklady:** doklad o postavení správce, povodňová dokumentace, časová osa, fotodokumentace stavu úseku, záznamy o učiněných opatřeních.
+
 #### § 125k — Porušení povinností poplatníka (PO/PFO)
 
 > **§ 125k** — odst. 1–2.
@@ -317,6 +1011,42 @@ Sazby do 500 000 Kč.
 **Výklad:**
 
 Paralela § 125 pro PO/PFO. Sazba do 100 000 Kč (dvojnásobek oproti FO). Sankcionuje nedodržení metodiky **odběru vzorků oprávněnou laboratoří** a měření OV (§ 89n odst. 2) pro účely poplatkového řízení (Hlava XI).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Vodárenská společnost (a.s.) jako poplatník nedodrží metodiku odběru vzorků oprávněnou laboratoří a měření OV podle § 89n odst. 2, takže pro poplatkové řízení (Hlava XI) chybí relevantní data. Správce poplatku to zjistí při kontrole. Důkazy: evidence vypouštěného množství, protokoly o odběrech (jejich vady/absence), doklady o akreditaci laboratoře.
+
+**2. Právní otázka.** Jaká je sazba u PO/PFO za nedodržení metodiky odběru vzorků a měření OV pro poplatkové účely?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125k odst. 1–2 (nedodržení metodiky odběru vzorků oprávněnou laboratoří a měření OV; sazba do 100 000 Kč).
+- *Související ustanovení téhož zákona:* § 125 (paralela FO — sazba do 50 000 Kč), § 89n odst. 2 (Hlava XI), § 38, § 126 odst. 6 (ISPOP).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 21 liberace); správní řád; vyhláška k poplatkové agendě.
+- *Judikatura:* obecné požadavky na zjištění skutkového stavu (NSS 5 A 174/2014).
+
+**4. Subsumpce.** Naplněno nedodržení metodiky odběru vzorků oprávněnou laboratoří a měření OV (§ 89n odst. 2). U PO/PFO je sazba dvojnásobná oproti FO (do 100 000 Kč) a uplatní se objektivní odpovědnost.
+
+**5. Řešení.** Správce poplatku / vodoprávní úřad uloží pokutu do 100 000 Kč a vyzve k zjednání nápravy (odběry akreditovanou laboratoří dle metodiky). Poplatek lze stanovit náhradním způsobem.
+
+**6. Varianty.** (a) U FO se aplikuje § 125 (sazba do 50 000 Kč). (b) Spadá-li zdroj pod jiný kontrolní režim (ČIŽP), mění se příslušnost.
+
+##### G. Protiargumenty a rizika
+
+- *„Laboratoř byla oprávněná, metodika dodržena."* Spor o kvalitu odběrů. Neutralizace: doložit akreditaci a soulad postupu s metodikou; vady protokolů zakládají přestupek.
+- *Liberace PO.* Neutralizace: posoudit, zda společnost zajistila řádný proces odběru a měření.
+- *Slabé místo:* drobná sazba motivuje k pasivitě; účinnější je vynucení nápravy a správné stanovení poplatku.
+
+##### H. Praktický závěr
+
+§ 125k zajišťuje spolehlivost dat pro poplatkové řízení u PO/PFO (sazba do 100 000 Kč); jádrem je dodržení metodiky odběru vzorků a měření OV.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla dodržena metodika odběru vzorků oprávněnou laboratoří (§ 89n odst. 2)?
+- [ ] Je laboratoř akreditovaná/oprávněná?
+- [ ] Probíhá ohlašování přes ISPOP (§ 126 odst. 6)?
+- [ ] U FO aplikovat § 125.
+
+**Typicky rozhodné důkazy / podklady:** evidence vypouštěného množství, protokoly o odběrech vzorků, doklady o akreditaci/oprávnění laboratoře, podklady poplatkového řízení.
 
 ---
 
@@ -370,6 +1100,43 @@ To je environmentálně motivovaný princip „polluter pays" v rozpočtové rov
 - *NSS* [8 A 72/2013 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/515067) — 31. 8. 2017
   > „Aby však mohl být naplněn liberační důvod ve smyslu § 125l odst. 1 zákona č. 254/2001 Sb., čehož se žalobce fakticky dovolával v žalobě, je třeba, aby účastník řízení (zde žalobce) prokázal, že vynaložil veškeré úsilí k tomu, aby nebyla naplněna ani jedna ze dvou shora uvedených podmínek"
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Průmyslový podnik (a.s.) způsobil únik ZNZL do toku. Po havárii investoval miliony korun do sanace, dekontaminace a technických opatření zamezujících dalšímu ohrožení. ČIŽP zvažuje, zda uložit pokutu (sazba v řádu milionů Kč), nebo od trestu upustit. Podnik se navíc téhož přestupku dopustil již před 8 měsíci (pravomocně sankcionováno). Důkazy: doklady o nápravných investicích, dřívější pravomocné rozhodnutí o pokutě, rozbory vod.
+
+**2. Právní otázka.** Splňuje podnik podmínky pro upuštění od trestu podle § 125l odst. 1 a jak se promítne recidiva podle odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125l odst. 1 (upuštění od trestu při faktické nápravě), odst. 2 (recidiva — zdvojnásobení, max. 20 mil. Kč, s výjimkami u „mega" deliktů), odst. 3 (kritéria u vypouštění OV), odst. 4–5 (příslušnost), odst. 6 (rozdělení výnosů).
+- *Související ustanovení téhož zákona:* § 125a–125k (skutkové podstaty), § 42 (opatření k nápravě), § 117/§ 125b (plavba — příslušnost SPS).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 37 obecná kritéria, § 43 upuštění od trestu); zákon č. 388/1991 Sb. (SFŽP); stavební zákon č. 283/2021 Sb. (odst. 5).
+- *Judikatura:* NSS 8 A 72/2013 — pro liberační/upouštěcí důvod dle § 125l odst. 1 musí účastník prokázat, že vynaložil veškeré úsilí ke splnění obou kumulativních podmínek.
+
+**4. Subsumpce.** Podmínky odst. 1 jsou kumulativní: (a) faktická opatření k odstranění následků a zamezení dalšímu ohrožování, (b) uložení trestu by vzhledem k nákladům nápravy vedlo k nepřiměřené tvrdosti. Recidiva (do 1 roku od právní moci) vede ke zdvojnásobení sazby (max. 20 mil. Kč), s výjimkou „mega" deliktů na sazbě 25 mil. Kč.
+
+**5. Řešení.** ČIŽP posoudí splnění obou podmínek odst. 1 (NSS 8 A 72/2013); jsou-li splněny, může od trestu upustit. Nejsou-li, uloží pokutu zohledňující kritéria odst. 3 a zdvojnásobí sazbu pro recidivu (odst. 2). Výnos pokuty uložené ČIŽP se rozdělí 50 % obec / 50 % SFŽP (odst. 6).
+
+**6. Varianty.** (a) Jde-li o „mega" delikt (§ 125a odst. 2 písm. g bod 2, § 125c odst. 5 písm. e, § 125g odst. 7 písm. g), recidivní zdvojnásobení se neuplatní. (b) Jde-li o stavební přestupek u vodního díla, pokutu ukládá stavební úřad (odst. 5).
+
+##### G. Protiargumenty a rizika
+
+- *„Investovali jsme do nápravy, od trestu se má upustit."* Neutralizace: NSS 8 A 72/2013 — nestačí náprava; musí být splněna i podmínka nepřiměřené tvrdosti; obě podmínky kumulativně a důkazní břemeno nese pachatel.
+- *Spor o recidivu* (běh roční lhůty od právní moci). Neutralizace: doložit datum právní moci dřívějšího rozhodnutí o témž přestupku.
+- *Slabé místo:* určení příslušnosti při souběhu orgánů (odst. 4) — kdo zahájil dříve; při stejnodenním zahájení vodoprávní úřad nebo SPS.
+
+##### H. Praktický závěr
+
+§ 125l je interpretační uzávěr Hlavy XV: upravuje upuštění od trestu při faktické nápravě, recidivu, kritéria pokut za OV, příslušnost a rozdělení výnosů (princip „polluter pays").
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou splněny obě kumulativní podmínky upuštění od trestu (odst. 1, NSS 8 A 72/2013)?
+- [ ] Jde o recidivu do 1 roku od právní moci (odst. 2)? Neuplatní se u „mega" deliktů.
+- [ ] Byla zohledněna specializovaná kritéria u vypouštění OV (odst. 3)?
+- [ ] Je správně určena příslušnost (vodoprávní úřad / ČIŽP / SPS / stavební úřad — odst. 4, 5)?
+- [ ] Bylo správně rozděleno rozpočtové určení pokuty (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o nápravných investicích a jejich nákladech, rozbory vod, dřívější pravomocná rozhodnutí (recidiva), údaje o stupni ochrany dotčeného území, doklady o příslušnosti.
+
 ---
 
 ## Hlava XVI — Společná a přechodná ustanovení (§§ 126–127)
@@ -398,6 +1165,43 @@ To je environmentálně motivovaný princip „polluter pays" v rozpočtové rov
 
 **Odst. 8 — Řízení z moci úřední.** Specifický katalog řízení, v nichž vodoprávní úřad rozhoduje **ex officio** (z moci úřední, bez návrhu): § 3 odst. 3, § 8 odst. 4, § 12 odst. 1, § 38 odst. 14, § 43 odst. 2, § 44 odst. 3, § 53, § 55 odst. 4, § 56 odst. 5, § 59 odst. 2, § 61 odst. 8, § 64 odst. 2, § 71 odst. 4. Toto je výjimka z obecné dispozitivní zásady správního řízení (§ 44 SŘ — zahájení na žádost) a odráží **veřejný zájem** na zajištění určitých vodohospodářských opatření i bez aktivity oprávněného.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stát nabyl vodní dílo a pozemek koryta drobného toku, ale není zřejmé, kdo s majetkem hospodaří. Správce toku (státní podnik Povodí) je vyzván k převzetí podle § 126 odst. 2. Současně provozovatel průmyslového zařízení s integrovaným povolením podle zákona č. 76/2002 Sb. žádá vodoprávní úřad o samostatné povolení k nakládání s vodami dle § 8. Důkazy: katastrální zjištění, doklady o nabytí státem, integrované povolení, vyjádření Ministerstva zemědělství.
+
+**2. Právní otázka.** Vydá vodoprávní úřad samostatné povolení podle § 8, je-li jeho vydání nahrazeno postupem v řízení o integrovaném povolení (§ 126 odst. 5), a jak se řeší pochybnost o převzetí majetku (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126 odst. 1 (pojem „vlastník" / uživatel), odst. 2 (převzetí děl a koryt, rozhoduje MZe, není správní rozhodnutí), odst. 5 (vztah k integrované prevenci — povolení se nevydá podle VZ), odst. 7 (vztah k ekologické újmě), odst. 8 (řízení ex officio).
+- *Související ustanovení téhož zákona:* § 8, § 12, § 16, § 39 odst. 2 písm. a, § 59 odst. 2 (rozhodnutí nahrazená integrovaným povolením), § 42, § 110–112 (nápravná opatření).
+- *Související předpisy:* zákon č. 76/2002 Sb. (integrovaná prevence); zákon č. 167/2008 Sb. (ekologická újma, transpozice 2004/35/ES); zákon č. 219/2000 Sb. (majetek ČR); zákon č. 25/2008 Sb. (ISPOP/IRZ).
+- *Judikatura:* k povaze úkonů, jež nejsou správním rozhodnutím (odst. 2), srov. obecnou judikaturu NSS o vyloučení soudního přezkumu úkonů bez povahy rozhodnutí.
+
+**4. Subsumpce.** Podle odst. 5 se rozhodnutí dle § 8 (a dalších uvedených) nevydá podle VZ, je-li nahrazeno integrovaným povolením; osoba s IP se považuje za oprávněného (§ 8 odst. 2). Podle odst. 2 v pochybnostech o převzetí rozhoduje MZe, a to úkonem bez povahy správního rozhodnutí (nelze proti němu opravný prostředek).
+
+**5. Řešení.** Vodoprávní úřad samostatné povolení dle § 8 nevydá (odst. 5) — žadatele odkáže na integrované povolení. Pochybnost o převzetí majetku se předloží MZe; jeho určení je závazné, ale nepodléhá přezkumu jako rozhodnutí.
+
+**6. Varianty.** (a) Nejde-li o zařízení podléhající integrované prevenci, povolení dle § 8 se vydá standardně podle VZ. (b) Bylo-li vydáno rozhodnutí o nápravě ekologické újmy (zákon č. 167/2008 Sb.), nápravné opatření dle § 42/§ 110–112 VZ se neuloží a zahájené řízení se přeruší (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *„Mám právo na samostatné vodoprávní povolení."* Neutralizace: odst. 5 vylučuje vydání dle VZ tam, kde je nahrazeno integrovaným povolením — jde o zákonnou subsidiaritu.
+- *Snaha přezkoumat určení MZe (odst. 2).* Neutralizace: jde o úkon bez povahy správního rozhodnutí — soudní/řádný přezkum je vyloučen; lze zpochybovat o procesní cestě, nikoli věcně napadat „rozhodnutí".
+- *Slabé místo:* hranice mezi povinnostmi vlastníka a uživatele (odst. 1) — je-li smluvní přenos práv sporný, hrozí nejasnost, kdo je adresátem povinnosti.
+
+#### H. Praktický závěr
+
+§ 126 je soubor osmi průřezových pravidel (pojem vlastník/uživatel, převzetí majetku, integrovaná prevence, ISPOP, ekologická újma, řízení ex officio); v praxi nejvýznamnější je subsidiarita vůči integrovanému povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vydání vodoprávního rozhodnutí nahrazeno integrovaným povolením (odst. 5)?
+- [ ] Kdo je adresátem povinnosti — vlastník, nebo uživatel s přenesenými právy (odst. 1)?
+- [ ] Bylo vydáno rozhodnutí dle zákona o ekologické újmě (odst. 7 — pak se nápravné opatření VZ neuloží)?
+- [ ] Jde o řízení vedené ex officio (odst. 8)?
+- [ ] Plní se ohlašovací povinnost přes ISPOP nad 6 000 m³/rok (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** integrované povolení, katastrální výpisy a doklady o nabytí majetku státem, vyjádření MZe, rozhodnutí dle zákona o ekologické újmě, smlouvy o přenosu práv na uživatele.
+
 ### § 126a — Přenesená působnost
 
 > **§ 126a** — Působnosti stanovené krajskému úřadu, obecnímu úřadu obce s rozšířenou působností, pověřenému obecnímu úřadu nebo obecnímu úřadu, jakož i jejich povodňovým komisím a komisím pro sucho, jsou **výkonem přenesené působnosti**.
@@ -409,6 +1213,42 @@ Krátké ale klíčové ústavně-právní ustanovení. Klasifikuje výkon vodop
 - výkon agendy je financován **státem** (resp. spolufinancován ze státního rozpočtu prostřednictvím příspěvku na výkon přenesené působnosti),
 - rozhodnutí podléhají odvolání podle SŘ, nikoli stížnostnímu mechanismu samosprávy,
 - výkon agendy je řízen pokyny nadřízeného orgánu (vodoprávní hierarchie: obec → ORP → krajský úřad → ministerstvo).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad obce s rozšířenou působností (ORP) jako vodoprávní úřad vydá rozhodnutí o povolení k nakládání s vodami. Účastník je nespokojen a uvažuje, zda podat odvolání ke krajskému úřadu, nebo stížnost na samosprávu obce. Současně obec namítá, že výkon této agendy ji finančně zatěžuje. Důkazy: rozhodnutí ORP, doklady o financování přenesené působnosti.
+
+**2. Právní otázka.** Jde u vodoprávní agendy obce o samostatnou, nebo přenesenou působnost, a jaké z toho plynou důsledky pro opravné prostředky a financování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126a (působnosti obecních a krajských úřadů a jejich komisí jsou výkonem přenesené působnosti).
+- *Související ustanovení téhož zákona:* § 104–107 (vodoprávní úřady a jejich působnost), § 126 odst. 4 (interpretace nevyjmenované působnosti).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích (§ 7 odst. 2, § 61–66); zákon č. 129/2000 Sb., o krajích; správní řád č. 500/2004 Sb. (odvolání).
+- *Judikatura:* obecná judikatura k povaze přenesené působnosti a hierarchii odvolacích orgánů.
+
+**4. Subsumpce.** § 126a klasifikuje vodoprávní agendu jako přenesenou působnost. Důsledky: rozhodnutí podléhají odvolání podle SŘ (nadřízený orgán: ORP → krajský úřad → ministerstvo), nikoli stížnostnímu mechanismu samosprávy; výkon je financován/spolufinancován státem; obec je vázána pokyny nadřízeného orgánu.
+
+**5. Řešení.** Účastník podá řádné odvolání ke krajskému úřadu (SŘ), nikoli stížnost na samosprávu. Finanční zátěž obce je řešena příspěvkem na výkon přenesené působnosti ze státního rozpočtu.
+
+**6. Varianty.** (a) Týká-li se úkon samostatné působnosti obce (např. obecní majetkové rozhodování), neaplikuje se § 126a a režim je odlišný. (b) U nevyjmenované působnosti se užije interpretační klauzule § 126 odst. 4.
+
+#### G. Protiargumenty a rizika
+
+- *„Jde o samosprávu, rozhodne zastupitelstvo / řeší se stížností."* Neutralizace: § 126a výslovně označuje agendu za přenesenou působnost — uplatní se hierarchie SŘ, nikoli samosprávné mechanismy.
+- *Obec namítá nedostatek financí.* Neutralizace: financování zajišťuje stát příspěvkem na přenesenou působnost; není důvodem k nečinnosti.
+- *Slabé místo:* zařazení konkrétní agendy komise pro sucho / povodňové komise — i ty jsou § 126a podřazeny pod přenesenou působnost.
+
+#### H. Praktický závěr
+
+§ 126a je krátké, ale ústavně-právně klíčové ustanovení: výkon vodoprávní agendy obcí a krajů (i jejich komisí) je přenesenou působností se všemi důsledky pro opravné prostředky, financování a hierarchii.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon přenesené (nikoli samostatné) působnosti?
+- [ ] Směřuje odvolání ke správně určenému nadřízenému orgánu (SŘ)?
+- [ ] Je výkon financován příspěvkem na přenesenou působnost?
+- [ ] Jde o úkon komise pro sucho / povodňové komise (i ta spadá pod § 126a)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí vodoprávního úřadu, doklad o nadřízeném orgánu, podklady k financování přenesené působnosti.
 
 ### § 126b — Přeshraniční poskytování služeb (osoby z EU)
 
@@ -427,6 +1267,42 @@ Podmínky:
 - oprávnění k provozování těchto činností podle právních předpisů jiného členského státu (písm. b).
 
 Doklady o splnění podmínek musí dočasní poskytovatelé předložit **tomu, kdo vypouští OV** (nikoli vodoprávnímu úřadu) — jde o tržní mechanismus liberalizace bez nutnosti veřejnoprávního schválení v ČR.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Laboratoř usazená v Rakousku, oprávněná tam k odběrům a rozborům OV, chce dočasně provádět odběry a rozbory OV (§ 38 odst. 6) a kontrolu měření objemu vypouštěných OV (§ 103 odst. 1, 2) pro českého provozovatele ČOV. Provozovatel se ptá, zda potřebuje k využití této laboratoře povolení českého vodoprávního úřadu. Důkazy: doklad o usazení v jiném členském státě EU, oprávnění k činnosti dle rakouských předpisů.
+
+**2. Právní otázka.** Může osoba z jiného členského státu EU dočasně provádět odběry/rozbory OV v ČR a komu předkládá doklady o splnění podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126b odst. 1 (přeshraniční dočasné poskytování služeb — odběry/rozbory § 38 odst. 6, § 103a; kontrola měření § 103 odst. 1, 2), odst. 2 (podmínky: příslušnost ke státu EU, oprávnění dle předpisů jiného státu).
+- *Související ustanovení téhož zákona:* § 38 odst. 6, § 103, § 103a (kontrola a měření OV), § 126b odst. 2.
+- *Související předpisy:* směrnice 2006/123/ES o službách na vnitřním trhu (service directive); zákon o volném pohybu služeb.
+- *Judikatura:* unijní judikatura k volnému pohybu služeb (zákaz neodůvodněných překážek dočasného poskytování služeb).
+
+**4. Subsumpce.** Podmínky odst. 2 jsou kumulativní: (a) státní příslušnost členského státu EU, (b) oprávnění k činnosti podle předpisů jiného členského státu. Doklady se předkládají tomu, kdo vypouští OV (provozovateli), nikoli vodoprávnímu úřadu — jde o tržní liberalizaci bez veřejnoprávního schválení v ČR.
+
+**5. Řešení.** Rakouská laboratoř může činnost dočasně provádět; provozovatel ČOV si od ní vyžádá doklady o splnění podmínek (příslušnost k EU, oprávnění). Žádné samostatné povolení českého vodoprávního úřadu se nevyžaduje.
+
+**6. Varianty.** (a) Jde-li o trvalé (nikoli dočasné) usazení v ČR, uplatní se režim usazení, nikoli dočasného poskytování služeb. (b) Nesplňuje-li poskytovatel podmínky odst. 2, nelze činnost přeshraničně vykonávat.
+
+#### G. Protiargumenty a rizika
+
+- *„Zahraniční laboratoř potřebuje české povolení."* Neutralizace: § 126b transponuje směrnici 2006/123/ES — dočasné poskytování služeb nepodléhá českému veřejnoprávnímu schválení; postačí doklady předložené odběrateli služby.
+- *Spor o „dočasnost" vs. usazení.* Neutralizace: posoudit délku, frekvenci a kontinuitu činnosti; trvalá činnost spadá pod režim usazení.
+- *Slabé místo:* věrohodnost a rozsah oprávnění dle cizích předpisů — provozovatel nese riziko, využije-li poskytovatele bez řádných dokladů.
+
+#### H. Praktický závěr
+
+§ 126b otevírá český trh odběrů a rozborů OV poskytovatelům z EU na základě transpozice směrnice o službách; doklady se předkládají odběrateli služby, nikoli úřadu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je poskytovatel příslušníkem členského státu EU a oprávněn dle tamních předpisů (odst. 2)?
+- [ ] Jde o dočasné poskytování služby, nikoli o usazení v ČR?
+- [ ] Byly doklady předloženy tomu, kdo vypouští OV (nikoli úřadu)?
+- [ ] Týká se činnost § 38 odst. 6 / § 103 odst. 1, 2 / § 103a?
+
+**Typicky rozhodné důkazy / podklady:** doklad o usazení/příslušnosti k EU, oprávnění dle předpisů jiného členského státu, doklady předané odběrateli služby.
 
 ### § 127 — Přechodná ustanovení
 
@@ -476,6 +1352,42 @@ Klíčová pravidla:
   > „podle ustanovení § 127 odst. 1 zákona č. 254/2001 Sb. se řízení zahájená a neskončená do dne nabytí účinnosti tohoto zákona dokončí podle dosavadních předpisů a žalovaný proto správně hmotněprávně vycházel z – již zrušeného – zákona č. 138/1973 Sb"
 - *NSS* [10 As 44/2021 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658644) — 15. 4. 2021
   > „Podle § 127 odst. 17 zákona č. 254/2001 Sb. se pak správci vodních toků určení podle dosavadních právních předpisů považují za správce drobných vodních toků podle tohoto zákona"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan B. je v katastru evidován jako vlastník pozemku, na němž leží koryto drobného vodního toku. Pozemek byl podle zákona č. 138/1973 Sb. státním vlastnictvím, ale v katastru není veden jako parcela s druhem „vodní plocha". K 1. 1. 2002 byl zahájen nový vodoprávní spor o sankci, který nebyl skončen. Pan B. neoznámil ve lhůtě nesouhlas s přechodem vlastnictví. Důkazy: výpis z katastru s druhem pozemku, doklady o nabytí státem dle 138/1973 Sb., spisová dokumentace neskončeného řízení.
+
+**2. Právní otázka.** Přešlo na pana B. vlastnictví pozemku koryta (odst. 5) a podle jakých předpisů se dokončí řízení zahájené před 1. 1. 2002 (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 127 odst. 1 (kontinuita; *tempus regit actum* — dokončení podle dosavadních předpisů), odst. 5 (přechod vlastnictví pozemků koryt na vlastníky v katastru, není-li druh „vodní plocha", neoznámí-li se nesouhlas do 6 měsíců), odst. 17 (kontinuita správců toků).
+- *Související ustanovení téhož zákona:* § 50, § 55 (vodní díla), § 66 (záplavová území — odst. 16), § 125l odst. 2 (recidiva — odst. 2 o zvýšených pokutách).
+- *Související předpisy:* zákon č. 138/1973 Sb., o vodách (zrušený); zákon č. 130/1974 Sb.; směrnice 91/271/EHS (odst. 6 — čištění komunálních OV).
+- *Judikatura:* NSS 6 A 171/2002 — řízení zahájená a neskončená do 1. 1. 2002 se dokončí podle dosavadních předpisů (správně hmotněprávně vycházel ze zrušeného zákona č. 138/1973 Sb.). NSS 10 As 44/2021 — správci toků určení podle dosavadních předpisů se považují za správce drobných vodních toků (odst. 17).
+
+**4. Subsumpce.** Podle odst. 5 přešlo vlastnictví koryta na pana B. (neoznámil nesouhlas do 6 měsíců, pozemek není druh „vodní plocha"). Podle odst. 1 se neskončené řízení dokončí podle dosavadních předpisů (zákon č. 138/1973 Sb.) — *tempus regit actum* (NSS 6 A 171/2002).
+
+**5. Řešení.** Vlastnictví pozemku koryta se k panu B. považuje za přešlé ze zákona. Neskončené sankční řízení se dokončí hmotněprávně podle zákona č. 138/1973 Sb. Správní orgán nesmí na již zahájené řízení aplikovat nový VZ.
+
+**6. Varianty.** (a) Kdyby pan B. nesouhlas ve lhůtě (do 30. 6. 2002) oznámil, k přechodu vlastnictví by nedošlo. (b) Bylo-li by řízení zahájeno až po 1. 1. 2002, aplikoval by se nový VZ.
+
+#### G. Protiargumenty a rizika
+
+- *„Na zahájené řízení se má použít nový, příznivější VZ."* Neutralizace: NSS 6 A 171/2002 — odst. 1 stanoví dokončení podle dosavadních předpisů (*tempus regit actum*); u přestupků je třeba zvlášť zvážit zásadu příznivější úpravy (čl. 40 odst. 6 Listiny), ale obecná procesní kontinuita platí.
+- *„K přechodu vlastnictví nedošlo."* Neutralizace: doložit druh pozemku v katastru a absenci včasného nesouhlasu (odst. 5).
+- *Slabé místo:* prokázání, že pozemek byl podle 138/1973 Sb. státním vlastnictvím a současně není veden jako „vodní plocha" — vyžaduje historickou katastrální a vlastnickou rešerši.
+
+#### H. Praktický závěr
+
+§ 127 je rozsáhlý přechodový režim z úpravy 138/1973 Sb.; prakticky nejvýznamnější jsou kontinuita neskončených řízení (odst. 1), reprivatizace pozemků koryt (odst. 5) a kontinuita správců toků (odst. 17).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo řízení zahájeno před 1. 1. 2002? Pak se dokončí podle dosavadních předpisů (odst. 1, NSS 6 A 171/2002).
+- [ ] Přešlo vlastnictví pozemku koryta dle odst. 5 (druh pozemku, včasnost nesouhlasu do 30. 6. 2002)?
+- [ ] Jde o správce určeného podle dosavadních předpisů (odst. 17, NSS 10 As 44/2021)?
+- [ ] Uplatní se kontinuita zařazení VD pro TBD (odst. 3), záplavových území (odst. 16)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru s druhem pozemku, historické doklady o nabytí státem (138/1973 Sb.), spisová dokumentace neskončeného řízení, doklady o určení správce toku, oznámení (ne)souhlasu s přechodem.
 
 ---
 
@@ -583,6 +1495,42 @@ Tento bod je historicky významný — bezprostředně reaguje na **katastrofál
 
 Tato „kobercová" derogace je výrazem **kompletní rekodifikace vodního práva** k 1. 1. 2002. Dosud vydaná prováděcí pravidla se musela nahradit novými, vydanými na základě zmocňovacích ustanovení VZ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve sporu o sankci uloženou v roce 2001 (před účinností VZ) správní orgán v roce 2003 dořešuje věc a uvažuje, který hmotněprávní předpis aplikovat — zrušený zákon č. 138/1973 Sb., nebo nový VZ. Současně účastník namítá, že prováděcí vyhláška ze 70. let, podle níž bylo rozhodnuto, byla § 136 VZ zrušena. Důkazy: spisová dokumentace, datum zahájení řízení, znění § 136 a § 137.
+
+**2. Právní otázka.** Jaký je vztah zrušovacího ustanovení § 136 k přechodnému ustanovení § 127 odst. 1 — lze po 1. 1. 2002 ještě aplikovat zrušené předpisy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 136 (zrušení 19 předpisů, mj. zákona č. 138/1973 Sb., zákona č. 130/1974 Sb., zákona č. 58/1998 Sb. a řady prováděcích vyhlášek).
+- *Související ustanovení téhož zákona:* § 127 odst. 1 (kontinuita neskončených řízení — *tempus regit actum*), § 137 (účinnost).
+- *Související předpisy:* zrušené zákony č. 138/1973 Sb., č. 130/1974 Sb., č. 58/1998 Sb.; navazující zmocňovací ustanovení VZ pro nové prováděcí předpisy.
+- *Judikatura:* NSS 6 A 171/2002 (citováno u § 127) — i po zrušení 138/1973 Sb. se na neskončená řízení správně aplikuje zrušený zákon dle § 127 odst. 1.
+
+**4. Subsumpce.** § 136 ruší dosavadní soustavu vodního práva s účinností od 1. 1. 2002 (§ 137). Pro řízení zahájená a neskončená do tohoto data však § 127 odst. 1 ukládá dokončení podle dosavadních (tj. zrušených) předpisů — zrušení proto nebrání jejich aplikaci na „staré" věci.
+
+**5. Řízení/řešení.** Správní orgán v roce 2003 na řízení zahájené v roce 2001 aplikuje hmotněprávně zrušený zákon č. 138/1973 Sb. (§ 127 odst. 1, NSS 6 A 171/2002), nikoli nový VZ. Zrušení prováděcích vyhlášek § 136 přitom vyžaduje, aby pro nové věci byly použity nové prováděcí předpisy vydané na základě zmocnění VZ.
+
+**6. Varianty.** (a) U řízení zahájeného po 1. 1. 2002 se aplikuje výlučně nový VZ a jeho prováděcí předpisy. (b) U přestupkových věcí je třeba navíc zvážit zásadu příznivější úpravy (čl. 40 odst. 6 Listiny).
+
+#### G. Protiargumenty a rizika
+
+- *„Zrušený předpis nelze použít."* Neutralizace: § 127 odst. 1 jako *lex specialis* k § 136 zachovává aplikaci dosavadních předpisů na neskončená řízení (NSS 6 A 171/2002).
+- *„Rozhodnutí podle zrušené vyhlášky je nezákonné."* Neutralizace: rozhodující je datum zahájení řízení a přechodný režim, nikoli pouhá pozdější derogace.
+- *Slabé místo:* určení přesného okamžiku zahájení řízení a identifikace, který z 19 zrušených předpisů byl rozhodný — vyžaduje pečlivou spisovou rešerši.
+
+#### H. Praktický závěr
+
+§ 136 provedl „kobercovou" derogaci dosavadního vodního práva k 1. 1. 2002; jeho účinky je nutné číst společně s přechodným § 127 odst. 1, který zachovává zrušené předpisy pro neskončená řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předpis aplikovaný ve věci uveden ve výčtu § 136 (zrušen)?
+- [ ] Bylo řízení zahájeno před 1. 1. 2002 (pak platí § 127 odst. 1 — dosavadní předpisy)?
+- [ ] Byly pro nové věci použity nové prováděcí předpisy vydané dle zmocnění VZ?
+- [ ] U přestupků zvážena zásada příznivější úpravy (čl. 40 odst. 6 Listiny)?
+
+**Typicky rozhodné důkazy / podklady:** spisová dokumentace s datem zahájení řízení, znění § 136 a § 127, identifikace rozhodného předpisu, případně nové prováděcí vyhlášky VZ.
+
 ---
 
 ## Část jedenáctá — Účinnost (§ 137)
@@ -604,6 +1552,42 @@ Trojstupňová struktura účinnosti:
 | **1. 1. 2007** | po 5 letech | **§ 20 odst. 1** (úplata za odběry vody odebrané právním nástupcem oprávněného — odložení implementace na 5letou legisvakanci) |
 
 **Podpisové doložky:** Klaus v. r. (předseda Poslanecké sněmovny), Havel v. r. (prezident republiky), Zeman v. r. (předseda vlády) — standardní triáda pro období 1998–2002.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Subjekt v roce 2006 namítá, že úplata za odběry vody odebrané právním nástupcem oprávněného podle § 20 odst. 1 VZ se na něj nevztahovala dříve než od 1. 1. 2007. Současně je sporné, zda převod 2,5 mld. Kč na povodňové programy (§ 135) byl účinný již ode dne vyhlášení zákona (25. 7. 2001). Důkazy: datum vyhlášení ve Sbírce (částka 98/2001), znění § 137, doklady o odběru a právním nástupnictví.
+
+**2. Právní otázka.** Od kdy nabyla účinnosti jednotlivá ustanovení VZ — zejména § 135 a § 20 odst. 1 — a jaký to má dopad na práva a povinnosti adresátů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 137 (účinnost: hlavní 1. 1. 2002; § 135 dnem vyhlášení; § 20 odst. 1 po 5 letech, tj. 1. 1. 2007).
+- *Související ustanovení téhož zákona:* § 20 odst. 1 (úplata za odběry právního nástupce), § 135 (převod 2,5 mld. Kč na povodňové programy), § 127 (přechodná ustanovení), § 136 (zrušovací ustanovení).
+- *Související předpisy:* zákon č. 309/1999 Sb., o Sbírce zákonů (vyhlašování a účinnost); Ústava a Listina (legisvakance, zákaz pravé retroaktivity).
+- *Judikatura:* obecná ústavní judikatura k zákazu pravé retroaktivity a k významu legisvakanční lhůty.
+
+**4. Subsumpce.** § 137 zakládá trojstupňovou účinnost: (a) § 135 dnem vyhlášení (25. 7. 2001) — nutnost aktivovat povodňové financování ihned; (b) celý VZ kromě § 20 odst. 1 a § 135 od 1. 1. 2002; (c) § 20 odst. 1 po 5 letech (1. 1. 2007) — odložená implementace úplaty za odběry právního nástupce.
+
+**5. Řešení.** Úplata podle § 20 odst. 1 se na subjekt nevztahovala před 1. 1. 2007 (odložená účinnost). Převod dle § 135 byl účinný od vyhlášení (25. 7. 2001). Při aplikaci je nutné respektovat odlišná data účinnosti jednotlivých ustanovení.
+
+**6. Varianty.** (a) U ustanovení s hlavní účinností (1. 1. 2002) se práva a povinnosti řídí přechodným režimem § 127. (b) Pokud by orgán aplikoval § 20 odst. 1 před 1. 1. 2007, šlo by o nepřípustnou retroaktivitu.
+
+#### G. Protiargumenty a rizika
+
+- *„Celý zákon platí od 1. 1. 2002."* Neutralizace: § 137 výslovně vyjímá § 135 (dříve) a § 20 odst. 1 (později); aplikace jednotného data je chybná.
+- *„Převod dle § 135 nebyl účinný před 1. 1. 2002."* Neutralizace: § 137 stanoví účinnost § 135 dnem vyhlášení — doložit datum částky Sbírky (98/2001, 25. 7. 2001).
+- *Slabé místo:* přesná identifikace data vyhlášení a 5leté legisvakance u § 20 odst. 1 — chyba ve výpočtu vede k vadnému vyměření úplaty.
+
+#### H. Praktický závěr
+
+§ 137 určuje trojstupňovou účinnost VZ; v praxi je rozhodné rozlišit ustanovení účinná dnem vyhlášení (§ 135), od 1. 1. 2002 (jádro zákona) a od 1. 1. 2007 (§ 20 odst. 1).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které konkrétní ustanovení se aplikuje a jaké je jeho datum účinnosti (§ 137)?
+- [ ] Nejde o aplikaci § 20 odst. 1 před 1. 1. 2007 (retroaktivita)?
+- [ ] Byl § 135 správně považován za účinný od vyhlášení (25. 7. 2001)?
+- [ ] Je dodržen přechodný režim § 127 u ustanovení s hlavní účinností?
+
+**Typicky rozhodné důkazy / podklady:** datum vyhlášení ve Sbírce (částka 98/2001), znění § 137, doklady o odběru a právním nástupnictví, podklady k převodu dle § 135.
 
 ---
 
