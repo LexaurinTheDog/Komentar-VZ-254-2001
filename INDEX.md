@@ -20,6 +20,10 @@
 - **ČHMÚ, ČIŽP, SFŽP**
 - **MZe + MŽP** (dva gestoři)
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
