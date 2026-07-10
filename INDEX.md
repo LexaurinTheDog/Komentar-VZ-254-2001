@@ -19,3 +19,7 @@
 - **Poplatky za vodu** (odběr povrchové + podzemní + vypouštění)
 - **ČHMÚ, ČIŽP, SFŽP**
 - **MZe + MŽP** (dva gestoři)
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
