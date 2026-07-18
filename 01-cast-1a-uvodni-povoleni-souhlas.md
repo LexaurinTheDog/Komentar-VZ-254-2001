@@ -82,6 +82,54 @@ VZ upravuje tři okruhy právních vztahů:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cc685d43746ea6a8b1a9 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 1 — Účel a předmět zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Účelem tohoto zákona je chránit povrchové a podzemní vody, jako ohrožené a nenahraditelné složky životního prostředí a přírodní zdroje, stanovit podmínky pro hospodárné využívání vodních zdrojů, pro zachování vodních zdrojů a předejití stavu nedostatku vody a pro zachování i zlepšení jakosti povrchových a podzemních vod, vytvořit podmínky pro snižování nepříznivých účinků povodní a sucha a zajistit bezpečnost vodních děl v souladu s právem Evropských společenství1). Účelem tohoto zákona je též přispívat k zajištění zásobování obyvatelstva pitnou vodou a k ochraně vodních ekosystémů a na nich přímo závisejících suchozemských ekosystémů.
+>
+> (2) Zákon upravuje právní vztahy k povrchovým a podzemním vodám, vztahy fyzických a právnických osob k využívání povrchových a podzemních vod, jakož i vztahy k pozemkům a stavbám, s nimiž výskyt těchto vod přímo souvisí, a to v zájmu zajištění trvale udržitelného užívání těchto vod, bezpečnosti vodních děl a ochrany před účinky povodní a sucha. V rámci vztahů upravených tímto zákonem se bere v úvahu zásada návratnosti nákladů na vodohospodářské služby, včetně nákladů na související ochranu životního prostředí a nákladů na využívané zdroje, v souladu se zásadou, že znečišťovatel platí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc685d43746ea6a8b1a9 -->
+
 ### § 2 — Vymezení pojmů
 
 > **§ 2**
@@ -220,6 +268,82 @@ VZ přebírá **hydrologickou systematiku území** z WFD. Pojmy jsou hierarchic
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a138c0675d4bc04c2a29 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 2 — Vymezení pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povrchovými vodami jsou vody přirozeně se vyskytující na zemském povrchu; tento charakter neztrácejí, protékají-li přechodně zakrytými úseky, přirozenými dutinami pod zemským povrchem nebo v nadzemních vedeních.
+>
+> (2) Podzemními vodami jsou vody přirozeně se vyskytující pod zemským povrchem v pásmu nasycení v přímém styku s horninami; za podzemní vody se považují též vody protékající podzemními drenážními systémy a vody ve studních.
+>
+> (3) Vodním útvarem je vymezené významné soustředění povrchových nebo podzemních vod v určitém prostředí charakterizované společnou formou jejich výskytu nebo společnými vlastnostmi vod a znaky hydrologického režimu. Vodní útvary se člení na útvary povrchových vod a útvary podzemních vod.
+>
+> (4) Útvar povrchové vody je vymezené soustředění povrchové vody v určitém prostředí, například v jezeru, ve vodní nádrži, v korytě vodního toku.
+>
+> (5) Silně ovlivněný vodní útvar je útvar povrchové vody, který má v důsledku lidské činnosti podstatně změněný charakter.
+>
+> (6) Umělý vodní útvar je vodní útvar povrchové vody vytvořený lidskou činností.
+>
+> (7) Útvar podzemní vody je vymezené soustředění podzemní vody v příslušném kolektoru nebo kolektorech; kolektorem se rozumí horninová vrstva nebo souvrství hornin s dostatečnou propustností, umožňující významnou spojitou akumulaci podzemní vody nebo její proudění či odběr.
+>
+> (8) Vodním zdrojem jsou povrchové nebo podzemní vody, které jsou využívány nebo které mohou být využívány pro uspokojení potřeb člověka, zejména pro pitné účely.
+>
+> (9) Nakládáním s povrchovými nebo podzemními vodami je jejich vzdouvání pomocí vodních děl, využívání jejich energetického potenciálu, jejich využívání k plavbě nebo k plavení dřeva, k chovu ryb nebo vodní drůbeže, jejich odběr, vypouštění odpadních vod do nich a další způsoby, jimiž lze využívat jejich vlastnosti nebo ovlivňovat jejich množství, průtok, výskyt nebo jakost.
+>
+> (10) Povodí je území, ze kterého veškerý povrchový odtok odtéká sítí vodních toků a případně i jezer do moře v jediném vyústění, ústí nebo deltě vodního toku.
+>
+> (11) Dílčí povodí je území, ze kterého veškerý povrchový odtok odtéká sítí vodních toků a případně i jezer do určitého místa vodního toku (obvykle jezero nebo soutok řek).
+>
+> (12) Hydrogeologický rajon je území s obdobnými hydrogeologickými poměry, typem zvodnění a oběhem podzemní vody.
+>
+> (13) Vodní linie je kontinuálně propojená síť vodních toků a ostatních vodních linií, včetně částí vzdutých vodním dílem a přechodně zakrytých úseků, přerušená pouze místy, kde dochází k přirozenému vsakování.
+>
+> (14) Ostatní vodní linií je tekoucí povrchová nebo podzemní voda neodpovídající definici vodního toku podle [[#§ 43|§ 43]].
+>
+> (15) Pověřenou osobou je odborně způsobilá právnická osoba pověřená rozhodnutím Ministerstva zemědělství k provádění technickobezpečnostního dohledu nad vodními díly, včetně zpracování programu technickobezpečnostního dohledu a zpracování rozsahu měření technickobezpečnostního dohledu, v rozsahu svého pověření, a ke zpracování posudků pro zařazení vodních děl do kategorií z hlediska technickobezpečnostního dohledu.
+>
+> (16) Pověřením je rozhodnutí Ministerstva zemědělství udělující pověření k provádění technickobezpečnostního dohledu nad vodními díly, včetně zpracování programu technickobezpečnostního dohledu a zpracování rozsahu měření technickobezpečnostního dohledu, a ke zpracování posudků pro zařazení vodních děl do kategorií z hlediska technickobezpečnostního dohledu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a138c0675d4bc04c2a29 -->
+
 ### § 2a — Stav vod a normy environmentální kvality
 
 > **§ 2a**
@@ -303,6 +427,68 @@ Kvantitativní stav vyjadřuje míru, v níž je útvar podzemní vody ovlivněn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=00d7c8c0d2f68e09308a generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 2a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Stavem povrchových vod se rozumí obecné vyjádření stavu útvaru povrchové vody určené ekologickým nebo chemickým stavem, podle toho, který je horší.
+>
+> (2) Stavem podzemních vod se rozumí obecné vyjádření stavu útvaru podzemní vody určené kvantitativním nebo chemickým stavem, podle toho, který je horší.
+>
+> (3) Ekologickým stavem se rozumí vyjádření kvality struktury a funkce vodních ekosystémů vázaných na povrchové vody.
+>
+> (4) Dobrým stavem povrchových vod se rozumí takový stav útvaru povrchové vody, kdy je jeho ekologický i chemický stav přinejmenším dobrý.
+>
+> (5) Dobrým stavem podzemních vod se rozumí takový stav útvaru podzemních vod, kdy je jeho kvantitativní i chemický stav přinejmenším dobrý.
+>
+> (6) Dobrým chemickým stavem povrchových vod se rozumí chemický stav potřebný pro dosažení cílů ochrany vod jako složky životního prostředí ([[#§ 23a|§ 23a]]), při kterém koncentrace znečišťujících látek nepřekračují normy environmentální kvality.
+>
+> (7) Dobrým chemickým stavem podzemních vod se rozumí chemický stav potřebný pro dosažení cílů ochrany vod jako složky životního prostředí ([[#§ 23a|§ 23a]]), při kterém koncentrace znečišťujících látek nepřekračují normy environmentální kvality.
+>
+> (8) Normou environmentální kvality se rozumí koncentrace znečišťující látky nebo skupiny látek ve vodě, sedimentech nebo živých organismech, která nesmí být překročena z důvodů ochrany lidského zdraví a životního prostředí.
+>
+> (9) Kvantitativním stavem podzemních vod se rozumí vyjádření míry ovlivnění útvaru podzemních vod přímými a nepřímými odběry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00d7c8c0d2f68e09308a -->
+
 ### § 3 — Práva k vodám a právní povaha vod
 
 > **§ 3**
@@ -384,6 +570,56 @@ Vody jsou vyloučeny z vlastnictví a nejsou součástí pozemku. Žádná soukr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5797dd685f8e3644c45d generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 3 — Práva k vodám a právní povaha vod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povrchové a podzemní vody nejsou předmětem vlastnictví a nejsou součástí ani příslušenstvím pozemku, na němž nebo pod nímž se vyskytují; práva k těmto vodám upravuje tento zákon.
+>
+> (2) Za povrchové a podzemní vody se nepovažují vody, které byly z těchto vod odebrány.
+>
+> (3) V pochybnostech o tom, zda se jedná nebo nejedná o povrchové nebo podzemní vody, rozhoduje vodoprávní úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5797dd685f8e3644c45d -->
+
 ### § 4 — Vztah k vyhrazeným nerostům, léčivým zdrojům a důlním vodám
 
 > **§ 4**
@@ -450,6 +686,54 @@ Na vyhrazené nerosty a osvědčené léčivé/minerální zdroje se VZ vztahuje
 **Typicky rozhodné důkazy / podklady:** osvědčení o léčivém zdroji, rozhodnutí dle horního zákona, rozbor vody, vymezení ochranných pásem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0b914f1b437eb9ee6102 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Na vody, které jsou podle zvláštního zákona1a) vyhrazenými nerosty, a na přírodní léčivé zdroje a zdroje přírodních minerálních vod, o nichž bylo vydáno osvědčení podle zvláštního zákona,2) se tento zákon vztahuje, jen pokud tak výslovně stanoví.
+>
+> (2) Důlní vody se pro účely tohoto zákona považují za vody povrchové, popřípadě podzemní a tento zákon se na ně vztahuje, pokud zvláštní zákon1a) nestanoví jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b914f1b437eb9ee6102 -->
 
 ## Hlava II — Nakládání s vodami (§§ 5–20)
 
@@ -1953,6 +2237,104 @@ Monitoring stavu vod je veřejnoprávní funkcí s navázaným oprávněním vst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a77ccf0459b7eeafc215 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Zjišťování a hodnocení stavu povrchových a podzemních vod slouží k zajišťování podkladů pro výkon veřejné správy podle tohoto zákona, plánování v oblasti vod a k poskytování informací veřejnosti a provádí se podle povodí povrchových vod a hydrogeologických rajonů podzemních vod.
+>
+> (2) Zjišťování a hodnocení stavu povrchových a podzemních vod zahrnuje zejména
+>
+> - a) zjišťování množství a jakosti povrchových a podzemních vod včetně jejich ovlivňování lidskou činností a zjišťování stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,
+>
+> - b) vedení vodní bilance (§ 22 odst. 1),
+>
+> - c) zřízení, vedení a aktualizace evidence
+>
+> - 1. vodních linií a objektů na nich, hydrologických povodí vodních toků, hydrogeologických rajonů a vodních nádrží,
+>
+> - 2. vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů,
+>
+> - 3. množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,
+>
+> - 4. odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích,
+>
+> - 5. mezinárodních oblastí povodí na území České republiky a dílčích povodí ([[#§ 24|§ 24]]),
+>
+> - 6. chráněných oblastí přirozené akumulace vod ([[#§ 28|§ 28]]),
+>
+> - 7. ochranných pásem vodních zdrojů ([[#§ 30|§ 30]]),
+>
+> - 8. zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,
+>
+> - 9. citlivých oblastí ([[#§ 32|§ 32]]),
+>
+> - 10. zranitelných oblastí ([[#§ 33|§ 33]]),
+>
+> - 11. oblastí povrchových vod využívaných ke koupání ([[#§ 34|§ 34]]),
+>
+> - 12. povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů ([[#§ 35|§ 35]]),
+>
+> - 13. hlavních odvodňovacích a hlavních závlahových zařízení ([[#§ 56|§ 56]]),
+>
+> - 14. záplavových území ([[#§ 66|§ 66]]).
+>
+> Rozsah a způsob zpracování, ukládání a předávání údajů zahrnutých v evidencích, včetně statistických a kartografických dat, do informačních systémů veřejné správy (§ 22 odst. 3 a [[#§ 4|4]]) stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí vyhláškou. Údaje z evidencí podle písmene c) se zveřejňují jako otevřená data60).
+>
+> (3) Způsob vymezení hydrogeologických rajonů, vymezení vodních útvarů, způsob hodnocení jejich stavu a způsob hodnocení ekologického potenciálu silně ovlivněných a umělých vodních útvarů ([[#§ 23a|§ 23a]]), náležitosti programů zjišťování a hodnocení stavu vod (§ 26 odst. 4) stanoví Ministerstvo životního prostředí a Ministerstvo zemědělství vyhláškou.
+>
+> (4) Zjišťování a hodnocení stavu povrchových a podzemních vod a provozování informačních systémů veřejné správy provádějí správci povodí a další odborné subjekty, které za tím účelem pověřuje, zřizuje nebo zakládá Ministerstvo zemědělství, popřípadě Ministerstvo životního prostředí (dále jen „pověřené odborné subjekty“). Správci povodí a pověřené odborné subjekty jsou povinni se při této činnosti řídit pokyny svého zakladatele nebo zřizovatele.
+>
+> (5) Správci povodí a pověřené odborné subjekty jsou oprávněni požadovat pro účely zjišťování a hodnocení stavu povrchových a podzemních vod informace od toho, kdo nakládá s povrchovými nebo podzemními vodami, jakož i od správních úřadů, popřípadě orgánů územní samosprávy, do jejichž působnosti povolování nakládání s uvedenými vodami spadá, nebo které vedou informační systémy podle zvláštních právních předpisů;14) ti jsou povinni bezplatně sdělovat data správcům povodí a pověřeným odborným subjektům, popřípadě si správci povodí a pověřené odborné subjekty mohou u nich tato data bezplatně a za jejich pomoci zjišťovat. Ustanovení zvláštních právních předpisů chránících utajované informace tím nejsou dotčena.
+>
+> (6) Správci povodí a pověřené odborné subjekty poskytují na vyžádání bezplatně správním úřadům informace o stavu povrchových a podzemních vod; zároveň bezplatně poskytují Ministerstvu zdravotnictví informace týkající se nakládání s povrchovými a podzemními vodami v ochranných pásmech přírodních léčivých zdrojů a zdrojů přírodních minerálních vod.
+>
+> (7) Zaměstnanci správců povodí a pověřených odborných subjektů
+>
+> - a) jsou oprávněni při výkonu své činnosti, včetně odběru vzorků povrchových a podzemních vod, v nezbytně nutném rozsahu vstupovat na cizí pozemky a dále vstupovat do cizích staveb a dalších prostor užívaných pro podnikatelskou činnost nebo provozování jiné hospodářské činnosti, pokud k tomu není třeba povolení podle jiných právních předpisů; vlastníci nebo uživatelé těchto prostor jsou povinni vstup umožnit,
+>
+> - b) jsou povinni prokazovat se pověřením nebo průkazem správce povodí nebo pověřeného odborného subjektu a před vstupem na cizí pozemky nebo do cizích staveb a dalších prostor informovat oprávněného, jakož i jejich vlastníka nebo uživatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 24, § 28, § 30, § 32, § 33, § 34, § 35, § 56, § 66, § 4, § 23a, § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a77ccf0459b7eeafc215 -->
+
 ### § 22 — Vodní bilance a informační systémy
 
 > **§ 22**
@@ -2064,6 +2446,92 @@ Vodohospodářská bilance je jen tak přesná, jak úplná jsou ohlášení pod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6387bdb7fda00da8f774 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Vodní bilance sestává z hydrologické bilance a vodohospodářské bilance. Hydrologická bilance porovnává přírůstky a úbytky vody a změny vodních zásob povodí, území nebo vodního útvaru za daný časový interval. Vodohospodářská bilance porovnává požadavky na odběry povrchové a podzemní vody a vypouštění odpadních vod s využitelnou kapacitou vodních zdrojů z hledisek množství a jakosti vody a jejich ekologického stavu. Obsah vodní bilance a způsob jejího sestavení stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí vyhláškou.
+>
+> (2) Pro potřeby vodní bilance je ten, kdo je podle § 10 odst. 1 nebo [[#§ 2|2]] povinen měřit množství vody, se kterou nakládá, a dále ten, kdo má povolení k vypouštění odpadních vod nebo vypouští důlní vody do vod povrchových nebo podzemních v množství přesahujícím v kalendářním roce 6 000 m3 nebo 500 m3 v kalendářním měsíci, povinen jednou ročně ohlašovat příslušným správcům povodí údaje o tomto nakládání nebo vypouštění způsobem a v rozsahu, který stanoví Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí a Ministerstvem zdravotnictví vyhláškou.
+>
+> (3) Ministerstvo zemědělství spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci
+>
+> - a) vodních linií a objektů na nich a vodních nádrží,
+>
+> - b) odběrů povrchových a podzemních vod, vypouštění odpadních a důlních vod a akumulace povrchových vod ve vodních nádržích,
+>
+> - c) mezinárodních oblastí povodí na území České republiky a dílčích povodí ([[#§ 24|§ 24]]),
+>
+> - d) zdrojů povrchových a podzemních vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,
+>
+> - e) hlavních odvodňovacích a hlavních závlahových zařízení ([[#§ 56|§ 56]]).
+>
+> (4) Ministerstvo životního prostředí spravuje informační systém veřejné správy podle § 21 odst. 2 písm. c) pro evidenci
+>
+> - a) objektů na vodních liniích hydrologických povodí vodních toků a hydrogeologických rajonů,
+>
+> - b) vodních útvarů včetně silně ovlivněných vodních útvarů a umělých vodních útvarů,
+>
+> - c) množství a jakosti povrchových a podzemních vod, stavu vodních útvarů a ekologického potenciálu silně ovlivněných a umělých vodních útvarů,
+>
+> - d) chráněných oblastí přirozené akumulace vod,
+>
+> - e) ochranných pásem vodních zdrojů,
+>
+> - f) citlivých oblastí,
+>
+> - g) zranitelných oblastí,
+>
+> - h) oblastí povrchových vod využívaných ke koupání,
+>
+> - i) záplavových území,
+>
+> - j) povrchových vod, které jsou nebo se mají stát trvale vhodnými pro život a reprodukci původních druhů ryb a dalších vodních živočichů.
+>
+> (5) Ministerstvo životního prostředí spravuje jako samostatnou součást informačního systému veřejné správy podle § 21 odst. 2 písm. c) registr chráněných oblastí, ve kterém v návaznosti na vodní útvary povrchové nebo podzemní vody eviduje oblasti a území vyžadující zvláštní ochranu podle tohoto zákona nebo zákona [[o ochraně přírody a krajiny|o ochraně přírody a krajiny]]14a).
+>
+> (6) Ministerstvo zemědělství a Ministerstvo životního prostředí postupují při správě informačních systémů podle odstavců 3 a [[#§ 4|4]] podle zvláštního právního předpisu.15) Tyto informační systémy slouží zejména pro účely podle § 21 odst. 1, § 23 až 26, [[#§ 54|§ 54]] a § 108 odst. 3 písm. w).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 2, § 21, § 24, § 56, § 4, § 23, § 54, § 108
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6387bdb7fda00da8f774 -->
+
 ## Hlava IV — Plánování v oblasti vod (§§ 23–26)
 
 ### § 23 — Plánování v oblasti vod jako koncepční činnost
@@ -2134,6 +2602,60 @@ Plánování v oblasti vod je koncepčním rámcem, který směruje územní pl�
 **Typicky rozhodné důkazy / podklady:** platný plán povodí a programy opatření, územně plánovací dokumentace, vyjádření vodoprávního úřadu a správce povodí, mapy záplavových území a retenčních ploch.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=11d826552bb524aee520 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Plánování v oblasti vod je soustavná koncepční činnost, kterou zajišťuje stát, a jeho účelem je vymezit a vzájemně harmonizovat veřejné zájmy
+>
+> - a) ochrany vod jako složky životního prostředí,
+>
+> - b) snížení nepříznivých účinků povodní a sucha a
+>
+> - c) udržitelného užívání vodních zdrojů, zejména pro účely zásobování pitnou vodou.
+>
+> (2) V rámci plánování v oblasti vod se pořizují plány povodí a plány pro zvládání povodňových rizik. Tyto plány jsou podkladem pro výkon veřejné správy, zejména pro územní plánování, vodoprávní řízení a řízení o návrhu na povolení záměru podle zvláštního zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11d826552bb524aee520 -->
 
 ### § 23a — Cíle ochrany vod jako složky životního prostředí
 
@@ -2313,6 +2835,136 @@ Pro některé vodní útvary mohou být stanoveny **méně přísné cíle** (le
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=22e2d4662e291333d072 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 23a — Cíle ochrany vod jako složky životního prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Cíli ochrany vod jako složky životního prostředí (dále jen „cíle ochrany vod“) jsou
+>
+> - a) pro povrchové vody
+>
+> - 1. zamezení zhoršení stavu všech útvarů těchto vod, včetně vodních útvarů ležících v téže mezinárodní oblasti povodí,
+>
+> - 2. zajištění ochrany, zlepšení stavu a obnova všech útvarů těchto vod a dosažení jejich dobrého stavu, s výjimkou útvarů uvedených v bodu 3,
+>
+> - 3. zajištění ochrany, zlepšení stavu všech umělých a silně ovlivněných vodních útvarů a dosažení jejich dobrého ekologického potenciálu a dobrého chemického stavu,
+>
+> - 4. snížení jejich znečištění prioritními látkami a zastavení nebo postupné odstraňování emisí, vypouštění a úniků prioritních nebezpečných látek,
+>
+> - b) pro podzemní vody
+>
+> - 1. zamezení nebo omezení vstupů nebezpečných závadných, zvlášť nebezpečných závadných a jiných závadných látek do těchto vod a zamezení zhoršení stavu všech útvarů těchto vod,
+>
+> - 2. zajištění ochrany, zlepšení stavu a obnova všech útvarů těchto vod a zajištění vyváženého stavu mezi odběry podzemní vody a jejím doplňováním, s cílem dosáhnout dobrého stavu těchto vod,
+>
+> - 3. odvrácení jakéhokoliv významného a trvajícího vzestupného trendu koncentrace nebezpečných závadných, zvlášť nebezpečných závadných a jiných závadných látek jako důsledku dopadů lidské činnosti, za účelem účinného snížení znečištění těchto vod,
+>
+> - c) též v oblastech vymezených v § 28 odst. 1, § 30 odst. 1, § 32 odst. 2, § 33 odst. 1, § 34 odst. 1 a § 35 odst. 1 a ve zvláště chráněných územích podle zvláštních zákonů31) dosažení cílů stanovených pro povrchové vody podle písmene a) a pro podzemní vody podle písmene b), pokud v těchto oblastech nejsou pro tyto vody stanoveny zvláštními právními předpisy odlišné požadavky.
+>
+> (2) Cílů uvedených v odstavci 1 písm. a) bodech 2 a [[#§ 3|3]], písm. b) bodě 2 a písm. c) je třeba dosáhnout do 22. prosince 2015.
+>
+> (3) Pokud se na vybraný vodní útvar vztahuje více než jeden cíl ochrany vod uvedený v odstavci 1, uplatní se vždy nejpřísnější z nich.
+>
+> (4) Pro vybrané vodní útvary mohou být v plánech povodí ([[#§ 24|§ 24]]) určeny zvláštní cíle ochrany vod, které spočívají v prodloužení lhůty uvedené v odstavci 2 za účelem postupného dosahování cílů ochrany vod pro vodní útvary nebo ve stanovení méně přísných cílů ochrany vod.
+>
+> (5) Lhůta uvedená v odstavci 2 může být prodloužena pouze tehdy, pokud se neprojeví další zhoršení stavu dotčeného vodního útvaru a při splnění těchto podmínek:
+>
+> - a) není-li včasné dosažení cílů ochrany vod možné z nejméně jednoho dále uvedeného důvodu:
+>
+> - 1. míra požadovaného zlepšení může být z důvodů technické proveditelnosti dosažena pouze postupnými kroky, které přesahují tímto zákonem stanovené lhůty,
+>
+> - 2. dosažení požadovaného zlepšení v rámci tímto zákonem stanovené lhůty by bylo neúměrně nákladné,
+>
+> - 3. přírodní podmínky nedovolují včasné zlepšení stavu daného vodního útvaru v rámci tímto zákonem stanovené lhůty,
+>
+> - b) prodloužení lhůty a důvody jejího prodloužení budou jmenovitě uvedeny a vysvětleny v plánu povodí a
+>
+> - c) prodloužení lhůty bude omezeno na období maximálně dvou následujících aktualizací plánů povodí, s výjimkou případů, kdy přírodní podmínky jsou takové, že stanovené cíle ochrany vod nemohou být v těchto obdobích dosaženy.
+>
+> (6) Méně přísné cíle ochrany vod pro vybrané vodní útvary mohou být stanoveny pouze tehdy, pokud jsou tyto vodní útvary ovlivněny lidskou činností do míry určené v souladu s § 25 odst. 1 písm. a) bodem 2, nebo pokud jsou jejich přírodní podmínky takové, že by dosažení těchto cílů bylo neproveditelné nebo neúměrně nákladné, a pokud jsou splněny tyto podmínky:
+>
+> - a) potřeby životního prostředí a sociálně ekonomické potřeby zajišťované takovou lidskou činností nemohou být dosaženy jinými prostředky, které by z hlediska životního prostředí byly významně lepší a nevyžadovaly by neúměrné náklady,
+>
+> - b) pro povrchové vody bude dosaženo nejlepšího možného ekologického a chemického stavu při daných vlivech, kterým nebylo možné předejít v důsledku povahy lidské činnosti nebo znečištění,
+>
+> - c) pro podzemní vody bude dosaženo nejmenší možné změny oproti dobrému stavu podzemní vody při daných vlivech, kterým nebylo možné předejít v důsledku povahy lidské činnosti nebo znečištění,
+>
+> - d) nedojde k dalšímu zhoršení stavu dotčeného vodního útvaru a
+>
+> - e) stanovení méně přísných cílů ochrany vod a příslušné důvody budou jmenovitě uvedeny v plánu povodí a tyto cíle budou každých šest let přezkoumány.
+>
+> (7) Dobrého stavu podzemních vod, dobrého ekologického stavu, dobrého ekologického potenciálu nebo předcházení zhoršování stavu útvaru povrchové nebo podzemní vody nemusí být dosaženo v důsledku nových změn fyzikálních poměrů v útvaru povrchové vody nebo změn hladin útvarů podzemních vod. Ke zhoršení stavu útvaru povrchové vody z velmi dobrého na dobrý může dojít v důsledku nových trvalých lidských činností.
+>
+> (8) Zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody podle odstavce 7 je možné pouze na základě výjimky, kterou udělí vodoprávní úřad na základě žádosti při současném splnění těchto podmínek:
+>
+> - a) jsou učiněny všechny schůdné kroky k omezení nepříznivých vlivů na stav vodního útvaru,
+>
+> - b) důvody těchto změn nebo úprav vyplývají z převažujícího veřejného zájmu nebo pokud jsou přínosy pro životní prostředí a společnost při dosahování cílů podle odstavce 1 převáženy přínosy nových změn pro lidské zdraví, udržení ochrany obyvatel nebo udržitelný rozvoj a
+>
+> - c) prospěšné cíle, které z těchto změn nebo úprav vodního útvaru vyplývají, nelze z důvodů technické neproveditelnosti nebo pro neúměrné náklady dosáhnout jinými prostředky, jež by byly z hlediska životního prostředí významně lepší.
+>
+> (9) Bez udělené výjimky podle odstavce 8 nelze záměr vedoucí ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchových vod nebo dobrého stavu útvaru podzemních vod povolit ani provést.
+>
+> (10) Důvody pro udělení výjimky podle odstavce 8 musí být uvedeny a vysvětleny v platném plánu povodí podle [[#§ 24|§ 24]] nebo v jeho nejbližší aktualizaci.
+>
+> (11) Lhůtu podle odstavce 5 lze prodloužit, méně přísné cíle podle odstavce 6 lze stanovit a výjimku podle odstavce 8 lze udělit, pouze pokud nedojde k trvalému vyloučení nebo ústupkům při dosahování cílů ochrany vod jako složky životního prostředí v jiných vodních útvarech ležících v téže oblasti povodí a jejich použití je v souladu s cíli ochrany životního prostředí.
+>
+> (12) Žádost o udělení výjimky podle odstavce 8 obsahuje kromě obecných náležitostí podle [[správního řádu|správního řádu]]
+>
+> - a) základní popis záměru, jeho rozsah a účel a
+>
+> - b) identifikační údaje o místu, na němž se má záměr uskutečnit.
+>
+> (13) Součástí žádosti je
+>
+> - a) projektová dokumentace nebo popis záměru,
+>
+> - b) údaje o plnění podmínek pro udělení výjimky,
+>
+> - c) stanovisko správce povodí a
+>
+> - d) správní úkon, z něhož vyplývá, že záměr nelze povolit ani provést bez udělení výjimky podle odstavce 8, byl-li vydán jiným správním orgánem než příslušným k udělení výjimky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 30, § 32, § 33, § 34, § 35, § 3, § 24, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22e2d4662e291333d072 -->
+
 ### § 23b — Zvláštní ustanovení o obnovitelných zdrojích energie
 
 > **§ 23b**
@@ -2370,6 +3022,54 @@ jsou **v převažujícím veřejném zájmu** a slouží veřejnému zdraví a b
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace OZE, doklad o typu zdroje a úložiště, hodnocení vlivů na vodní útvar, stanovisko správce povodí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c7a03a29840d85b2f805 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 23b — Zvláštní ustanovení o povolování zařízení na výrobu energie z obnovitelných zdrojů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Má se za to, že plánování, výstavba, modernizace a provoz zařízení pro výrobu energie z obnovitelných zdrojů, jejich připojení k soustavě a související soustava samotná a skladovací zařízení, jsou při posuzování existence převažujícího veřejného zájmu nebo převahy přínosů nových změn pro lidské zdraví, udržení ochrany obyvatel nebo udržitelný rozvoj podle § 23a odst. 8 písm. b) v převažujícím veřejném zájmu a že slouží veřejnému zdraví a bezpečnosti68).
+>
+> (2) Odstavec 1 se neuplatní v případě plánování a výstavby nových obnovitelných zdrojů využívajících energii vodního toku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7a03a29840d85b2f805 -->
 
 ### § 24 — Plány povodí
 
@@ -2515,6 +3215,86 @@ Plány povodí tvoří třístupňovou soustavu (mezinárodní → národní →
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e443f89e94efd25c91f generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 24 — Plány povodí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Území České republiky náleží do třech mezinárodních oblastí povodí, a to do mezinárodní oblasti povodí Labe, mezinárodní oblasti povodí Odry a mezinárodní oblasti povodí Dunaje.
+>
+> (2) Plány povodí podle § 23 odst. 2 se zpracovávají ve třech úrovních pro mezinárodní oblasti povodí (dále jen „mezinárodní plány povodí“), části mezinárodních oblastí povodí na území České republiky (dále jen „národní plány povodí“) a dílčí povodí.
+>
+> (3) Ministerstvo životního prostředí a Ministerstvo zemědělství spolupracují v rámci mezinárodních komisí16) na zpracování mezinárodních plánů povodí a mezinárodních plánů pro zvládání povodňových rizik nebo souboru plánů pro zvládání povodňových rizik koordinovaných na úrovni mezinárodní oblasti povodí.
+>
+> (4) Národní plány povodí stanoví cíle:
+>
+> - a) pro ochranu a zlepšování stavu povrchových a podzemních vod a vodních ekosystémů,
+>
+> - b) ke snížení nepříznivých účinků povodní a sucha,
+>
+> - c) pro hospodaření s povrchovými a podzemními vodami a udržitelné užívání těchto vod pro zajištění vodohospodářských služeb a
+>
+> - d) pro zlepšování vodních poměrů a pro ochranu ekologické stability krajiny.
+>
+> Dále obsahují souhrny programů opatření k dosažení uvedených cílů a stanoví strategii jejich financování.
+>
+> (5) Národní plán povodí Labe je doplněn plány povodí pro pět dílčích povodí, a to pro dílčí povodí Horního a středního Labe, dílčí povodí Horní Vltavy, dílčí povodí Berounky, dílčí povodí Dolní Vltavy a dílčí povodí Ohře, Dolního Labe a ostatních přítoků Labe.
+>
+> (6) Národní plán povodí Odry je doplněn plány povodí pro dvě dílčí povodí, a to pro dílčí povodí Horní Odry, dílčí povodí Lužické Nisy a ostatních přítoků Odry.
+>
+> (7) Národní plán povodí Dunaje je doplněn plány povodí pro tři dílčí povodí, a to pro dílčí povodí Moravy a přítoků Váhu, dílčí povodí Dyje a dílčí povodí ostatních přítoků Dunaje.
+>
+> (8) Plány dílčích povodí stanoví návrhy programů opatření, které jsou nutné k dosažení cílů pro dané dílčí povodí na základě zjištěného stavu povrchových a podzemních vod, hodnocení povodňových rizik, potřeb užívání vodních zdrojů, a časový plán jejich uskutečnění.
+>
+> (9) Ministerstvo zemědělství stanoví vyhláškou vymezení jednotlivých částí mezinárodních oblastí povodí na území České republiky, jednotlivých dílčích povodí podle odstavců 5 až 7 a přiřazených hydrogeologických rajonů, a dále do kterých správních obvodů krajů a správních obvodů obcí s rozšířenou působností a do územní působnosti kterých správců povodí spadají.
+>
+> (10) Národní plány povodí pořizuje Ministerstvo zemědělství a Ministerstvo životního prostředí ve spolupráci s příslušnými správci povodí a místně příslušnými krajskými úřady. Národní plány povodí schvaluje vláda.
+>
+> (11) Plány pro zvládání povodňových rizik pořizuje Ministerstvo životního prostředí a Ministerstvo zemědělství ve spolupráci s příslušnými správci povodí a místně příslušnými krajskými úřady. Plány pro zvládání povodňových rizik schvaluje vláda.
+>
+> (12) Národní plány povodí a plány pro zvládání povodňových rizik jsou začleněny do mezinárodních plánů podle odstavce 3.
+>
+> (13) Plány dílčích povodí pořizují správci povodí podle své působnosti ve spolupráci s příslušnými krajskými úřady a ve spolupráci s ústředními vodoprávními úřady. Plány dílčích povodí schvalují podle své územní působnosti kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e443f89e94efd25c91f -->
+
 ### § 25 — Zpracování plánů povodí ve třech etapách
 
 > **§ 25**
@@ -2603,6 +3383,72 @@ Zpracování plánu povodí je třístupňový proces s pevnými předstihovými
 **Typicky rozhodné důkazy / podklady:** harmonogram a doklady o datech zveřejnění jednotlivých etap, dokumentace připomínkového řízení, text návrhu i schváleného plánu (OOP), záznamy o vypořádání připomínek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7b3d054351ba5a6ba18c generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 25 — Zpracování plánů povodí a plánů pro zvládání povodňových rizik
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Plány povodí a plány pro zvládání povodňových rizik se zpracovávají ve třech etapách, které představují:
+>
+> - a) přípravné práce, které musí obsahovat
+>
+> - 1. předběžné vyhodnocení povodňových rizik a vymezení oblastí s významným povodňovým rizikem, které se musí zveřejnit a zpřístupnit veřejnosti k připomínkám, a to nejméně 4 roky před začátkem období, kterého se budou plány pro zvládání povodňových rizik týkat,
+>
+> - 2. časový plán a program prací pro zpracování plánů povodí, který se musí zveřejnit a zpřístupnit uživatelům vody a veřejnosti k připomínkám, a to nejméně 3 roky před začátkem období, kterého se budou plány povodí týkat,
+>
+> - 3. analýzu všeobecných a vodohospodářských charakteristik povodí, zhodnocení dopadů lidské činnosti na stav povrchových a podzemních vod, mapy povodňového nebezpečí a mapy povodňových rizik pro oblasti vymezené podle bodu 1, ekonomickou analýzu užívání vody, a na jejich základě zpracovaný předběžný přehled významných problémů nakládání s vodami zjištěných v povodí, včetně uvedení umělých vodních útvarů, určení silně ovlivněných vodních útvarů a jeho zdůvodnění, který se musí zveřejnit a zpřístupnit uživatelům vody a veřejnosti k připomínkám, a to nejméně 2 roky před začátkem období, kterého se budou plány povodí a plány pro zvládání povodňových rizik týkat,
+>
+> - b) zpracování návrhů plánů povodí a návrhů plánů pro zvládání povodňových rizik, které musí být zpracovány podle výsledků přípravných prací a obsahovat programy opatření k dosažení cílů podle § 24 odst. 4, zveřejněny a zpřístupněny uživatelům vody a veřejnosti k připomínkám nejméně 1 rok před začátkem období, kterého se budou plány povodí a plány pro zvládání povodňových rizik týkat,
+>
+> - c) zpracování plánů povodí a plánů pro zvládání povodňových rizik upravených podle vyhodnocení konzultací s uživateli vody a veřejností.
+>
+> (2) Ministerstvo zemědělství a Ministerstvo životního prostředí stanoví vyhláškou obsah plánů povodí a plánů pro zvládání povodňových rizik, způsob zpracování plánů, podrobnosti etap zpracování podle odstavce 1 včetně způsobu a formy zpracování předběžného vyhodnocení povodňových rizik, způsobu stanovení oblastí s významným povodňovým rizikem, obsahu a způsobu zpracování map povodňového nebezpečí a map povodňových rizik a formy jejich zveřejnění, způsob zpřístupnění přípravných prací a návrhů plánů povodí a návrhů plánů pro zvládání povodňových rizik pro aktivní zapojení uživatelů vody a veřejnosti.
+>
+> (3) Plány povodí a plány pro zvládání povodňových rizik se přezkoumávají a aktualizují každých 6 let ode dne jejich schválení podle postupů uvedených v odstavcích 1 a [[#§ 2|2.]]
+>
+> (4) Národní plány povodí vydává Ministerstvo zemědělství jako opatření obecné povahy.
+>
+> (5) Plány pro zvládání povodňových rizik vydává Ministerstvo životního prostředí jako opatření obecné povahy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b3d054351ba5a6ba18c -->
 
 ### § 26 — Programy opatření
 
@@ -2700,6 +3546,82 @@ Programy opatření jsou výkonným nástrojem plánů povodí; při hrozícím 
 **Typicky rozhodné důkazy / podklady:** výsledky monitoringu a hodnocení stavu útvaru, platná povolení k nakládání s vodami, program opatření plánu povodí, ekonomická analýza opatření, tříletá souhrnná zpráva vládě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6d32ede6c551882b6e7a generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 26 — Programy opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Programy opatření jsou hlavním nástrojem k dosažení cílů uvedených v plánech povodí a plánech pro zvládání povodňových rizik. Opatření přijatá k dosažení cílů ochrany vod v programu opatření je nutno uskutečnit do 3 let od schválení plánů povodí.
+>
+> (2) Programy opatření k dosažení cílů ochrany vod musí obsahovat základní opatření, a tam, kde je to nutné, i doplňková opatření. Vymezení obsahu základních a doplňkových opatření a postupy při zavádění opatření, včetně vytýčení přísnějších cílů ochrany vod a dodatečných opatření stanoví vyhláškou Ministerstvo zemědělství a Ministerstvo životního prostředí.
+>
+> (3) Opatření přijatá v plánech pro zvládání povodňových rizik nesmí svým rozsahem a dopadem významně zvyšovat povodňová rizika po proudu či proti proudu vodního toku, pokud taková opatření nebyla koordinována a dohodnuta v rámci částí mezinárodních oblastí povodí na území České republiky nebo v rámci mezinárodních oblastí povodí.
+>
+> (4) Pokud zjišťování a hodnocení stavu povrchových a podzemních vod podle [[#§ 21|§ 21]] nebo jiné údaje naznačují, že cíle ochrany vod stanovené pro příslušný vodní útvar podle [[#§ 23a|§ 23a]] nebudou pravděpodobně dosaženy, musí být
+>
+> - a) vyšetřeny příčiny možného nesplnění,
+>
+> - b) přešetřena odpovídající povolení k nakládání s vodami, na něž se vztahuje § 12 odst. 3 písm. a),
+>
+> - c) přešetřeny a upraveny programy pro zjišťování a hodnocení stavu povrchových a podzemních vod,
+>
+> - d) přijata dodatečná opatření pro dosažení těchto cílů ochrany vod, včetně stanovení přísnějších hodnot vybraných ukazatelů, nebo stanovit další ukazatele, pokud je to účelné.
+>
+> (5) V případech dočasného zhoršení stavu vodních útvarů daného okolnostmi přírodní povahy nebo vyšší mocí, které jsou výjimečné nebo nemohly být rozumně předvídány, jako v případě extrémních povodní nebo období déletrvajícího sucha nebo v důsledku havárií, je nutné splnit tyto podmínky:
+>
+> - a) přijmout všechna vhodná opatření s cílem předejít dalšímu zhoršování stavu a neustoupit od dosažení cílů ochrany vod podle § 23a odst. 1 u ostatních vodních útvarů neovlivněných těmito mimořádnými okolnostmi,
+>
+> - b) podmínky, za kterých mohou být okolnosti označeny za mimořádné nebo rozumně nepředpověditelné, jsou uvedeny, včetně zavedení příslušných ukazatelů, v plánu povodí,
+>
+> - c) opatření, která mají být přijata za takovýchto mimořádných okolností, jsou zahrnuta do programů opatření a nebudou oslabovat obnovu jakosti daného vodního útvaru po skončení mimořádných okolností,
+>
+> - d) důsledky mimořádných nebo rozumně nepředpověditelných okolností se každoročně přezkoumají a s ohledem na důvody prodloužení lhůt stanovené v § 23a odst. 5 a stanovení méně přísných cílů v § 23a odst. 6 se přijmou všechna proveditelná opatření s cílem v co možná nejkratším čase obnovit ve vodním útvaru stav, který byl před mimořádnou okolností, a
+>
+> - e) souhrn důsledků mimořádných okolností a opatření, která byla nebo mají být přijata v souladu s písmeny a) a d), se uvedou v nejbližší aktualizaci plánu povodí.
+>
+> (6) Uskutečnění opatření podle odstavce 2 nesmí vést ke zhoršení znečištění pobřežních vod a moří nebo ke zvýšení znečištění povrchových vod. Tento požadavek se neuplatní, pokud by jeho důsledkem bylo zvýšené znečištění životního prostředí jako celku.
+>
+> (7) Ministerstvo zemědělství ve spolupráci s Ministerstvem životního prostředí a krajskými úřady předkládá každé 3 roky vládě souhrnnou zprávu o plnění programů opatření a o stavu povrchových a podzemních vod a hospodaření s vodami v oblastech povodí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 23a, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d32ede6c551882b6e7a -->
 
 ## Hlava V — Ochrana vodních poměrů a vodních zdrojů (§§ 27–42)
 

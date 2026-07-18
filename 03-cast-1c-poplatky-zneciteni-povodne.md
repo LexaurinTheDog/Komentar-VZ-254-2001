@@ -95,6 +95,56 @@ V praxi § 40 funguje jako spouštěč: jeho naplnění aktivuje povinnosti § 4
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=48ee810647eddd1803b3 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 40 — Havárie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Havárií je mimořádné závažné zhoršení nebo mimořádné závažné ohrožení jakosti povrchových nebo podzemních vod.
+>
+> (2) Havárií je vždy závažné zhoršení nebo závažné ohrožení jakosti povrchových nebo podzemních vod ropnými látkami, nebezpečnými závadnými látkami podle části II bodů 1 a 9 přílohy č. 1 k tomuto zákonu, zvlášť nebezpečnými závadnými látkami, prioritními nebezpečnými látkami, popřípadě radioaktivními látkami a radioaktivními odpady nebo zhoršení nebo ohrožení jakosti povrchových nebo podzemních vod v chráněné oblasti přirozené akumulace vod nebo v ochranném pásmu vodního zdroje.
+>
+> (3) Za součást havárie se považují rovněž technické poruchy a závady zařízení k zachycování, skladování, likvidaci, dopravě nebo odkládání závadných látek, které havárii předcházely a jsou s ní v příčinné souvislosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48ee810647eddd1803b3 -->
+
 ### § 41 — Povinnosti při havárii
 
 > **§ 41**
@@ -238,6 +288,70 @@ Ministerstvo životního prostředí vydává prováděcí vyhlášku stanovíc�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d28927a4936e568a0aac generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 41 — Povinnosti při havárii
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo způsobí havárii (dále jen „původce havárie“), nebo zjistí havárii, je povinen ji neprodleně hlásit Hasičskému záchrannému sboru České republiky.
+>
+> (2) Původce havárie je povinen činit bezprostřední opatření k odstraňování příčin a následků havárie (dále jen „zneškodňování havárie“). Přitom se řídí schváleným havarijním plánem, popřípadě pokyny vodoprávního úřadu příslušného podle místa havárie, České inspekce životního prostředí nebo Hasičského záchranného sboru České republiky při provádění záchranných a likvidačních prací. Za místo havárie se považuje místo vzniku havárie nebo, není-li místo vzniku havárie známo, místo, kde byla havárie poprvé zjištěna.
+>
+> (3) Hasičský záchranný sbor České republiky neprodleně informuje o jemu nahlášené havárii vodoprávní úřad příslušný podle místa havárie, správce povodí, Českou inspekci životního prostředí a Policii České republiky. Dojde-li k havárii v ochranném pásmu přírodního léčivého zdroje nebo zdroje přírodních minerálních vod nebo na povrchových vodách využívaných ke koupání podle [[#§ 34|§ 34]], informuje Česká inspekce životního prostředí neprodleně Ministerstvo zdravotnictví. Dojde-li při havárii k ohrožení nebo znečištění zdroje pitné vody, informuje vodoprávní úřad příslušný podle místa havárie neprodleně příslušnou krajskou hygienickou stanici.
+>
+> (4) Řízení prací při zneškodňování havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie, se kterým spolupracuje Hasičský záchranný sbor České republiky. Záchranné a likvidační práce při havárii35) řídí Hasičský záchranný sbor České republiky.
+>
+> (5) Šetření příčin havárie přísluší vodoprávnímu úřadu příslušnému podle místa havárie. Pro účely šetření příčin havárie správce povodí zajistí odběry vzorků havárií zasažené povrchové nebo podzemní vody, včetně příslušných vzorků sedimentů a živých organismů a vypouštěných odpadních vod v havárií zasaženém území, a jejich bezodkladné předání laboratoři s příslušnou akreditací pro rozbor uvedených vzorků; tím není dotčena možnost odběru vzorků orgány nebo osobami uvedenými v odstavci 6.
+>
+> (6) Česká inspekce životního prostředí, správci povodí, Policie České republiky, Vojenská policie a vodoprávní úřady, jejichž správní obvody byly havárií zasaženy, spolupracují při řízení prací při zneškodňování havárie a při šetření příčin havárie, pokud k tomu byly vyzvány Hasičským záchranným sborem České republiky nebo vodoprávním úřadem příslušným podle místa havárie, popřípadě krajským úřadem podle § 107 odst. 1 písm. d).
+>
+> (7) Jde-li o havárii, kterou lze řešit jen s použitím mimořádných odborných znalostí, Česká inspekce životního prostředí může převzít od vodoprávního úřadu řízení prací při zneškodňování havárie a šetření příčin havárií; odstavce 4 až 6 se použijí obdobně.
+>
+> (8) Původce havárie je povinen na výzvu orgánu nebo osoby uvedené v odstavci 3 při zneškodňování havárie s těmito orgány a osobami spolupracovat.
+>
+> (9) Osoby, které se zúčastnily zneškodňování havárie, jsou povinny poskytnout potřebné údaje Hasičskému záchrannému sboru České republiky, vodoprávnímu úřadu příslušnému podle místa havárie a České inspekci životního prostředí, pokud si jejich poskytnutí vyžádají.
+>
+> (10) Ministerstvo životního prostředí stanoví vyhláškou způsob a rozsah hlášení havárií Hasičskému záchrannému sboru České republiky, jejich zneškodňování, šetření jejich příčin a způsob odběru vzorků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 107
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d28927a4936e568a0aac -->
+
 ### § 42 — Opatření k nápravě
 
 > **§ 42**
@@ -363,6 +477,68 @@ Vlastníkům, jejichž majetek byl použit při provádění nápravy, náleží
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c8d9944fdeb6057b9718 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 42 — Opatření k nápravě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) K odstranění následků nedovoleného vypouštění odpadních vod, nedovoleného nakládání se závadnými látkami nebo havárií (dále jen „závadný stav“) uloží vodoprávní úřad nebo Česká inspekce životního prostředí tomu, kdo porušil povinnost k ochraně povrchových nebo podzemních vod nebo původci havárie (dále jen „původce závadného stavu“), povinnost provést opatření k nápravě spočívající v odstranění následků závadného stavu, popřípadě též v opatření náhradního zdroje vody, pokud to vyžaduje povaha věci. Náklady na provedení opatření k nápravě nese ten, jemuž bylo opatření k nápravě uloženo. Pokud ten, komu byla uložena opatření, je neplní a hrozí nebezpečí z prodlení, zabezpečí opatření k nápravě vodoprávní úřad nebo Česká inspekce životního prostředí na jeho náklady. Pokud k havárii došlo v důsledku zásahu základních složek integrovaného záchranného systému, nepovažují se za původce havárie, jestliže k zásahu použily přiměřených prostředků.
+>
+> (2) Vodoprávní úřad nebo Česká inspekce životního prostředí uloží podle potřeby opatření k nápravě nabyvateli majetku získaného způsobem uvedeným ve zvláštním zákoně,22) který není původcem závadného stavu, ale k jehož majetku takto získanému je závadný stav vázán. Takto postupuje vodoprávní úřad nebo Česká inspekce životního prostředí v případě, že nabyvatel tohoto majetku jej získal s vědomím ekologické zátěže a byla-li s ním o tom uzavřena zvláštní smlouva nebo byla-li mu poskytnuta sleva z kupní ceny z důvodu závadného stavu, jenž je předmětem opatření k nápravě. Tímto způsobem postupuje vodoprávní úřad nebo Česká inspekce životního prostředí i v případě, existuje-li dosud původce závadného stavu. Exekuci rozhodnutí vydaného podle tohoto ustanovení nelze zahájit, nařídit nebo provést.
+>
+> (3) Povinnosti plynoucí z opatření k nápravě uloženého původci závadného stavu nebo nabyvateli majetku podle odstavce 2 přecházejí na jejich právní nástupce.
+>
+> (4) Nelze-li opatření k nápravě uložit podle odstavců 1 až 3 a hrozí-li závažné ohrožení nebo znečištění povrchových nebo podzemních vod, zabezpečí nezbytná opatření k nápravě příslušný vodoprávní úřad z vlastního podnětu nebo z podnětu České inspekce životního prostředí. Může k tomuto účelu uložit provedení opatření k nápravě právnické nebo podnikající fyzické osobě, která je k provedení opatření k nápravě odborně a technicky způsobilá. Účastníkem řízení o uložení opatření je jen tato osoba; odvolání proti tomuto rozhodnutí nemá odkladný účinek. K účelu úhrady plateb za provedená opatření k nápravě zřizuje kraj v rámci svého rozpočtu zvláštní účet ročně doplňovaný do výše 10 000 000 Kč. Obec s rozšířenou působností, jejíž úřad plní funkci vodoprávního úřadu, který provedení opatření k nápravě uložil, požádá příslušný kraj o úhradu platby za provedené opatření k nápravě. Příslušný kraj zašle bez zbytečného odkladu peněžní prostředky v dohodnuté výši obci s rozšířenou působností, která je zašle osobě, která opatření k nápravě provedla.
+>
+> (5) Ze zvláštního účtu kraje zřízeného podle odstavce 4 lze hradit rovněž náhradu nákladů na nápravná opatření k nápravě ekologické újmy na povrchových nebo podzemních vodách podle zákona [[o předcházení ekologické újmě a o její nápravě a o změně některých zákonů|o předcházení ekologické újmě a o její nápravě a o změně některých zákonů]]23a). Příslušný kraj zašle tyto prostředky příslušnému orgánu podle zákona [[o předcházení ekologické újmě a o její nápravě a o změně některých zákonů|o předcházení ekologické újmě a o její nápravě a o změně některých zákonů]] bez zbytečného odkladu na základě jeho žádosti.
+>
+> (6) Vlastníci majetku, na němž závadný stav vázne nebo jejichž majetku je nutno použít při odstranění závadného stavu a kteří nejsou těmi, jimž bylo opatření k nápravě uloženo, jsou povinni strpět provedení opatření k nápravě uloženého nebo nařízeného vodoprávním úřadem. Za tím účelem jsou povinni umožnit vstup, popřípadě vjezd na své pozemky a stavby a strpět omezení obvyklého užívání svých pozemků a staveb.
+>
+> (7) Pro vstup, popřípadě vjezd do staveb a zařízení ozbrojených sil České republiky, Policie České republiky, Bezpečnostní informační služby a Vězeňské služby České republiky platí zvláštní právní předpisy.24)
+>
+> (8) Jestliže se uložená opatření k nápravě dotýkají cizích pozemků nebo staveb, je třeba co nejvíce šetřit práv vlastníků dotčených pozemků a staveb; vstup, popřípadě vjezd a zamýšlená omezení obvyklého užívání pozemků nebo staveb je třeba jim předem oznámit, nehrozí-li nebezpečí z prodlení. Po dokončení opatření k nápravě jsou ti, jimž byla opatření k nápravě uložena, povinni na své náklady uvést pozemky nebo stavby do předchozího stavu, pokud se s jejich vlastníky nedohodli jinak; jsou-li opatření k nápravě prováděna na základě rozhodnutí vodoprávního úřadu podle odstavce 4, hradí tyto náklady příslušná obec, a to z prostředků státu.
+>
+> (9) Náhradu za majetkovou újmu nebo omezení vzniklá vlastníkům při provádění opatření k nápravě na jejich pozemcích nebo stavbách hradí ten, jemuž bylo opatření k nápravě uloženo. V případě uvedeném v odstavci 4 hradí tuto náhradu příslušný vodoprávní úřad. Právo na náhradu musí být uplatněno u toho, jemuž bylo opatření k nápravě uloženo, nebo u příslušného vodoprávního úřadu do 6 měsíců od jeho vzniku, jinak zaniká. Tímto ustanovením není dotčeno právo na náhradu škody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c8d9944fdeb6057b9718 -->
+
 ## Hlava IX — Ochrana před povodněmi (§§ 63–87)
 
 > Hlava IX je nejrozsáhlejší tematickou hlavou vodního zákona po hlavě II (Nakládání s vodami). Obsahuje **kompletní organizační a procesní rámec** pro ochranu před povodněmi: vymezení povodně, plánovací nástroje (povodňové plány na čtyřech územních úrovních), trojstupňovou škálu povodňové aktivity, soustavu povodňových orgánů s rozdílným režimem v období mimo povodeň a po dobu povodně, povinnosti správců povodí, správců vodních toků, vlastníků vodních děl, vlastníků pozemků a staveb v záplavovém území, a konečně režim nákladů a náhrad.
@@ -444,6 +620,58 @@ Vznikne-li vlastníkovi pozemku nebo stavby škoda, má nárok na její náhradu
 **Typicky rozhodné důkazy / podklady:** zápis v povodňové knize o příkazu komise, fotodokumentace a ocenění škody, znalecký posudek, doklady o vlastnictví pozemku/stavby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f366114ec33a5c457a9e generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 63
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Ochranou před povodněmi se rozumí činnosti a opatření k předcházení a zvládnutí povodňového rizika v ohroženém území. Zajišťuje se systematickou prevencí a operativními opatřeními.
+>
+> (2) Operativní opatření jsou zabezpečována podle povodňových plánů a při vyhlášení krizového stavu podle krizových plánů34).
+>
+> (3) K zajištění ochrany před povodněmi je každý povinen umožnit vstup, případně vjezd na své pozemky, popřípadě stavby těm, kteří řídí, koordinují a provádějí zabezpečovací a záchranné práce, přispět na příkaz povodňových orgánů osobní a věcnou pomocí k ochraně životů a majetku před povodněmi a řídit se příkazy povodňových orgánů.
+>
+> (4) Pokud při této činnosti vznikla vlastníkovi pozemku nebo stavby škoda, má nárok na její náhradu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f366114ec33a5c457a9e -->
 
 ### § 64 — Povodně, druhy a počátek a konec povodně
 
@@ -538,6 +766,62 @@ Nebezpečí povodně je předstupeň povodně samé — situace, kdy je dosažen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c133fe26b36217885a06 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 64 — Povodně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodněmi se pro účely tohoto zákona rozumí přechodné výrazné zvýšení hladiny vodních toků nebo jiných povrchových vod, při kterém voda již zaplavuje území mimo koryto vodního toku a může způsobit škody. Povodní je i stav, kdy voda může způsobit škody tím, že z určitého území nemůže dočasně přirozeným způsobem odtékat nebo její odtok je nedostatečný, případně dochází k zaplavení území při soustředěném odtoku srážkových vod. Povodeň může být způsobena přírodními jevy, zejména táním, dešťovými srážkami nebo chodem ledů (přirozená povodeň), nebo jinými vlivy, zejména poruchou vodního díla, která může vést až k jeho havárii (protržení) nebo nouzovým řešením kritické situace na vodním díle (zvláštní povodeň).
+>
+> (2) Povodeň začíná vyhlášením druhého nebo třetího stupně povodňové aktivity ([[#§ 70|§ 70]]) a končí odvoláním třetího stupně povodňové aktivity, není-li v době odvolání třetího stupně povodňové aktivity vyhlášen druhý stupeň povodňové aktivity. V tom případě končí povodeň odvoláním druhého stupně povodňové aktivity. Povodní je rovněž situace uvedená v odstavci 1, při níž nebyl vyhlášen druhý nebo třetí stupeň povodňové aktivity, ale stav nebo průtok vody v příslušném profilu nebo srážka dosáhla směrodatné úrovně pro některý z těchto stupňů povodňové aktivity podle povodňového plánu příslušného územního celku. Pochybnosti o tom, zda v určitém území a v určitém čase byla povodeň, rozhoduje, je-li splněna některá z těchto podmínek, vodoprávní úřad.
+>
+> (3) Za nebezpečí povodně se považují situace zejména při
+>
+> - a) dosažení stanoveného limitu vodního stavu nebo průtoku ve vodním toku a jeho stoupající tendenci,
+>
+> - b) déletrvajících vydatných dešťových srážkách, popřípadě prognóze nebezpečí intenzivních dešťových srážek, očekávaném náhlém tání, nebezpečném chodu ledů nebo při vzniku nebezpečných ledových zácp a nápěchů, nebo
+>
+> - c) vzniku mimořádné situace na vodním díle, kdy hrozí nebezpečí jeho poruchy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 70
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c133fe26b36217885a06 -->
+
 ### § 64a — Zvládání povodňových rizik
 
 > **§ 64a**
@@ -599,6 +883,60 @@ PpZPR jsou součástí **plánování v oblasti vod** podle § 24–26 VZ a inte
 **Typicky rozhodné důkazy / podklady:** předběžné vyhodnocení povodňových rizik, mapy nebezpečí a rizik, hydrologické scénáře (Q5/Q20/Q100/Q500), plány povodí, doklady o aktualizaci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=92e5f74058ff847089aa generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 64a — Zvládání povodňových rizik
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Zvládání povodňových rizik se soustředí na zmírnění možných nepříznivých účinků povodní na lidské zdraví, životní prostředí, kulturní dědictví a hospodářskou činnost, a pokud se to považuje za vhodné, na opatření nestavební povahy nebo na snížení pravděpodobnosti zaplavení.
+>
+> (2) Povodňovým rizikem se rozumí kombinace pravděpodobnosti výskytu povodní a jejich možných nepříznivých účinků na lidské zdraví, životní prostředí, kulturní dědictví a hospodářskou činnost.
+>
+> (3) Předběžné vyhodnocení povodňových rizik je podkladem pro vymezení oblastí s významnými povodňovými riziky. Pro tato území se zpracují nebo aktualizují mapy povodňového nebezpečí, mapy povodňových rizik a plány pro zvládání povodňových rizik.
+>
+> (4) Mapy povodňového nebezpečí vymezují území, která by mohla být zaplavena podle různých povodňových scénářů a s využitím stanovených záplavových území. Na mapách povodňových rizik se vyznačí potenciální nepříznivé následky povodní podle těchto scénářů.
+>
+> (5) Plány pro zvládání povodňových rizik jsou součástí plánování v oblasti vod a zohledňují důležitá hlediska, jako jsou náklady a přínosy, rozsah a průběh povodní, retenční schopnosti záplavových území, cíle ochrany vod podle § 23a odst. 1, hospodaření s půdou a s vodními zdroji, územní plánování, využití území, ochranu přírody, lodní dopravu a přístavní infrastrukturu. Plány pro zvládání povodňových rizik se zabývají všemi aspekty zvládání povodňových rizik, přičemž se soustřeďují na prevenci, ochranu, připravenost, včetně povodňových předpovědí a systémů včasného varování, a zohledňují charakteristiky konkrétního povodí nebo dílčího povodí. Plány pro zvládání povodňových rizik mohou zahrnovat rovněž podporu udržitelného využívání území, zlepšení schopnosti půdy zadržovat vodu a kontrolované zaplavení určitých oblastí v případě výskytu povodně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92e5f74058ff847089aa -->
 
 ### § 65 — Povodňová opatření
 
@@ -701,6 +1039,100 @@ Odst. 5 výslovně vylučuje z pojmu povodňových opatření **kapitálové vý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b37b6a2c7c7a570c756 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 65 — Povodňová opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodňová opatření jsou přípravná opatření, opatření prováděná při nebezpečí povodně, za povodně a opatření prováděná po povodni.
+>
+> (2) Přípravná opatření jsou
+>
+> - a) stanovení záplavových území,
+>
+> - b) vymezení směrodatných limitů stupňů povodňové aktivity,
+>
+> - c) povodňové plány,
+>
+> - d) povodňové prohlídky,
+>
+> - e) příprava předpovědní a hlásné povodňové služby,
+>
+> - f) organizační a technická příprava,
+>
+> - g) vytváření hmotných povodňových rezerv,
+>
+> - h) příprava účastníků povodňové ochrany.
+>
+> (3) Opatření při nebezpečí povodně a za povodně jsou
+>
+> - a) činnost předpovědní povodňové služby,
+>
+> - b) činnost hlásné povodňové služby,
+>
+> - c) varování při nebezpečí povodně,
+>
+> - d) zřízení a činnost hlídkové služby,
+>
+> - e) vyklizení záplavových území,
+>
+> - f) řízené ovlivňování odtokových poměrů,
+>
+> - g) povodňové zabezpečovací práce,
+>
+> - h) povodňové záchranné práce,
+>
+> - i) zabezpečení náhradních funkcí a služeb v území zasaženém povodní.
+>
+> (4) Opatření po povodni jsou
+>
+> - a) evidenční a dokumentační práce,
+>
+> - b) vyhodnocení povodňové situace včetně vzniklých povodňových škod,
+>
+> - c) odstranění povodňových škod a obnova území po povodni.
+>
+> (5) Povodňová opatření podle odstavců 1 až 4 nejsou výstavba, údržba a opravy staveb a ostatních zařízení sloužících k ochraně před povodněmi, jakož i investice vyvolané povodněmi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b37b6a2c7c7a570c756 -->
+
 ### § 66–69 — Záplavová území, aktivní zóna, území určená k řízeným rozlivům, území ohrožená zvláštní povodní
 
 > **§ 66**
@@ -800,6 +1232,224 @@ Pozemky nezbytné pro vzdouvání a akumulaci povrchových vod **veřejně prosp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6a760145d6f789318d8 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 66 — Záplavová území
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Záplavová území jsou administrativně určená území, která mohou být při výskytu přirozené povodně zaplavena vodou. Jejich rozsah je povinen stanovit na návrh správce vodního toku vodoprávní úřad. Vodoprávní úřad může uložit správci vodního toku povinnost zpracovat a předložit takový návrh v souladu s plány hlavních povodí a s plány oblastí povodí.
+>
+> (2) V zastavěných územích, v zastavitelných plochách podle územně plánovací dokumentace, případně podle potřeby v dalších územích, vymezí vodoprávní úřad na návrh správce vodního toku aktivní zónu záplavového území podle nebezpečnosti povodňových průtoků.
+>
+> (3) Způsob a rozsah zpracovávání návrhu a stanovování záplavových území a jejich dokumentace stanoví Ministerstvo životního prostředí vyhláškou.
+>
+> (4) Vodoprávní úřad, který záplavové území stanovil, zabezpečí zpřístupnění dokumentace a předá jednu kopii této dokumentace Ministerstvu životního prostředí.
+>
+> (5) Pokud záplavová území nejsou určena, mohou vodoprávní a stavební úřady a orgány územního plánování při své činnosti vycházet zejména z dostupných podkladů správců povodí a správců vodních toků o pravděpodobné hranici území ohroženého povodněmi.
+>
+> (6) Ministerstvo životního prostředí podle podkladů správců vodních toků zajišťuje vedení dokumentace o stanovených záplavových územích na území České republiky a zabezpečuje jejich evidenci v informačním systému veřejné správy.
+>
+> (7) Záplavová území a jejich aktivní zóny se stanovují formou opatření obecné povahy.
+>
+> (8) Při změnách záplavových území a jejich aktivních zón se odstavce 1 až 4 použijí přiměřeně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6a760145d6f789318d8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=727677af0b54baa2ae59 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 67 — Omezení v záplavových územích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) V aktivní zóně záplavových území se nesmí povolovat ani provádět stavby s výjimkou vodních děl, jimiž se upravuje vodní tok, převádějí povodňové průtoky, provádějí opatření na ochranu před povodněmi nebo která jinak souvisejí s vodním tokem nebo jimiž se zlepšují odtokové poměry, staveb pro jímání vod, odvádění odpadních vod a odvádění srážkových vod a dále nezbytných staveb dopravní a technické infrastruktury, zřizování konstrukcí chmelnic, jsou-li zřizovány v záplavovém území v katastrálních územích vymezených podle [[zákona č. 97/1996 Sb., o ochraně chmele|zákona č. 97/1996 Sb., o ochraně chmele]], ve znění pozdějších předpisů, za podmínky, že současně budou provedena taková opatření, že bude minimalizován vliv na povodňové průtoky; to neplatí pro údržbu staveb a stavební úpravy, pokud nedojde ke zhoršení odtokových poměrů.
+>
+> (2) V aktivní zóně je dále zakázáno
+>
+> - a) těžit nerosty a zeminu způsobem zhoršujícím odtok povrchových vod a provádět terénní úpravy zhoršující odtok povrchových vod,
+>
+> - b) skladovat odplavitelný materiál, látky a předměty,
+>
+> - c) zřizovat oplocení, živé ploty a jiné podobné překážky,
+>
+> - d) zřizovat tábory, kempy a jiná dočasná ubytovací zařízení; to neplatí pro zřizování táborů sestávajících pouze ze stanů, které byly před stanovením aktivní zóny záplavového území v tomto místě zřizovány a které lze v případě povodňového nebezpečí neprodleně odstranit.
+>
+> (3) Mimo aktivní zónu v záplavovém území stanoví vodoprávní úřad podle povodňového nebezpečí nebo povodňového ohrožení opatřením obecné povahy omezující podmínky. Při změně podmínek je může stejným postupem změnit nebo zrušit. Takto postupuje i v případě, není-li aktivní zóna stanovena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 97/1996 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=727677af0b54baa2ae59 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0286b2362f310abfdbca generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 68 — Území určená k řízeným rozlivům povodní
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Za území určená k řízeným rozlivům povodní se považují pozemky nezbytné pro vzdouvání, popřípadě akumulaci povrchových vod veřejně prospěšnými stavbami na ochranu před povodněmi, k nimž bylo omezeno vlastnické právo dohodou nebo postupem podle [[#§ 55a|§ 55a]].
+>
+> (2) Za škodu vzniklou řízeným rozlivem povodní na půdě, polních plodinách, lesních porostech a stavbách v území podle odstavce 1 náleží poškozenému náhrada, kterou poskytuje v penězích stát zastoupený Ministerstvem zemědělství. Výše náhrady za škodu způsobenou na půdě nebo stavbě se stanoví v závislosti na výši nákladů nezbytných na uvedení půdy nebo stavby do původního stavu, včetně nákladů na odstranění nežádoucích naplavenin, výše náhrady za škodu způsobenou na polních plodinách v závislosti na tržních cenách polních plodin v době rozlivu, včetně nákladů na likvidaci poškozených polních plodin; výše náhrady za škodu způsobenou na lesních porostech se stanoví podle lesního zákona33a). Postup při zjišťování a uplatňování náhrady škody a postup při určení její výše stanoví vláda nařízením.
+>
+> (3) Náhrada náleží rovněž za finanční újmu vzniklou pozbytím nároku na dotaci, poskytovanou na základě zákona [[o zemědělství|o zemědělství]], který poškozený pozbyl v souvislosti s řízeným rozlivem povodně.
+>
+> (4) Poškozenému, jemuž byla poskytnuta náhrada podle odstavce 2, nelze poskytnout státní pomoc z titulu rozlivu povodně podle zákona o státní pomoci při obnově území postiženého živelní nebo jinou pohromou.
+>
+> (5) Poškozenému nenáleží náhrada v případě, že nedodrží podmínky stanovené pro způsob užívání pozemků určených k rozlivu povodní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 55a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0286b2362f310abfdbca -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=25d142f946b9b4926042 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 69 — Území ohrožená zvláštními povodněmi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Území ohrožená zvláštními povodněmi jsou území, která mohou být při výskytu zvláštní povodně zaplavena vodou. Pokud pro krizové situace předpokládaný rozsah území ohrožený zvláštními povodněmi výrazně přesahuje záplavová území, vymezí se jejich rozsah v krizovém plánu. Pro jeho pořízení platí zvláštní zákon.34)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25d142f946b9b4926042 -->
+
 ### § 70 — Stupně povodňové aktivity (SPA)
 
 > **§ 70**
@@ -880,6 +1530,64 @@ Směrodatné limity (hladiny, průtoky, srážky) jsou obsahem **povodňových p
 **Typicky rozhodné důkazy / podklady:** záznamy vodních stavů/průtoků z hlásných profilů, povodňový plán se směrodatnými limity, povodňová kniha, zprávy předpovědní/hlásné služby, oznámení vlastníka vodního díla.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=857aaa280fc24e20004d generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 70 — Stupně povodňové aktivity
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Stupni povodňové aktivity se pro účely tohoto zákona rozumí míra povodňového nebezpečí vázaná na směrodatné limity, jimiž jsou zpravidla vodní stavy nebo průtoky v hlásných profilech na vodních tocích, popřípadě na mezní nebo kritické hodnoty jiného jevu uvedené v příslušném povodňovém plánu.
+>
+> (2) Rozsah operativních opatření prováděných pro ochranu před konkrétní povodní se řídí nebezpečím nebo vývojem povodňové situace, která se vyjadřuje třemi stupni povodňové aktivity, kterými jsou:
+>
+> - a) první stupeň (stav bdělosti) nastává při nebezpečí přirozené povodně a zaniká, pominou-li příčiny takového nebezpečí; tento stav nastává rovněž vydáním výstražné informace předpovědní povodňové služby; vyžaduje věnovat zvýšenou pozornost vodnímu toku nebo jinému zdroji povodňového nebezpečí, zahajuje činnost hlásná a hlídková služba; na vodních dílech nastává tento stav při dosažení mezních hodnot sledovaných jevů a skutečností z hlediska bezpečnosti díla nebo při zjištění mimořádných okolností, jež by mohly vést ke vzniku zvláštní povodně,
+>
+> - b) druhý stupeň (stav pohotovosti) se vyhlašuje, když nebezpečí přirozené povodně přerůstá v povodeň, ale nedochází k větším rozlivům a škodám mimo koryto; vyhlašuje se také při překročení mezních hodnot sledovaných jevů a skutečností na vodním díle z hlediska jeho bezpečnosti; aktivizují se povodňové orgány a další účastníci ochrany před povodněmi, uvádějí se do pohotovosti prostředky na zabezpečovací práce, provádějí se opatření ke zmírnění průběhu povodně podle povodňového plánu,
+>
+> - c) třetí stupeň (stav ohrožení) se vyhlašuje při bezprostředním nebezpečí nebo vzniku škod většího rozsahu, ohrožení životů a majetku v záplavovém území; vyhlašuje se také při dosažení kritických hodnot sledovaných jevů a skutečností na vodním díle z hlediska jeho bezpečnosti současně se zahájením nouzových opatření; provádějí se povodňové zabezpečovací práce podle povodňových plánů a podle potřeby záchranné práce nebo evakuace.
+>
+> (3) Druhý a třetí stupeň povodňové aktivity vyhlašují a odvolávají ve svém územním obvodu povodňové orgány. Podkladem je dosažení nebo předpověď dosažení směrodatného limitu hladin nebo průtoků stanovených v povodňových plánech, zpráva předpovědní nebo hlásné povodňové služby, doporučení správce vodního toku, oznámení vlastníka vodního díla, případně další skutečnosti charakterizující míru povodňového nebezpečí. O vyhlášení a odvolání povodňové aktivity je povodňový orgán povinen informovat subjekty uvedené v povodňovém plánu a vyšší povodňový orgán.
+>
+> (4) Směrodatné limity vodních stavů pro vyhlašování stupňů povodňové aktivity jsou obsažené v povodňových plánech a jsou závazné pro povodňové plány nižších stupňů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=857aaa280fc24e20004d -->
 
 ### § 71 — Povodňové plány
 
@@ -991,6 +1699,78 @@ Plán nižší úrovně musí být v souladu s plánem vyšší úrovně. Soulad
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e8678d00f25de9ece627 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 71 — Povodňové plány
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodňovými plány se pro účely tohoto zákona rozumějí dokumenty, které obsahují způsob zajištění včasných a spolehlivých informací o vývoji povodně, možnosti ovlivnění odtokového režimu, organizaci a přípravu zabezpečovacích prací; dále obsahují způsob zajištění včasné aktivizace povodňových orgánů, zabezpečení hlásné a hlídkové služby a ochrany objektů, přípravy a organizace záchranných prací a zajištění povodní narušených základních funkcí v objektech a v území a stanovené směrodatné limity stupňů povodňové aktivity.
+>
+> (2) Obsah povodňových plánů se dělí na
+>
+> - a) věcnou část, která zahrnuje údaje potřebné pro zajištění ochrany před povodněmi určitého objektu, obce, povodí nebo jiného územního celku, směrodatné limity pro vyhlašování stupňů povodňové aktivity,
+>
+> - b) organizační část, která obsahuje jmenné seznamy, adresy a způsob spojení účastníků ochrany před povodněmi, úkoly pro jednotlivé účastníky ochrany před povodněmi včetně organizace hlásné a hlídkové služby,
+>
+> - c) grafickou část, která obsahuje zpravidla mapy nebo plány, na kterých jsou zakresleny zejména záplavová území, evakuační trasy a místa soustředění, hlásné profily, informační místa.
+>
+> (3) Povodňovými plány územních celků jsou
+>
+> - a) povodňové plány obcí, které zpracovávají orgány obcí, v jejichž územních obvodech může dojít k povodni,
+>
+> - b) povodňové plány správních obvodů obcí s rozšířenou působností, které zpracovávají obce s rozšířenou působností,
+>
+> - c) povodňové plány správních obvodů krajů, které zpracovávají příslušné orgány krajů v přenesené působnosti ve spolupráci se správci povodí,
+>
+> - d) Povodňový plán České republiky, který zpracovává Ministerstvo životního prostředí.
+>
+> (4) Pro stavby ohrožené povodněmi, které se nacházejí v záplavovém území nebo mohou zhoršit průběh povodně, zpracovávají povodňové plány pro svou potřebu a pro součinnost s povodňovým orgánem obce jejich vlastníci. V pochybnostech o rozsahu této povinnosti nebo o tom, které stavby mohou zhoršit průběh povodně, rozhodne vodoprávní úřad.
+>
+> (5) Vodoprávní úřad může uložit povinnost zpracovat povodňový plán vlastníkům pozemků, které se nacházejí v záplavových územích, je-li to třeba s ohledem na způsob jejich užívání.
+>
+> (6) U povodňových plánů územních celků (odstavec 3) zpracovatelé každoročně prověřují jejich aktuálnost zpravidla před obdobím jarního tání a toto prověření dokladují. Ostatní povodňové plány (odstavec 4) zpracovatelé přezkoumávají při podstatných změnách podmínek, za nichž byly zpracovány. Pokud z přezkoumání vyplyne potřeba úpravy nebo doplnění povodňového plánu, učiní tak zpracovatelé neprodleně.
+>
+> (7) Věcnou a grafickou část povodňového plánu územních celků a jeho změny zpracovatelé předkládají nadřízenému povodňovému orgánu k potvrzení souladu s povodňovým plánem vyšší úrovně. U povodňových plánů pozemků a staveb potvrzuje soulad povodňový orgán obce. Jde-li o stavbu přesahující svým rozsahem nebo vlivem na okolí významně území obce, potvrzuje soulad nadřízený povodňový orgán a nižší povodňové orgány o tom informuje. Potvrzením souladu se stává věcná a grafická část povodňového plánu závaznou. Organizační část povodňového plánu zpracovatelé průběžně upravují a poskytují dotčeným povodňovým orgánům a účastníkům řízení ochrany před povodněmi k využití, pokud jim není přístupná na portálu veřejné správy v elektronické podobě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8678d00f25de9ece627 -->
+
 ### § 72–76 — Povodňové prohlídky, předpovědní a hlásná služba, záchranné a zabezpečovací práce, dokumentace
 
 > **§ 72**
@@ -1084,6 +1864,278 @@ Zprávy předávají povodňové orgány a účastníci ochrany před povodněmi
 **Typicky rozhodné důkazy / podklady:** zápis z povodňové prohlídky, fotodokumentace, výzva a rozhodnutí s doručenkami, povodňová kniha, zpráva o povodni, vyjádření správce toku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba140a0f8adf2053eec8 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 72 — Povodňové prohlídky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodňovými prohlídkami se zjišťuje, zda na vodních tocích, vodních dílech a v záplavových územích, popřípadě na objektech nebo zařízeních ležících v těchto územích nejsou závady, které by mohly zvýšit nebezpečí povodně nebo její škodlivé následky.
+>
+> (2) Povodňové prohlídky organizují a provádějí povodňové orgány podle povodňových plánů, a to nejméně jednou ročně.
+>
+> (3) Povodňové orgány mohou na základě povodňové prohlídky vyzvat vlastníky pozemků, staveb a zařízení v záplavovém území k odstranění předmětů a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku. Pokud tito vlastníci výzvy ve stanovené lhůtě neuposlechnou, uloží takovou povinnost rozhodnutím.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba140a0f8adf2053eec8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7d78cc1ced279214c024 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 73 — Předpovědní a hlásná povodňová služba
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Předpovědní povodňová služba informuje povodňové orgány, popřípadě další účastníky ochrany před povodněmi, o nebezpečí vzniku povodně, o jejím vzniku a o dalším nebezpečném vývoji, o hydrometeorologických prvcích charakterizujících vznik a vývoj povodně, zejména o srážkách, vodních stavech a průtocích ve vybraných profilech. Tuto službu zabezpečuje Český hydrometeorologický ústav ve spolupráci se správcem povodí.
+>
+> (2) Hlásná povodňová služba zabezpečuje informace povodňovým orgánům pro varování obyvatelstva v místě očekávané povodně a v místech ležících níže na vodním toku, informuje povodňové orgány a účastníky ochrany před povodněmi o vývoji povodňové situace a předává zprávy a hlášení potřebná k jejímu vyhodnocování a k řízení opatření na ochranu před povodněmi. Hlásnou povodňovou službu organizují povodňové orgány obcí a povodňové orgány pro správní obvody obcí s rozšířenou působností a podílejí se na ní ostatní účastníci ochrany před povodněmi. K zabezpečení hlásné povodňové služby organizují povodňové orgány obcí v případě potřeby hlídkovou službu.
+>
+> (3) Vlastníci vodních děl vzdouvajících vodu oznamují nebezpečí zvláštní povodně příslušným povodňovým orgánům, Hasičskému záchrannému sboru České republiky a v případě nebezpečí z prodlení varují bezprostředně ohrožené fyzické a právnické osoby.
+>
+> (4) Pro předávání informací předpovědní a hlásné povodňové služby se využívá operačních a informačních středisek Hasičského záchranného sboru České republiky a složek integrovaného záchranného systému35).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7d78cc1ced279214c024 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=455649292deae8e5a47f generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 74 — Povodňové záchranné práce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodňovými záchrannými pracemi jsou technická a organizační opatření prováděná za povodně v bezprostředně ohrožených nebo již zaplavených územích k záchraně životů a majetku, zejména ochrana a evakuace obyvatelstva z těchto území, péče o ně po nezbytně nutnou dobu, zachraňování majetku a jeho přemístění mimo ohrožené území.
+>
+> (2) Povodňové záchranné práce v případech, kdy jsou ohroženy lidské životy, nebo hospodářské zájmy, jimiž jsou doprava, zásobování, spoje a zdravotnictví, zajišťují povodňové orgány ve spolupráci se složkami integrovaného záchranného systému.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=455649292deae8e5a47f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b42b47feb1943fb71676 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 75 — Povodňové zabezpečovací práce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Povodňovými zabezpečovacími pracemi jsou technická opatření prováděná při nebezpečí povodně a za povodně ke zmírnění průběhu povodně a jejích škodlivých následků.
+>
+> (2) Povodňové zabezpečovací práce jsou zejména
+>
+> - a) odstraňování překážek ve vodním toku a v profilu objektů (propustky, mosty) znemožňujících plynulý odtok vody,
+>
+> - b) rozrušování ledových nápěchů a zácp ve vodním toku,
+>
+> - c) ochrana koryta a břehů proti narušování povodňovým průtokem a zajišťování břehových nátrží,
+>
+> - d) opatření proti přelití nebo protržení ochranných hrází,
+>
+> - e) opatření proti přelití nebo protržení hrází vodních děl zadržujících vodu,
+>
+> - f) provizorní uzavírání protržených hrází,
+>
+> - g) instalace protipovodňových zábran,
+>
+> - h) opatření proti zpětnému vzdutí vody, zejména do kanalizací,
+>
+> - i) opatření k omezení znečištění vody,
+>
+> - j) opatření zajišťující stabilizaci území před sesuvy.
+>
+> (3) Povodňové zabezpečovací práce zajišťují správci vodních toků na vodních tocích a vlastníci dotčených objektů, případně další subjekty podle povodňových plánů nebo na příkaz povodňových orgánů. Zabezpečovací práce, které mohou ovlivnit odtokové podmínky a průběh povodně, musí být koordinovány ve spolupráci s příslušným správcem povodí na celém vodním toku nebo v celém povodí. Zabezpečovací práce prováděné na vodních dílech zařazených do I. nebo II. kategorie se projednávají s osobou pověřenou prováděním technickobezpečnostního dohledu, pokud nehrozí nebezpečí z prodlení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b42b47feb1943fb71676 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=80415e79d6009f529f5b generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 76 — Dokumentace a vyhodnocení povodní
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Účelem dokumentace je zabezpečení průkazných a objektivních záznamů o průběhu povodně, o provedených opatřeních k ochraně před povodněmi, o příčině vzniku a velikosti škod a o jiných okolnostech souvisejících s povodní. K tomu zejména slouží záznamy v povodňové knize, průběžný záznam vodních stavů a orientačních hodnot rychlostí a průtoků, průběžný záznam údajů o provozu vodních děl ovlivňujících průběh povodně, označování nejvýše dosažené hladiny vody, zaměřování a zakreslování záplavy, monitorování kvality vody a možných zdrojů znečištění, fotografické snímky a filmové záznamy, účelový terénní průzkum a šetření.
+>
+> (2) Povodňové orgány obcí a obcí s rozšířenou působností a účastníci ochrany před povodněmi, jimž je to zákonem uloženo, zpracovávají zprávu o povodni, při které byla vyhlášena povodňová aktivita, došlo k povodňovým škodám nebo byly prováděny povodňové zabezpečovací a záchranné práce. Povodňové orgány provádějí vyhodnocení povodně, které obsahuje rozbor příčin a průběhu povodně, popis a posouzení účinnosti provedených opatření, věcný rozsah a odborný odhad výše povodňových škod a návrh opatření na odstranění následků povodně. Zprávu zpracují do 3 měsíců po ukončení povodně, v případě potřeby rozsáhlejších dokumentačních prací se provede doplňkové vyhodnocení do šesti měsíců po ukončení povodně.
+>
+> (3) Evidenci vyhodnocených povodní zajišťují správci povodí a z hlediska hydrologického Český hydrometeorologický ústav.
+>
+> (4) Zprávy o povodni jsou předávány k využití vyššímu povodňovému orgánu a k evidenci správci povodí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=80415e79d6009f529f5b -->
 
 ### §§ 77–81 — Povodňové orgány
 
@@ -1188,6 +2240,306 @@ Pokud dojde k **vyhlášení krizového stavu** (stav nebezpečí, nouzový stav
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=934e5c28e82eb8624f70 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 77
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Řízení ochrany před povodněmi zabezpečují povodňové orgány. Řízení ochrany před povodněmi zahrnuje přípravu na povodňové situace, řízení, organizaci a kontrolu všech příslušných činností v průběhu povodně a v období následujícím bezprostředně po povodni včetně řízení, organizace a kontroly činnosti ostatních účastníků ochrany před povodněmi. Povodňové orgány se při své činnosti řídí povodňovými plány.
+>
+> (2) V období mimo povodeň jsou povodňovými orgány
+>
+> - a) orgány obcí a v hlavním městě Praze orgány městských částí v rozsahu stanoveném Statutem hlavního města Prahy,
+>
+> - b) obecní úřady obcí s rozšířenou působností a v hlavním městě Praze úřady městských částí v rozsahu stanoveném Statutem hlavního města Prahy,
+>
+> - c) krajské úřady,
+>
+> - d) Ministerstvo životního prostředí; zabezpečení přípravy záchranných prací přísluší Ministerstvu vnitra.34)
+>
+> (3) Po dobu povodně jsou povodňovými orgány
+>
+> - a) povodňové komise obcí a v hlavním městě Praze povodňové komise městských částí v rozsahu stanoveném Statutem hlavního města Prahy,
+>
+> - b) povodňové komise obcí s rozšířenou působností a v hlavním městě Praze povodňové komise městských částí v rozsahu stanoveném Statutem hlavního města Prahy,
+>
+> - c) povodňové komise krajů,
+>
+> - d) Ústřední povodňová komise.
+>
+> (4) Povodňové orgány mohou v době povodně činit opatření a vydávat operativní příkazy k zabezpečení ochrany před povodněmi, v odůvodněných případech i nad rámec platných povodňových plánů s tím, že v takovém případě musí neprodleně uvědomit dotčené osoby. Všechna přijatá opatření a vydané příkazy se zapisují do povodňové knihy a musí být přístupné k nahlédnutí osobám vykonávajícím působnost místně příslušných povodňových orgánů, nebo způsobem umožňujícím dálkový přístup. Na vydávání těchto příkazů se nevztahuje [[správní řád|správní řád]]. Mimořádné pravomoci povodňových orgánů začínají vyhlášením druhého nebo třetího stupně povodňové aktivity a končí odvoláním těchto stupňů.
+>
+> (5) Povodňové orgány nebo jiné osoby na jejich příkaz jsou při povodni za účelem provádění záchranných a zabezpečovacích prací oprávněni vstupovat v nezbytném rozsahu na cizí pozemky a do objektů.
+>
+> (6) Orgány státní správy a jiné orgány jsou povinny povodňovým orgánům pomáhat na jejich výzvu při zajišťování řízení ochrany před povodněmi.
+>
+> (7) Povodňový orgán nižšího stupně může požádat povodňový orgán vyššího stupně o převzetí řízení ochrany před povodněmi v případě, že vlastními silami není schopen tuto ochranu zajistit.
+>
+> (8) Povodňový orgán, který převezme řízení ochrany před povodněmi na základě žádosti povodňového orgánu nižšího stupně nebo z vlastního rozhodnutí, je povinen oznámit příslušným nižším povodňovým orgánům datum a čas převzetí, rozsah spolupráce, ukončení řízení ochrany před povodněmi a provést o tom zápis v povodňové knize. Nižší povodňové orgány zůstávají dále činné, provádějí ve své územní působnosti opatření podle svých povodňových plánů v koordinaci s vyšším povodňovým orgánem nebo podle jeho pokynů.
+>
+> (9) Pokud dojde k vyhlášení krizového stavu podle jiného právního předpisu34), zasedá příslušný krizový štáb a příslušná povodňová komise společně. Pravomoci povodňových orgánů nejsou vyhlášením krizového stavu dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=934e5c28e82eb8624f70 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d739584b8dec03e25b92 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 79 — Povodňové orgány obcí s rozšířenou působností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Starosta obce s rozšířenou působností zřizuje povodňovou komisi obce s rozšířenou působností a je jejím předsedou. Další členy komise jmenuje ze zaměstnanců obce s rozšířenou působností zařazených do obecního úřadu a zástupců orgánů a právnických osob, které jsou způsobilé k provádění opatření, popřípadě pomoci při ochraně před povodněmi. V případě souběžné činnosti povodňové komise obce a obce s rozšířenou působností pověřuje starosta řízením povodňové komise obce jiného člena komise. Povodňový orgán obce s rozšířenou působností je podřízen povodňovému orgánu kraje.
+>
+> (2) Povodňové orgány obcí s rozšířenou působností ve svých územních obvodech v rámci zabezpečení úkolů při ochraně před povodněmi
+>
+> - a) potvrzují soulad věcné a grafické části jim předložených povodňových plánů obcí s povodňovým plánem správního obvodu obce s rozšířenou působností,
+>
+> - b) zpracovávají povodňový plán správního obvodu obce s rozšířenou působností a předkládají jej správci povodí k odbornému stanovisku,
+>
+> - c) organizují provádění povodňových prohlídek,
+>
+> - d) prověřují připravenost účastníků ochrany podle povodňových plánů,
+>
+> - e) organizují odborná školení a výcvik pracovníků povodňových orgánů obcí a účastníků ochrany před povodněmi,
+>
+> - f) ukládají podle potřeby vlastníkům vodních děl úpravy manipulačních řádů z hlediska povodňové ochrany,
+>
+> - g) organizují a řídí hlásnou povodňovou službu na území v správním obvodu obce s rozšířenou působností, informují o nebezpečí a průběhu povodně povodňové orgány sousedních obcí s rozšířenou působností, příslušné správce povodí a Český hydrometeorologický ústav a Hasičský záchranný sbor České republiky,
+>
+> - h) organizují, řídí, koordinují a ukládají opatření na ochranu před povodněmi podle povodňových plánů, řídí a koordinují opatření prováděná povodňovými orgány obcí a v případě potřeby vyžadují od orgánů, právnických a fyzických osob osobní a věcnou pomoc,
+>
+> - i) vyhlašují a odvolávají stupně povodňové aktivity v rámci územní působnosti,
+>
+> - j) využívají pro řízení záchranných prací, pro jejich koordinaci se složkami integrovaného záchranného systému a pro spojení s místy záchranných prací operační středisko Hasičského záchranného sboru České republiky,
+>
+> - k) v nutných případech, pokud není svolána povodňová komise kraje, nařizují po dohodě se správou povodí mimořádné manipulace na vodních dílech nad rámec schválených manipulačních řádů s možným dosahem v rámci správního obvodu obce s rozšířenou působností,
+>
+> - l) spolupracují v době povodně s povodňovými orgány obcí při zajišťování hygienické a zdravotnické péče, organizují náhradní zásobování, dopravu a další povodní narušené funkce v území,
+>
+> - m) soustřeďují zprávy o rozsahu a výši povodňových škod, posuzují účelnost provedených opatření a zpracovávají souhrnnou hodnotící zprávu o povodni,
+>
+> - n) vedou záznamy v povodňové knize.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d739584b8dec03e25b92 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=85a66b8e12053277a866 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 80 — Povodňové orgány krajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Hejtman kraje zřizuje povodňovou komisi kraje a je jejím předsedou. Další členy komise jmenuje její předseda z řad zaměstnanců kraje zařazených do krajského úřadu, příslušných správců povodí a zástupců orgánů a právnických osob, které jsou způsobilé k provádění opatření, popřípadě pomoci při ochraně před povodněmi. Povodňový orgán kraje je podřízen ústřednímu povodňovému orgánu.
+>
+> (2) Povodňové orgány krajů ve svých územních obvodech v rámci zabezpečení úkolů při ochraně před povodněmi
+>
+> - a) potvrzují soulad věcné a grafické části jim předložených povodňových plánů správních obvodů obcí s rozšířenou působností s povodňovým plánem správního obvodu kraje,
+>
+> - b) zpracovávají povodňový plán správního obvodu kraje podle § 71 odst. 3 písm. c) a předkládají jej ústřednímu povodňovému orgánu,
+>
+> - c) prověřují připravenost účastníků ochrany podle povodňových plánů,
+>
+> - d) ukládají podle potřeby vlastníkům vodních děl úpravy manipulačních řádů z hlediska povodňové ochrany,
+>
+> - e) organizují odborná školení a výcvik členů povodňových orgánů obcí s rozšířenou působností a účastníků ochrany před povodněmi,
+>
+> - f) účastní se hlásné povodňové služby na území kraje, informují o nebezpečí a průběhu povodně povodňové orgány obcí s rozšířenou působností, Český hydrometeorologický ústav a Ministerstvo životního prostředí,
+>
+> - g) organizují, řídí a koordinují opatření na ochranu před povodněmi podle povodňových plánů, řídí a koordinují opatření prováděná povodňovými orgány obcí s rozšířenou působností,
+>
+> - h) vyhlašují a odvolávají stupně povodňové aktivity v rámci územní působnosti,
+>
+> - i) řídí ve svém správním obvodu ovlivňování odtokových poměrů manipulacemi na vodních dílech v rámci manipulačních řádů; nařizují mimořádné manipulace na těchto vodních dílech nad rámec schváleného manipulačního řádu po projednání s dotčenými povodňovými orgány obcí s rozšířenou působností ve svém správním obvodu, s příslušnými správci povodí a s povodňovými orgány krajů, jejichž správní obvody mohou být touto mimořádnou manipulací ovlivněny,
+>
+> - j) posuzují vliv zabezpečovacích prací na vodních tocích a vodních dílech na odtokový režim po projednání se správci vodních toků a vodních děl, které jimi mohou být dotčeny, a koordinují jejich provádění,
+>
+> - k) zpracovávají souhrnnou hodnotící zprávu o povodni včetně analýzy rozsahu a výše povodňových škod a účelnosti provedených opatření,
+>
+> - l) vedou záznamy v povodňové knize,
+>
+> - m) využívají pro řízení záchranných prací, pro jejich koordinaci se složkami integrovaného záchranného systému a pro spojení s místy záchranných prací příslušné operační a informační středisko Hasičského záchranného sboru České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85a66b8e12053277a866 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a15ead86d69194c9659f generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 81 — Ústřední povodňový orgán
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo životního prostředí jako ústřední povodňový orgán v rámci plnění úkolů při ochraně před povodněmi
+>
+> - a) řídí ochranu před povodněmi a výkon dozoru nad ní s výjimkou řízení povodňových záchranných prací, které přísluší Ministerstvu vnitra,
+>
+> - b) metodicky řídí přípravu opatření na ochranu před povodněmi, zejména zpracování, předkládání a schvalování povodňových plánů, organizaci předpovědní a hlásné povodňové služby,
+>
+> - c) zpracovává po projednání s dotčenými orgány veřejné správy povodňový plán České republiky a předkládá jej ke schválení Ústřední povodňové komisi,
+>
+> - d) potvrzuje soulad povodňových plánů správních obvodů krajů s povodňovým plánem České republiky,
+>
+> - e) účastní se hlásné povodňové služby, připravuje odborné podklady pro případné převzetí řízení ochrany před povodněmi Ústřední povodňovou komisí, poskytuje informace sdělovacím prostředkům,
+>
+> - f) zajišťuje průzkumné a dokumentační práce většího rozsahu (letecká pozorování, snímkování a podobně),
+>
+> - g) účastní se odborné přípravy pracovníků povodňových orgánů.
+>
+> (2) Ústřední povodňovou komisi zřizuje vláda, která též schvaluje její statut. Předsedou Ústřední povodňové komise je ministr životního prostředí a místopředsedou ministr vnitra.
+>
+> (3) Ústřední povodňová komise řídí, kontroluje, koordinuje a v případě potřeby ukládá v celém rozsahu řízení ochrany před povodněmi v době povodně ohrožující rozsáhlá území, pokud povodňové komise krajů vlastními silami a prostředky nestačí činit potřebná opatření. V rámci plnění úkolů při ochraně před povodněmi
+>
+> - a) informuje o průběhu a důsledcích povodní vládu,
+>
+> - b) nařizuje po projednání s příslušnými povodňovými orgány krajů a příslušnými správci povodí mimořádné manipulace na vodních dílech nad rámec schváleného manipulačního řádu s možným dosahem přesahujícím rámec oblastí povodí podle § 25 odst. 2,
+>
+> - c) koordinuje a kontroluje činnost povodňových komisí krajů,
+>
+> - d) vede záznamy v povodňové knize.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a15ead86d69194c9659f -->
+
 ### § 78 — Povodňové orgány obcí
 
 > **§ 78**
@@ -1286,6 +2638,82 @@ V malých obcích plní tyto úkoly typicky 1–3 osoby (starosta + místostaros
 **Typicky rozhodné důkazy / podklady:** doklad o (ne)zřízení komise a jmenování členů, usnesení obecní rady, povodňová kniha, dokumentace evakuace, povodňový plán obce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=02691ea0955c1e19c115 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 78 — Povodňové orgány obcí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Obecní rada může k plnění úkolů při ochraně před povodněmi, je-li v jejich územních obvodech možnost povodní, zřídit povodňovou komisi, jinak tuto činnost zajišťuje obecní rada. Předsedou povodňové komise obce je starosta obce. Další členy komise jmenuje z členů obecního zastupitelstva a z fyzických a právnických osob, které jsou způsobilé k provádění opatření, popřípadě pomoci při ochraně před povodněmi.
+>
+> (2) Povodňové orgány obcí jsou podřízeny povodňovému orgánu obce s rozšířenou působností.
+>
+> (3) Povodňové orgány obcí ve svých územních obvodech v rámci zabezpečení úkolů při ochraně před povodněmi
+>
+> - a) potvrzují soulad věcné a grafické části povodňových plánů vlastníků (uživatelů) pozemků a staveb, pokud se nacházejí v záplavovém území nebo zhoršují průběh povodně (§ 71 odst. 4), s povodňovým plánem obce,
+>
+> - b) zpracovávají povodňový plán obce a předkládají jej k odbornému stanovisku správci povodí, v případě drobných vodních toků správci těchto vodních toků,
+>
+> - c) provádějí povodňové prohlídky,
+>
+> - d) zajišťují pracovní síly a věcné prostředky na provádění záchranných prací a zabezpečení náhradních funkcí v území,
+>
+> - e) prověřují připravenost účastníků ochrany podle povodňových plánů,
+>
+> - f) organizují a zabezpečují hlásnou povodňovou službu a hlídkovou službu, zabezpečují varování právnických a fyzických osob v územním obvodu obce s využitím jednotného systému varování,
+>
+> - g) informují o nebezpečí a průběhu povodně povodňové orgány sousedních obcí a povodňový orgán obce s rozšířenou působností,
+>
+> - h) vyhlašují a odvolávají stupně povodňové aktivity v rámci územní působnosti,
+>
+> - i) organizují, řídí, koordinují a ukládají opatření na ochranu před povodněmi podle povodňových plánů a v případě potřeby vyžadují od orgánů, právnických a fyzických osob osobní a věcnou pomoc,
+>
+> - j) zabezpečují evakuaci a návrat, dočasné ubytování a stravování evakuovaných občanů, zajišťují další záchranné práce,
+>
+> - k) zajišťují v době povodně nutnou hygienickou a zdravotnickou péči, organizují náhradní zásobování, dopravu a další povodní narušené funkce v území,
+>
+> - l) provádějí prohlídky po povodni, zjišťují rozsah a výši povodňových škod, zjišťují účelnost provedených opatření a podávají zprávu o povodni povodňovému orgánu obce s rozšířenou působností,
+>
+> - m) vedou záznamy v povodňové knize.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02691ea0955c1e19c115 -->
 
 ### § 79–81 — Povodňové orgány ORP, kraje, Ústřední komise
 
@@ -1438,6 +2866,300 @@ V této kategorii je nutné zdůraznit povinnost **mít zpracovaný povodňový 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a8904ad3b76bdf8a43ca generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 82 — Správci povodí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Správci povodí v rámci plnění úkolů při ochraně před povodněmi kromě úkolů správce vodních toků
+>
+> - a) zpracovávají odborná stanoviska k povodňovým plánům správních obvodů obcí s rozšířenou působností,
+>
+> - b) spolupracují při zpracování povodňových plánů správních obvodů krajů a povodňového plánu České republiky,
+>
+> - c) spolupracují s povodňovými orgány obcí s rozšířenou působností při provádění povodňových prohlídek,
+>
+> - d) dávají podněty povodňovým orgánům k uložení potřebných opatření v záplavových územích, popřípadě jiných opatření k ochraně před povodněmi,
+>
+> - e) účastní se hlásné povodňové služby, zejména sledují a vyhodnocují hydrologickou situaci v povodí a podávají informace povodňovým orgánům, spolupracují s Českým hydrometeorologickým ústavem při provádění předpovědní povodňové služby,
+>
+> - f) spolupracují s vlastníky vodních děl při oznamování nebezpečí zvláštní povodně,
+>
+> - g) navrhují povodňovým orgánům vyhlášení nebo odvolání stupňů povodňové aktivity,
+>
+> - h) poskytují odbornou, technickou a organizační podporu činnosti povodňovým komisím krajů,
+>
+> - i) zabezpečují dokumentování průběhu povodně v povodí,
+>
+> - j) po povodni vyžadují zprávy od povodňových orgánů obcí s rozšířenou působností a správců vodních toků, zpracovávají souhrnnou zprávu za povodí a předkládají ji povodňovým orgánům krajů a Ministerstvu životního prostředí,
+>
+> - k) spolupracují s povodňovými orgány obcí s rozšířenou působností a krajů při školení a výcviku pracovníků,
+>
+> - l) zpracovávají návrhy na organizační a technická zlepšení ochrany před povodněmi a uplatňují je u povodňových orgánů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a8904ad3b76bdf8a43ca -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=aaa06bafc64037491f23 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 83 — Správci vodních toků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Správci vodních toků v rámci plnění úkolů při ochraně před povodněmi
+>
+> - a) zpracovávají odborná stanoviska k povodňovým plánům obcí,
+>
+> - b) provádějí ve spolupráci s povodňovými orgány obcí s rozšířenou působností povodňové prohlídky na vodních tocích,
+>
+> - c) navrhují příslušným orgánům, aby uložily vlastníkům vodních děl nebo jiných staveb a pozemků na vodních tocích a v záplavovém území povinnost provést potřebná opatření na ochranu před povodněmi,
+>
+> - d) zajišťují pracovní síly a věcné prostředky na provádění nejnutnějších zabezpečovacích prací na vodních tocích,
+>
+> - e) v době nebezpečí povodně zajišťují dosažitelnost svých pracovníků a dostupnost věcných prostředků a prověřují jejich připravenost podle povodňových plánů,
+>
+> - f) sledují na vodních tocích všechny jevy rozhodné pro vznik a průběh povodně, zejména postup a rozsah zamrzání, tvorbu nebezpečných ledových zácp a nápěchů, postup tání a chod ledů, vodní stavy a průtoky, popřípadě nahromadění plovoucích předmětů,
+>
+> - g) účastní se hlásné povodňové služby, informují o nebezpečí a průběhu povodně povodňové orgány obcí s rozšířenou působností, příslušné správce povodí, pracoviště Českého hydrometeorologického ústavu a Hasičský záchranný sbor České republiky,
+>
+> - h) poskytují odbornou pomoc obecním povodňovým komisím a povodňovým komisím obcí s rozšířenou působností,
+>
+> - i) navrhují povodňovým orgánům vyhlášení nebo odvolání stupňů povodňové aktivity,
+>
+> - j) provádějí zabezpečovací práce na vodních tocích a činí další opatření podle povodňových plánů,
+>
+> - k) zabezpečují dokumentování průběhu povodně na vodních tocích,
+>
+> - l) po povodni provádějí ve spolupráci s orgány ochrany přírody a vodoprávními úřady prohlídky vodního toku, zjišťují rozsah a výši povodňových škod a sepisují o nich protokol; dále posuzují účelnost provedených opatření a zpracovávají zprávu o povodni a předávají ji povodňovému orgánu obce s rozšířenou působností, příslušnému správci povodí a pracovišti Českého hydrometeorologického ústavu,
+>
+> - m) odstraňují povodňové škody na korytech vodních toků, zejména zabezpečují kritická místa pro případ další povodně, obnovují průtočný profil koryta vodního toku; na tyto činnosti se nevztahují zvláštní právní předpisy;34a) zahájení těchto činností oznámí správce vodního toku 10 pracovních dní předem příslušnému orgánu ochrany přírody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaa06bafc64037491f23 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=031394bd056a63e11bfa generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 84 — Vlastníci vodních děl
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Vlastníci vodních děl, která mohou ovlivnit průběh přirozené povodně, v rámci zabezpečení úkolů při ochraně před povodněmi
+>
+> - a) provádějí ve spolupráci s povodňovými orgány obcí s rozšířenou působností a krajů povodňové prohlídky vodních děl, zejména prověřují stav objektů a jejich připravenost z hlediska ochrany před povodněmi a odstraňují zjištěné závady,
+>
+> - b) zajišťují pracovní síly a věcné prostředky na provádění zabezpečovacích prací na vodních dílech,
+>
+> - c) v době nebezpečí povodně zajišťují dosažitelnost svých zaměstnanců a dostupnost věcných prostředků a prověřují jejich připravenost,
+>
+> - d) sledují na vodních dílech všechny jevy rozhodné pro bezpečné převedení povodně, zejména funkci přelivných objektů, postup a rozsah zamrzání, tvorbu nebezpečných ledových zácp a nápěchů, postup tání a chod ledů, stav hladiny vody, popřípadě nahromadění plovoucích předmětů,
+>
+> - e) účastní se hlásné povodňové služby, informují o nebezpečí a průběhu povodně povodňový orgán obce s rozšířenou působností, správce vodního toku, příslušného správce povodí, pracoviště Českého hydrometeorologického ústavu a Hasičský záchranný sbor České republiky,
+>
+> - f) manipulují na vodních dílech v mezích schváleného manipulačního řádu tak, aby se snížilo nebezpečí povodňových škod; přitom dbají pokynů vodohospodářského dispečinku příslušného správce povodí,
+>
+> - g) k mimořádným manipulacím na vodních dílech nad rámec schválených manipulačních řádů si vyžadují souhlas povodňového orgánu obce s rozšířenou působností nebo kraje podle možného dosahu vlivu manipulace,
+>
+> - h) provádějí zabezpečovací práce na vodních dílech včetně oblasti vzdutí,
+>
+> - i) zabezpečují dokumentování průběhu povodně na vodních dílech,
+>
+> - j) po povodni provádějí prohlídku vodních děl, zjišťují rozsah a výši povodňových škod, posuzují účelnost provedených opatření a poskytují povodňovému orgánu obce s rozšířenou působností, správci vodního toku a příslušnému správci povodí podklady pro zprávu o povodni,
+>
+> - k) odstraňují povodňové škody na vodních dílech, zejména je zabezpečují pro případ další povodně.
+>
+> (2) Vlastníci vodních děl I. až III. kategorie ([[#§ 61|§ 61]]), kterým byla uložena povinnost zajistit provádění technickobezpečnostního dohledu dále
+>
+> - a) poskytnou příslušným povodňovým orgánům, orgánům krizového řízení34) a orgánům integrovaného záchranného systému35) údaje o parametrech možné zvláštní povodně (zejména charakteristiky povodňových vln a rozsah ohroženého území) a o provádění technickobezpečnostního dohledu (program) v období povodňové aktivity nebo krizových stavů; vodoprávní úřad může stanovit lhůtu pro splnění této povinnosti,
+>
+> - b) oznamují neprodleně příslušným povodňovým orgánům, správcům vodních toků a Hasičskému záchrannému sboru České republiky skutečnosti rozhodné pro vyhlášení stavů pohotovosti a ohrožení při nebezpečí vzniku zvláštních povodní, pokud možno s předpovědí dalšího vývoje,
+>
+> - c) při bezprostředním ohrožení bezpečnosti vodních děl a vývoji směřujícím k narušení jejich funkce a vzniku zvláštní povodně varují povodňové orgány níže po toku podle povodňových plánů územních celků, Hasičský záchranný sbor České republiky a v případě nebezpečí z prodlení i bezprostředně ohrožené subjekty.
+>
+> (3) Na rozestavěných vodních dílech plní úkoly vlastníka vodního díla (odstavce 1 a [[#§ 2|2]]) stavebník.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 61, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=031394bd056a63e11bfa -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f5cb332666919c99dd7 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 85 — Vlastníci pozemků a staveb, které se nacházejí v záplavovém území nebo zhoršují průběh povodně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Vlastníci pozemků a staveb, které se nacházejí v záplavovém území nebo zhoršují průběh povodně, zajišťují, aby nebyly zhoršovány odtokové podmínky a průběh povodně, při tom
+>
+> - a) zpracovávají povodňové plány, mají-li takovou povinnost podle § 71 odst. 4 nebo jim byla uložena vodoprávním úřadem podle § 71 odst. 5,
+>
+> - b) provádějí ve spolupráci s povodňovými orgány povodňové prohlídky, zejména prověřují stav objektů v záplavovém území z hlediska možného ovlivnění odtokových podmínek za povodně a možného odplavení staveb, jejich částí a movitých věcí,
+>
+> - c) na příkaz povodňového orgánu odstraňují své předměty a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku,
+>
+> - d) zajišťují pracovní síly a věcné prostředky k zabezpečení svých předmětů a zařízení, které mohou způsobit zhoršení odtokových poměrů nebo ucpání koryta níže po toku,
+>
+> - e) v době nebezpečí povodně zajišťují dosažitelnost svých pracovníků a dostupnost věcných prostředků a prověřují jejich připravenost podle povodňového plánu,
+>
+> - f) sledují na pozemcích a stavbách všechny jevy rozhodné pro bezpečné převedení povodně, zejména nahromadění plovoucích předmětů a ucpání průtočného profilu,
+>
+> - g) účastní se hlásné povodňové služby, informují o nebezpečí a průběhu povodně povodňový orgán, správce vodního toku a Hasičský záchranný sbor České republiky,
+>
+> - h) zajišťují záchranu osob a svého majetku, včetně případné předčasné sklizně,
+>
+> - i) zajišťují ochranu plavidel a zařízení sloužících k plavbě, jsou-li vlastníky nebo provozovateli přístavu; přitom se řídí pokyny orgánů státní plavební správy,
+>
+> - j) provádějí povodňové zabezpečovací práce, zejména na objektech propustků a mostů, silničních a železničních náspů, aby nebyla omezena jejich průtočná kapacita,
+>
+> - k) provádějí po povodni prohlídky pozemků a staveb, zjišťují rozsah a výši povodňových škod a poskytují povodňovému orgánu podklady pro zprávu o povodni,
+>
+> - l) odstraňují povodňové škody, zejména zabezpečují kritická místa pro případ další povodně.
+>
+> (2) Na rozestavěných stavbách plní úkoly vlastníka stavby stavebník.
+>
+> (3) Vlastníci movitého majetku ve vodních tocích nebo v záplavových územích jsou povinni dbát o jeho umístění i užívání způsobem, který nebude bránit odtoku velkých vod, případně znemožní odplavení tohoto majetku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f5cb332666919c99dd7 -->
+
 ### §§ 86–87 — Náklady a náhrady
 
 > **§ 86 (Náklady na opatření na ochranu před povodněmi):**
@@ -1521,6 +3243,112 @@ Tato úprava reflektuje, že povodňová komise vystupuje jako orgán svého zř
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=83f67c118e23a76f9ed5 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 86
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Jednotlivé obce mohou činit opatření k přímé ochraně majetku na svém území. Stát a kraje mohou na tato opatření přispět. Obce mohou požádat vlastníky majetku, který je těmito opatřeními chráněn, o příspěvek na jejich výstavbu.
+>
+> (2) Právnické a fyzické osoby nesou náklady, které jim vzniknou vlastními opatřeními k ochraně jejich majetku před povodněmi.
+>
+> (3) Náklady na zabezpečovací práce na vodních tocích hradí jejich správci. Vlastníci vodních děl hradí náklady na zabezpečovací práce na těchto vodních dílech.
+>
+> (4) Náklady na záchranné práce, kromě nákladů podle odstavce 2, hradí obce, kraje a stát v souladu s působnostmi v systému povodňové ochrany podle zvláštního právního předpisu.36)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83f67c118e23a76f9ed5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a4331f8968941badabe generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Majetkovou újmu vzniklou v důsledku činnosti nebo opatření uložených v době povodně
+>
+> - a) povodňovou komisí obce hradí obec,
+>
+> - b) povodňovou komisí obce s rozšířenou působností hradí obec s rozšířenou působností,
+>
+> - c) povodňovou komisí kraje hradí kraj,
+>
+> - d) Ústřední povodňovou komisí hradí Ministerstvo životního prostředí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a4331f8968941badabe -->
+
 ## Hlava X — Zvládání sucha a stavu nedostatku vody (§§ 87a–87m)
 
 > Hlava X byla do vodního zákona vložena novelou č. 544/2020 Sb. s účinností od roku 2021 jako reakce na sucha let 2015 a 2018. Konstrukčně **zrcadlí povodňový režim** hlavy IX: zavádí plánovací dokumenty (plány pro sucho), zvláštní orgány (komise pro sucho — krajská a ústřední) a operativní pravomoci (vyhlášení stavu nedostatku vody).
@@ -1583,6 +3411,54 @@ Hospodářské, meteorologické a zemědělské sucho zákon definicí přímo n
 **Typicky rozhodné důkazy / podklady:** hydrologická data ČHMÚ (průtoky, hladiny podzemních vod), vodní bilance zdrojů a poptávky, plán pro sucho s místními kritérii, hlášení vodárenských společností.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3f964dd984c400c25ac generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Suchem se pro účely této hlavy rozumí hydrologické sucho jako výkyv hydrologického cyklu, který vzniká zejména v důsledku deficitu srážek a projevuje se poklesem průtoků ve vodních tocích a hladiny podzemních vod.
+>
+> (2) Stavem nedostatku vody se pro účely této hlavy rozumí dočasný stav s možným dopadem na základní lidské potřeby, hospodářskou činnost a životní prostředí, kdy v důsledku sucha požadavky na užívání vod převyšují dostupné zdroje vod, a je nezbytné omezovat hospodaření s vodou a provádět další opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3f964dd984c400c25ac -->
 
 ### § 87b — Plán pro sucho
 
@@ -1682,6 +3558,82 @@ Krajský plán nesmí být v rozporu s plánem pro ČR; po schválení MZe a MŽ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=22680bc8c01c17a31301 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Plán pro zvládání sucha a stavu nedostatku vody (dále jen „plán pro sucho“) se pořizuje pro území České republiky a pro území kraje.
+>
+> (2) Plán pro sucho je podkladem pro
+>
+> - a) rozhodnutí nebo opatření obecné povahy, která vydává vodoprávní úřad podle § 6 odst. 4, § 59 odst. 3 nebo § 109 odst. 1 při zvládání sucha,
+>
+> - b) vyhodnocování nutnosti svolat komisi pro zvládání sucha a stavu nedostatku vody (dále jen „komise pro sucho“),
+>
+> - c) rozhodování komise pro sucho o opatřeních při stavu nedostatku vody.
+>
+> (3) Plán pro sucho zahrnuje
+>
+> - a) základní část, která obsahuje údaje potřebné pro zvládání sucha v daném území, charakteristiku území, popis vodních zdrojů včetně záložních a jejich případné zastupitelnosti, popis úpravy, dopravy, převodů vody a zásobování vodou, seznam a popis technických zařízení využitelných k řešení stavu nedostatku vody, seznam uživatelů vody významných pro dané území, seznam povolených nakládání s vodami významněji ovlivňujících množství a jakost vod, popis rizik sucha a místní směrodatné limity a kritéria pro vyhlášení stavu nedostatku vody,
+>
+> - b) operativní část, která obsahuje seznam orgánů veřejné moci a osob podílejících se na zvládání sucha a stavu nedostatku vody, popis činností, které vykonávají, popis přenosu informací, priority zásobování, návrh postupů pro zvládání sucha a opatření při vyhlášeném stavu nedostatku vody,
+>
+> - c) grafickou část, která obsahuje mapy nebo plány, na kterých jsou zakreslena zejména území ohrožená suchem, vodohospodářské a vodárenské soustavy, zdroje a úpravny vody a uživatelé vody významní pro dané území.
+>
+> (4) Stanovení jednotlivých opatření při vyhlášeném stavu nedostatku vody v plánu pro sucho musí odpovídat významu způsobu užití vody. Tyto způsoby užití vody se stanoví postupně od nejvýznamnějšího k méně významným takto:
+>
+> - a) zajištění poskytování základní služby podle zákona [[o kritické infrastruktuře|o kritické infrastruktuře]] a dalších provozů poskytujících nezbytné služby,
+>
+> - b) zásobování obyvatelstva pitnou vodou,
+>
+> - c) živočišná výroba, chov ryb a vodních živočichů, jako zemědělská výroba, a ekologická funkce vody,
+>
+> - d) hospodářské využití nespadající pod písmena a) až c) a jiné využití s vazbou na místní zaměstnanost,
+>
+> - e) ostatní využití.
+>
+> (5) Vyžadují-li to zvláštní místní podmínky, lze se od pořadí významnosti uvedeného v ustanovení odstavce 4 písm. c) až e) odchýlit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 59, § 109
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22680bc8c01c17a31301 -->
+
 ### §§ 87e–87m — Komise pro sucho a vyhlášení stavu nedostatku vody
 
 > **§ 87e:** Orgánem pro zvládání sucha je (a) vodoprávní úřad, (b) ústřední a krajská komise pro sucho. Nadřízeným správním orgánem komisí je MZe nebo MŽP.
@@ -1773,6 +3725,468 @@ Tato opatření se vydávají buď **rozhodnutím** (cílí na konkrétní subje
 **Typicky rozhodné důkazy / podklady:** OOP a rozhodnutí komise pro sucho, plán pro sucho s prioritizací, manipulační řád dotčeného vodního díla, vodní bilance, zpráva o průběhu stavu nedostatku vody (§ 87m).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=20fbe7e367eac595a5db generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Orgánem pro zvládání sucha a stavu nedostatku vody (dále jen „orgán pro sucho“) je
+>
+> - a) vodoprávní úřad podle § 104 odst. 2,
+>
+> - b) ústřední a krajská komise pro sucho.
+>
+> (2) Nadřízeným správním orgánem krajské komise pro sucho a ústřední komise pro sucho je Ministerstvo zemědělství nebo Ministerstvo životního prostředí v rozsahu působnosti svěřené jim tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 104
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20fbe7e367eac595a5db -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=dceec81f7feefc783361 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Hejtman kraje jako zvláštní orgán kraje zřizuje krajskou komisi pro sucho a je jejím předsedou. Další členy této komise hejtman kraje jmenuje ze zaměstnanců kraje zařazených do krajského úřadu, příslušných správců povodí, Českého hydrometeorologického ústavu, Policie České republiky, hasičského záchranného sboru kraje a krajské hygienické stanice. Nachází-li se na území kraje vodní cesta dopravně významná využívaná, jmenuje hejtman kraje členem krajské komise pro sucho i zaměstnance Ministerstva dopravy.
+>
+> (2) K jednání krajské komise pro sucho hejtman kraje přizve dotčené uživatele vody významné pro dané území uvedené v plánu pro sucho a může přizvat zejména zástupce dotčených obcí. Přizvané osoby nejsou členy krajské komise pro sucho.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dceec81f7feefc783361 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6fcbf24bfdb7421d2250 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Ústřední komisi pro sucho zřizuje vláda. Ústřední komisi pro sucho předsedá ministr zemědělství nebo ministr životního prostředí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fcbf24bfdb7421d2250 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d748d4167a33460f398e generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Pokud dojde v době stavu nedostatku vody k vyhlášení krizového stavu podle jiného právního předpisu34), zasedají příslušný krizový štáb a příslušná komise pro sucho společně. Pravomoci komisí pro sucho nejsou vyhlášením krizového stavu dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d748d4167a33460f398e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=503fd889e646d4c9b0ce generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Předpovědní služba pro sucho informuje orgány pro sucho o nebezpečí vzniku sucha a o jeho dalším vývoji. Tuto službu zabezpečuje Český hydrometeorologický ústav ve spolupráci se správci povodí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=503fd889e646d4c9b0ce -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c6385f2772675ba221c7 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad ve spolupráci se správci povodí vyhodnotí, zda na celém území kraje nebo jeho části hrozí nedostatek vody, a navrhne hejtmanovi kraje svolání krajské komise pro sucho. Hejtman kraje svolá krajskou komisi pro sucho, která vyhodnotí, zda je třeba vyhlásit stav nedostatku vody. Stav nedostatku vody vyhlašuje a odvolává krajská komise pro sucho; ustanovení [[§ 25 odst. 2|§ 25 odst. 2]] a [[3|3]] [[správního řádu|správního řádu]] se použijí obdobně. Dnem vyvěšení na úřední desce krajského úřadu se stav nedostatku vody považuje za vyhlášený nebo odvolaný.
+>
+> (2) V případě, kdy je vyhlášen stav nedostatku vody, se § 6 odst. 4, § 59 odst. 3 a § 109 odst. 1 za účelem zvládání sucha nepoužijí.
+>
+> (3) Dnem vykonatelnosti nebo účinnosti opatření krajské komise pro sucho podle [[#§ 87k|§ 87k]] se v rozsahu v nich stanoveném pozastavuje vykonatelnost nebo účinnost rozhodnutí nebo opatření obecné povahy vydaných vodoprávním úřadem podle § 6 odst. 4, § 59 odst. 3 a § 109 odst. 1 při zvládání sucha, a to až do doby odvolání stavu nedostatku vody.
+>
+> (4) Dnem vykonatelnosti nebo účinnosti opatření ústřední komise pro sucho podle [[#§ 87k|§ 87k]] se v rozsahu v nich stanoveném pozastavuje vykonatelnost nebo účinnost opatření vydaných při stavu nedostatku vody krajskou komisí pro sucho.
+>
+> (5) Ústřední komisi pro sucho svolá ministr zemědělství nebo ministr životního prostředí zejména v případě, požádá-li o to předseda krajské komise pro sucho, nebo je-li stav nedostatku vody vyhlášen na území více krajů.
+>
+> (6) Ústřední komise pro sucho řídí a koordinuje jednotlivá opatření krajské komise pro sucho podle [[#§ 87k|§ 87k]], která svými dopady přesahují hranice krajů, a v případě potřeby vydává opatření podle [[#§ 87k|§ 87k]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 6, § 59, § 109, § 87k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6385f2772675ba221c7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0b48749b1133c7e1ec81 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Krajská nebo ústřední komise pro sucho při stavu nedostatku vody vydává na dobu nezbytně nutnou opatření podle povahy věci rozhodnutím nebo opatřením obecné povahy, ve kterých
+>
+> - a) obecné nakládání s povrchovými vodami bez náhrady upraví, omezí nebo zakáže,
+>
+> - b) povolená nakládání s vodami bez náhrady upraví, omezí nebo zakáže,
+>
+> - c) omezí užívání pitné vody z vodovodu pro veřejnou potřebu,
+>
+> - d) uloží vlastníkovi vodního díla mimořádnou manipulaci na vodním díle nad rámec schváleného manipulačního řádu,
+>
+> - e) nařídí vlastníkovi technického zařízení, které slouží pro odběr ze záložního zdroje vody, jeho zprovoznění, pokud je to technicky možné tak, aby bylo možné tento záložní zdroj vody využít,
+>
+> - f) upraví minimální zůstatkový průtok nebo minimální hladinu podzemních vod stanovené v povolení k nakládání s vodami, nebo stanoví minimální zůstatkový průtok nebo minimální hladinu podzemních vod,
+>
+> - g) nařídí vlastníkovi potřebného vodohospodářského zařízení jeho zprovoznění a poskytnutí k řešení stavu nedostatku vody, pokud je to technicky možné, nebo
+>
+> - h) nařídí mimořádné sledování množství a jakosti vod.
+>
+> (2) Má-li opatření podle odstavce 1 formu rozhodnutí, je jeho vydání prvním úkonem v řízení. Odvolání nemá odkladný účinek.
+>
+> (3) Krajská komise pro sucho neprodleně informuje nadřízený správní orgán o svém svolání a opatřeních vydaných podle odstavce 1.
+>
+> (4) Krajská komise pro sucho musí postupovat v souladu s opatřeními vydanými ústřední komisí pro sucho.
+>
+> (5) Dnem odvolání stavu nedostatku vody pozbývají platnosti opatření vydaná příslušnou komisí pro sucho.
+>
+> (6) Krajská a ústřední komise pro sucho vede knihu činností. Do této knihy se zapisují důvody svolání komise pro sucho, důvody pro vyhlášení stavu nedostatku vody, přijatá opatření podle odstavce 1 a důvody pro odvolání stavu nedostatku vody.
+>
+> (7) Nezbytné náklady vynaložené na provedení opatření podle odstavce 1 písm. e) a g) hradí kraj nebo stát podle působnosti komise pro sucho.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b48749b1133c7e1ec81 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a33eb68e2a39aad20a63 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Obecní úřad obce s rozšířenou působností poskytuje krajskému úřadu součinnost a údaje potřebné pro pořízení a aktualizaci plánu pro sucho kraje a pro činnost krajské komise pro sucho.
+>
+> (2) Na výzvu orgánu pro sucho je každý povinen poskytnout jemu známé informace, které mohou mít vliv na vydávání opatření při stavu nedostatku vody. Tím není dotčena povinnost mlčenlivosti, jež byla uložena nebo uznána jiným právním předpisem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a33eb68e2a39aad20a63 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b28b1592857cf563d1ad generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 87m
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Krajský úřad zpracuje zprávu o průběhu stavu nedostatku vody do 6 měsíců ode dne odvolání stavu nedostatku vody. Zprávu zašle Ministerstvu zemědělství a Ministerstvu životního prostředí. Ústřední komise pro sucho informuje o průběhu a důsledcích stavu nedostatku vody vládu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b28b1592857cf563d1ad -->
 
 ## Hlava XI — Poplatky (§§ 88–90i)
 
@@ -2170,6 +4584,114 @@ Náklady kontrolní laboratoře a odborně způsobilé osoby hradí SFŽP **z v�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a1da00e8c2fd562ea7e4 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 103 — Měření objemu odpadních vod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Správnost měření objemu vypouštěných odpadních vod a správnou funkci měřidla může kontrolovat pouze odborně způsobilá osoba oprávněná k podnikání a autorizovaná k výkonu úředního měření průtoku měřidly s volnou hladinou podle zákona [[o metrologii|o metrologii]].
+>
+> (2) Správnost měření objemu vypouštěných odpadních vod pro účely poplatku za vypouštění odpadních vod do vod povrchových kontroluje odborně způsobilá osoba podle odstavce 1, vybraná Státním fondem životního prostředí České republiky.
+>
+> (3) Seznam odborně způsobilých osob podle odstavce 2 zveřejní Státní fond životního prostředí České republiky způsobem umožňujícím dálkový přístup.
+>
+> (4) Oprávněné náklady odborně způsobilých osob podle odstavce 2 spojené s kontrolou správnosti měření objemu vypouštěných odpadních vod pro účely poplatku za vypouštění odpadních vod do vod povrchových hradí Státní fond životního prostředí České republiky z výnosu poplatku za vypouštění odpadních vod do vod povrchových.
+>
+> (5) Ten, kdo vypouští odpadní vody do vod povrchových, je povinen umožnit odborně způsobilé osobě podle odstavce 2 vstup do prostorů, kde se nachází zdroj znečišťování, a zajistit podmínky pro provedení kontroly včetně poskytnutí podkladů nezbytných pro provedení kontroly.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a1da00e8c2fd562ea7e4 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ff2d850591e52f9fe3ce generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 103a — Odběr a rozbor vzorků odpadních vod pro účely stanovení poplatků za vypouštění odpadních vod do vod povrchových
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Odběr a rozbor vzorků odpadních vod vypouštěných ze zdroje znečištění pro účely stanovení poplatku [[za|za]] vypouštění odpadních vod do vod povrchových provádí na základě požadavku toho, kdo vypouští odpadní vody, oprávněná laboratoř.
+>
+> (2) Správnost sledování vypouštěného znečištění ve vypouštěných odpadních vodách pro účely poplatku [[za|za]] vypouštění odpadních vod do vod povrchových kontroluje kontrolní laboratoř.
+>
+> (3) Seznam kontrolních laboratoří zveřejní Státní fond životního prostředí České republiky způsobem umožňujícím dálkový přístup.
+>
+> (4) Oprávněné náklady kontrolní laboratoře spojené s prováděním odběrů a rozborů vzorků hradí Státní fond životního prostředí České republiky z výnosu poplatku [[za|za]] vypouštění odpadních vod do vod povrchových.
+>
+> (5) Ten, kdo vypouští odpadní vody do vod povrchových, je povinen umožnit pracovníkům kontrolní laboratoře vstup do prostorů, kde se nachází zdroj znečišťování, a zajistit podmínky k odběru vzorků ze všech výpustí zdroje znečištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff2d850591e52f9fe3ce -->
+
 ### § 104 — Soustava vodoprávních úřadů
 
 > **§ 104**
@@ -2236,6 +4758,72 @@ Závěrečná věta § 104 odst. 2 výslovně odděluje vodoprávní úřady od 
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace, situace pozemku, údaje o objemech/kapacitách, předepsaný formulář žádosti, doklad o poloze (vojenský újezd apod.).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f6005dc2bfb860f461bb generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 104
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Státní správu podle tohoto zákona vykonávají vodoprávní úřady a Česká inspekce životního prostředí.
+>
+> (2) Vodoprávními úřady jsou
+>
+> - a) obecní úřady,
+>
+> - b) újezdní úřady43) na území vojenských újezdů,
+>
+> - c) obecní úřady obcí s rozšířenou působností,
+>
+> - d) krajské úřady,
+>
+> - e) stavební úřady,
+>
+> - f) ministerstva jako ústřední vodoprávní úřad ([[#§ 108|§ 108]]).
+>
+> Tímto nejsou dotčena ustanovení o povodňových orgánech a orgánech pro sucho.
+>
+> (3) Ve správních řízeních vedených podle [[zákona o ochraně přírody|zákona o ochraně přírody]] a krajiny14a), [[horního zákona|horního zákona]]1a) a zákona [[o hornické činnosti, výbušninách a o státní báňské správě|o hornické činnosti, výbušninách a o státní báňské správě]]7b) a při povolování záměru podle stavebního zákona lze vydat rozhodnutí nebo učinit jiný úkon jen na základě závazného stanoviska vodoprávního úřadu, pokud mohou být dotčeny zájmy podle tohoto zákona. Závazné stanovisko podle tohoto ustanovení se vydává jen tehdy, pokud se neuděluje souhlas podle [[#§ 17|§ 17]]. Vodoprávní úřad v závazném stanovisku posoudí možnost zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či nemožnost dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody. Dojde-li k závěru, že provedení záměru může vést ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo stavu útvaru podzemní vody či znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody, upozorní žadatele, že bez udělené výjimky podle § 23a odst. 8 není možné záměr povolit ani provést a že bez této výjimky nelze vydat kladné závazné stanovisko. Vodoprávní úřad je vázán svým předchozím závazným stanoviskem. Navazující závazná stanoviska mohou vodoprávní úřady v téže věci uplatňovat pouze na základě nově zjištěných a doložených skutečností, které nemohly být uplatněny dříve a kterými se podstatně změnily podmínky, za kterých bylo původní závazné stanovisko vydáno, nebo skutečností vyplývajících z větší podrobnosti pořízené dokumentace nebo podkladů pro rozhodnutí nebo jiný úkon správního orgánu při úkonech podle věty první, jinak se k nim nepřihlíží.
+>
+> (4) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko65), závazné stanovisko podle odstavce 3 se nevydává. Dojde-li orgán příslušný k vydání jednotného environmentálního stanoviska k závěru, že provedení záměru může vést ke zhoršení stavu nebo ekologického potenciálu útvaru povrchové vody nebo ke zhoršení stavu útvaru podzemní vody nebo znemožnění dosažení dobrého stavu nebo dobrého ekologického potenciálu útvaru povrchové vody nebo dobrého stavu útvaru podzemní vody, upozorní žadatele před vydáním jednotného environmentálního stanoviska, že bez výjimky podle § 23a odst. 8 nelze vydat souhlasné jednotné environmentální stanovisko65).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 108, § 17, § 23a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6005dc2bfb860f461bb -->
 
 ### §§ 105–109 — Působnosti vodoprávních úřadů na jednotlivých úrovních
 
@@ -2311,6 +4899,424 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace, údaje o objemu akumulace a velikosti zdroje (EO), rozbory na nebezpečné látky, integrované povolení (je-li), formulář žádosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4e2aedcf291c05ce0246 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 105 — Obecní úřady a újezdní úřady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Obecní úřady upravují, omezují, popřípadě zakazují podle § 6 odst. 4 tohoto zákona obecné nakládání s povrchovými vodami, nejde-li o vodní toky tvořící státní hranice.
+>
+> (2) Státní správu na území vojenských újezdů vykonávají újezdní úřady podle § 105 až 107, nejde-li o působnosti podle hlavy XI a XV tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e2aedcf291c05ce0246 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f88749ee7970c47dabd generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 106 — Obecní úřady obcí s rozšířenou působností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Působnost, která přísluší vodoprávním úřadům, vykonávají obecní úřady obcí s rozšířenou působností, pokud ji zákon nesvěřuje jiným orgánům.
+>
+> (2) Obecní úřady obcí s rozšířenou působností uplatňují stanoviska k územnímu plánu, regulačnímu plánu a územnímu opatření o stavební uzávěře pro území obce, nejedná-li se o územní plán a územní opatření těchto obcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f88749ee7970c47dabd -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b27fdd8ad3e096fc829 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 107 — Krajské úřady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Do působnosti krajských úřadů patří
+>
+> - a) uplatňovat stanoviska k zásadám územního rozvoje, územním plánům obcí s rozšířenou působností a územním opatřením o stavební uzávěře obcí s rozšířenou působností,
+>
+> - b) vyjadřovat se podle [[#§ 18|§ 18]] tohoto zákona ke stavbám, pokud rozhodujícím způsobem ovlivňují nakládání s vodami, ochranu vod nebo ochranu proti povodním a pokud si to vyhradí,
+>
+> - c) ve věcech hraničních vod rozhodovat, vydávat souhlasy podle [[#§ 17|§ 17]] a závazná stanoviska podle § 104 odst. 3; to neplatí pro opatření vydávaná při stavu nedostatku vody podle § 87k odst. 1; rozhodnutí, souhlas nebo závazné stanovisko vydá krajský úřad po projednání s Ministerstvem životního prostředí a Ministerstvem zemědělství; rozhodnutí, souhlas nebo závazné stanovisko mající vliv na průběh nebo vyznačení státní hranice vydá krajský úřad po projednání s Ministerstvem životního prostředí, Ministerstvem zemědělství a Ministerstvem vnitra; rozhodnutí, souhlas nebo závazné stanovisko týkající se přírodních minerálních vod a přírodních léčivých zdrojů v blízkosti státních hranic podle zvláštního zákona2) vydá krajský úřad po projednání s Ministerstvem životního prostředí, Ministerstvem zemědělství a Ministerstvem zdravotnictví; za hraniční vody se považují povrchové, popřípadě podzemní vody vymezené v mezinárodních smlouvách, které jsou součástí právního řádu44),
+>
+> - d) činit za mimořádné situace, zejména při nedostatku vody a při haváriích, opatření, a to v případech přesahujících území správního obvodu obce s rozšířenou působností nebo možnosti obecního úřadu obce s rozšířenou působností; v případě mimořádné situace přesahující území správního obvodu jednoho krajského úřadu činí opatření ten z krajských úřadů, v jehož správním obvodu mimořádná situace vznikla, nebo není-li známo místo vzniku mimořádné situace, činí opatření ten z krajských úřadů, jehož správní obvod je mimořádnou situací nejvíce zasažen; v případě havárií činí krajský úřad opatření podle [[#§ 41|§ 41]] a [[#§ 42|42]] a s krajským úřadem, který činí tato opatření, spolupracuje krajský úřad, jehož správní obvod byl havárií zasažen,
+>
+> - e) spolupracovat s ústředními vodoprávními úřady a správci povodí při pořizování plánů dílčích povodí a jejich plnění. Krajské úřady si mohou pro zajištění spolupráce na plánech dílčích povodí a při provádění kontroly plnění plánů dílčích povodí vyžádat spolupráci odborných subjektů, subjektů sledujících jakost a zdravotní nezávadnost vod, orgánů ochrany přírody, sdružení občanů působících na úsecích ochrany životního prostředí, rybářství, vlastníků a provozovatelů vodovodů a kanalizací a popřípadě dalších orgánů,
+>
+> - f) rozhodovat o výjimce podle § 23a odst. 8 a ukládat opatření, která stanoví ve veřejném zájmu programy opatření podle § 26 odst. 4,
+>
+> - g) stanovovat způsob a podmínky vypouštění důlních vod do vod povrchových nebo podzemních a znečištěných vod a průsaků z úložných míst do povrchových vod,
+>
+> - h) povolovat nakládání s vodami k využívání energetického potenciálu podle § 8 odst. 1 písm. a) bodu 3 na významných vodních tocích v případech, kdy si to vyhradí,
+>
+> - i) povolovat vypouštění odpadních vod do vod povrchových ze zdrojů znečištění o velikosti 10 000 ekvivalentních obyvatel nebo více,
+>
+> - j) povolovat vypouštění odpadních vod z těžby a zpracování uranových rud a jaderných elektráren a odpadních vod s obsahem zvlášť nebezpečných závadných nebo nebezpečných závadných látek podle přílohy č. 1 do vod povrchových a vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace ([[#§ 16|§ 16]]) s výjimkou případů, kdy je instalováno zařízení s dostatečnou účinností podle § 16 odst. 5,
+>
+> - k) povolovat čerpání znečištěných podzemních vod za účelem snížení jejich znečištění a jejich následné vypouštění do těchto vod, popřípadě do vod povrchových [§ 8 odst. 1 písm. e)],
+>
+> - l) povolovat vzdouvání a akumulaci povrchových vod v nádržích s celkovým objemem nad 1 000 000 m3 nebo s výškou vzdutí nad 10 m ode dna základové výpusti,
+>
+> - m) stanovovat na návrh správce povodí rozsah záplavových území významných vodních toků a jejich aktivní zóny, ukládat správci povodí zpracování takového návrhu a stanovovat v těchto záplavových územích omezující podmínky podle § 67 odst. 3,
+>
+> - n) rozhodovat v pochybnostech o tom, zda se jedná o povrchové nebo podzemní vody, o jaké nakládání s vodami se jedná nebo zda se jedná o odpadní vody,
+>
+> - o) rozhodovat v pochybnostech o tom, zda jde o vodní tok podle § 43 odst. 2, jakož i o tom, že vodním tokem jsou i jiné povrchové vody než uvedené v odstavci 1,
+>
+> - p) vydávat vyjádření podle [[#§ 18|§ 18]] v případech, kdy jim přísluší vydávat povolení nebo souhlas,
+>
+> - q) povolovat výjimky při použití závadných látek (§ 39 odst. 8) a povolovat nakládání s vodami za účelem chovu ryb nebo vodní drůbeže, popřípadě jiných živočichů, pokud vodoprávní úřad stanovuje v povolení podmínky pro použití závadných látek,
+>
+> - r) stanovovat ochranná pásma vodních zdrojů, v případě, že do jeho působnosti patří povolovat nakládání s vodami z nich,
+>
+> - s) schvalovat provozní řády vodních děl pro čištění odpadních vod s povoleným vypouštěním odpadních vod s obsahem zvlášť nebezpečných závadných nebo nebezpečných závadných látek podle přílohy č. 1 k tomuto zákonu do vod povrchových a manipulační řády vodních děl, pro něž povoluje nakládání s vodami, včetně mimořádných manipulací na nich a komplexní manipulační řády, v případě, že do jeho působnosti patří povolení k nakládání s vodami alespoň pro jedno z vodních děl, na něž se komplexní manipulační řád bude vztahovat,
+>
+> - t) vyžadovat od vlastníků (správců) vodních děl I. až III. kategorie, kterým byla uložena povinnost zajistit provádění technicko-bezpečnostního dohledu, zpracování údajů o parametrech možné zvláštní povodně, zejména charakteristiky průtokových vln a rozsah ohroženého území, a jejich poskytnutí příslušným povodňovým orgánům, orgánům krizového řízení a složkám integrovaného záchranného systému,
+>
+> - u) rozhodovat v pochybnostech o rozsahu povinností a oprávnění podle [[#§ 53|§ 53]].
+>
+> (2) Krajské úřady jsou dotčenými orgány podle § 104 odst. 3 a vydávají závazné stanovisko ve věcech týkajících se jejich působnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 17, § 104, § 87k, § 41, § 42, § 23a, § 26, § 8, § 16, § 67, § 43, § 39, § 53
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b27fdd8ad3e096fc829 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8380812098bb7c1a099c generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 107a — Stavební úřady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> Stavební úřady, které podle stavebního zákona vykonávají působnost ve věcech vodních děl
+>
+> - a) rozhodují o žádosti o povolení záměru vodního díla podle [[#§ 55a|§ 55a]],
+>
+> - b) mohou nařídit zastavení prací na stavbě nebo odstranění stavby vodního díla provedené nebo prováděné mimořádným postupem podle stavebního zákona z příkazu povodňového orgánu obce, obce s rozšířenou působností nebo kraje podle § 55a odst. 9 nebo odstranění stavby podle § 55a odst. 8,
+>
+> - c) rozhodují o stanovení ochranného pásma vodního díla podle § 58 odst. 3,
+>
+> - d) vydávají osvědčení o splnění podmínek pro vznik služebnosti podle § 59a odst. 3,
+>
+> - e) rozhodují o technickobezpečnostním dohledu podle § 61 odst. 7,
+>
+> - f) rozhodují o změně kategorie vodního díla, rozsahu technickobezpečnostního dohledu, popřípadě podmínek jeho zajišťování podle § 61 odst. 8,
+>
+> - g) vedou evidenci údajů o vodních dílech a o výkonu technickobezpečnostního dohledu u vodních děl IV. kategorie technickobezpečnostního dohledu, nad kterými neprovádí technickobezpečnostní dohled pověřená osoba podle § 61 odst. 12 písm. a),
+>
+> - h) předávají údaje z jimi vedené evidence údajů o vodních dílech a o výkonu technickobezpečnostního dohledu Ministerstvu zemědělství podle § 61 odst. 12 písm. b),
+>
+> - i) kontrolují provádění technickobezpečnostního dohledu nad vodními díly podle [[#§ 61|§ 61]] a
+>
+> - j) provádějí dozor nad vodními díly podle § 110 odst. 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 55a, § 58, § 59a, § 61, § 110
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8380812098bb7c1a099c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=116859d59480feb92806 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 108 — Ministerstva jako ústřední vodoprávní úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Není-li tímto zákonem stanoveno jinak, vykonává působnost ústředního vodoprávního úřadu Ministerstvo zemědělství.
+>
+> (2) Ministerstvo zemědělství a Ministerstvo životního prostředí uplatňují stanoviska k politice územního rozvoje, územnímu rozvojovému plánu, zásadám územního rozvoje a územnímu opatření o stavební uzávěře, je-li jeho pořizovatelem krajský úřad jako úřad územního plánování nebo Ministerstvo pro místní rozvoj.
+>
+> (3) Ministerstvo životního prostředí vykonává působnost ústředního vodoprávního úřadu ve věcech
+>
+> - a) ochrany množství a jakosti povrchových a podzemních vod, a to
+>
+> - 1. povolení k vypouštění odpadních vod do vod povrchových nebo podzemních [§ 8 odst. 1 písm. c)],
+>
+> - 2. povolení k čerpání znečištěných podzemních vod za účelem snížení jejich znečištění a k jejich následnému vypouštění do těchto vod, popřípadě do vod povrchových [§ 8 odst. 1 písm. e)],
+>
+> - 3. povolení k vypouštění odpadních vod s obsahem zvlášť nebezpečných závadných látek nebo prioritních nebezpečných látek do kanalizací ([[#§ 16|§ 16]]),
+>
+> - 4. souhlasu podle § 17 odst. 1 písm. e) a i),
+>
+> - 5. stanovení minimálního zůstatkového průtoku a uložení povinnosti osadit na vodním díle cejch nebo vodní značku a povinnosti pravidelně měřit minimální zůstatkový průtok a podávat vodoprávnímu úřadu a správci povodí zprávy o výsledcích měření ([[#§ 36|§ 36]]),
+>
+> - 6. stanovení minimální hladiny podzemních vod a uložení povinnosti předložit návrh jímacího řádu, popřípadě povinnosti pravidelně měřit hladinu podzemních vod, způsobu měření a povinnosti podávat vodoprávnímu úřadu a správci povodí zprávy o výsledcích měření ([[#§ 37|§ 37]]),
+>
+> - 7. činnosti při povolování vypouštění odpadních vod do vod povrchových nebo podzemních a přebírání výsledků měření objemu vypouštěných vod a míry jejich znečištění ([[#§ 38|§ 38]]),
+>
+> - 8. přípravy návrhu prováděcího předpisu, kterým se stanoví ukazatele a hodnoty přípustného znečištění vod ([[#§ 31|§ 31]], [[#§ 32|32]], [[#§ 33|33]], [[#§ 35|35]] a [[#§ 38|38]]),
+>
+> - b) zjišťování a hodnocení stavu povrchových a podzemních vod společně s Ministerstvem zemědělství ([[#§ 21|§ 21]] a [[#§ 22|22]]),
+>
+> - c) zjišťování a hodnocení stavu povrchových a podzemních vod prostřednictvím jím zřízených pověřených odborných subjektů ([[#§ 21|§ 21]]),
+>
+> - d) tvorby a vedení informačního systému společně s Ministerstvem zemědělství podle tohoto zákona ([[#§ 19|§ 19]] a [[#§ 22|22]]),
+>
+> - e) sestavování a schvalování plánů v oblasti vod a sestavování programů opatření společně s Ministerstvem zemědělství (§ 24 až 26),
+>
+> - f) posuzování plánů v oblasti vod z hlediska vlivu na životní prostředí ([[#§ 24|§ 24]] a [[#§ 25|25]]),
+>
+> - g) chráněných oblastí přirozené akumulace vod ([[#§ 28|§ 28]]),
+>
+> - h) ochrany vodních zdrojů ([[#§ 29|§ 29]] a [[#§ 30|30]]),
+>
+> - i) citlivých oblastí ([[#§ 32|§ 32]]),
+>
+> - j) zranitelných oblastí, s výjimkou přezkoumávání akčního programu, ([[#§ 33|§ 33]]),
+>
+> - k) stanovení opatření k nápravě při nevyhovující jakosti povrchových vod využívaných ke koupání (§ 34 odst. 2),
+>
+> - l) stanovení povrchových vod, které jsou vhodné pro život a reprodukci původních druhů ryb a dalších vodních živočichů společně s Ministerstvem zemědělství ([[#§ 35|§ 35]]),
+>
+> - m) ochrany jakosti povrchových nebo podzemních vod před závadnými látkami ([[#§ 39|§ 39]]),
+>
+> - n) zneškodňování havárií ([[#§ 41|§ 41]]) a odstraňování jejich škodlivých následků ([[#§ 42|§ 42]]),
+>
+> - o) ochrany před povodněmi (§ 63 až 87),
+>
+> - p) řízení Českého hydrometeorologického ústavu ([[#§ 73|§ 73]]),
+>
+> - q) zvládání sucha a stavu nedostatku vody společně s Ministerstvem zemědělství (§ 87a až 87m),
+>
+> - r) poplatků za odběr podzemních vod společně s Ministerstvem zemědělství (hlava XI díl 1),
+>
+> - s) poplatků za vypouštění odpadních vod do vod povrchových a podzemních (hlava XI díly 2 a [[#§ 3|3]]),
+>
+> - t) spolupráce s orgány krajů v přenesené působnosti ve věcech ochrany množství a jakosti hraničních vod ([[#§ 107|§ 107]]),
+>
+> - u) řízení České inspekce životního prostředí ([[#§ 112|§ 112]]),
+>
+> - v) řízení základního a aplikovaného výzkumu v oblasti ochrany množství a jakosti vod,
+>
+> - w) plnění úkolů vyplývajících ze vztahu k Evropským společenstvím v oblasti ochrany vod, podávání zpráv o plnění příslušných směrnic Evropských společenství a koordinování převzetí a zavádění legislativy Evropských společenství v oblasti vod společně s Ministerstvem zemědělství,
+>
+> - x) zajišťování koordinace plánů v oblasti vod a programů opatření v rámci mezinárodní spolupráce ochrany vod v oblastech povodí Labe, Dunaje a Odry.
+>
+> (4) Ministerstvo dopravy vykonává působnost ústředního vodoprávního úřadu ve věcech užívání povrchových vod k plavbě ([[#§ 7|§ 7]]).
+>
+> (5) Ministerstvo obrany vykonává působnost ústředního vodoprávního úřadu ve věcech, v nichž je založena působnost újezdních úřadů podle § 105 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 16, § 17, § 36, § 37, § 38, § 31, § 32, § 33, § 35, § 21, § 22, § 19, § 24, § 25, § 28, § 29, § 30, § 34, § 39, § 41, § 42, § 63, § 73, § 87a, § 3, § 107, § 112, § 7, § 105
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=116859d59480feb92806 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=310e3d3d91f0672dfcfa generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 109 — Pravomoci vodoprávního úřadu při mimořádných opatřeních
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Vyžaduje-li to veřejný zájem, zejména je-li přechodný nedostatek vody nebo je-li ohroženo zásobování obyvatelstva vodou nebo došlo-li k jednorázovému odběru pitné vody z vodovodní sítě v případech záchranných prací při mimořádných událostech, požárech a jiných živelních pohromách, zásahu Hasičského záchranného sboru České republiky a jednotek požární ochrany nebo ozbrojených sil České republiky, může vodoprávní úřad rozhodnutím nebo opatřením obecné povahy bez náhrady upravit na dobu nezbytně nutnou povolená nakládání s vodami, popřípadě tato nakládání omezit nebo i zakázat. Tato opatření provede po projednání s dotčenými subjekty, pokud to mimořádnost situace nevylučuje.
+>
+> (2) Dojde-li v důsledku mimořádné situace k omezení nebo znemožnění povolených odběrů povrchové nebo podzemní vody, které vede k vážnému ohrožení veřejného zájmu, je vodoprávní úřad povinen zajistit po projednání s příslušnými orgány opatření k nápravě. Přitom může stanovit kdo, jakým způsobem a v jakém rozsahu je povinen provést opatření k zajištění náhradního odběru vody, popřípadě k jejímu dovážení. Nutné náklady spojené s uloženými opatřeními může vodoprávní úřad požadovat na tom, kdo mimořádné omezení nebo znemožnění odběrů způsobil. Obecné předpisy o odpovědnosti k náhradě škody nejsou tímto dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=310e3d3d91f0672dfcfa -->
 
 ### §§ 110–112 — Vodoprávní dozor, vrchní dozor, Česká inspekce životního prostředí (ČIŽP)
 
@@ -2424,6 +5430,188 @@ Toto rozdělení reflektuje rezortní spor mezi MZe (vodohospodářská infrastr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9fcd216f63163eda6dff generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 110 — Vodoprávní dozor vodoprávních úřadů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Vodoprávní úřady kontrolují dodržování ustanovení vodního zákona a předpisů podle něj vydaných a v rozsahu své působnosti ukládají opatření k odstranění zjištěných závad.
+>
+> (2) Vodoprávní úřady jsou povinny v rozsahu své působnosti kontrolovat, zda jsou dodržována jimi vydaná rozhodnutí a opatření obecné povahy.
+>
+> (3) Obecní úřady obcí s rozšířenou působností kontrolují dodržování opatření obecné povahy vydaných komisemi pro sucho. Krajské úřady kontrolují dodržování rozhodnutí vydaných krajskou komisí pro sucho. Ministerstvo zemědělství a Ministerstvo životního prostředí kontrolují dodržování rozhodnutí vydaných ústřední komisí pro sucho.
+>
+> (4) Vodoprávní úřady si mohou při provádění vodoprávního dozoru vyžádat spolupráci odborných subjektů, subjektů sledujících jakost a zdravotní nezávadnost vod, orgánů ochrany přírody, sdružení občanů působících na úsecích ochrany životního prostředí, rybářství, popřípadě dalších orgánů.
+>
+> (5) Stavební úřady jako součást vodoprávního dozoru provádějí dozor nad vodními díly, jejichž stav by mohl ohrozit bezpečnost osob nebo majetku. Přitom zejména kontrolují, jak vlastníci nebo uživatelé těchto staveb na nich zajišťují technickobezpečnostní dohled a jak provádějí potřebná opatření k jejich bezpečnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9fcd216f63163eda6dff -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7549913dbc43b4fc5dd5 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 111 — Vrchní vodoprávní dozor
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo zemědělství a Ministerstvo životního prostředí kontrolují v rámci vrchního vodoprávního dozoru, jak vodoprávní úřady a Česká inspekce životního prostředí provádějí ustanovení vodního zákona a předpisů podle něho vydaných.
+>
+> (2) Ministerstvo zemědělství a Ministerstvo životního prostředí jsou v rozsahu své působnosti podle tohoto zákona v rámci vrchního vodoprávního dozoru oprávněna též kontrolovat, jak jsou dodržována ustanovení vodního zákona a předpisů podle něho vydaných, jak jsou dodržována rozhodnutí vodoprávních úřadů, jak jsou plněny povinnosti vlastníků vodních děl, správců vodních toků a správců povodí. Zjistí-li závady, mohou uložit potřebná opatření k jejich odstranění.
+>
+> (3) Ministerstvo zemědělství v součinnosti s Ministerstvem životního prostředí předkládá každoročně vládě zprávu o zhodnocení kontrolní činnosti provedené v uplynulém roce v rámci vrchního vodoprávního dozoru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7549913dbc43b4fc5dd5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8533a409c9391b05afb7 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 112 — Česká inspekce životního prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) České inspekci životního prostředí přísluší
+>
+> - a) v rámci vodoprávního dozoru kontrolovat, jak podnikající fyzické nebo právnické osoby dodržují povinnosti stanovené tímto zákonem nebo uložené podle tohoto zákona jí nebo vodoprávními úřady na úseku
+>
+> - 1. nakládání s povrchovými nebo podzemními vodami,
+>
+> - 2. ochrany uvedených vod včetně jejich ochrany při provozování plavby,
+>
+> - 3. havárií ohrožujících jakost těchto vod,
+>
+> - 4. vodních děl určených ke zneškodňování znečištění v odpadních vodách nebo k jejich vypouštění do vod povrchových nebo podzemních nebo do kanalizací,
+>
+> - 5. ochrany vodních poměrů a vodních zdrojů,
+>
+> - 6. uvádění vypouštění odpadních vod do vod povrchových nebo podzemních do souladu s požadavky zákona v případech vyžadujících zvláštní pozornost,
+>
+> - b) ukládat odstranění a nápravu zjištěných nedostatků, jejich příčin a škodlivých následků, zjistí-li porušení povinností na úsecích uvedených pod písmenem a),
+>
+> - c) nařídit v oblasti, ve které jí přísluší vykonávat kontrolu, zastavení výroby nebo jiné činnosti, pokud velmi závažným způsobem ohrožuje veřejný zájem a životní prostředí, až do doby odstranění nedostatků, popřípadě jejich příčin,
+>
+> - d) spolupracovat s vodoprávními úřady a Státním fondem životního prostředí České republiky,
+>
+> - e) vést centrální evidenci havárií podle § 40 a násl.,
+>
+> - f) kontrolovat dodržování ustanovení [[o poplatcích za vypouštění odpadních vod do vod povrchových|o poplatcích za vypouštění odpadních vod do vod povrchových]] znečišťovateli,
+>
+> - g) provádět kontrolní zjišťování jakosti a množství vypouštěných odpadních vod včetně zjišťování zdrojů znečišťování,
+>
+> - h) rozhodovat v pochybnostech o tom, zda jde o čištěné odpadní vody pro účely výpočtu poplatku [[za|za]] vypouštění odpadních vod do vod povrchových,
+>
+> - i) plnit další úkoly podle tohoto zákona.
+>
+> (2) Na řízení vedená Českou inspekcí životního prostředí podle tohoto zákona se vztahují, připouští-li to povaha těchto řízení, ustanovení [[#§ 115|§ 115]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40, § 115
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8533a409c9391b05afb7 -->
+
 ### §§ 113–115b — Výkon vodoprávního dozoru, vodoprávní řízení, OOP
 
 > **§ 114:** Pověření pracovníci se prokazují průkazem. Za odebrané vzorky pro účely dozoru nenáleží náhrada.
@@ -2497,6 +5685,60 @@ Vodní zákon poněkud rozšiřuje okruh účastníků oproti SŘ:
 **Typicky rozhodné důkazy / podklady:** žádost na formuláři MZe/MŽP, doklady o existenci a podmínkách účastenství spolku, spis dokládající průběh a (ne)složitost řízení, identifikace dotčeného toku a polohy záměru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6bec440c3cd8aca1e295 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 115b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Žádost podle [[#§ 9a|§ 9a]], [[#§ 14a|14a]], [[#§ 16a|16a]], [[#§ 17a|17a]], [[#§ 18a|18a]], § 23a odst. 12 a [[#§ 13|13]], [[#§ 38b|§ 38b]], [[#§ 39a|39a]], § 59 odst. 6 a [[#§ 7|7]] nebo návrh podle [[#§ 30a|§ 30a]] se podává na formuláři, který stanoví Ministerstvo zemědělství společně s Ministerstvem životního prostředí vyhláškou.
+>
+> (2) Vodoprávní úřad ve výrokové části rozhodnutí, v opatření obecné povahy a v závazné části závazného stanoviska vydávaných podle § 8 odst. 1, § 14 odst. 1, § 16 odst. 1, § 17 odst. 1, § 23a odst. 8, § 30 odst. 1, § 38 odst. 5, § 39 odst. 8 a § 104 odst. 3 uvede
+>
+> - a) název záměrem dotčeného vodního toku a číselný identifikátor vodního toku podle údajů v evidenci vodních toků, číslo hydrologického pořadí povodí, název a kód útvaru povrchových vod a říční kilometr vodního toku (staničení),
+>
+> - b) číslo záměrem dotčeného hydrogeologického rajonu a název a kód útvaru podzemních vod a
+>
+> - c) polohu záměru, a to orientačně souřadnicemi určenými v souřadnicovém systému Jednotné trigonometrické sítě katastrální70).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9a, § 14a, § 16a, § 17a, § 18a, § 23a, § 13, § 38b, § 39a, § 59, § 7, § 30a, § 8, § 14, § 16, § 17, § 30, § 38, § 39, § 104
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6bec440c3cd8aca1e295 -->
 
 ## Hlava XV — Přestupky (§§ 116–125l)
 
@@ -2593,6 +5835,116 @@ Za nedovolený odběr **podzemních vod** — pokuta násobkem **70 Kč/m³** (m
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=04df0a989146ac7d0b27 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) nedodrží rozhodnutí nebo opatření obecné povahy vydané za účelem úpravy, omezení nebo zákazu obecného nakládání s povrchovými vodami podle § 6 odst. 4,
+>
+> - b) nakládá s povrchovými nebo podzemními vodami podle § 8 odst. 1 bez povolení k nakládání s vodami,
+>
+> - c) provede činnost podle § 14 odst. 1 bez povolení vodoprávního úřadu nebo v rozporu s ním,
+>
+> - d) v rozporu s § 16 odst. 1 nebo [[#§ 2|2]] vypustí bez povolení vodoprávního úřadu do kanalizace odpadní vody s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky,
+>
+> - e) provede stavbu, zařízení nebo činnost podle § 17 odst. 1 bez souhlasu vodoprávního úřadu nebo v rozporu s ním,
+>
+> - f) poruší zákaz podle § 28 odst. 2,
+>
+> - g) poruší zákaz podle § 30 odst. 7 nebo [[#§ 8|8]],
+>
+> - h) neprovede technické opatření nebo užívá pozemky nebo stavby v rozporu s opatřením obecné povahy podle § 30 odst. 10,
+>
+> - i) nedodrží akční program ve zranitelné oblasti podle § 33 odst. 2,
+>
+> - j) vypustí ryby nebo jiné vodní živočichy geneticky nevhodných nebo neprověřených populací přirozených druhů do vodního toku nebo vodní nádrže v rozporu s § 35 odst. 3,
+>
+> - k) nepředloží doklady o odvozu odpadních vod podle § 38 odst. 7,
+>
+> - l) vypustí odpadní vody s obsahem zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek do vod povrchových bez povolení k jejich vypouštění nebo do vod podzemních,
+>
+> - m) v rozporu s § 39 odst. 1 neučiní při zacházení se závadnými látkami přiměřená opatření, aby nevnikly do povrchových nebo podzemních vod, a ohrozí tak jejich prostředí,
+>
+> - n) poruší zákaz mytí motorového vozidla nebo provozního mechanismu podle § 39 odst. 10,
+>
+> - o) poruší zákaz podle § 46 odst. 1 nebo [[#§ 2|2]],
+>
+> - p) poruší zákaz podle § 58 odst. 1 nebo omezení podle odst. 3,
+>
+> - q) nesplní povinnost k zajištění ochrany před povodněmi podle § 63 odst. 3,
+>
+> - r) poruší zákaz činností v aktivní zóně záplavového území podle § 67 odst. 2,
+>
+> - s) v rozporu s § 87k odst. 1 nesplní povinnost uloženou opatřením komise pro sucho při stavu nedostatku vody,
+>
+> - t) neposkytne orgánu pro sucho informace podle § 87l odst. 2,
+>
+> - u) nakládá s vodami v rozporu s rozhodnutím nebo opatřením obecné povahy podle § 109 odst. 1 nebo neprovede opatření uložené podle § 109 odst. 2, nebo
+>
+> - v) nesplní opatření uložené podle § 110 odst. 1.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu
+>
+> - a) do 20 000 Kč, jde-li o přestupek podle písmene a), g), k), n), p), q), r) nebo t),
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle písmene i), j), o), s), u) nebo v),
+>
+> - c) do 100 000 Kč, jde-li o přestupek podle písmene b) až f) nebo h),
+>
+> - d) do 500 000 Kč, jde-li o přestupek podle písmene m), nebo
+>
+> - e) do 1 000 000 Kč, jde-li o přestupek podle písmene l).
+>
+> (3) Za přestupek podle odstavce 1 písm. b) spáchaný odběrem povrchových vod bez povolení k nakládání s vodami lze uložit pokutu ve výši násobku sazby 40 Kč za 1 m3 nedovoleně odebraných povrchových vod a celkového množství těchto vod, nejvýše však ve výši 500 000 Kč.
+>
+> (4) Za přestupek podle odstavce 1 písm. b) spáchaný odběrem podzemních vod bez povolení k nakládání s vodami lze uložit pokutu ve výši násobku sazby 70 Kč za 1 m3 nedovoleně odebraných podzemních vod a celkového množství těchto vod, nejvýše však ve výši 500 000 Kč.
+>
+> (5) Pokutu za přestupek spáchaný nedovoleným odběrem povrchových nebo podzemních vod lze stanovit nejvýše za období 3 let předcházejících dni, kdy byl nedovolený odběr vody zjištěn. Sazbu pokuty podle odstavce 3 nebo [[#§ 4|4]] lze snížit, jsou-li pro to důvody zvláštního zřetele hodné. Pokuta podle odstavce 3 nebo 4 však nesmí být vyměřena v sazbě nižší než 10 Kč za 1 m3 nedovoleně odebraných povrchových vod nebo v sazbě nižší než 15 Kč za 1 m3 nedovoleně odebraných podzemních vod.
+>
+> (6) Nelze-li stanovit množství povrchových nebo podzemních vod odebraných bez povolení k nakládání s vodami nebo v rozporu s ním, stanoví orgán ukládající pokutu množství odebrané vody podle směrných čísel roční potřeby vody podle vyhlášky, kterou se provádí zákon o vodovodech a kanalizacích44a). Není-li možné množství odebrané vody stanovit takovým postupem, stanoví je orgán ukládající pokutu odhadem; přitom vychází z účelu použití odebrané vody a místních podmínek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 8, § 14, § 16, § 2, § 17, § 28, § 30, § 33, § 35, § 38, § 39, § 46, § 58, § 63, § 67, § 87k, § 87l, § 109, § 110, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=04df0a989146ac7d0b27 -->
+
 ### §§ 117–125 — Další přestupky fyzických osob
 
 | § | Téma | Maximum sazby |
@@ -2645,6 +5997,628 @@ Za nedovolený odběr **podzemních vod** — pokuta násobkem **70 Kč/m³** (m
 **Typicky rozhodné důkazy / podklady:** dokumentace stavu vodního díla, záznamy o varování/oznámení, povodňová kniha, povolení a manipulační řád, doklad o porušené povinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=75d15df420400e9378d1 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 117 — Porušení povinností při užívání povrchových vod k plavbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako provozovatel plavidla dopustí přestupku tím, že
+>
+> - a) v rozporu s § 7 odst. 2 nevybaví plavidlo potřebným zařízením k akumulaci odpadních vod nebo zařízení k akumulaci odpadních vod řádně neprovozuje, anebo nezabrání úniku odpadních vod nebo závadných látek z plavidel do vod povrchových, nebo
+>
+> - b) přečerpá odpadní vodu nebo závadnou látku z plavidla nebo zásobí plavidlo pohonnými nebo provozními hmotami v rozporu s § 7 odst. 4.
+>
+> (2) Fyzická osoba se jako vůdce plavidla dopustí přestupku tím, že
+>
+> - a) užije plavidlo se spalovacím motorem k plavbě na povrchové vodě v rozporu s § 7 odst. 5, nebo
+>
+> - b) užije plavidlo k plavbě v rozporu se stanoveným rozsahem a podmínkami užívání povrchových vod k plavbě podle § 7 odst. 5.
+>
+> (3) Za přestupek podle odstavce 1 a [[#§ 2|2]] lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. a); dojde-li však k úniku odpadních vod nebo závadných látek do vod povrchových, lze uložit pokutu do 200 000 Kč,
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+>
+> - c) do 200 000 Kč, jde-li o přestupek podle odstavce 2,
+>
+> - d) příkazem na místě do 5 000 Kč, jde-li o přestupek podle odstavce 2 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75d15df420400e9378d1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7dfed92f2733dd7e8ab generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 118 — Porušení jiných povinností při nakládání s vodami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako oprávněný dopustí přestupku tím, že
+>
+> - a) nakládá s povrchovými nebo podzemními vodami podle [[#§ 8|§ 8]] v rozporu s povolením k nakládání s vodami,
+>
+> - b) nezměří množství povrchových nebo podzemních vod podle § 10 odst. 1 nebo [[#§ 2|2]], anebo nepředá údaje příslušnému správci povodí podle § 22 odst. 2, nebo
+>
+> - c) v rozporu s § 38 odst. 6 nezměří objem vypouštěných odpadních vod nebo míru jejich znečištění nebo výsledky měření nepředá vodoprávnímu úřadu.
+>
+> (2) Fyzická osoba se jako nabyvatel práv a povinností vyplývajících z povolení k nakládání s vodami, s výjimkou povolení k odběru povrchových nebo podzemních vod nepřesahující 6 000 m3 ročně nebo 500 m3 měsíčně, dopustí přestupku tím, že neoznámí podle § 11 odst. 1 přechod nebo převod pozemku nebo stavby, s nimiž je povolení k nakládání s vodami spojeno.
+>
+> (3) Fyzická osoba se jako ten, kdo vypouští odpadní vody do vod povrchových, dopustí přestupku tím, že
+>
+> - a) neumožní odborně způsobilým osobám podle § 103 odst. 5 vstup do prostorů, kde se nachází kontrolovaný zdroj znečišťování, nebo nezajistí podmínky pro provedení kontroly včetně poskytnutí podkladů nezbytných pro provedení kontroly, nebo
+>
+> - b) neumožní pracovníkům kontrolní laboratoře podle § 103a odst. 5 vstup do prostorů, kde se nachází zdroj znečišťování, nebo nezajistí podmínky k odběru vzorků ze všech výpustí kontrolovaného zdroje znečištění.
+>
+> (4) Za přestupek lze uložit pokutu
+>
+> - a) do 5 000 Kč, jde-li o přestupek podle odstavce 2,
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo c) anebo odstavce 3,
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), nebo
+>
+> - d) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) spáchaný vypuštěním odpadních vod s obsahem zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek do vod povrchových.
+>
+> (5) Za přestupek podle odstavce 1 písm. a) spáchaný odběrem povrchových vod v rozporu s povolením k nakládání s vodami se uloží pokuta ve výši stanovené podle § 116 odst. 3. Ustanovení § 116 odst. 5 a [[#§ 6|6]] se použijí obdobně.
+>
+> (6) Za přestupek podle odstavce 1 písm. a) spáchaný odběrem podzemních vod v rozporu s povolením k nakládání s vodami se uloží pokuta ve výši stanovené podle § 116 odst. 4. Ustanovení § 116 odst. 5 a [[#§ 6|6]] se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 10, § 2, § 22, § 38, § 11, § 103, § 103a, § 116, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7dfed92f2733dd7e8ab -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f35be544993eb2ab11f9 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 119 — Porušení povinností vlastníků a stavebníků vodních děl
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako vlastník nebo stavebník vodního díla dopustí přestupku tím, že
+>
+> - a) neudržuje vodní dílo v řádném stavu podle § 59 odst. 1 písm. b), nebo
+>
+> - b) neprovádí technickobezpečnostní dohled podle § 59 odst. 1 písm. c).
+>
+> (2) Fyzická osoba se jako vlastník nebo stavebník vodního díla I. až IV. kategorie dopustí přestupku tím, že nesplní některou z povinností při provádění technickobezpečnostního dohledu podle § 62 odst. 4 a [[#§ 5|5.]]
+>
+> (3) Fyzická osoba se jako vlastník nebo stavebník vodního díla I. nebo II. kategorie dopustí přestupku tím, že neprojedná provedení zabezpečovacích prací s osobou pověřenou prováděním technickobezpečnostního dohledu podle § 75 odst. 3.
+>
+> (4) Fyzická osoba se jako vlastník vodního díla dopustí přestupku tím, že
+>
+> - a) provozuje vodní dílo v rozporu s § 59 odst. 1 písm. a),
+>
+> - b) nepředloží vodoprávnímu úřadu ke schválení návrh na úpravu manipulačního řádu podle § 59 odst. 1 písm. a),
+>
+> - c) nedbá pokynů správce vodního toku v případě mimořádných situací na dotčeném vodním toku podle § 59 odst. 1 písm. e),
+>
+> - d) neodstraní předměty nebo hmoty ulpělé na vodním díle podle § 59 odst. 1 písm. f),
+>
+> - e) neosadí cejch, vodní značku nebo vodočet nebo neumožní průběžný přenos dat o průtocích ve vodním toku nebo nezajistí zvláštní úpravu přelivu nebo výpusti podle § 59 odst. 1 písm. g),
+>
+> - f) neosadí plavební znaky podle § 59 odst. 1 písm. h),
+>
+> - g) nezpracuje či nepředloží ke schválení manipulační nebo provozní řád vodního díla nebo návrh na jeho doplnění, změnu nebo úpravu podle § 59 odst. 2, nebo
+>
+> - h) nesplní povinnost v ochraně před povodněmi podle [[#§ 84|§ 84]].
+>
+> (5) Fyzická osoba se jako vlastník hráze sloužící ochraně před povodněmi, vzdouvání nebo akumulaci povrchových vod dopustí přestupku tím, že neodstraní náletové dřeviny podle § 59 odst. 1 písm. j).
+>
+> (6) Fyzická osoba se jako vlastník vodního díla sloužícího ke vzdouvání vody dopustí přestupku tím, že
+>
+> - a) neudržuje v řádném stavu dno a břehy vodního toku a nevytváří podmínky pro migraci vodních živočichů, nejde-li o stavbu podle § 59 odst. 1 písm. i), nebo
+>
+> - b) neoznámí nebezpečí zvláštní povodně nebo nevaruje v případě nebezpečí z prodlení bezprostředně ohrožené fyzické nebo právnické osoby podle § 73 odst. 3.
+>
+> (7) Za přestupek lze uložit pokutu
+>
+> - a) do 20 000 Kč, jde-li o přestupek podle odstavce 2 nebo odstavce 4 písm. f), g), h),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 4 písm. b), c), d), e), odstavce 5 nebo odstavce 6 písm. a),
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), odstavce 3, nebo
+>
+> - d) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 4 písm. a) nebo odstavce 6 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59, § 62, § 5, § 75, § 84, § 73
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f35be544993eb2ab11f9 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4cbab2f32cc0038be810 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 120 — Porušení povinností vlastníků pozemků, staveb a zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako vlastník pozemku dopustí přestupku tím, že nesplní povinnost podle [[#§ 27|§ 27]].
+>
+> (2) Fyzická osoba se jako vlastník pozemku, na němž se nachází koryto vodního toku, dopustí přestupku tím, že nesplní povinnost podle [[#§ 50|§ 50]].
+>
+> (3) Fyzická osoba se jako vlastník pozemku sousedícího s korytem vodního toku dopustí přestupku tím, že nesplní povinnost podle § 51 odst. 1.
+>
+> (4) Fyzická osoba se jako vlastník stavby nebo zařízení v korytě vodního toku dopustí přestupku tím, že v rozporu s § 52 odst. 1 neodstraní předměty zachycené či ulpělé na stavbě nebo zařízení.
+>
+> (5) Fyzická osoba se jako vlastník stavby, která není vodním dílem, nebo zařízení v korytě vodního toku dopustí přestupku tím, že v rozporu s § 52 odst. 2 neprovede nápravu narušení plynulého odtoku povrchových vod.
+>
+> (6) Fyzická osoba se jako vlastník pozemku, na kterém je umístěna stavba k vodohospodářským melioracím pozemků nebo její část, která souvisí s více pozemky nebo byla zřízena ve veřejném zájmu, a která byla vybudována před účinností tohoto zákona, dopustí přestupku tím, že
+>
+> - a) v rozporu s § 56 odst. 4 písm. a) nestrpí stavbu k vodohospodářským melioracím pozemků nebo její část,
+>
+> - b) užívá pozemek v rozporu s § 56 odst. 4 písm. b),
+>
+> - c) v rozporu s § 56 odst. 4 písm. c) neohlásí vlastníkovi stavby k vodohospodářským melioracím pozemků nebo vodoprávnímu úřadu zjevné závady její funkce, nebo
+>
+> - d) v rozporu s § 56 odst. 4 písm. d) nestrpí užití pozemku k údržbě stavby k vodohospodářským melioracím pozemků.
+>
+> (7) Fyzická osoba se jako vlastník pozemku sousedícího s vodním dílem dopustí přestupku tím, že neumožní vstup nebo vjezd na pozemek podle § 60 odst. 1.
+>
+> (8) Fyzická osoba se jako vlastník nebo uživatel pozemku nebo stavby anebo dalších prostor dopustí přestupku tím, že neumožní vstup podle § 21 odst. 7 písm. a).
+>
+> (9) Za přestupek lze uložit pokutu
+>
+> - a) do 5 000 Kč, jde-li o přestupek podle odstavce 6 písm. c) nebo odstavce 8,
+>
+> - b) do 10 000 Kč, jde-li o přestupek podle odstavce 6 písm. b),
+>
+> - c) do 20 000 Kč, jde-li o přestupek podle odstavců 1 až 3, odstavce 5, odstavce 6 písm. a) a d) nebo odstavce 7, nebo
+>
+> - d) do 50 000 Kč, jde-li o přestupek podle odstavce 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 50, § 51, § 52, § 56, § 60, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cbab2f32cc0038be810 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ae1022efab5ede9465e6 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 121 — Porušení povinností vlastníků pozemků, staveb a zařízení a vlastníků movitého majetku v ochraně před povodněmi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako vlastník pozemku nebo stavby dopustí přestupku tím, že v rozporu s § 63 odst. 3 neumožní vstup nebo vjezd na své pozemky nebo stavby k zajištění ochrany před povodněmi.
+>
+> (2) Fyzická osoba se jako vlastník pozemku nebo stavby, které se nacházejí v záplavovém území nebo mohou zhoršit průběh povodně, dopustí přestupku tím, že
+>
+> - a) nemá zpracovaný povodňový plán podle § 71 odst. 4 nebo [[#§ 5|5]], nebo
+>
+> - b) nesplní některou z povinností k zamezení zhoršení odtokových podmínek nebo průběhu povodně podle [[#§ 85|§ 85]].
+>
+> (3) Fyzická osoba se jako vlastník dotčeného objektu dopustí přestupku tím, že nezajistí povodňové zabezpečovací práce na dotčeném objektu podle § 75 odst. 3.
+>
+> (4) Fyzická osoba se jako vlastník movitého majetku dopustí přestupku tím, že nedbá o umístění nebo užívání movitého majetku podle § 85 odst. 3.
+>
+> (5) Za přestupek lze uložit pokutu
+>
+> - a) do 100 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), odstavce 4, nebo
+>
+> - b) do 500 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2 písm. b) nebo odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63, § 71, § 5, § 85, § 75
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ae1022efab5ede9465e6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c2c3d56c816964b5751 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 122 — Porušení povinností při zacházení se závadnými látkami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je držitelem povolení k vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace, se dopustí přestupku tím, že
+>
+> - a) vypustí odpadní vody s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace v rozporu s povolením vodoprávního úřadu podle § 16 odst. 1 nebo [[#§ 2|2]], nebo
+>
+> - b) v rozporu s rozhodnutím vodoprávního úřadu podle § 16 odst. 4 neměří objem vypouštěných odpadních vod nebo míru jejich znečištění zvláště nebezpečnými závadnými látkami nebo prioritními nebezpečnými látkami nebo výsledky měření nepředá.
+>
+> (2) Fyzická osoba, která zachází se závadnými látkami ve větším rozsahu nebo zacházení s nimi je spojeno se zvýšeným nebezpečím pro povrchové nebo podzemní vody, se dopustí přestupku tím, že
+>
+> - a) zachází s nimi bez schváleného havarijního plánu podle § 39 odst. 2 písm. a), nebo
+>
+> - b) nevede nebo neuchovává záznamy o provedených opatřeních podle § 39 odst. 2 písm. b).
+>
+> (3) Fyzická osoba, která zachází se zvlášť nebezpečnými závadnými látkami nebo nebezpečnými závadnými látkami nebo zachází se závadnými látkami ve větším rozsahu nebo zacházení s nimi je spojeno se zvýšeným nebezpečím, se dopustí přestupku tím, že nesplní některou z povinností podle § 39 odst. 5.
+>
+> (4) Fyzická osoba, která zachází se zvlášť nebezpečnými závadnými látkami, se dopustí přestupku tím, že nevede záznamy nebo neposkytne informace podle § 39 odst. 7.
+>
+> (5) Fyzická osoba se dopustí přestupku tím, že jedná v rozporu s výjimkou podle § 39 odst. 8.
+>
+> (6) Fyzická osoba se dopustí přestupku tím, že přikrmuje ryby krmivy rostlinného původu v rozporu s § 39 odst. 13.
+>
+> (7) Za přestupek lze uložit pokutu
+>
+> - a) do 5 000 Kč, jde-li o přestupek podle odstavce 6,
+>
+> - b) do 20 000 Kč, jde-li o přestupek podle odstavce 5,
+>
+> - c) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo odstavce 2 písm. b),
+>
+> - d) do 100 000 Kč, jde-li o přestupek podle odstavce 4,
+>
+> - e) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo odstavce 2 písm. a), nebo
+>
+> - f) do 1 000 000 Kč, jde-li o přestupek podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 2, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c2c3d56c816964b5751 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ed639baf21a1a6246674 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 123 — Porušení povinností při haváriích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako původce havárie dopustí přestupku tím, že
+>
+> - a) neohlásí neprodleně havárii podle § 41 odst. 1,
+>
+> - b) neučiní bezprostřední opatření ke zneškodňování havárie nebo se při zneškodňování havárie neřídí schváleným havarijním plánem nebo pokyny vodoprávního úřadu nebo Hasičského záchranného sboru České republiky podle § 41 odst. 2, nebo
+>
+> - c) nevyhoví výzvě ke spolupráci při provádění opatření ke zneškodňování havárie podle § 41 odst. 8.
+>
+> (2) Fyzická osoba se při havárii dopustí přestupku tím, že
+>
+> - a) neohlásí neprodleně havárii, kterou zjistila podle § 41 odst. 1,
+>
+> - b) neposkytne vyžádané údaje o havárii podle § 41 odst. 9, nebo
+>
+> - c) jako osoba, které bylo uloženo opatření k nápravě, neuvede pozemek nebo stavbu, kterou bylo nutno použít při odstraňování závadného stavu, do předchozího stavu podle § 42 odst. 8.
+>
+> (3) Za přestupek lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle odstavce 2 písm. b),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo odstavce 2 písm. a), c), nebo
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) a b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41, § 42
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed639baf21a1a6246674 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=32e8a256ba96686fd6af generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 124 — Porušení povinností správce drobného vodního toku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako správce drobného vodního toku nebo jeho úseku dopustí přestupku tím, že
+>
+> - a) nesplní některou z povinností podle § 47 odst. 2,
+>
+> - b) nezajistí povodňové zabezpečovací práce podle § 75 odst. 3, nebo
+>
+> - c) nesplní povinnost v ochraně před povodněmi podle [[#§ 83|§ 83]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle písmene a), nebo
+>
+> - b) do 200 000 Kč, jde-li o přestupek podle písmen b) a c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47, § 75, § 83
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32e8a256ba96686fd6af -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a8cc56bc927c42df841 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125 — Porušení povinností poplatníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako poplatník dopustí přestupku tím, že prostřednictvím oprávněné laboratoře neodebírá vzorky odpadních vod nebo nesleduje koncentraci znečištění v nich v příslušných ukazatelích podle přílohy č. 2 části B, nezjišťuje průměrnou koncentraci jednotlivého znečištění nebo neměří objem odpadních vod vypouštěných ze zdroje znečištění podle § 89n odst. 2.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 89n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a8cc56bc927c42df841 -->
 
 ### §§ 125a–125k — Přestupky právnických a podnikajících fyzických osob
 
@@ -2706,6 +6680,780 @@ Za nedovolený odběr **podzemních vod** — pokuta násobkem **70 Kč/m³** (m
 **Typicky rozhodné důkazy / podklady:** rozbory odpadních vod a identifikace látky, dokumentace následků (úhyn ryb, rozsah znečištění), absence/rozsah povolení, protokoly ČIŽP, podklady ke kritériím § 125l odst. 3.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=564b8b2ee445c2eb9473 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) nedodrží rozhodnutí nebo opatření obecné povahy vydané za účelem úpravy, omezení nebo zákazu obecného nakládání s povrchovými vodami podle § 6 odst. 4,
+>
+> - b) nakládá s povrchovými nebo podzemními vodami podle § 8 odst. 1 bez povolení k nakládání s vodami,
+>
+> - c) provede činnost podle § 14 odst. 1 bez povolení vodoprávního úřadu nebo v rozporu s ním,
+>
+> - d) v rozporu s § 16 odst. 1 nebo [[#§ 2|2]] vypustí bez povolení vodoprávního úřadu do kanalizace odpadní vody s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky,
+>
+> - e) provede stavbu, zařízení nebo činnost podle § 17 odst. 1 bez souhlasu vodoprávního úřadu nebo v rozporu s ním,
+>
+> - f) poruší zákaz podle § 28 odst. 2,
+>
+> - g) poruší zákaz podle § 30 odst. 7 nebo [[#§ 8|8]],
+>
+> - h) neprovede technické opatření nebo užívá pozemky nebo stavby v rozporu s opatřením obecné povahy podle § 30 odst. 10,
+>
+> - i) nedodrží akční program ve zranitelné oblasti podle § 33 odst. 2,
+>
+> - j) vypustí ryby nebo jiné vodní živočichy geneticky nevhodných nebo neprověřených populací přirozených druhů do vodního toku nebo vodní nádrže v rozporu s § 35 odst. 3,
+>
+> - k) vypustí důlní vody do vod povrchových nebo podzemních v rozporu s § 38 odst. 5,
+>
+> - l) nepředloží doklady o odvozu odpadních vod podle § 38 odst. 7,
+>
+> - m) vypustí odpadní vody s obsahem zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek, s výjimkou nebezpečných závadných látek podle části II bodů 3 a 10 přílohy č. 1 k tomuto zákonu, do vod povrchových bez povolení k nakládání s vodami nebo do vod podzemních,
+>
+> - n) v rozporu s § 39 odst. 1 neučiní při zacházení se závadnými látkami přiměřená opatření, aby nevnikly do povrchových nebo podzemních vod, a ohrozí tak jejich prostředí,
+>
+> - o) poruší zákaz mytí motorového vozidla nebo provozního mechanismu podle § 39 odst. 10,
+>
+> - p) poruší zákaz podle § 46 odst. 1,
+>
+> - q) poruší zákaz podle § 58 odst. 1 nebo omezení podle § 58 odst. 3,
+>
+> - r) nesplní povinnost k zajištění ochrany před povodněmi podle § 63 odst. 3,
+>
+> - s) poruší zákaz činností v aktivní zóně záplavového území podle § 67 odst. 2,
+>
+> - t) v rozporu s § 87k odst. 1 nesplní povinnost uloženou opatřením komise pro sucho při stavu nedostatku vody,
+>
+> - u) neposkytne orgánu pro sucho informace podle § 87l odst. 2,
+>
+> - v) vypustí důlní vody bez splnění podmínek stanovených vodoprávním úřadem nebo v rozporu s nimi,
+>
+> - w) nakládá s vodami v rozporu s rozhodnutím nebo opatřením obecné povahy podle § 109 odst. 1 nebo neprovede opatření uložené podle § 109 odst. 2, nebo
+>
+> - x) nesplní opatření uložené podle § 110 odst. 1 nebo § 112 odst. 1 písm b).
+>
+> (2) Za přestupek lze uložit pokutu
+>
+> - a) do 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), g), q) nebo r),
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. u),
+>
+> - c) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. f), i), j), k), l), o), s), t) nebo w),
+>
+> - d) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), e), h), p) nebo x),
+>
+> - e) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. n) nebo v), nebo
+>
+> - f) do 5 000 000 Kč, jde-li o přestupek podle
+>
+>   - 1. odstavce 1 písm. b) spáchaný vypuštěním odpadních vod do vod povrchových nebo podzemních, nebo
+>
+>   - 2. odstavce 1 písm. d), nebo
+>
+> - g) do 25 000 000 Kč, jde-li o přestupek podle
+>
+>   - 1. odstavce 1 písm. m), nebo
+>
+>   - 2. odstavce 1 písm. n) a pachatel způsobí únik zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek, s výjimkou nebezpečných závadných látek podle části II bodů 3 a 10 přílohy č. 1 k tomuto zákonu, do vod povrchových nebo podzemních.
+>
+> (3) Za přestupek podle odstavce 1 písm. b) spáchaný odběrem povrchových vod bez povolení k nakládání s vodami lze uložit pokutu ve výši násobku sazby 40 Kč za 1 m3 nedovoleně odebraných povrchových vod a celkového množství těchto vod, nejvýše však ve výši 10 000 000 Kč.
+>
+> (4) Za přestupek podle odstavce 1 písm. b) spáchaný odběrem podzemních vod bez povolení k nakládání s vodami lze uložit pokutu ve výši násobku sazby 70 Kč za 1 m3 nedovoleně odebraných podzemních vod a celkového množství těchto vod, nejvýše však ve výši 10 000 000 Kč.
+>
+> (5) Pokutu za přestupek spáchaný nedovoleným odběrem povrchových nebo podzemních vod lze stanovit nejvýše za období 3 let předcházejících dni, kdy byl nedovolený odběr vody zjištěn. Sazbu pokuty podle odstavce 3 nebo [[#§ 4|4]] lze snížit, jsou-li pro to důvody zvláštního zřetele hodné. Pokuta podle odstavce 3 nebo [[#§ 4|4]] však nesmí být vyměřena v sazbě nižší než 10 Kč za 1 m3 nedovoleně odebraných povrchových vod nebo v sazbě nižší než 15 Kč za 1 m3 nedovoleně odebraných podzemních vod.
+>
+> (6) Nelze-li stanovit množství povrchových nebo podzemních vod odebraných bez povolení k nakládání s vodami nebo v rozporu s ním, stanoví orgán ukládající pokutu množství odebrané vody podle směrných čísel roční potřeby vody podle vyhlášky, kterou se provádí zákon o vodovodech a kanalizacích44a). Není-li možné množství odebrané vody stanovit takovým postupem, stanoví je orgán ukládající pokutu odhadem; přitom vychází z účelu použití odebrané vody a místních podmínek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 8, § 14, § 16, § 2, § 17, § 28, § 30, § 33, § 35, § 38, § 39, § 46, § 58, § 63, § 67, § 87k, § 87l, § 109, § 110, § 112, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=564b8b2ee445c2eb9473 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e2dd8c6206a05d8221ee generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125b — Porušení povinností při užívání povrchových vod k plavbě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako provozovatel plavidla dopustí přestupku tím, že
+>
+> - a) v rozporu s § 7 odst. 2 nevybaví plavidlo potřebným zařízením k akumulaci odpadních vod nebo zařízení k akumulaci odpadních vod řádně neprovozuje, nebo nezabrání úniku odpadních vod nebo závadných látek z plavidel do vod povrchových,
+>
+> - b) nezabezpečí povinnosti provozovatele speciální lodi určené k dopravě pohonných hmot a odpadů z plavidel podle § 7 odst. 3,
+>
+> - c) přečerpá odpadní vodu nebo závadnou látku z plavidla nebo zásobí plavidlo pohonnými nebo provozními hmotami v rozporu s § 7 odst. 4,
+>
+> - d) užije plavidlo se spalovacím motorem k plavbě na povrchové vodě v rozporu s § 7 odst. 5, nebo
+>
+> - e) užije plavidlo k plavbě v rozporu se stanoveným rozsahem a podmínkami užívání povrchových vod k plavbě podle § 7 odst. 5.
+>
+> (2) Provozovatel přístavu, speciálního servisního zařízení nebo obslužní lodi se dopustí přestupku tím, že v rozporu s § 7 odst. 3 zásobuje plavidla pohonnými a provozními hmotami nebo odstraňuje odpadní vody nebo závadné látky z plavidel v přístavech nebo pomocí speciálních servisních zařízení obslužních lodí tak, že není vyloučeno znečištění povrchových nebo podzemních vod.
+>
+> (3) Za přestupek lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. a); dojde-li však k úniku odpadních vod nebo závadných látek do vod povrchových, lze uložit pokutu do 200 000 Kč,
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), nebo
+>
+> - c) do 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), d), e) nebo odstavce 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2dd8c6206a05d8221ee -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=772b7ff12c22298b7564 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125c — Porušení jiných povinností při nakládání s vodami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako oprávněný dopustí přestupku tím, že
+>
+> - a) nakládá s povrchovými nebo podzemními vodami podle [[#§ 8|§ 8]] v rozporu s povolením k nakládání s vodami,
+>
+> - b) nezměří množství povrchových nebo podzemních vod podle § 10 odst. 1 nebo [[#§ 2|2]], anebo nepředá údaje příslušnému správci povodí podle § 22 odst. 2, nebo
+>
+> - c) v rozporu s § 38 odst. 6 nezměří objem vypouštěných odpadních vod nebo míru jejich znečištění nebo výsledky měření nepředá vodoprávnímu úřadu.
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako nabyvatel práv a povinností vyplývajících z povolení k nakládání s vodami, s výjimkou povolení k odběru povrchových nebo podzemních vod nepřesahující 6 000 m3 ročně nebo 500 m3 měsíčně, dopustí přestupku tím, že neoznámí podle § 11 odst. 1 přechod pozemku nebo stavby, s nimiž je povolení k nakládání s vodami spojeno.
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako osoba provádějící odvoz odpadních vod akumulovaných v bezodtokové jímce dopustí přestupku tím, že nevydá tomu, kdo tyto vody akumuluje, doklad podle § 38 odst. 7.
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako ten, kdo vypouští odpadní vody do vod povrchových, dopustí přestupku tím, že
+>
+> - a) neumožní odborně způsobilým osobám podle § 103 odst. 5 vstup do prostorů, kde se nachází kontrolovaný zdroj znečišťování, nebo nezajistí podmínky pro provedení kontroly včetně poskytnutí podkladů nezbytných pro provedení kontroly, nebo
+>
+> - b) neumožní pracovníkům kontrolní laboratoře podle § 103a odst. 5 vstup do prostorů, kde se nachází zdroj znečišťování, nebo nezajistí podmínky k odběru vzorků ze všech výpustí kontrolovaného zdroje znečištění.
+>
+> (5) Za přestupek lze uložit pokutu
+>
+> - a) do 5 000 Kč, jde-li o přestupek podle odstavce 2,
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo c) anebo odstavce 3 nebo [[#§ 4|4]],
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - d) do 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) spáchaný vypuštěním odpadních vod do vod povrchových nebo podzemních, nebo
+>
+> - e) do 25 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) spáchaný vypuštěním odpadních vod s obsahem zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek, s výjimkou nebezpečných závadných látek podle části II bodů 3 a [[#§ 10|10]] přílohy č. 1 k tomuto zákonu, do vod povrchových.
+>
+> (6) Za přestupek podle odstavce 1 písm. a) spáchaný odběrem povrchových vod v rozporu s povolením k nakládání s vodami lze uložit pokutu ve výši stanovené podle § 125a odst. 3. Ustanovení § 125a odst. 5 a [[#§ 6|6]] se použijí obdobně.
+>
+> (7) Za přestupek podle odstavce 1 písm. a) spáchaný odběrem podzemních vod v rozporu s povolením k nakládání s vodami lze uložit pokutu ve výši stanovené podle § 125a odst. 4. Ustanovení § 125a odst. 5 a [[#§ 6|6]] se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 10, § 2, § 22, § 38, § 11, § 103, § 103a, § 4, § 125a, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=772b7ff12c22298b7564 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=574ee85e4cda9b47d65a generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125d — Porušení povinností vlastníků a stavebníků vodních děl
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako vlastník nebo stavebník vodního díla dopustí přestupku tím, že neudržuje vodní dílo v řádném stavu podle § 59 odst. 1 písm. b).
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako vlastník nebo stavebník vodního díla I. až IV. kategorie dopustí přestupku tím, že neprovádí technickobezpečnostní dohled podle § 59 odst. 1 písm. c).
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako vlastník nebo stavebník vodního díla I. až IV. kategorie dopustí přestupku tím, že nesplní některou z povinností při provádění technickobezpečnostního dohledu podle § 62 odst. 4 a [[#§ 5|5.]]
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako vlastník nebo stavebník vodního díla I. nebo II. kategorie dopustí přestupku tím, že neprojedná provedení zabezpečovacích prací s osobou pověřenou prováděním technickobezpečnostního dohledu podle § 75 odst. 3.
+>
+> (5) Právnická nebo podnikající fyzická osoba se jako vlastník vodního díla dopustí přestupku tím, že
+>
+> - a) provozuje vodní dílo v rozporu s § 59 odst. 1 písm. a),
+>
+> - b) nepředloží vodoprávnímu úřadu ke schválení návrh na úpravu manipulačního řádu podle § 59 odst. 1 písm. a),
+>
+> - c) nedbá pokynů správce vodního toku v případě mimořádných situací na dotčeném vodním toku podle § 59 odst. 1 písm. e),
+>
+> - d) neodstraní předměty nebo hmoty ulpělé na vodním díle podle § 59 odst. 1 písm. f),
+>
+> - e) neosadí cejch, vodní značku nebo vodočet nebo neumožní průběžný přenos dat o průtocích ve vodním toku nebo nezajistí zvláštní úpravu přelivu nebo výpusti podle § 59 odst. 1 písm. g),
+>
+> - f) neosadí plavební znaky podle § 59 odst. 1 písm. h),
+>
+> - g) nezpracuje či nepředloží ke schválení manipulační řád vodního díla nebo návrh na jeho doplnění, změnu nebo úpravu podle § 59 odst. 2,
+>
+> - h) nezpracuje nebo nepředloží ke schválení provozní řád vodního díla pro čištění odpadních vod s povoleným vypouštěním odpadních vod s obsahem zvlášť nebezpečných závadných nebo nebezpečných závadných látek podle přílohy č. 1 k tomuto zákonu do vod povrchových nebo návrh na jeho doplnění, změnu nebo úpravu podle § 59 odst. 2, nebo
+>
+> - i) nesplní povinnost v ochraně před povodněmi podle [[#§ 84|§ 84]].
+>
+> (6) Právnická nebo podnikající fyzická osoba se jako vlastník hráze sloužící ochraně před povodněmi, vzdouvání nebo akumulaci povrchových vod dopustí přestupku tím, že neodstraní náletové dřeviny podle § 59 odst. 1 písm. j).
+>
+> (7) Právnická nebo podnikající fyzická osoba se jako vlastník vodního díla sloužícího ke vzdouvání vody dopustí přestupku tím, že
+>
+> - a) neudržuje v řádném stavu dno a břehy vodního toku a nevytváří podmínky pro migraci vodních živočichů, nejde-li o stavbu podle § 59 odst. 1 písm. i), nebo
+>
+> - b) neoznámí nebezpečí zvláštní povodně, nebo nevaruje v případě nebezpečí z prodlení bezprostředně ohrožené fyzické nebo právnické osoby podle § 73 odst. 3.
+>
+> (8) Za přestupek lze uložit pokutu
+>
+> - a) do 20 000 Kč, jde-li o přestupek podle odstavce 3 nebo odstavce 5 písm. f), g),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 5 písm. b) až e), h) nebo i), odstavce 6, nebo odstavce 7 písm. a),
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 2 nebo odstavce 4, nebo
+>
+> - d) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 5 písm. a) nebo odstavce 7 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59, § 62, § 5, § 75, § 84, § 73
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=574ee85e4cda9b47d65a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1773512d2c7d68674701 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125e — Porušení povinností vlastníků pozemků, staveb a zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku dopustí přestupku tím, že nesplní povinnost podle [[#§ 27|§ 27]].
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku, na němž se nachází koryto vodního toku, dopustí přestupku tím, že nesplní povinnost podle [[#§ 50|§ 50]].
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku sousedícího s korytem vodního toku dopustí přestupku tím, že nesplní povinnost podle § 51 odst. 1.
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako vlastník stavby nebo zařízení v korytě vodního toku dopustí přestupku tím, že v rozporu s § 52 odst. 1 neodstraní předměty zachycené či ulpělé na stavbě nebo zařízení.
+>
+> (5) Právnická nebo podnikající fyzická osoba se jako vlastník stavby, která není vodním dílem, nebo zařízení v korytě vodního toku dopustí přestupku tím, že v rozporu s § 52 odst. 2 neprovede nápravu narušení plynulého odtoku povrchových vod.
+>
+> (6) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku, na kterém je umístěna stavba k vodohospodářským melioracím pozemků nebo její část, která souvisí s více pozemky nebo byla zřízena ve veřejném zájmu, a která byla vybudována před účinností tohoto zákona, dopustí přestupku tím, že
+>
+> - a) v rozporu s § 56 odst. 4 písm. a) nestrpí stavbu k vodohospodářským melioracím pozemků nebo její část,
+>
+> - b) užívá pozemek v rozporu s § 56 odst. 4 písm. b),
+>
+> - c) v rozporu s § 56 odst. 4 písm. c) neohlásí vlastníkovi stavby k vodohospodářským melioracím pozemků nebo vodoprávnímu úřadu zjevné závady její funkce, nebo
+>
+> - d) v rozporu s § 56 odst. 4 písm. d) nestrpí užití pozemku k údržbě stavby k vodohospodářským melioracím pozemků.
+>
+> (7) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku sousedícího s vodním dílem dopustí přestupku tím, že neumožní vstup nebo vjezd na pozemek podle § 60 odst. 1.
+>
+> (8) Právnická nebo podnikající fyzická osoba se jako vlastník nebo uživatel pozemku nebo stavby anebo dalších prostor dopustí přestupku tím, že neumožní vstup podle § 21 odst. 7 písm. a).
+>
+> (9) Za přestupek lze uložit pokutu
+>
+> - a) do 20 000 Kč, jde-li o přestupek podle odstavce 6 písm. c) nebo odstavce 8,
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle odstavce 3 nebo odstavce 6 písm. b),
+>
+> - c) do 100 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2, odstavce 5, odstavce 6 písm. a), d) nebo odstavce 7, nebo
+>
+> - d) do 200 000 Kč, jde-li o přestupek podle odstavce 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 50, § 51, § 52, § 56, § 60, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1773512d2c7d68674701 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=088c830183e2c7cd61f7 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125f — Porušení povinností vlastníků pozemků, staveb a zařízení a vlastníků movitého majetku v ochraně před povodněmi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku nebo stavby dopustí přestupku tím, že v rozporu s § 63 odst. 3 neumožní vstup nebo vjezd na pozemky nebo na stavby k zajištění ochrany před povodněmi.
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako vlastník pozemku nebo stavby, které se nacházejí v záplavovém území nebo mohou zhoršit průběh povodně, dopustí přestupku tím, že
+>
+> - a) nemá zpracovaný povodňový plán podle § 71 odst. 4 nebo [[#§ 5|5]], nebo
+>
+> - b) nesplní některou z povinností k zamezení zhoršení odtokových podmínek nebo průběhu povodně podle [[#§ 85|§ 85]].
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako vlastník dotčeného objektu dopustí přestupku tím, že nezajistí povodňové zabezpečovací práce na dotčeném objektu podle § 75 odst. 3.
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako vlastník movitého majetku dopustí přestupku tím, že nedbá o umístění nebo užívání movitého majetku podle § 85 odst. 3.
+>
+> (5) Za přestupek lze uložit pokutu
+>
+> - a) do 100 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), odstavce 4, nebo
+>
+> - b) do 500 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2 písm. b) nebo odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63, § 71, § 5, § 85, § 75
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=088c830183e2c7cd61f7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=07a200984ac6618745e1 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125g — Porušení povinností při zacházení se závadnými látkami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba, která je držitelem povolení k vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace, se dopustí přestupku tím, že
+>
+> - a) vypustí odpadní vody s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace v rozporu s povolením vodoprávního úřadu podle § 16 odst. 1 nebo [[#§ 2|2]],
+>
+> - b) v rozporu s rozhodnutím vodoprávního úřadu podle § 16 odst. 4 neměří objem vypouštěných odpadních vod nebo míru jejich znečištění zvláště nebezpečnými závadnými látkami nebo prioritními nebezpečnými látkami nebo výsledky měření nepředá.
+>
+> (2) Právnická nebo podnikající fyzická osoba, která zachází se závadnými látkami ve větším rozsahu nebo zacházení s nimi je spojeno se zvýšeným nebezpečím pro povrchové nebo podzemní vody, se dopustí přestupku tím, že
+>
+> - a) zachází s nimi bez schváleného havarijního plánu podle § 39 odst. 2 písm. a), nebo
+>
+> - b) nevede nebo neuchovává záznamy o provedených opatřeních podle § 39 odst. 2 písm. b).
+>
+> (3) Právnická nebo podnikající fyzická osoba, která zachází se zvlášť nebezpečnými závadnými látkami nebo nebezpečnými závadnými látkami nebo zachází se závadnými látkami ve větším rozsahu nebo zacházení s nimi je spojeno se zvýšeným nebezpečím, se dopustí přestupku tím, že nesplní některou z povinností podle § 39 odst. 5.
+>
+> (4) Právnická nebo podnikající fyzická osoba, která zachází se zvlášť nebezpečnými závadnými látkami, se dopustí přestupku tím, že nevede záznamy nebo neposkytne informace podle § 39 odst. 7.
+>
+> (5) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že jedná v rozporu s výjimkou podle § 39 odst. 8.
+>
+> (6) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že přikrmuje ryby krmivy rostlinného původu v rozporu s § 39 odst. 13.
+>
+> (7) Za přestupek lze uložit pokutu
+>
+> - a) do 30 000 Kč, jde-li o přestupek podle odstavce 6,
+>
+> - b) do 50 000 Kč, jde-li o přestupek podle odstavce 5,
+>
+> - c) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo odstavce 2 písm. b),
+>
+> - d) do 500 000 Kč, jde-li o přestupek podle odstavce 4,
+>
+> - e) do 2 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a),
+>
+> - f) do 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo odstavce 3, nebo
+>
+> - g) do 25 000 000 Kč, jde-li o přestupek podle odstavce 3 a způsobí-li pachatel únik zvlášť nebezpečných závadných látek nebo nebezpečných závadných látek, s výjimkou nebezpečných závadných látek podle části II bodů 3 a 10 přílohy č. 1 k tomuto zákonu, do vod podzemních nebo povrchových.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 2, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=07a200984ac6618745e1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=931bb611a06734005d47 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125h — Porušení povinností při haváriích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako původce havárie dopustí přestupku tím, že
+>
+> - a) způsobí havárii podle [[#§ 40|§ 40]], nejde-li o havárii způsobenou únikem provozních kapalin po dopravní nehodě na pozemní komunikaci nebo havárii způsobenou porušením povinnosti, na které tento nebo jiný zákon stanoví přísnější správní trest,
+>
+> - b) neohlásí neprodleně havárii podle § 41 odst. 1,
+>
+> - c) neučiní bezprostřední opatření ke zneškodňování havárie nebo se při zneškodňování havárie neřídí schváleným havarijním plánem nebo pokyny vodoprávního úřadu nebo Hasičského záchranného sboru České republiky podle § 41 odst. 2, nebo
+>
+> - d) nevyhoví výzvě ke spolupráci při provádění opatření ke zneškodňování havárie podle § 41 odst. 8.
+>
+> (2) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) neohlásí neprodleně havárii, kterou zjistila podle § 41 odst. 1,
+>
+> - b) neposkytne vyžádané údaje o havárii podle § 41 odst. 9, nebo
+>
+> - c) jako osoba, které bylo uloženo opatření k nápravě, neuvede pozemek nebo stavbu, kterou bylo nutno použít při odstraňování závadného stavu, do předchozího stavu podle § 42 odst. 8.
+>
+> (3) Za přestupek lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle odstavce 2 písm. b),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) nebo odstavce 2 písm. a) nebo c),
+>
+> - c) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - d) do 2 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), nebo
+>
+> - e) do 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40, § 41, § 42
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=931bb611a06734005d47 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f63c44a198e7a91d410c generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125i — Porušení povinností správce vodního toku a správce povodí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako správce drobného vodního toku dopustí přestupku tím, že
+>
+> - a) nesplní některou z povinností podle § 47 odst. 2,
+>
+> - b) nezajistí povodňové zabezpečovací práce podle § 75 odst. 3, nebo
+>
+> - c) nesplní povinnost v ochraně před povodněmi podle [[#§ 83|§ 83]].
+>
+> (2) Právnická osoba se jako správce významného vodního toku dopustí přestupku tím, že
+>
+> - a) nesplní některou z povinností podle § 47 odst. 2,
+>
+> - b) nezajistí povodňové zabezpečovací práce podle § 75 odst. 3, nebo
+>
+> - c) nesplní povinnost v ochraně před povodněmi podle [[#§ 83|§ 83]].
+>
+> (3) Právnická osoba se jako správce povodí dopustí přestupku tím, že nesplní povinnost v ochraně před povodněmi podle [[#§ 82|§ 82]].
+>
+> (4) Za přestupek lze uložit pokutu
+>
+> - a) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 2 písm. a),
+>
+> - c) do 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), nebo
+>
+> - d) do 500 000 Kč, jde-li o přestupek podle odstavce 2 písm. b), c) nebo odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47, § 75, § 83, § 82
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f63c44a198e7a91d410c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b70450c6c8320cc81c7a generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125k — Porušení povinností poplatníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Právnická osoba nebo podnikající fyzická osoba se jako poplatník dopustí přestupku tím, že prostřednictvím oprávněné laboratoře neodebírá vzorky odpadních vod nebo nesleduje koncentraci znečištění v nich v příslušných ukazatelích podle přílohy č. 2 části B, nezjišťuje průměrnou koncentraci jednotlivého znečištění nebo neměří objem odpadních vod vypouštěných ze zdroje znečištění podle § 89n odst. 2.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 100 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 89n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b70450c6c8320cc81c7a -->
 
 ### § 125l — Společná ustanovení k přestupkům
 
@@ -2805,6 +7553,62 @@ Toto rozdělení 50/50 vytváří motivaci pro **obce** kontrolovat a hlásit p�
 **Typicky rozhodné důkazy / podklady:** doklady o nákladech a rozsahu faktických opatření, dokumentace odstranění následků, předchozí pravomocné rozhodnutí o pokutě (recidiva), podklady ke kritériím odst. 3.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=77bf76094986379c5ff9 generator=2026-07-17.4 source_sha256=12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50 -->
+#### Revizní doplnění k § 125l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/254-2001 Zákon o vodách a o změně některých zákonů (vodní zákon).md`; identifikátor verze: `SB-2001-00254_2025-08-19`; SHA-256: `12a107b182733d34c981bc7868b62dba7bb37982f4d1e1b69b398c5ab7e44d50`.
+
+##### Znění ustanovení
+
+> (1) Česká inspekce životního prostředí nebo vodoprávní úřad může upustit od uložení správního trestu také tehdy, jestliže pachatel přestupku přijme faktická opatření k odstranění následků porušení povinnosti, jakož i opatření zamezující dalšímu ohrožování nebo znečišťování podzemních nebo povrchových vod, a uložení správního trestu by vzhledem k nákladům na učiněná opatření vedlo k nepřiměřené tvrdosti.
+>
+> (2) Sazba pokuty za přestupek podle tohoto zákona se zvyšuje na dvojnásobek, nejvýše však na částku 20 000 000 Kč, jestliže je týž přestupek spáchán opakovaně; to se nepoužije pro přestupek podle § 125a odst. 1 písm. m), § 125a odst. 2 písm. g) bodu 2, § 125c odst. 5 písm. e) nebo § 125g odst. 7 písm. g). Přestupek je spáchán opakovaně, pokud ode dne, kdy rozhodnutí o uložení pokuty za týž přestupek nabylo právní moci, neuplynul 1 rok.
+>
+> (3) Při stanovení výše pokuty za přestupek spáchaný vypouštěním odpadních vod bez povolení k nakládání s vodami nebo v rozporu s ním, přihlédne orgán ukládající pokutu zejména k míře překročení podmínek povolení k vypouštění těchto vod, k míře ovlivnění jakosti povrchových nebo podzemních vod a jejímu lokálnímu rozsahu, ke stupni ochrany dotčeného území a k příčině nedovoleného vypouštění vod.
+>
+> (4) Správní přestupky podle § 117 odst. 2 a § 125b odst. 1 písm. d) a e) projednává Státní plavební správa. Ostatní přestupky podle tohoto zákona projednává v rozsahu své působnosti vodoprávní úřad nebo Česká inspekce životního prostředí. Pokutu za přestupek podle § 117 odst. 2 písm. b) může příkazem na místě uložit Státní plavební správa a orgán Policie České republiky. Přestupek projedná ten z příslušných správních orgánů, který dříve zahájil řízení, nebo bylo-li řízení zahájeno v týž den, tak vodoprávní úřad nebo Státní plavební správa.
+>
+> (5) Za porušení povinností stanovených stavebními předpisy a týkajících se vodních děl ukládají v rozsahu své působnosti stavební úřady pokuty podle zvláštního zákona.
+>
+> (6) Pokuty uložené Českou inspekcí životního prostředí obcím a Státní plavební správou jsou příjmem Státního fondu životního prostředí. Ostatní pokuty uložené Českou inspekcí životního prostředí jsou z 50 % příjmem rozpočtu obce, v jejímž územním obvodu byl přestupek spáchán, a z 50 % příjmem Státního fondu životního prostředí České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 125a, § 125c, § 125g, § 117, § 125b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77bf76094986379c5ff9 -->
 
 ## Hlava XVI — Společná a přechodná ustanovení (§§ 126–127)
 
